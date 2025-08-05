@@ -1,0 +1,6 @@
+flask>=2.0.0
+python-dotenv
+openai
+langchain
+pandas
+gunicorn
