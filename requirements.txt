@@ -3,4 +3,5 @@ python-dotenv
 openai
 langchain
 pandas
+psutil
 gunicorn
