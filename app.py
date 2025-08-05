@@ -45,7 +45,7 @@ EXCEL_FILE = "/tmp/api_costs.xlsx"  # Folosim /tmp pentru compatibilitate cu Ren
 # Prețuri pe token
 INPUT_COST_PER_TOKEN = 5e-6
 OUTPUT_COST_PER_TOKEN = 15e-6
-
+retrieval_k = int(os.environ.get("RETRIEVAL_K", 10))  # Folosește 10 dacă nu e setat
 @app.before_request
 def init_session():
     if 'session_id' not in session:
@@ -215,4 +215,5 @@ if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))
 
     app.run(host='0.0.0.0', port=port)
+
 
