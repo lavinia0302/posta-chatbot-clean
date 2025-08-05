@@ -191,7 +191,15 @@ def chat():
     except Exception as e:
         logger.error(f"Eroare: {str(e)}")
         return jsonify({"error": "Eroare la procesare"}), 500
-
+        @app.route('/metrics')
+def metrics():
+    return jsonify({
+        "memory_usage": psutil.virtual_memory().percent,
+        "cpu_usage": psutil.cpu_percent()
+    })
+@app.route('/health')
+def health_check():
+    return jsonify({"status": "healthy"}), 200
 @app.route('/save_costs', methods=['POST'])
 def save_costs():
     try:
@@ -202,4 +210,5 @@ def save_costs():
 
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))
+
     app.run(host='0.0.0.0', port=port)
