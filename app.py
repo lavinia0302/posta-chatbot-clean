@@ -16,7 +16,10 @@ from langchain.prompts import PromptTemplate
 from langchain.chains.combine_documents.stuff import StuffDocumentsChain
 from langchain.chains.llm import LLMChain
 from langchain.callbacks import get_openai_callback
+import os
 
+openai_key = os.environ["OPENAI_API_KEY"]  # Nu hardcoda niciodată cheia aici!
+flask_secret = os.environ["FLASK_SECRET_KEY"]
 # Configurare logging
 logging.basicConfig(
     level=logging.INFO,
@@ -212,3 +215,4 @@ if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))
 
     app.run(host='0.0.0.0', port=port)
+
