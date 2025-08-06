@@ -8,47 +8,32 @@ function App() {
   const [loading, setLoading] = useState(false);
   const chatEndRef = useRef(null);
 
-  // Setează un session_id unic dacă nu există deja
+  // Initialize session and load history
   useEffect(() => {
     if (!localStorage.getItem('session_id')) {
       localStorage.setItem('session_id', crypto.randomUUID());
     }
-  }, []);
-
-  // Încărcare istoric din localStorage
-  useEffect(() => {
+    
     const savedHistory = localStorage.getItem('posta_chat_history');
     if (savedHistory) {
       try {
         setMessages(JSON.parse(savedHistory));
       } catch (e) {
-        console.error("Eroare la încărcarea istoricului:", e);
+        console.error("Error loading history:", e);
       }
     }
   }, []);
 
-  // Salvarea istoricului
+  // Save history and auto-scroll
   useEffect(() => {
     if (messages.length > 0) {
       localStorage.setItem('posta_chat_history', JSON.stringify(messages));
     }
-  }, [messages]);
-
-  // Scroll automat la mesaje noi
-  useEffect(() => {
     scrollToBottom();
   }, [messages]);
 
   const scrollToBottom = () => {
     chatEndRef.current?.scrollIntoView({ behavior: 'smooth' });
-  };
-
-  const cleanText = (text) => {
-    if (!text) return '';
-    return text
-      .replace(/(\[[^\]]+\]\([^)]+\))(\([^)]+\))/g, '$1')
-      .replace(/\[(https?:\/\/[^\]]+)\]\(https?:\/\/[^)]+\)/g, '$1')
-      .replace(/(https?:\/\/[^\s]+)\)\(https?:\/\/[^\s]+\)/g, '$1');
   };
 
   const handleSend = async () => {
@@ -68,35 +53,38 @@ function App() {
     try {
       const response = await fetch('http://localhost:5000/chat', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 
+          'Content-Type': 'application/json',
+          'Accept': 'application/json'
+        },
         body: JSON.stringify({
           question,
-          session_id: localStorage.getItem('session_id')  // trimite ID-ul sesiunii
+          session_id: localStorage.getItem('session_id')
         })
       });
 
-      if (!response.ok) throw new Error('Eroare server');
+      if (!response.ok) {
+        throw new Error(`Server error: ${response.status}`);
+      }
 
       const data = await response.json();
-      const cleanedAnswer = cleanText(data.answer);
-
+      
       const botMessage = {
         id: Date.now() + 1,
         role: 'bot',
-        text: cleanedAnswer,
+        text: data.answer,
         timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
       };
 
       setMessages(prev => [...prev, botMessage]);
     } catch (error) {
-      const errorMessage = {
+      console.error('API Error:', error);
+      setMessages(prev => [...prev, {
         id: Date.now() + 1,
         role: 'bot',
-        text: '⚠️ Eroare la conectare cu serverul. Vă rugăm încercați mai târziu.',
+        text: '⚠️ Eroare la comunicare cu serverul. Încercați din nou.',
         timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
-      };
-      setMessages(prev => [...prev, errorMessage]);
-      console.error('Eroare API:', error);
+      }]);
     } finally {
       setLoading(false);
     }
@@ -110,38 +98,16 @@ function App() {
 
   const formatText = (text) => {
     if (!text) return null;
-
-    return text.split('\n').map((paragraph, i) => {
-      if (paragraph.includes("Nu am găsit un răspuns clar")) {
-        return (
-          <div key={i} className="not-found">
-            <p>{paragraph}</p>
-            <div className="suggestions">
-              <p>Puteți găsi informația:</p>
-              <ul>
-                <li>Pe <a href="https://www.posta-romana.ro" target="_blank" rel="noopener noreferrer">site-ul oficial</a></li>
-                <li>Prin apel la <strong>021 9393</strong></li>
-                <li>La orice <strong>oficiu poștal</strong></li>
-              </ul>
-            </div>
-          </div>
-        );
-      }
-
-      const html = paragraph
-        .replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>')
-        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-        .replace(/\n•/g, '<br/>•');
-
-      return <p key={i} dangerouslySetInnerHTML={{ __html: html }} />;
-    });
+    return text.split('\n').map((paragraph, i) => (
+      <p key={i}>{paragraph}</p>
+    ));
   };
 
   const commonQuestions = [
-    { text: "Care sunt orele de funcționare?", details: "program oficiu poștal" },
-    { text: "Cum trimit un colet urgent?", details: "tarife și timpi de livrare" },
-    { text: "Ce documente sunt necesare pentru un plic recomandat?", details: "acte de identitate necesare" },
-    { text: "Cum pot urmări un colet?", details: "folosind numărul de tracking" }
+    "Care sunt orele de funcționare?",
+    "Cum trimit un colet urgent?",
+    "Ce documente sunt necesare pentru un plic recomandat?",
+    "Cum pot urmări un colet?"
   ];
 
   const resetConversation = () => {
@@ -174,10 +140,9 @@ function App() {
                   <button
                     key={i}
                     className="question-chip"
-                    onClick={() => setQuestion(q.text)}
+                    onClick={() => setQuestion(q)}
                   >
-                    <div className="question-text">{q.text}</div>
-                    <div className="question-details">{q.details}</div>
+                    {q}
                   </button>
                 ))}
               </div>
@@ -185,14 +150,17 @@ function App() {
           </div>
         ) : (
           <div className="messages-list">
-            <h4 className="continue-label">Puteți continua conversația în același fir 🧠</h4>
             {messages.map((msg) => (
               <div key={msg.id} className={`message ${msg.role}`}>
                 <div className="message-header">
-                  <span className="sender">{msg.role === 'bot' ? 'PoștaBot' : 'Dvs.'}</span>
+                  <span className="sender">
+                    {msg.role === 'bot' ? 'PoștaBot' : 'Dvs.'}
+                  </span>
                   <span className="timestamp">{msg.timestamp}</span>
                 </div>
-                <div className="message-content">{formatText(msg.text)}</div>
+                <div className="message-content">
+                  {formatText(msg.text)}
+                </div>
               </div>
             ))}
             <div ref={chatEndRef} />
@@ -209,8 +177,11 @@ function App() {
           onKeyDown={handleKeyDown}
           disabled={loading}
         />
-        <button onClick={handleSend} disabled={loading || !question.trim()}>
-          {loading ? <span className="loading-spinner"></span> : 'Trimite'}
+        <button 
+          onClick={handleSend} 
+          disabled={loading || !question.trim()}
+        >
+          {loading ? 'Se încarcă...' : 'Trimite'}
         </button>
       </footer>
     </div>
