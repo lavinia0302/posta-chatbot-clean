@@ -1,0 +1,415 @@
+Servicii expeditori > Pachet mic internațional intracomunitar prioritar
+
+Pachetul mic reprezintă trimiterea poștală internă și internațională ce conține bunuri cu sau fără valoare comercială la care se pot atașa orice documente care au caracter de corespondență, în greutate de până la 2 kg, inclusiv, și care urmează fluxul tehnologic utilizat pentru trimiterile de corespondență, astfel cum prevăd Convenția Poștală Universală și Regulamentul poștei de scrisori.
+
+Formatul, dimensiunile și greutatea pentru pachet mic internațional intracomunitar prioritar
+
+Dimensiuni minime: 90x140 mm, cu o toleranță de 2 mm;
+
+Dimensiuni maxime:
+
+Pachete paralelipipedice: lungimea, lățimea și grosimea însumate: 900 mm, fără ca dimensiunea cea mai mare să depășească 600 mm, cu o toleranță de 2 mm;
+
+Rulouri: lungimea plus de 2 ori diametrul: 1040 mm, fără ca dimensiunea cea mai mare să depășească 900 mm, cu o toleranță de 2 mm.
+
+Greutate maximă: 2 kg.
+
+Limitele valorice ale valorii asigurate
+
+limita minimă: 30 DST;
+limita maximă: 4.000 DST.
+
+Servicii suplimentare pentru pachet mic internațional intracomunitar prioritar
+
+
+Recomandat (R)
+Serviciul ale cărui particularităţi constau în oferirea unei garanţii forfetare împotriva riscurilor de pierdere, furt, distrugere totală sau parţială ori deteriorare a trimiterii poştale şi în eliberarea, la cerere, a unei dovezi privind depunerea la punctul de acces sau livrarea la destinatar.
+La prezentare se acordă număr de înregistrare şi se încasează tarif suplimentar (fix) pentru fiecare trimitere.
+Trimiterile internaţionale se înregistrează, fiind monitorizate în sistem Track&Trace.
+
+Post-Restant (P.R.)
+Se admite pentru trimiterile poştale adresate în localităţi unde există subunităţi poştale (oficii poştale, ghişee exterioare).
+Se încasează tarif suplimentar, pentru fiecare trimitere, la prezentare. Pentru trimiterile de corespondenţă depuse la cutia poştală, tariful de Post-Restant se poate încasa şi la livrare.
+Nu se admite cu serviciul predare “în mână proprie” (personal).
+Trimiterea nu se avizează.
+Trimiterea poştală se eliberează destinatarului numai după legitimare şi pe bază de semnătură.
+
+Valoare declarată (V.)
+Serviciul a cărui particularitate constă în asigurarea unei trimiteri poştale împotriva pierderii, furtului, distrugerii totale sau parţiale ori deteriorării, pentru o sumă egală cu valoarea declarată de expeditor.
+Se încasează tarif suplimentar pentru fiecare trimitere în funcţie de valoarea declarată, calculată procentual (procent din valoare).
+Pentru trimiterile internaţionale valoarea minimă declarată este de 30 DTS, iar valoarea maximă declarată este de 4000 DTS. Valoarea declarată pentru trimiterile internaţionale se stabileşte la cursul valutar din data prezentării trimiterii.
+Expeditorul este responsabil asupra cuantumului valorii declarate care nu poate depăşi valoarea reală a conţinutului.
+Pe ambalaj, în colţul stâng, sub adresa expeditorului, se înscrie litera „V” urmată de valoarea în lei (pentru trimiteri interne) şi valoarea în lei şi valoarea convertită în DTS (pentru trimiteri internaţionale), exprimată în cifre.
+Trimiterile internaţionale cu valoare declarată, circulă înregistrate de la prezentare până la destinaţie, fiind monitorizate în sistem Track&Trace.
+
+Timpii de livrare pentru pachet mic internațional intracomunitar prioritar
+
+serviciul prioritar internațional: conform acordurilor internaționale pentru trimiterile internaționale prioritare.
+
+Precizări privind timpii de livrare:
+- Z reprezintă ziua depunerii trimiterii poștale la punctul de acces, cu respectarea orei limite de acceptare;
+- Timpul de livrare se calculează până la prima tentativă de livrare și nu include:
+
+    timpul de păstrare la dispoziția destinatarului, în cazul trimiterilor avizate;
+
+Sisteme de francare pentru pachet mic internațional intracomunitar prioritar
+
+
+Sistemele de francare utilizate:
+
+    Timbre poștale, pentru trimiterile din serviciile incluse în sfera serviciului universal, respectiv:
+         - Pachet mic internațional (intracomunitar/extracomunitar) prioritar din serviciul standard;
+           - Pachet mic internațional (intracomunitar/extracomunitar) prioritar din serviciul de recomandat.
+ 
+
+    Sistem TP, pentru toate trimiterile pachet mic, cu excepția celor din serviciul valoare declarată sau cu asigurarea valorii.
+ 
+    Mașina de francat, pentru toate trimiterile pachet mic, cu excepția celor cu valoare declarată/asigurarea valorii.
+ 
+    Eticheta autocolantă, pentru trimiterile cu valoare declarată/asigurarea valorii.
+
+Marcarea trimiterilor
+„PETIT PAQUET”, pentru trimiterile internaționale pachet mic.
+
+Descrierea conținutului trimiterii
+Se asigură de către client, pe partea adresei, în unghiul inferior stâng sub mențiunea aferentă tipului de trimitere, prin completarea unei etichete specifice, în cazul trimiterilor intracomunitare conținutul se descrie în detaliu, inclusiv cantitativ (număr bucăți), fără a fi înscrise greutatea și valoarea aferentă fiecărui bun; conținutul se totalizează valoric.
+
+Puncte de acces pentru pachet mic internațional intracomunitar prioritar
+
+Trimiterile pachet mic se depun numai la sediul subunităților poștale, cu mențiunea ca cele pentru care sunt utilizate sistemele de francare TP sau mașina de francat se prezintă numai la subunități poștale specializate.
+
+În ce țară pot trimite pachet mic prioritar? Aici se află lista: https://www.posta-romana.ro/cnpr-data/_editor/files/LIMITE%20VALORI%20DECLARATE%20CORESP.%2C%20IMPRIMAT%20si%20PACHET%20MIC%20INTERNATIONAL%20PRIORITAR%2022%20IANUARIE%202025.pdf
+
+Israel - Lista coduri postale pentru care livrarea se realizează centralizat
+
+Tabel: Informații despre localități și oficiile poștale
+Localitate	Cod Poștal	Zona	Poștă îndrumată la o nouă locație
+Kiryat Shmona	1150203	Nord	Nu
+Ghajar	1242600	Nord	Nu
+Shlomi	2283200	Nord	Nu
+Metula	1029200	Nord	Da
+Misgav Am	1150500	Nord	Da
+Margaliyyot	1216000	Nord	Da
+Manara	1214000	Nord	Da
+Kfar Giladi	1221000	Nord	Da
+Yuval	1221500	Nord	Da
+Ma’ayan Baruch	1220500	Nord	Da
+HaGoshrim	1222500	Nord	Da
+Dafna	1223000	Nord	Da
+Sha’ar Yashuv	1224000	Nord	Da
+Dan	1224500	Nord	Da
+Beit Hillel	1225000	Nord	Da
+ABlonim	1230000	Nord	Da
+Ne’ot	1231500	Nord	Da
+Dishon	1385200	Nord	Da
+Ramot Naftali	1385500	Nord	Da
+Tal Yon	1383600	Nord	Da
+Yiftach	1384000	Nord	Da
+Malkia	1384500	Nord	Da
+Avivim	1385000	Nord	Da
+NIr’orn	1385300	Nord	Da
+Bar’am	1385600	Nord	Da
+Dovev	1385900	Nord	Da
+Sasa	1386000	Nord	Da
+Liman	2283000	Nord	Da
+Rosh HaNikra	2282500	Nord	Da
+Betzet	2282000	Nord	Da
+Matzuva	2283500	Nord	Da
+Ya’ara	2284000	Nord	Da
+Eilon	2284500	Nord	Da
+Goren	2282600	Nord	Da
+Shomera	2285500	Nord	Da
+Even Menahem	2286600	Nord	Da
+Shtula	2286500	Nord	Da
+Gornot HaGalil	2286800	Nord	Da
+Kfar Rosenwald (zar’it)	2286700	Nord	Da
+Admit	2287500	Nord	Da
+Al-Aramshe	2287501	Nord	Da
+Hanita	2285800	Nord	Da
+Karmia	7913500	Sud	Da
+Erez	7910500	Sud	Da
+Nir Am	7911650	Sud	Da
+Mefalsim	7919600	Sud	Da
+Tlahim	7911700	Sud	Da
+Ker’ Oz	8516200	Sud	Da
+Nirim	8512500	Sud	Da
+Ein HaShlosha	8512800	Sud	Da
+Kissufim	8513000	Sud	Da
+Re’im	8513200	Sud	Da
+Alumim	8513800	Sud	Da
+Kfar Aza	8514200	Sud	Da
+Nahal Oz	8514500	Sud	Da
+Nir Yitzchak	8544500	Sud	Da
+Sufa	8544507	Sud	Da
+Holit	8545000	Sud	Da
+Kerem Shalom	8546000	Sud	Da
+Magen	8546500	Sud	Da
+
+Destinații închise traficului poștal internațional 
+
+Belarus
+Federația Rusă
+Palestina
+Siria
+Somalia
+Yemen
+ 
+
+Doar pentru serviciul EMS:
+
+Cuba
+Chile
+
+Lista codurilor poștale unde se asigură parțial serviciile poștale în TURCIA este disponibilă pe acest link: https://www.posta-romana.ro/cnpr-data/_editor/files/Posta%20Romana%20-%20coduri%20postale%20Turcia%20cu%20probleme%20la%20deservire%20%2830.03.2023%29.pdf
+
+Lista codurilor poștale corespunzătoare unde Poșta Ucrainei poate asigura servicii poștale, poate fi consultată aici (https://offices.ukrposhta.ua/)
+De asemenea, listele cu codurile poștale și oficiile poștale în limba engleză, pot fi descărcate de aici (https://index.ukrposhta.ua/postcodes-and-offices)
+
+Lista codurilor poștale deservite de Ukrposhta actualizată la data de 30.03.2025 poate fi descărcată de aici (https://www.posta-romana.ro/cnpr-data/_editor/files/Available_codes%28Ukraine%29%202025.03.30.csv)
+
+Comisionare vamală persoane fizice la adresa https://www.posta-romana.ro/a1467/servicii-destinatari/comisionariat-vamal/comisionare-vamala-persoane-fizice-si-juridice/comisionare-vamala-persoane-fizice.html
+
+Comisionare vamală persoane juridice
+În calitate de persoană juridică aveţi posibilitatea de a alege C.N. Poşta Română S.A. Comisionar în Vamă autorizat sub nr. 626/2013 să vă reprezinte în mod direct în relația cu autoritatile vamale în vederea îndeplinirii formalităților vamale la import/export.
+
+Servicii oferite
+
+- servicii de asistență vamală, consultantă și reprezentare vamală;
+- întocmirea documentației pentru plasarea mărfurilor sub un regim vamal;
+- exportul mărfurilor de pe teritoriul vamal al comunității;
+- depozitare gratuită în magazia aflată sub supraveghere vamală până la obținerea liberului de vamă;
+- prezentarea mărfurilor la Autoritatea Vamală pentru control fizic.
+
+Ce trebuie să fac?
+
+Alegerea CNPR se face printr-o Împuternicire de reprezentare directă în relația cu Biroul Vamal de Interior Poştă. La sosirea unei trimiteri poştale extracomunitare cu valoare de peste 10 euro, veţi fi avizat de către C.N. Poşta Română S.A printr-un Aviz de Înştiinţare, în vederea efectuării formalităţilor vamale. În cazul în care ati optat pentru serviciile de comisionariat vamal oferite de C.N. Poşta Română S.A., declaranţii vamali vă vor contacta in vederea pregatirii documentatiei vamale la import.
+
+La prezentarea unei trimiteri poştale extracomunitare, Dvs. trebuie sa contactati in prealabil declarantii vamali ai C.N. Posta Romana in vederea pregatirii formalitatilor vamale la export.
+
+Pe cine contactez?
+
+E-mail: horia.coman@ro.post
+            serban.tanasescu@ro.post
+            marcela.ionascu@ro.post
+            customer.service@ro.post
+
+Telefon mobil: 0733 691 961; 0736 704 970; 0736 704 777; 0791 055 248
+Program: L - V, in intervalul orar 07:00 – 15:00
+
+Distribuirea trimiterii
+Distribuirea trimiterii cu liber de vamă se efectuează la adresa înscrisă de expeditor pe trimitere, în localităţile cuprinse în reţeaua de livrare prin autovehicule CNPR, în conformitate cu prevederile normelor de lucru interne sau la sediul subunității poștale de care aparţine adresa înscrisă de expeditor pe trimitere.
+
+Tarife
+Tarifele percepute pentru Persoane juridice și PFA (formalități vamale la import/export):
+
+22,00 lei (TVA inclus) - trimiteri import cu IOSS (TVA achitat la sursă) și trimiteri export cu valoare mai mică de 150 euro;
+40,00 lei (TVA inclus) - trimiteri import fără IOSS (TVA de achitat) cu valoare mai mică de 150 euro;
+115,00 lei (TVA inclus) – trimiteri import/export cu valoare mai mare de 150 euro, pentru întocmirea declarației vamale primare (cu un singur articol) și 15,00 lei/articol suplimentar (TVA inclus) pentru declarația vamală complementară.
+
+Alternativa utilizării serviciului de comisionariat vamal
+
+Prin utilizarea serviciului de comisionariat vamal prezenta dumneavoastra la o subunitate postala cu asistenta vamala nu este necesara. C.N. Posta Romana va va reprezenta in mod direct in relatia cu autoritatile vamale si va efectua formalitatile vamale in numele dumneavoastra la nivelul Biroului de Schimb International Bucuresti, pe langa Biroul Vamal de Interior Posta.
+
+In situatia in care optati sa nu utilizati serviciul de comisionariat vamal prestat de C.N. Posta Romana, singura alternativa este distribuirea/prezentarea trimiterilor poştale la nivelul subunităţilor poştale cu asistenţă vamală (https://www.posta-romana.ro/cnpr-data/_editor/files/Subunitati%20postale%20cu%20asistenta%20vamala%20120220(1).pdf). În acest caz, dvs., în calitate de destinatar/expeditor, vă revine integral responsabilitatea îndeplinirii formalităţilor vamale in prezenta functionarilor vamali care isi desfasoara activitatea la nivelul subunitatii postale respective.
+
+Informații suplimentare privind condiţiile generale în care CNPR prestează serviciul de Comisionariat Vamal pot fi vizualizat accesând documentul Comisionariat vamal info (https://www.posta-romana.ro/cnpr-data/_editor/files/Conditii%20Generale%20Comisionariat%20Vamal.pdf).
+
+Formulare necesare pentru comisionariatul vamal - persoane juridice
+Aviz de Înştiinţare - persoane juridice (https://www.posta-romana.ro/cnpr-data/_editor/files/Aviz%20de%20instiintare%20juridice%281%29.pdf)
+Declarație vamală - Curierat rapid (https://www.posta-romana.ro/cnpr-data/_editor/files/Declaratie%20vamala%20curierat%20rapid%285%29.pdf)
+Împuternicire pentru reprezentare - persoane juridice (https://www.posta-romana.ro/cnpr-data/_editor/files/Imputernicire%20Juridice%20rev.pdf)
+
+Tot ce trebuie  să știi despre comisionariatul vamal
+
+Informații despre Eticheta Galbenă (https://www.posta-romana.ro/cnpr-data/_editor/files/Eticheta%20galbena.pdf)
+
+Program subunităţi poştale cu asistenţă vamală (https://www.posta-romana.ro/cnpr-data/_editor/files/Lista%20subunit%C4%83%C8%9Bi%20cu%20asisten%C8%9B%C4%83%20vamal%C4%83%20-%2008_04_2025.pdf)
+
+Ţări pentru care se acceptă serviciul de corespondenţă prioritară (limite maxime ale valorii declarate) - https://www.posta-romana.ro/cnpr-data/_editor/files/LIMITE%20VALORI%20DECLARATE%20CORESP.%2C%20IMPRIMAT%20si%20PACHET%20MIC%20INTERNATIONAL%20PRIORITAR%2022%20IANUARIE%202025.pdf
+
+Program subunităţi poştale cu asistenţă vamală - https://www.posta-romana.ro/cnpr-data/_editor/files/Lista%20subunit%C4%83%C8%9Bi%20cu%20asisten%C8%9B%C4%83%20vamal%C4%83%20-%2008_04_2025.pdf
+
+Localităţile în care se asigură distribuirea la domiciliul/sediul clienţilor - https://www.posta-romana.ro/cnpr-data/_editor/files/2015-09/Lista%20localit%C4%83%C5%A3ilor%20%C3%AEn%20care%20se%20asigur%C4%83%20distribuirea%20coletelor%20po%C5%9Ftale%20intracomunitare%20prioritare%20import%20la%20domiciliu.sediul%20clien%C5%A3ilor(1).pdf
+
+Obiecte admise pe riscul expeditorilor
+
+Lista obiectelor admise la expediere pe riscul expeditorilor
+🧊 ALIMENTE ALTERABILE
+
+carne proaspătă
+
+preparate din carne
+
+pește proaspăt
+
+produse lactate
+
+fructe proaspete
+
+🪲 LIPITORI ȘI PARAZIȚI
+
+lipitori
+
+paraziți
+
+🐝 ALBINE
+
+albine vii
+
+⚠️ OBIECTE FRAGILE
+
+Obiecte fragile protejate necorespunzător, în interiorul ambalajului și care nu asigură integritatea în timpul manipulării
+(ex: aparate de precizie, aparate radio și televizor, becuri de iluminat, vase cu conținut lichid)
+
+NOTĂ:
+Salariații CNPR sunt scutiți de răspundere materială în cazul deteriorării acestor obiecte, dacă au asigurat preluarea în timpii de control stabiliți, iar manipularea s-a efectuat cu respectarea obligațiilor ce le revin privind indicațiile speciale cu care au fost admise la prezentare.
+
+Mărfuri periculoase interzise în trimiterile poștale internaționale
+Mărfurile periculoase indicate de:
+
+Recomandările Organizației Națiunilor Unite (ONU) privind transportul mărfurilor periculoase;
+
+Instrucțiunile tehnice ale Organizației Aviației Civile Internaționale (OACI);
+
+Regulamentele privind transportul mărfurilor periculoase ale Asociației de transport aerian internațional (IATA)
+sunt în general interzise la transportul pe cale poștală (suprafață, SAL, avion și EMS).
+
+🔺 MATERIALE EXPLOZIVE
+
+focuri de artificii
+
+petarde
+
+muniții
+
+praf de pușcă
+
+rachete de semnalizare
+
+rachete de avarie
+
+💨 GAZE COMPRIMATE
+
+încărcătoare/brichete butan
+
+butelii pentru scufundare
+
+spray-uri arzătoare pe gaz pentru camping
+
+butan (gaz)
+
+extinctor
+
+🔥 LICHIDE INFLAMABILE
+
+brichete cu benzină
+
+carburanți pentru brichete
+
+adezivi
+
+vopsele pe bază de ulei
+
+parfumuri inflamabile
+
+⚠️ SUBSTANȚE INFLAMABILE
+
+chibrituri
+
+cărbuni
+
+💣 MATERIALE DE CARBURARE
+
+produse chimice oxidante
+
+peroxizi
+
+cloroză de var
+
+☠️ MATERIALE TOXICE / INFECȚIOASE
+
+pesticide
+
+produse chimice agricole
+
+compuși de mercur
+
+bacterii, virusuri*
+(*cu excepția mărfurilor acceptabile specificate în dispozițiile Actelor Uniunii Poștale Universale – Protocol Final 2013)
+
+☢️ SUBSTANȚE RADIOACTIVE
+(*cu excepția celor menționate mai sus)
+
+🧪 MATERIALE COROZIVE
+
+baterii electrolițice
+
+mercur
+
+acid clorhidric
+
+🧷 DIVERSE MĂRFURI PERICULOASE
+
+mase magnetizate
+
+motoare
+
+dioxid de carbon solid (zăpadă carbonică)
+
+baterii cu litiu*
+
+🔫 ARME ȘI MUNIȚII
+Conform legislației în vigoare, CN Poșta Română SA nu acceptă la prezentare, transport și distribuire:
+
+arme de foc, chiar dacă sunt însoțite de documente legale
+
+arme și muniții de orice fel
+
+părți și accesorii ale acestora
+
+imitații/jucării de acest gen
+
+Lista obiectelor interzise la expediere
+🔺 DIFERITE OBIECTE
+Obiecte care prin natura lor sau prin modul cum sunt ambalate periclitează, la manipulare sau transport, viața sau sănătatea salariaților, distrug, degradează sau deteriorează instalațiile sau alte trimiteri poștale.
+
+🐄 DIFERITE ANIMALE
+Animale, păsări sau insecte vii, cu excepția albinelor vii, lipitorilor și paraziților care se acceptă la prezentare închise în cutii concepute în așa fel încât să evite orice pericol.
+
+💣 OBIECTE PERICULOASE
+Arme, materii explozibile, materii inflamabile, alte materiale periculoase.
+
+❌ OBIECTE OBSCENE
+Obiecte obscene sau imorale.
+
+☠️ OTRĂVURI
+
+cianură de potasiu
+
+sublimat coroziv
+
+arsenic
+
+săruri picrice
+
+⚗️ SUBSTANȚE CHIMICE
+
+acid sulfuric
+
+acid nitric
+
+sodă caustică
+
+sulfură de carbon
+
+hidrogen sulfurat
+
+💊 SUBSTANȚE STUPEFIANTE
+Morfina, cocaină, opium și orice alte stupefiante, cu excepția cazurilor când se prezintă autorizație specială eliberată de Ministerul Sănătății.
+
+💵 VALUTĂ
+Valută cu excepția cazurilor când este expediată de la și pentru unitățile Băncii Naționale, ale Ministerului Turismului sau Ministerului Economiei și Comerțului, precum și alte organe autorizate.
+
+🪙 MONEDE
+Monedă metalică sau de hârtie, cu excepția expedierilor făcute de unitățile CNPR, ale Băncii Naționale și ale Ministerului Finanțelor.
+ 

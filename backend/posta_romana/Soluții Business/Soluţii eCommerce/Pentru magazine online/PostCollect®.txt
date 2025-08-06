@@ -1,0 +1,70 @@
+Soluţii Business > PostCollect®
+
+PostCollect este soluția click&collect a Poştei Române dedicată magazinelor online medii si mari (cu peste 1000 de comenzi/luna), oferind clienţilor acestora o soluţie comodă şi fără stres de a intra în posesia comenzilor făcute. Destinatarul comenzilor îşi alege direct din site-ul magazinului online oficiul poştal unde vrea să primească coletul, se duce la ghişeul dedicat PostCollect şi îşi ridică produsul comandat. Programul de lucru este extins (seara şi în weekend), iar clienţii PostCollect au prioritate, deci nu vor aştepta şi vor evita sincronizarea cu curierul.
+
+Avantaje si beneficii PostCollect:
+
+- acoperire națională
+
+- livrare rapidă: Z+1 sau Z+2
+
+- gestionare electronică a expedițiilor
+- costuri minime
+
+- posibilitatea integrării unei platforme e-commerce customizată sau open source (prin extensii de conectare la platformele Magento, OpenCart, PrestaShop)
+
+- acces prin API la o bază de date dinamică pentru alegerea oficiului poștal unde clienţii tăi doresc să le fie livrată comanda
+
+Descrierea serviciului PostCollect®
+Număr minim de colete expediate: 1000 colete/lună
+
+Timpi de circulație: În funcție de ora limită de preluare a coletelor stabilită cu beneficiarul, dar nu mai puțin de Z+1.
+
+Caracteristici operaționale PostCollect
+Produsul este dedicat magazinelor online și agenților economici care au de expediat un număr ridicat de trimiteri poștale cu/fără ramburs, fiind disponibil numai pe bază contractuală.
+
+Clasa de servicii: Livrare specială.
+
+Conținut: Prin trimiterile PostCollect pot fi expediate bunuri cu sau fară valoare comercială.
+
+Condiții de dimensiuni și greutate:
+
+a. dimensiuni minime: 150 x 210 mm, cu o toleranță de 2 mm;
+
+b. dimensiuni maxime: 2 m pentru una dintre dimensiuni sau 3 m pentru suma lungimii și a celui mai mare perimetru luat în alt sens decât cel al lungimii;
+
+c. greutate maximă la prezentare: 31,5 kg.
+
+Ambalare: Produsul poate fi personalizat conform negocierilor cu beneficiarii contractelor.
+
+Caracteristici logistice PostCollect®
+Amenajarea unui ghișeu dedicat livrărilor acestor trimiteri poștale și semnalizarea corespunzătoare, în scopul diminuării timpului de asteptare în vederea ridicării comenzii;
+ 
+Asigurarea personalului necesar la nivelul oficiilor poștale desemnate astfel încât să se asigure un timp maxim de așteptare la ghișeu de cca 5 minute (incluzând operațiunea de verificare a conținutului la livrare de către client);
+ 
+Programul de lucru al oficiilor poștale desemnate poate fi prelungit dacă veniturile obținute justifică acest lucru.
+
+Beneficiile clientului la  PostCollect®
+Integrarea aplicației POST COLLECT pe site-ul propriu al magazinului online;
+
+Timpi de livrare reduși;
+
+Ghișeu dedicat în oficiile poștale, cu ore de funcționare extinse și în weekend, în condițiile în care veniturile justifică o astfel de măsură;
+
+Posibilitatea verificării conținutului trimiterii de către clientul beneficiarului, momentul livrării;
+
+Posibilitatea furnizării unor informații privind statusul expedițiilor în condițiile în care o expediție este definită ca fiind o livrare a uneia sau mai multor trimiteri PostCollect către același destinatar în baza unei comenzi unice pe site-ul magazinului online.
+
+ Servicii suplimentare PostCollect®
+
+Servicii cu valoare adăugată: Verificare conținut la livrare.
+
+În momentul livrării, clientului i se oferă posibilitatea deschiderii trimiterii în vederea verificării conținutului. Operațiunea constă în verificarea fizică a conținutului trimiterii (dacă produsele comandate se prezintă în stare perfectă la livrare, respectiv nu prezintă semne de lovire, zgârieturi sau alte probleme de tip estetic), durata acesteia fiind stabilită în funcție de cerințele beneficiarului de contract și activității de normare. Operațiiunea se execută de către destinatar în prezența salariatului poștal.
+
+Monitorizare Track&Trace
+Trimiterile sunt monitorizate în sistem Track&Trace pe tot fluxul tehnologic, de la prezentare și până la livrare. În acest sens, în aplicația Track&Trace a fost alocat un nou cod de trimitere cu indicativul „CC”.
+
+Returnarea comenzilor prin PostCollect® 
+ 
+Furnizare status online: Se asigură furnizarea statusului online al trimiterilor/expedițiilor prin intermediul aplicației web service. În cazul trimiterilor care formează o expediție, identificarea acestora se face atât în baza numărului de prezentare (unic pentru fiecare trimitere), cât și în baza numărului de ordine al acesteia în cadrul comenzii.
+ 

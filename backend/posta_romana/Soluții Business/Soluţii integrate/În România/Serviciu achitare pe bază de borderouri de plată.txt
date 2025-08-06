@@ -1,0 +1,15 @@
+Soluţii Business > Serviciu achitare pe bază de borderouri de plată
+
+Este un serviciu dedicat clienţilor care la o expediţie prezintă un volum de minimum 1.000 de bucăţi, fiind disponibil pe bază de contract.
+
+Borderourile de plată trebuie generate pe subunităţi poştale de achitare sau pe sectoare de distribuire, în funcţie de fiecare caz în particular:
+
+în cazul în care achitarea se efectuează la ghişeu,
+în cazul în care achitarea se efectuează la domiciliul clientului
+La sfârşitul perioadei de achitare, partenerului de contract se remite un exemplar al borderoului de plată.
+
+Detalii suplimentare legate de oferta comercială şi condiţiile tehnice pot fi obţinute de la reprezentanţii de vânzări (email: cnpr.vanzari@ro.post)
+
+Caracteristici Serviciu achitare pe bază de borderouri de plată
+
+Este o solutie creata pentru clientii business, prin care se ofera posibilitatea achitarii unor sume de bani destinatarilor, in baza semnaturii pe un borderou de plata.

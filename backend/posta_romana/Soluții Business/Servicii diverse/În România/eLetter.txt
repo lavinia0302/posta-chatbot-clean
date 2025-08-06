@@ -1,0 +1,32 @@
+Soluţii Business > eLetter
+
+eLetter - serviciul prin intermediul căruia se realizează transmiterea corespondenței în format electronic prin intermediul unei platforme electronice, fără a fi necesară deplasarea la o subunitate poștală. Trimiterea este livrată destinatarului în format fizic, la una din adresele poștale: adresa de domiciuliu/sediu, adresa Post Restant sau adresa de căsuță poștală. Serviciul eLetter este oferit pe bază de contract, fără limită de volum lunar.
+
+ Caracteristici eLetter
+este oferit pe bază de contract, fără limită de volum lunar;
+este o trimitere înregistrată la care poate fi asociat unul din următoarele servicii suplimentare:
+confirmare poștală de primire - AR;
+confirmare electronică de predare - EC, livrabilă exclusiv la o adresă electronică.
+rapoarte, disponibile atât la nivelul beneficiarului cât și la nivelul CN Poșta Română.
+
+Fluxul de realizare
+- înregistrarea și transmiterea electronică a unei corespondențe/mesaj, între platforma electronică de acces pusă la dispoziția utilizatorului și o subunitate poștală informatizată a Poștei Române, care efectuează operațiunea de recepție a acestuia, utilizatorul având obligația înregistrării informațiilor de identificare a trimiterii;
+
+- fiecărui mesaj transmis, îi este atribuit un număr de înregistrare;
+
+- subunitatea poștală recepționează și listează mesajul și îl introduce într-un plic special;
+
+- livrarea trimiterii eLetter se realizează după regulile reglementate pentru trimiterile de corespondență înregistrate, pe baza de semnatură în lista de distribuire;
+
+- după livrarea trimiterilor, subunitatea poștală transmite AR-urile sau EC-urile pentru trimiterile cu aceste servicii suplimentare;
+
+Termen de livrare eLetter
+Termenul de livrare este de maxim 1 zi lucrătoare pentru trimiterile cu livrare în mediul urban și maxim 2 zile lucrătoare pentru cele adresate în mediul rural, cu condiția respectării orei limite de prezentare (ora 13:00); în caz contrar timpul de livrare se prelungește cu o zi lucrătoare.
+
+Termen de păstrare eLetter
+Termenul de păstrare la dispoziția destinatarului este de 10 zile calendaristice, timpul în care se efectuează o avizare și o reavizare după regulile de executare a serviciului de corespondență.
+
+Tarife  eLetter
+Tariful pentru serviciul eLetter - 7,80 Lei (TVA inclus)
+Tarifele pentru serviciile suplimentare asociate:
+       - confirmare poștală de primire (AR) - 3,30 Lei (TVA inclus);

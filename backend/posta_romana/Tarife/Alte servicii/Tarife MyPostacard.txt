@@ -1,0 +1,13 @@
+Tarife MyPostacard
+
+ MyPostacard BASIC
+
+MyPostacard STANDARD
+Expediere internă: Costul pentru distribuire este de 5.00 lei (fără TVA), iar procesarea costă 2.60 lei (TVA inclus), ceea ce duce la un total de 7.60 lei.
+
+Expediere internațională: Costul pentru distribuire este de 20.00 lei (fără TVA), la care se adaugă 2.60 lei pentru procesare (TVA inclus), rezultând un total de 22.60 lei.
+
+MyPostacard PREMIUM
+Expediere internă: Distribuirea costă 6.50 lei (fără TVA), la care se adaugă un cost de 3.00 lei pentru trimiterea recomandată (fără TVA) și 3.00 lei pentru procesare (TVA inclus), suma totală fiind de 12.50 lei.
+
+Expediere internațională: Distribuirea costă 20.00 lei (fără TVA), trimiterea recomandată implică un cost suplimentar de 14.00 lei (fără TVA), iar procesarea este 3.00 lei (TVA inclus), rezultând un total de 37.00 lei.

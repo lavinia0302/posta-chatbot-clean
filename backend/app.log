@@ -1,0 +1,1024 @@
+2025-08-04 11:24:42,693 - INFO - Încărcare vectorstore...
+2025-08-04 11:24:46,614 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 11:24:51,366 - INFO - Loading faiss with AVX2 support.
+2025-08-04 11:24:51,386 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 11:24:51,394 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 11:24:51,429 - INFO - Vectorstore încărcat în 8.74 secunde
+2025-08-04 11:24:51,666 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-04 11:24:51,666 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 11:24:51,672 - INFO -  * Restarting with stat
+2025-08-04 11:24:52,738 - INFO - Încărcare vectorstore...
+2025-08-04 11:24:56,526 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 11:25:01,486 - INFO - Loading faiss with AVX2 support.
+2025-08-04 11:25:01,503 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 11:25:01,512 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 11:25:01,533 - INFO - Vectorstore încărcat în 8.79 secunde
+2025-08-04 11:25:01,720 - WARNING -  * Debugger is active!
+2025-08-04 11:25:01,720 - INFO -  * Debugger PIN: 636-956-771
+2025-08-04 11:34:45,043 - INFO - 127.0.0.1 - - [04/Aug/2025 11:34:45] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 11:34:46,384 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 11:34:46,394 - INFO - 
+[ORIGINAL]: Care sunt orele de funcționare?
+[REFORMULAT]: "Care este programul de funcționare al oficiilor Poștei Române?"
+2025-08-04 11:34:46,462 - INFO - 
+📚 Documente relevante (5):
+2025-08-04 11:34:46,462 - INFO - 🔹 DOC 1 (Score: N/A):
+2025-08-04 11:34:46,462 - INFO -    Sursa: Ghid Track&Trace.txt
+2025-08-04 11:34:46,462 - INFO -    Conținut: 15. Dece în judeţul de care aparţin nu există decât un singur oficiu cu asistenţă vamală? De ce nu deschideţi mai
+multe oficii cu asistenţă vamală?
+
+16. Statusul trimiterii poştale pe care urmează să ...
+2025-08-04 11:34:46,462 - INFO - 🔹 DOC 2 (Score: N/A):
+2025-08-04 11:34:46,462 - INFO -    Sursa: Servicii publicitate  Infadres - ma.txt
+2025-08-04 11:34:46,462 - INFO -    Conținut: Program subunităţi poştale cu asistenţă vamală găsești pe site-ul oficial al Companiei Naționale Poșta Română...
+2025-08-04 11:34:46,462 - INFO - 🔹 DOC 3 (Score: N/A):
+2025-08-04 11:34:46,462 - INFO -    Sursa: Comisionare vamală persoane juridice.txt
+2025-08-04 11:34:46,462 - INFO -    Conținut: Program subunităţi poştale cu asistenţă vamală găsiți pe site-ul oficial al Companiei Naționale Poșta Română la adresa https://www.posta-romana.ro/a762/servicii-destinatari/comisionariat-vamal/comisio...
+2025-08-04 11:34:46,462 - INFO - 🔹 DOC 4 (Score: N/A):
+2025-08-04 11:34:46,462 - INFO -    Sursa: Condiţii generale privind furnizarea serviciilor poștale.txt
+2025-08-04 11:34:46,462 - INFO -    Conținut: Condiţii generale privind furnizarea serviciilor poştale...
+2025-08-04 11:34:46,462 - INFO - 🔹 DOC 5 (Score: N/A):
+2025-08-04 11:34:46,462 - INFO -    Sursa: Condiţii generale privind furnizarea serviciilor poştale.txt
+2025-08-04 11:34:46,462 - INFO -    Conținut: Condiţii generale privind furnizarea serviciilor poştale...
+2025-08-04 11:34:48,570 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 11:34:48,580 - INFO - 127.0.0.1 - - [04/Aug/2025 11:34:48] "POST /chat HTTP/1.1" 200 -
+2025-08-04 11:35:38,311 - INFO - 127.0.0.1 - - [04/Aug/2025 11:35:38] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 11:35:39,943 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 11:35:39,943 - INFO - 
+[ORIGINAL]: cat costa sa trimit un colet intern de 5 kg?
+[REFORMULAT]: "Care este tariful pentru expedierea unui colet intern cu greutatea de 5 kg prin Poșta Română?"
+2025-08-04 11:35:39,985 - INFO - 
+📚 Documente relevante (5):
+2025-08-04 11:35:39,985 - INFO - 🔹 DOC 1 (Score: N/A):
+2025-08-04 11:35:39,985 - INFO -    Sursa: Colete internaţionale.txt
+2025-08-04 11:35:39,985 - INFO -    Conținut: Colete sosite: la eliberarea unui colet se încasează
+a) tarif pentru prezentarea organelor vamale	 
+b) tarif de post restant - 3,05 lei
+
+Colete înapoiate: la înapoierea unor colete se încasează
+
+a) Ta...
+2025-08-04 11:35:39,985 - INFO - 🔹 DOC 2 (Score: N/A):
+2025-08-04 11:35:39,985 - INFO -    Sursa: Condiţii generale privind furnizarea serviciilor poștale.txt
+2025-08-04 11:35:39,985 - INFO -    Conținut: A.4.	Distribuirea coletelor poştale în greutate de până la 20 kg expediate din afara teritoriului 
+României către o adresă aflată pe teritoriul acesteia;
+A.5.	Serviciul de trimitere recomandată având ...
+2025-08-04 11:35:39,985 - INFO - 🔹 DOC 3 (Score: N/A):
+2025-08-04 11:35:39,985 - INFO -    Sursa: Condiţii generale privind furnizarea serviciilor poştale.txt
+2025-08-04 11:35:39,985 - INFO -    Conținut: A.4.	Distribuirea coletelor poştale în greutate de până la 20 kg expediate din afara teritoriului 
+României către o adresă aflată pe teritoriul acesteia;
+A.5.	Serviciul de trimitere recomandată având ...
+2025-08-04 11:35:39,985 - INFO - 🔹 DOC 4 (Score: N/A):
+2025-08-04 11:35:39,985 - INFO -    Sursa: Condiţii generale privind furnizarea serviciilor poștale.txt
+2025-08-04 11:35:39,985 - INFO -    Conținut: A.4. Distribuirea coletelor poştale în greutate de până la 20 kg expediate din afara teritoriului României către o adresă aflată pe teritoriul acesteia	 
+ Z+5  Z+5
+ Z+5
+ Z+5
+	 A.5. Serviciul de trimit...
+2025-08-04 11:35:39,985 - INFO - 🔹 DOC 5 (Score: N/A):
+2025-08-04 11:35:39,985 - INFO -    Sursa: Condiţii generale privind furnizarea serviciilor poştale.txt
+2025-08-04 11:35:39,985 - INFO -    Conținut: A.4. Distribuirea coletelor poştale în greutate de până la 20 kg expediate din afara teritoriului României către o adresă aflată pe teritoriul acesteia	 
+ Z+5  Z+5
+ Z+5
+ Z+5
+	 A.5. Serviciul de trimit...
+2025-08-04 11:35:41,573 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 11:35:41,573 - INFO - 127.0.0.1 - - [04/Aug/2025 11:35:41] "POST /chat HTTP/1.1" 200 -
+2025-08-04 11:39:25,540 - INFO -  * Detected change in 'D:\\AB\\Desktop\\posta_chatbot\\app.py', reloading
+2025-08-04 11:39:26,133 - INFO -  * Restarting with stat
+2025-08-04 11:39:27,333 - INFO - Încărcare vectorstore...
+2025-08-04 11:39:31,241 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 11:39:36,292 - INFO - Loading faiss with AVX2 support.
+2025-08-04 11:39:36,311 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 11:39:36,315 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 11:39:36,335 - INFO - Vectorstore încărcat în 9.00 secunde
+2025-08-04 11:39:36,547 - ERROR - Eroare la inițializare: name 'PromptTemplate' is not defined
+Traceback (most recent call last):
+  File "D:\AB\Desktop\posta_chatbot\app.py", line 73, in <module>
+    "prompt": PromptTemplate(
+NameError: name 'PromptTemplate' is not defined
+2025-08-04 11:55:13,154 - INFO - Încărcare vectorstore...
+2025-08-04 11:55:17,075 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 11:55:22,350 - INFO - Loading faiss with AVX2 support.
+2025-08-04 11:55:22,363 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 11:55:22,369 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 11:55:22,389 - INFO - Vectorstore încărcat în 9.23 secunde
+2025-08-04 11:55:22,598 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-04 11:55:22,598 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 11:55:22,599 - INFO -  * Restarting with stat
+2025-08-04 11:55:23,702 - INFO - Încărcare vectorstore...
+2025-08-04 11:55:28,506 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 11:55:35,144 - INFO - Loading faiss with AVX2 support.
+2025-08-04 11:55:35,176 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 11:55:35,183 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 11:55:35,223 - INFO - Vectorstore încărcat în 11.52 secunde
+2025-08-04 11:55:35,671 - WARNING -  * Debugger is active!
+2025-08-04 11:55:35,676 - INFO -  * Debugger PIN: 636-956-771
+2025-08-04 11:59:25,734 - INFO -  * Detected change in 'D:\\AB\\Desktop\\posta_chatbot\\app.py', reloading
+2025-08-04 11:59:26,437 - INFO -  * Restarting with stat
+2025-08-04 11:59:27,955 - INFO - Încărcare vectorstore...
+2025-08-04 11:59:32,936 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 11:59:38,359 - INFO - Loading faiss with AVX2 support.
+2025-08-04 11:59:38,374 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 11:59:38,379 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 11:59:38,402 - INFO - Vectorstore încărcat în 10.45 secunde
+2025-08-04 11:59:38,638 - WARNING -  * Debugger is active!
+2025-08-04 11:59:38,640 - INFO -  * Debugger PIN: 636-956-771
+2025-08-04 12:04:56,300 - INFO -  * Detected change in 'D:\\AB\\Desktop\\posta_chatbot\\app.py', reloading
+2025-08-04 12:04:57,310 - INFO -  * Restarting with stat
+2025-08-04 12:04:58,945 - INFO - Încărcare vectorstore...
+2025-08-04 12:05:04,070 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 12:05:09,173 - INFO - Loading faiss with AVX2 support.
+2025-08-04 12:05:09,188 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 12:05:09,194 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 12:05:09,217 - INFO - Vectorstore încărcat în 10.27 secunde
+2025-08-04 12:05:09,565 - WARNING -  * Debugger is active!
+2025-08-04 12:05:09,567 - INFO -  * Debugger PIN: 636-956-771
+2025-08-04 12:13:31,326 - INFO -  * Detected change in 'D:\\AB\\Desktop\\posta_chatbot\\app.py', reloading
+2025-08-04 12:13:31,968 - INFO -  * Restarting with stat
+2025-08-04 12:13:33,567 - INFO - Încărcare vectorstore și modele...
+2025-08-04 12:13:38,069 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 12:13:43,660 - INFO - Loading faiss with AVX2 support.
+2025-08-04 12:13:43,675 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 12:13:43,681 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 12:13:43,936 - INFO - Sistemul este pregătit pentru întrebări
+2025-08-04 12:13:43,938 - WARNING -  * Debugger is active!
+2025-08-04 12:13:43,943 - INFO -  * Debugger PIN: 636-956-771
+2025-08-04 12:22:50,366 - INFO - Încărcare vectorstore și modele...
+2025-08-04 12:22:54,006 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 12:22:58,875 - INFO - Loading faiss with AVX2 support.
+2025-08-04 12:22:58,886 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 12:22:58,899 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 12:22:59,156 - INFO - Sistemul este pregătit pentru întrebări
+2025-08-04 12:22:59,171 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-04 12:22:59,171 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 12:22:59,172 - INFO -  * Restarting with stat
+2025-08-04 12:23:00,227 - INFO - Încărcare vectorstore și modele...
+2025-08-04 12:23:04,388 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 12:23:12,188 - INFO - Loading faiss with AVX2 support.
+2025-08-04 12:23:12,204 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 12:23:12,220 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 12:23:12,596 - INFO - Sistemul este pregătit pentru întrebări
+2025-08-04 12:23:12,602 - WARNING -  * Debugger is active!
+2025-08-04 12:23:12,602 - INFO -  * Debugger PIN: 636-956-771
+2025-08-04 12:23:38,727 - INFO - 127.0.0.1 - - [04/Aug/2025 12:23:38] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 12:23:40,361 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:23:40,381 - INFO - Întrebare: Care sunt orele de funcționare? | Reformulată: Care este programul de funcționare al oficiilor Poștei Române?
+2025-08-04 12:23:40,447 - INFO - Documente relevante găsite: 5
+2025-08-04 12:23:42,197 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:23:42,207 - INFO - Răspuns generat: Nu găsesc informații exacte despre programul de funcționare al oficiilor Poștei Române în contextul oferit. Vă recomand să consultați site-ul oficial https://www.posta-romana.ro/ sau să contactați un ...
+2025-08-04 12:23:42,207 - INFO - 127.0.0.1 - - [04/Aug/2025 12:23:42] "POST /chat HTTP/1.1" 200 -
+2025-08-04 12:24:11,147 - INFO - 127.0.0.1 - - [04/Aug/2025 12:24:11] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 12:24:12,196 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:24:12,196 - INFO - Întrebare: care este tariful unui colet extern de 5 kg spre spania/ | Reformulată: Care este tariful pentru expedierea unui colet internațional de 5 kg către Spania prin Poșta Română?
+2025-08-04 12:24:12,231 - INFO - Documente relevante găsite: 5
+2025-08-04 12:24:14,469 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:24:14,473 - INFO - Răspuns generat: Nu găsesc informații exacte. Vă recomand să consultați site-ul oficial https://www.posta-romana.ro/ sau să contactați un oficiu poștal....
+2025-08-04 12:24:14,473 - INFO - 127.0.0.1 - - [04/Aug/2025 12:24:14] "POST /chat HTTP/1.1" 200 -
+2025-08-04 12:24:31,657 - INFO - 127.0.0.1 - - [04/Aug/2025 12:24:31] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 12:24:32,809 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:24:32,809 - INFO - Întrebare: care sunt tarifele coletelor interne? | Reformulată: Care sunt tarifele pentru expedierea coletelor interne prin Poșta Română?
+2025-08-04 12:24:32,848 - INFO - Documente relevante găsite: 5
+2025-08-04 12:24:37,188 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:24:37,193 - INFO - Răspuns generat: Tarifele pentru expedierea coletelor interne prin Poșta Română, cu confirmare de primire, sunt următoarele:
+
+- Pentru colete cu greutatea de până la 5 kg (inclusiv): 16,27 lei
+- Pentru colete cu greut...
+2025-08-04 12:24:37,193 - INFO - 127.0.0.1 - - [04/Aug/2025 12:24:37] "POST /chat HTTP/1.1" 200 -
+2025-08-04 12:24:51,738 - INFO - 127.0.0.1 - - [04/Aug/2025 12:24:51] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 12:24:52,848 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:24:52,848 - INFO - Întrebare: cat costa sa trimit un colet extern catre albania? | Reformulată: "Care este tariful pentru expedierea unui colet internațional către Albania prin Poșta Română?"
+2025-08-04 12:24:52,898 - INFO - Documente relevante găsite: 5
+2025-08-04 12:24:54,495 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:24:54,497 - INFO - Răspuns generat: Nu găsesc informații exacte. Vă recomand să consultați site-ul oficial https://www.posta-romana.ro/ sau să contactați un oficiu poștal....
+2025-08-04 12:24:54,497 - INFO - 127.0.0.1 - - [04/Aug/2025 12:24:54] "POST /chat HTTP/1.1" 200 -
+2025-08-04 12:29:27,557 - INFO - 127.0.0.1 - - [04/Aug/2025 12:29:27] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 12:29:29,847 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:29:29,847 - INFO - Întrebare: cat costa sa trimit un colet extern catre albania? | Reformulată: "Care este tariful pentru expedierea unui colet internațional către Albania prin Poșta Română?"
+2025-08-04 12:29:29,881 - INFO - Documente relevante găsite: 5
+2025-08-04 12:29:31,798 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:29:31,798 - INFO - Răspuns generat: Nu găsesc informații exacte. Vă recomand să consultați site-ul oficial https://www.posta-romana.ro/ sau să contactați un oficiu poștal....
+2025-08-04 12:29:31,802 - INFO - 127.0.0.1 - - [04/Aug/2025 12:29:31] "POST /chat HTTP/1.1" 200 -
+2025-08-04 12:29:46,008 - INFO - 127.0.0.1 - - [04/Aug/2025 12:29:46] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 12:29:47,977 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:29:47,977 - INFO - Întrebare: care este tariful unui colet extern de 7 kg spre albania? | Reformulată: "Care este tariful pentru expedierea internațională a unui colet de 7 kg către Albania prin Poșta Română?"
+2025-08-04 12:29:48,022 - INFO - Documente relevante găsite: 5
+2025-08-04 12:29:49,197 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:29:49,207 - INFO - Răspuns generat: "Nu găsesc informații exacte. Vă recomand să consultați site-ul oficial https://www.posta-romana.ro/ sau să contactați un oficiu poștal."...
+2025-08-04 12:29:49,208 - INFO - 127.0.0.1 - - [04/Aug/2025 12:29:49] "POST /chat HTTP/1.1" 200 -
+2025-08-04 12:33:43,108 - INFO - 127.0.0.1 - - [04/Aug/2025 12:33:43] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 12:33:44,148 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:33:44,148 - INFO - Întrebare: cat costa sa trimit un colet de 10 kg catre albania? | Reformulată: "Care este tariful pentru expedierea unui colet de 10 kg către Albania prin Poșta Română?"
+2025-08-04 12:33:44,189 - INFO - Documente relevante găsite: 5
+2025-08-04 12:33:45,419 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:33:45,429 - INFO - Răspuns generat: Nu găsesc informații exacte. Vă recomand să consultați site-ul oficial https://www.posta-romana.ro/ sau să contactați un oficiu poștal....
+2025-08-04 12:33:45,429 - INFO - 127.0.0.1 - - [04/Aug/2025 12:33:45] "POST /chat HTTP/1.1" 200 -
+2025-08-04 12:34:01,098 - INFO - 127.0.0.1 - - [04/Aug/2025 12:34:01] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 12:34:02,127 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:34:02,137 - INFO - Întrebare: cum trimit un colet din iasi pana in galati | Reformulată: Care este procedura pentru expedierea unui colet din Iași către Galați prin intermediul Poștei Române?
+2025-08-04 12:34:02,180 - INFO - Documente relevante găsite: 5
+2025-08-04 12:34:03,258 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:34:03,258 - INFO - Răspuns generat: Nu găsesc informații exacte. Vă recomand să consultați site-ul oficial https://www.posta-romana.ro/ sau să contactați un oficiu poștal....
+2025-08-04 12:34:03,258 - INFO - 127.0.0.1 - - [04/Aug/2025 12:34:03] "POST /chat HTTP/1.1" 200 -
+2025-08-04 12:42:22,534 - INFO -  * Detected change in 'D:\\AB\\Desktop\\posta_chatbot\\app.py', reloading
+2025-08-04 12:42:23,230 - INFO -  * Restarting with stat
+2025-08-04 12:42:29,357 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 12:42:35,075 - INFO - Loading faiss with AVX2 support.
+2025-08-04 12:42:35,090 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 12:42:35,094 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 12:46:50,792 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 12:46:55,599 - INFO - Loading faiss with AVX2 support.
+2025-08-04 12:46:55,613 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 12:46:55,615 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 12:46:55,898 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-04 12:46:55,900 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 12:48:19,450 - INFO - 127.0.0.1 - - [04/Aug/2025 12:48:19] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 12:48:22,609 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:48:22,622 - INFO - 127.0.0.1 - - [04/Aug/2025 12:48:22] "POST /chat HTTP/1.1" 200 -
+2025-08-04 12:49:59,450 - INFO - 127.0.0.1 - - [04/Aug/2025 12:49:59] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 12:50:00,641 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:50:00,652 - INFO - 127.0.0.1 - - [04/Aug/2025 12:50:00] "POST /chat HTTP/1.1" 200 -
+2025-08-04 12:50:15,563 - INFO - 127.0.0.1 - - [04/Aug/2025 12:50:15] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 12:50:26,719 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:50:26,720 - INFO - 127.0.0.1 - - [04/Aug/2025 12:50:26] "POST /chat HTTP/1.1" 200 -
+2025-08-04 12:50:46,753 - INFO - 127.0.0.1 - - [04/Aug/2025 12:50:46] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 12:50:49,089 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:50:49,100 - INFO - 127.0.0.1 - - [04/Aug/2025 12:50:49] "POST /chat HTTP/1.1" 200 -
+2025-08-04 12:51:12,940 - INFO - 127.0.0.1 - - [04/Aug/2025 12:51:12] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 12:51:14,090 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:51:14,094 - INFO - 127.0.0.1 - - [04/Aug/2025 12:51:14] "POST /chat HTTP/1.1" 200 -
+2025-08-04 12:51:27,388 - INFO - 127.0.0.1 - - [04/Aug/2025 12:51:27] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 12:51:30,839 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 12:51:30,839 - INFO - 127.0.0.1 - - [04/Aug/2025 12:51:30] "POST /chat HTTP/1.1" 200 -
+2025-08-04 13:00:53,652 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 13:00:58,427 - INFO - Loading faiss with AVX2 support.
+2025-08-04 13:00:58,446 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 13:00:58,450 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 13:00:58,708 - INFO - Sistem gata
+2025-08-04 13:00:58,708 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-04 13:00:58,708 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 13:01:46,391 - INFO - 127.0.0.1 - - [04/Aug/2025 13:01:46] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 13:01:46,632 - INFO - Procesare �ntrebare: care sunt conditiile de forma pt scrisori?
+2025-08-04 13:01:56,201 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 13:02:07,330 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 13:02:07,340 - INFO - 127.0.0.1 - - [04/Aug/2025 13:02:07] "POST /chat HTTP/1.1" 200 -
+2025-08-04 13:02:26,981 - INFO - 127.0.0.1 - - [04/Aug/2025 13:02:26] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 13:02:27,291 - INFO - Procesare �ntrebare: cum trimit un colet din hunedoara in bucuresti?
+2025-08-04 13:02:32,290 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 13:02:41,030 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 13:02:41,030 - INFO - 127.0.0.1 - - [04/Aug/2025 13:02:41] "POST /chat HTTP/1.1" 200 -
+2025-08-04 13:03:16,694 - INFO - 127.0.0.1 - - [04/Aug/2025 13:03:16] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 13:03:17,001 - INFO - Procesare �ntrebare: care este tariful unui colet intern de 6 kg?
+2025-08-04 13:03:22,861 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 13:03:27,870 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 13:03:27,879 - INFO - 127.0.0.1 - - [04/Aug/2025 13:03:27] "POST /chat HTTP/1.1" 200 -
+2025-08-04 13:04:13,681 - INFO - 127.0.0.1 - - [04/Aug/2025 13:04:13] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 13:04:13,992 - INFO - Procesare �ntrebare: cum gasesc un oficiu postal?
+2025-08-04 13:04:18,511 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 13:04:28,241 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 13:04:28,241 - INFO - 127.0.0.1 - - [04/Aug/2025 13:04:28] "POST /chat HTTP/1.1" 200 -
+2025-08-04 13:05:01,940 - INFO - 127.0.0.1 - - [04/Aug/2025 13:05:01] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 13:05:02,254 - INFO - Procesare �ntrebare: cat costa sa trimit un colet extern de 8 kg spre spania?
+2025-08-04 13:05:09,750 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 13:05:16,884 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 13:05:16,884 - INFO - 127.0.0.1 - - [04/Aug/2025 13:05:16] "POST /chat HTTP/1.1" 200 -
+2025-08-04 13:05:49,623 - INFO - 127.0.0.1 - - [04/Aug/2025 13:05:49] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 13:05:49,931 - INFO - Procesare �ntrebare: care este tariful ptr a trimite un colet extern de 8 kg catre albania?
+2025-08-04 13:05:56,181 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 13:06:02,820 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 13:06:02,821 - INFO - 127.0.0.1 - - [04/Aug/2025 13:06:02] "POST /chat HTTP/1.1" 200 -
+2025-08-04 13:12:15,593 - INFO - 127.0.0.1 - - [04/Aug/2025 13:12:15] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 13:12:15,851 - INFO - Procesare �ntrebare: care este tariful ptr a trimite un colet extern de 8 kg catre jamaica?
+2025-08-04 13:12:24,612 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 13:12:35,362 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 13:12:35,362 - INFO - 127.0.0.1 - - [04/Aug/2025 13:12:35] "POST /chat HTTP/1.1" 200 -
+2025-08-04 13:16:36,142 - INFO - 127.0.0.1 - - [04/Aug/2025 13:16:36] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 13:16:36,401 - INFO - Procesare �ntrebare: care este tariful ptr a trimite un colet extern de 8 kg catre armenia?
+2025-08-04 13:16:44,171 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 13:16:49,622 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 13:16:49,622 - INFO - 127.0.0.1 - - [04/Aug/2025 13:16:49] "POST /chat HTTP/1.1" 200 -
+2025-08-04 14:12:26,248 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 14:12:31,265 - INFO - Loading faiss with AVX2 support.
+2025-08-04 14:12:31,281 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 14:12:31,285 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 14:12:31,546 - INFO - Sistem gata
+2025-08-04 14:12:31,546 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-04 14:12:31,546 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 14:13:44,688 - INFO - 127.0.0.1 - - [04/Aug/2025 14:13:44] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 14:13:44,925 - INFO - Procesare �ntrebare: care este tariful pentru a trimite un colet extern de 8 kg catre belgia?
+2025-08-04 14:13:48,860 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 14:13:57,322 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 14:13:57,336 - INFO - 127.0.0.1 - - [04/Aug/2025 14:13:57] "POST /chat HTTP/1.1" 200 -
+2025-08-04 14:14:52,355 - INFO - 127.0.0.1 - - [04/Aug/2025 14:14:52] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 14:14:52,616 - INFO - Procesare �ntrebare: cat costa un colet intern de 8 kg?
+2025-08-04 14:14:57,966 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 14:15:08,426 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 14:15:08,446 - INFO - 127.0.0.1 - - [04/Aug/2025 14:15:08] "POST /chat HTTP/1.1" 200 -
+2025-08-04 14:32:52,950 - INFO - 127.0.0.1 - - [04/Aug/2025 14:32:52] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 14:32:53,215 - INFO - Procesare �ntrebare: care sunt conditiile de forma a scrisorii
+2025-08-04 14:33:05,082 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 14:33:11,421 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 14:33:11,430 - INFO - 127.0.0.1 - - [04/Aug/2025 14:33:11] "POST /chat HTTP/1.1" 200 -
+2025-08-04 14:33:41,168 - INFO - 127.0.0.1 - - [04/Aug/2025 14:33:41] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 14:33:41,483 - INFO - Procesare �ntrebare: ce inseamna prioripost?
+2025-08-04 14:33:56,593 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 14:34:08,153 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 14:34:08,162 - INFO - 127.0.0.1 - - [04/Aug/2025 14:34:08] "POST /chat HTTP/1.1" 200 -
+2025-08-04 14:34:44,391 - INFO - 127.0.0.1 - - [04/Aug/2025 14:34:44] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 14:34:44,661 - INFO - Procesare �ntrebare: care sunt conditiile de forma si dimensiune pentru scrisori si carti postale?
+2025-08-04 14:34:53,112 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 14:35:02,121 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 14:35:02,126 - INFO - 127.0.0.1 - - [04/Aug/2025 14:35:02] "POST /chat HTTP/1.1" 200 -
+2025-08-04 14:35:21,470 - INFO - 127.0.0.1 - - [04/Aug/2025 14:35:21] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 14:35:21,781 - INFO - Procesare �ntrebare: cum trimit un colet intern din focsani pana in brasov?
+2025-08-04 14:35:28,601 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 14:35:42,981 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 14:35:42,981 - INFO - 127.0.0.1 - - [04/Aug/2025 14:35:42] "POST /chat HTTP/1.1" 200 -
+2025-08-04 14:36:25,142 - INFO - 127.0.0.1 - - [04/Aug/2025 14:36:25] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 14:36:25,401 - INFO - Procesare �ntrebare: care sunt modalitatile de tarifare a coletelor interne?
+2025-08-04 14:36:49,061 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 14:37:08,060 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 14:37:08,086 - INFO - 127.0.0.1 - - [04/Aug/2025 14:37:08] "POST /chat HTTP/1.1" 200 -
+2025-08-04 14:37:32,430 - INFO - 127.0.0.1 - - [04/Aug/2025 14:37:32] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 14:37:32,690 - INFO - Procesare �ntrebare: unde completez formular online?
+2025-08-04 14:37:40,888 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 14:37:52,121 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 14:37:52,121 - INFO - 127.0.0.1 - - [04/Aug/2025 14:37:52] "POST /chat HTTP/1.1" 200 -
+2025-08-04 14:55:58,438 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 14:56:04,035 - INFO - Loading faiss with AVX2 support.
+2025-08-04 14:56:04,056 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 14:56:04,060 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 14:56:04,349 - INFO - Sistem gata
+2025-08-04 14:56:04,381 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-04 14:56:04,381 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 14:57:19,151 - INFO - 127.0.0.1 - - [04/Aug/2025 14:57:19] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 14:57:28,090 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 14:57:34,644 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 14:57:34,687 - INFO - 127.0.0.1 - - [04/Aug/2025 14:57:34] "POST /chat HTTP/1.1" 200 -
+2025-08-04 15:06:25,250 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 15:06:30,445 - INFO - Loading faiss with AVX2 support.
+2025-08-04 15:06:30,470 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 15:06:30,478 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 15:06:30,738 - INFO - Sistem gata
+2025-08-04 15:06:30,739 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-04 15:06:30,739 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 15:07:14,203 - INFO - 127.0.0.1 - - [04/Aug/2025 15:07:14] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 15:07:21,082 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 15:07:28,445 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 15:07:28,473 - INFO - 127.0.0.1 - - [04/Aug/2025 15:07:28] "POST /chat HTTP/1.1" 200 -
+2025-08-04 15:16:19,211 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 15:16:24,258 - INFO - Loading faiss with AVX2 support.
+2025-08-04 15:16:24,273 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 15:16:24,277 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 15:16:24,492 - INFO - Sistem gata
+2025-08-04 15:16:24,507 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-04 15:16:24,507 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 15:17:19,445 - INFO - 127.0.0.1 - - [04/Aug/2025 15:17:19] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 15:17:26,137 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 15:17:32,934 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 15:17:32,950 - INFO - 127.0.0.1 - - [04/Aug/2025 15:17:32] "POST /chat HTTP/1.1" 200 -
+2025-08-04 15:17:50,984 - INFO - 127.0.0.1 - - [04/Aug/2025 15:17:50] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 15:17:55,734 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 15:18:06,285 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 15:18:06,295 - INFO - 127.0.0.1 - - [04/Aug/2025 15:18:06] "POST /chat HTTP/1.1" 200 -
+2025-08-04 15:18:43,187 - INFO - 127.0.0.1 - - [04/Aug/2025 15:18:43] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 15:18:47,935 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 15:18:52,184 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 15:18:52,195 - INFO - 127.0.0.1 - - [04/Aug/2025 15:18:52] "POST /chat HTTP/1.1" 200 -
+2025-08-04 15:21:40,580 - INFO - 127.0.0.1 - - [04/Aug/2025 15:21:40] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 15:21:42,982 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 15:21:46,496 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 15:21:46,502 - INFO - 127.0.0.1 - - [04/Aug/2025 15:21:46] "POST /chat HTTP/1.1" 200 -
+2025-08-04 15:23:06,857 - INFO - 127.0.0.1 - - [04/Aug/2025 15:23:06] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 15:23:11,515 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 15:23:17,185 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 15:23:17,185 - INFO - 127.0.0.1 - - [04/Aug/2025 15:23:17] "POST /chat HTTP/1.1" 200 -
+2025-08-04 16:14:03,673 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 16:14:08,734 - INFO - Loading faiss with AVX2 support.
+2025-08-04 16:14:08,750 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 16:14:08,754 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 16:14:09,012 - INFO - Sistem gata
+2025-08-04 16:14:09,012 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-04 16:14:09,012 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 16:15:14,010 - INFO - 127.0.0.1 - - [04/Aug/2025 16:15:14] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 16:15:19,589 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 16:15:23,681 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 16:15:23,690 - INFO - 127.0.0.1 - - [04/Aug/2025 16:15:23] "POST /chat HTTP/1.1" 200 -
+2025-08-04 16:16:31,399 - INFO - 127.0.0.1 - - [04/Aug/2025 16:16:31] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 16:16:42,020 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 16:16:53,899 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 16:16:53,899 - INFO - 127.0.0.1 - - [04/Aug/2025 16:16:53] "POST /chat HTTP/1.1" 200 -
+2025-08-04 16:31:17,496 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 16:31:23,159 - INFO - Loading faiss with AVX2 support.
+2025-08-04 16:31:23,175 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 16:31:23,175 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 16:31:23,500 - INFO - Sistem gata
+2025-08-04 16:31:23,518 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-04 16:31:23,518 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 16:32:46,895 - INFO - 127.0.0.1 - - [04/Aug/2025 16:32:46] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 16:32:55,475 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 16:33:01,925 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 16:33:01,925 - INFO - 127.0.0.1 - - [04/Aug/2025 16:33:01] "POST /chat HTTP/1.1" 200 -
+2025-08-04 16:33:31,126 - INFO - 127.0.0.1 - - [04/Aug/2025 16:33:31] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 16:33:37,712 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 16:33:50,665 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 16:33:50,685 - INFO - 127.0.0.1 - - [04/Aug/2025 16:33:50] "POST /chat HTTP/1.1" 200 -
+2025-08-04 16:36:14,845 - INFO - 127.0.0.1 - - [04/Aug/2025 16:36:14] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 16:36:20,737 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 16:36:28,875 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 16:36:28,885 - INFO - 127.0.0.1 - - [04/Aug/2025 16:36:28] "POST /chat HTTP/1.1" 200 -
+2025-08-04 16:37:00,193 - INFO - 127.0.0.1 - - [04/Aug/2025 16:37:00] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 16:37:04,816 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 16:37:11,679 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 16:37:11,679 - INFO - 127.0.0.1 - - [04/Aug/2025 16:37:11] "POST /chat HTTP/1.1" 200 -
+2025-08-04 16:39:39,666 - INFO - 127.0.0.1 - - [04/Aug/2025 16:39:39] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-04 16:39:44,765 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 16:39:53,270 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-04 16:39:53,271 - INFO - 127.0.0.1 - - [04/Aug/2025 16:39:53] "POST /chat HTTP/1.1" 200 -
+2025-08-05 08:49:14,897 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 08:49:19,963 - INFO - Loading faiss with AVX2 support.
+2025-08-05 08:49:19,963 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 08:49:19,980 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 08:49:20,279 - INFO - Sistem gata
+2025-08-05 08:49:20,308 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-05 08:49:20,308 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 08:50:43,006 - INFO - 127.0.0.1 - - [05/Aug/2025 08:50:43] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 08:50:44,273 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 08:50:44,273 - INFO - Retrying request to /chat/completions in 0.466103 seconds
+2025-08-05 08:50:45,603 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 08:50:45,603 - INFO - Retrying request to /chat/completions in 0.997725 seconds
+2025-08-05 08:50:47,091 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 08:50:47,259 - INFO - 127.0.0.1 - - [05/Aug/2025 08:50:47] "POST /chat HTTP/1.1" 200 -
+2025-08-05 08:51:26,070 - INFO - 127.0.0.1 - - [05/Aug/2025 08:51:26] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 08:51:27,172 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 08:51:27,181 - INFO - Retrying request to /chat/completions in 0.416897 seconds
+2025-08-05 08:51:27,894 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 08:51:27,894 - INFO - Retrying request to /chat/completions in 0.936700 seconds
+2025-08-05 08:51:29,634 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 08:51:29,656 - INFO - 127.0.0.1 - - [05/Aug/2025 08:51:29] "POST /chat HTTP/1.1" 200 -
+2025-08-05 08:52:01,558 - INFO - 127.0.0.1 - - [05/Aug/2025 08:52:01] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 08:52:02,403 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 08:52:02,403 - INFO - Retrying request to /chat/completions in 0.445762 seconds
+2025-08-05 08:52:03,124 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 08:52:03,124 - INFO - Retrying request to /chat/completions in 0.783858 seconds
+2025-08-05 08:52:04,745 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 08:52:04,765 - INFO - 127.0.0.1 - - [05/Aug/2025 08:52:04] "POST /chat HTTP/1.1" 200 -
+2025-08-05 08:55:32,386 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 08:55:37,158 - INFO - Loading faiss with AVX2 support.
+2025-08-05 08:55:37,429 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 08:55:37,439 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 08:55:37,673 - INFO - Sistem gata
+2025-08-05 08:55:37,690 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-05 08:55:37,690 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 08:55:50,364 - INFO - 127.0.0.1 - - [05/Aug/2025 08:55:50] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 08:55:51,073 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 08:55:51,074 - INFO - Retrying request to /chat/completions in 0.482812 seconds
+2025-08-05 08:55:51,884 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 08:55:51,884 - INFO - Retrying request to /chat/completions in 0.872370 seconds
+2025-08-05 08:55:53,013 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 08:55:53,173 - INFO - 127.0.0.1 - - [05/Aug/2025 08:55:53] "POST /chat HTTP/1.1" 200 -
+2025-08-05 09:01:31,517 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 09:01:36,676 - INFO - Loading faiss with AVX2 support.
+2025-08-05 09:01:36,690 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 09:01:36,695 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 09:01:37,000 - INFO - Sistem gata
+2025-08-05 09:01:37,019 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-05 09:01:37,019 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 09:02:35,017 - INFO - 127.0.0.1 - - [05/Aug/2025 09:02:35] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 09:02:35,733 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 09:02:35,733 - INFO - Retrying request to /chat/completions in 0.477924 seconds
+2025-08-05 09:02:36,642 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 09:02:36,642 - INFO - Retrying request to /chat/completions in 0.924160 seconds
+2025-08-05 09:02:37,990 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 09:02:38,151 - INFO - 127.0.0.1 - - [05/Aug/2025 09:02:38] "POST /chat HTTP/1.1" 200 -
+2025-08-05 09:03:26,429 - INFO - 127.0.0.1 - - [05/Aug/2025 09:03:26] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 09:03:27,081 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 09:03:27,081 - INFO - Retrying request to /chat/completions in 0.422428 seconds
+2025-08-05 09:03:27,750 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 09:03:27,750 - INFO - Retrying request to /chat/completions in 0.881241 seconds
+2025-08-05 09:03:28,880 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 09:03:28,897 - INFO - 127.0.0.1 - - [05/Aug/2025 09:03:28] "POST /chat HTTP/1.1" 200 -
+2025-08-05 09:10:00,584 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 09:10:05,239 - INFO - Loading faiss with AVX2 support.
+2025-08-05 09:10:05,250 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 09:10:05,256 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 09:10:05,478 - INFO - Sistem gata
+2025-08-05 09:10:05,483 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-05 09:10:05,483 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 09:10:54,906 - INFO - 127.0.0.1 - - [05/Aug/2025 09:10:54] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 09:10:55,920 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 09:10:55,920 - INFO - Retrying request to /chat/completions in 0.431183 seconds
+2025-08-05 09:10:56,880 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 09:10:56,880 - INFO - Retrying request to /chat/completions in 0.867338 seconds
+2025-08-05 09:10:58,420 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 09:10:58,436 - INFO - 127.0.0.1 - - [05/Aug/2025 09:10:58] "POST /chat HTTP/1.1" 200 -
+2025-08-05 09:25:41,312 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 09:25:45,821 - INFO - Loading faiss with AVX2 support.
+2025-08-05 09:25:45,835 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 09:25:45,838 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 09:25:46,078 - INFO - Sistem gata
+2025-08-05 09:25:46,083 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-05 09:25:46,084 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 09:26:31,122 - INFO - 127.0.0.1 - - [05/Aug/2025 09:26:31] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 09:26:32,312 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 09:26:32,312 - INFO - Retrying request to /chat/completions in 0.494305 seconds
+2025-08-05 09:26:33,442 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 09:26:33,442 - INFO - Retrying request to /chat/completions in 0.997171 seconds
+2025-08-05 09:26:35,171 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-05 09:26:35,205 - INFO - 127.0.0.1 - - [05/Aug/2025 09:26:35] "POST /chat HTTP/1.1" 200 -
+2025-08-05 09:40:50,893 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 09:40:55,702 - INFO - Loading faiss with AVX2 support.
+2025-08-05 09:40:55,722 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 09:40:55,722 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 09:40:55,943 - INFO - Sistem gata
+2025-08-05 09:40:55,948 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-05 09:40:55,948 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 09:41:42,082 - INFO - 127.0.0.1 - - [05/Aug/2025 09:41:42] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 09:41:47,973 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 09:41:55,653 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 09:41:55,662 - INFO - 127.0.0.1 - - [05/Aug/2025 09:41:55] "POST /chat HTTP/1.1" 200 -
+2025-08-05 09:43:00,753 - INFO - 127.0.0.1 - - [05/Aug/2025 09:43:00] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 09:43:06,692 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 09:43:12,464 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 09:43:12,464 - INFO - 127.0.0.1 - - [05/Aug/2025 09:43:12] "POST /chat HTTP/1.1" 200 -
+2025-08-05 09:43:46,173 - INFO - 127.0.0.1 - - [05/Aug/2025 09:43:46] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 09:43:51,733 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 09:44:01,302 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 09:44:01,302 - INFO - 127.0.0.1 - - [05/Aug/2025 09:44:01] "POST /chat HTTP/1.1" 200 -
+2025-08-05 09:45:25,115 - INFO - 127.0.0.1 - - [05/Aug/2025 09:45:25] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 09:45:31,312 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 09:45:38,721 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 09:45:38,727 - INFO - 127.0.0.1 - - [05/Aug/2025 09:45:38] "POST /chat HTTP/1.1" 200 -
+2025-08-05 09:48:31,294 - INFO - 127.0.0.1 - - [05/Aug/2025 09:48:31] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 09:48:35,025 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 09:48:40,074 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 09:48:40,084 - INFO - 127.0.0.1 - - [05/Aug/2025 09:48:40] "POST /chat HTTP/1.1" 200 -
+2025-08-05 09:49:15,518 - INFO - 127.0.0.1 - - [05/Aug/2025 09:49:15] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 09:49:23,864 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 09:49:35,943 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 09:49:35,956 - INFO - 127.0.0.1 - - [05/Aug/2025 09:49:35] "POST /chat HTTP/1.1" 200 -
+2025-08-05 09:49:57,494 - INFO - 127.0.0.1 - - [05/Aug/2025 09:49:57] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 09:50:03,293 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 09:50:12,294 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 09:50:12,303 - INFO - 127.0.0.1 - - [05/Aug/2025 09:50:12] "POST /chat HTTP/1.1" 200 -
+2025-08-05 09:50:47,285 - INFO - 127.0.0.1 - - [05/Aug/2025 09:50:47] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 09:50:53,563 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 09:51:01,043 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 09:51:01,043 - INFO - 127.0.0.1 - - [05/Aug/2025 09:51:01] "POST /chat HTTP/1.1" 200 -
+2025-08-05 09:51:49,933 - INFO - 127.0.0.1 - - [05/Aug/2025 09:51:49] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 09:51:53,576 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 09:52:02,239 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 09:52:02,244 - INFO - 127.0.0.1 - - [05/Aug/2025 09:52:02] "POST /chat HTTP/1.1" 200 -
+2025-08-05 10:00:44,955 - INFO - 127.0.0.1 - - [05/Aug/2025 10:00:44] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 10:00:49,244 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:00:58,243 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:00:58,244 - INFO - 127.0.0.1 - - [05/Aug/2025 10:00:58] "POST /chat HTTP/1.1" 200 -
+2025-08-05 10:01:18,766 - INFO - 127.0.0.1 - - [05/Aug/2025 10:01:18] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 10:01:22,365 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:01:30,195 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:01:30,195 - INFO - 127.0.0.1 - - [05/Aug/2025 10:01:30] "POST /chat HTTP/1.1" 200 -
+2025-08-05 10:02:08,282 - INFO - 127.0.0.1 - - [05/Aug/2025 10:02:08] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 10:02:17,706 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:02:26,814 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:02:26,826 - INFO - 127.0.0.1 - - [05/Aug/2025 10:02:26] "POST /chat HTTP/1.1" 200 -
+2025-08-05 10:02:52,481 - INFO - 127.0.0.1 - - [05/Aug/2025 10:02:52] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 10:03:09,516 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:03:20,275 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:03:20,279 - INFO - 127.0.0.1 - - [05/Aug/2025 10:03:20] "POST /chat HTTP/1.1" 200 -
+2025-08-05 10:09:01,404 - INFO - 127.0.0.1 - - [05/Aug/2025 10:09:01] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 10:09:04,586 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:09:13,195 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:09:13,198 - INFO - 127.0.0.1 - - [05/Aug/2025 10:09:13] "POST /chat HTTP/1.1" 200 -
+2025-08-05 10:10:09,136 - INFO - 127.0.0.1 - - [05/Aug/2025 10:10:09] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 10:10:11,456 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:10:16,166 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:10:16,175 - INFO - 127.0.0.1 - - [05/Aug/2025 10:10:16] "POST /chat HTTP/1.1" 200 -
+2025-08-05 10:10:28,107 - INFO - 127.0.0.1 - - [05/Aug/2025 10:10:28] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 10:10:36,675 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:10:57,986 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:10:57,997 - INFO - 127.0.0.1 - - [05/Aug/2025 10:10:57] "POST /chat HTTP/1.1" 200 -
+2025-08-05 10:27:03,326 - INFO - 127.0.0.1 - - [05/Aug/2025 10:27:03] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 10:27:11,726 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:27:19,926 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:27:19,926 - INFO - 127.0.0.1 - - [05/Aug/2025 10:27:19] "POST /chat HTTP/1.1" 200 -
+2025-08-05 10:55:37,215 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 10:55:41,964 - INFO - Loading faiss with AVX2 support.
+2025-08-05 10:55:41,976 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 10:55:41,976 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 10:55:42,233 - INFO - Sistem gata
+2025-08-05 10:55:42,242 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-05 10:55:42,242 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 10:56:46,403 - INFO - 127.0.0.1 - - [05/Aug/2025 10:56:46] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 10:56:47,658 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:56:53,620 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:56:59,444 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:56:59,460 - INFO - 127.0.0.1 - - [05/Aug/2025 10:56:59] "POST /chat HTTP/1.1" 200 -
+2025-08-05 10:58:54,059 - INFO - 127.0.0.1 - - [05/Aug/2025 10:58:54] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 10:58:56,281 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:59:00,098 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:59:05,299 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 10:59:05,303 - INFO - 127.0.0.1 - - [05/Aug/2025 10:59:05] "POST /chat HTTP/1.1" 200 -
+2025-08-05 12:00:40,191 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 12:00:45,286 - INFO - Loading faiss with AVX2 support.
+2025-08-05 12:00:45,291 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 12:00:45,303 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 12:00:45,601 - INFO - Sistem gata
+2025-08-05 12:00:45,625 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-05 12:00:45,626 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 12:02:10,499 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 12:02:15,272 - INFO - Loading faiss with AVX2 support.
+2025-08-05 12:02:15,287 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 12:02:15,293 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 12:02:15,526 - INFO - Sistem gata
+2025-08-05 12:02:15,526 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-05 12:02:15,526 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 12:03:14,756 - INFO - 127.0.0.1 - - [05/Aug/2025 12:03:14] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 12:03:18,832 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:03:26,302 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:03:26,306 - INFO - 127.0.0.1 - - [05/Aug/2025 12:03:26] "POST /chat HTTP/1.1" 200 -
+2025-08-05 12:03:52,032 - INFO - 127.0.0.1 - - [05/Aug/2025 12:03:52] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 12:03:54,885 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:04:01,423 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:04:01,423 - INFO - 127.0.0.1 - - [05/Aug/2025 12:04:01] "POST /chat HTTP/1.1" 200 -
+2025-08-05 12:06:00,551 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 12:06:05,878 - INFO - Loading faiss with AVX2 support.
+2025-08-05 12:06:05,891 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 12:06:05,897 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 12:15:27,239 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 12:15:32,090 - INFO - Loading faiss with AVX2 support.
+2025-08-05 12:15:32,108 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 12:15:32,119 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 12:16:28,364 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 12:16:32,996 - INFO - Loading faiss with AVX2 support.
+2025-08-05 12:16:33,001 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 12:16:33,014 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 12:16:33,219 - INFO - Sistem gata
+2025-08-05 12:16:33,226 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-05 12:16:33,226 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 12:17:39,854 - INFO - 127.0.0.1 - - [05/Aug/2025 12:17:39] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 12:17:52,114 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:18:03,671 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:18:03,676 - INFO - 127.0.0.1 - - [05/Aug/2025 12:18:03] "POST /chat HTTP/1.1" 200 -
+2025-08-05 12:18:41,474 - INFO - 127.0.0.1 - - [05/Aug/2025 12:18:41] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 12:18:49,748 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:18:55,783 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:18:55,791 - INFO - 127.0.0.1 - - [05/Aug/2025 12:18:55] "POST /chat HTTP/1.1" 200 -
+2025-08-05 12:19:26,546 - INFO - 127.0.0.1 - - [05/Aug/2025 12:19:26] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 12:19:30,807 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:19:41,764 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:19:41,764 - INFO - 127.0.0.1 - - [05/Aug/2025 12:19:41] "POST /chat HTTP/1.1" 200 -
+2025-08-05 12:20:11,413 - INFO - 127.0.0.1 - - [05/Aug/2025 12:20:11] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 12:20:14,944 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:20:20,573 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:20:20,573 - INFO - 127.0.0.1 - - [05/Aug/2025 12:20:20] "POST /chat HTTP/1.1" 200 -
+2025-08-05 12:20:50,573 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 12:20:55,411 - INFO - Loading faiss with AVX2 support.
+2025-08-05 12:20:55,414 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 12:20:55,427 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 12:20:55,630 - INFO - Sistem gata
+2025-08-05 12:20:55,630 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-05 12:20:55,630 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 12:21:03,864 - INFO - 127.0.0.1 - - [05/Aug/2025 12:21:03] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 12:21:11,142 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:21:17,405 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:21:17,414 - INFO - 127.0.0.1 - - [05/Aug/2025 12:21:17] "POST /chat HTTP/1.1" 200 -
+2025-08-05 12:24:59,404 - INFO - 127.0.0.1 - - [05/Aug/2025 12:24:59] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 12:25:11,184 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:25:19,383 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:25:19,383 - INFO - 127.0.0.1 - - [05/Aug/2025 12:25:19] "POST /chat HTTP/1.1" 200 -
+2025-08-05 12:25:49,504 - INFO - 127.0.0.1 - - [05/Aug/2025 12:25:49] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 12:25:54,605 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:26:03,004 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:26:03,004 - INFO - 127.0.0.1 - - [05/Aug/2025 12:26:03] "POST /chat HTTP/1.1" 200 -
+2025-08-05 12:26:26,981 - INFO - 127.0.0.1 - - [05/Aug/2025 12:26:26] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 12:26:32,694 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:26:37,104 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:26:37,104 - INFO - 127.0.0.1 - - [05/Aug/2025 12:26:37] "POST /chat HTTP/1.1" 200 -
+2025-08-05 12:27:12,119 - INFO - 127.0.0.1 - - [05/Aug/2025 12:27:12] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 12:27:15,398 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:27:23,624 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:27:23,628 - INFO - 127.0.0.1 - - [05/Aug/2025 12:27:23] "POST /chat HTTP/1.1" 200 -
+2025-08-05 12:27:46,175 - INFO - 127.0.0.1 - - [05/Aug/2025 12:27:46] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 12:27:50,935 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:27:55,955 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:27:55,959 - INFO - 127.0.0.1 - - [05/Aug/2025 12:27:55] "POST /chat HTTP/1.1" 200 -
+2025-08-05 12:29:37,806 - INFO - 127.0.0.1 - - [05/Aug/2025 12:29:37] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 12:29:41,965 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:29:46,495 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:29:46,505 - INFO - 127.0.0.1 - - [05/Aug/2025 12:29:46] "POST /chat HTTP/1.1" 200 -
+2025-08-05 12:30:44,055 - INFO - 127.0.0.1 - - [05/Aug/2025 12:30:44] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 12:30:50,535 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:30:57,307 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:30:57,311 - INFO - 127.0.0.1 - - [05/Aug/2025 12:30:57] "POST /chat HTTP/1.1" 200 -
+2025-08-05 12:32:57,294 - INFO - 127.0.0.1 - - [05/Aug/2025 12:32:57] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 12:33:04,177 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:33:12,015 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:33:12,025 - INFO - 127.0.0.1 - - [05/Aug/2025 12:33:12] "POST /chat HTTP/1.1" 200 -
+2025-08-05 12:44:48,737 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 12:44:53,441 - INFO - Loading faiss with AVX2 support.
+2025-08-05 12:44:53,455 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 12:44:53,459 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 12:44:53,670 - INFO - Sistem gata
+2025-08-05 12:48:58,247 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 12:49:03,143 - INFO - Loading faiss with AVX2 support.
+2025-08-05 12:49:03,161 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 12:49:03,165 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 12:49:03,361 - INFO - Sistem gata
+2025-08-05 12:51:30,284 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 12:51:35,097 - INFO - Loading faiss with AVX2 support.
+2025-08-05 12:51:35,118 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 12:51:35,125 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 12:51:35,328 - INFO - Sistem gata
+2025-08-05 12:52:48,005 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 12:52:53,180 - INFO - Loading faiss with AVX2 support.
+2025-08-05 12:52:53,196 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 12:52:53,196 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 12:52:53,408 - INFO - Sistem gata
+2025-08-05 12:53:10,137 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 12:53:15,094 - INFO - Loading faiss with AVX2 support.
+2025-08-05 12:53:15,107 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 12:53:15,107 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 12:53:15,313 - INFO - Sistem gata
+2025-08-05 12:53:36,509 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 12:53:41,332 - INFO - Loading faiss with AVX2 support.
+2025-08-05 12:53:41,357 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 12:53:41,362 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 12:53:41,557 - INFO - Sistem gata
+2025-08-05 12:54:28,311 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 12:54:33,118 - INFO - Loading faiss with AVX2 support.
+2025-08-05 12:54:33,138 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 12:54:33,139 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 12:54:33,350 - INFO - Sistem gata
+2025-08-05 12:54:33,355 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-05 12:54:33,355 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 12:55:40,657 - INFO - 127.0.0.1 - - [05/Aug/2025 12:55:40] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 12:55:45,181 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:55:52,367 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 12:55:52,367 - INFO - 127.0.0.1 - - [05/Aug/2025 12:55:52] "POST /chat HTTP/1.1" 200 -
+2025-08-05 12:56:43,416 - INFO - 127.0.0.1 - - [05/Aug/2025 12:56:43] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 12:56:43,668 - INFO - 127.0.0.1 - - [05/Aug/2025 12:56:43] "POST /chat HTTP/1.1" 200 -
+2025-08-05 13:13:57,116 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 13:14:02,333 - INFO - Loading faiss with AVX2 support.
+2025-08-05 13:14:02,346 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 13:14:02,351 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 13:14:02,563 - INFO - Sistem gata
+2025-08-05 13:24:37,582 - INFO - Încărcare sistem...
+2025-08-05 13:24:41,225 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 13:24:46,022 - INFO - Loading faiss with AVX2 support.
+2025-08-05 13:24:46,038 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 13:24:46,041 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 13:24:46,238 - INFO - Sistem gata
+2025-08-05 13:24:46,255 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-05 13:24:46,255 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 13:24:46,257 - INFO -  * Restarting with stat
+2025-08-05 13:24:47,293 - INFO - Încărcare sistem...
+2025-08-05 13:24:51,322 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 13:24:56,854 - INFO - Loading faiss with AVX2 support.
+2025-08-05 13:24:56,884 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 13:24:56,884 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 13:24:57,155 - INFO - Sistem gata
+2025-08-05 13:24:57,155 - WARNING -  * Debugger is active!
+2025-08-05 13:24:57,171 - INFO -  * Debugger PIN: 636-956-771
+2025-08-05 13:25:44,855 - INFO - 127.0.0.1 - - [05/Aug/2025 13:25:44] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 13:25:52,622 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 13:26:01,446 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 13:26:01,449 - INFO - 127.0.0.1 - - [05/Aug/2025 13:26:01] "POST /chat HTTP/1.1" 200 -
+2025-08-05 13:27:57,884 - INFO - 127.0.0.1 - - [05/Aug/2025 13:27:57] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 13:27:58,163 - INFO - 127.0.0.1 - - [05/Aug/2025 13:27:58] "POST /chat HTTP/1.1" 200 -
+2025-08-05 13:29:33,195 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 13:29:38,154 - INFO - Loading faiss with AVX2 support.
+2025-08-05 13:29:38,167 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 13:29:38,170 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 13:29:38,366 - INFO - Sistem gata
+2025-08-05 13:29:38,382 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-05 13:29:38,383 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 13:30:27,578 - INFO - 127.0.0.1 - - [05/Aug/2025 13:30:27] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 13:30:37,914 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 13:30:50,814 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 13:30:50,823 - INFO - 127.0.0.1 - - [05/Aug/2025 13:30:50] "POST /chat HTTP/1.1" 200 -
+2025-08-05 13:31:09,734 - INFO - 127.0.0.1 - - [05/Aug/2025 13:31:09] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 13:31:16,733 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 13:31:30,614 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 13:31:30,614 - INFO - 127.0.0.1 - - [05/Aug/2025 13:31:30] "POST /chat HTTP/1.1" 200 -
+2025-08-05 13:50:15,739 - INFO - 127.0.0.1 - - [05/Aug/2025 13:50:15] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 13:50:23,512 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 13:50:32,520 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 13:50:32,520 - INFO - 127.0.0.1 - - [05/Aug/2025 13:50:32] "POST /chat HTTP/1.1" 200 -
+2025-08-05 13:53:01,723 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-05 13:53:01,723 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 13:53:18,861 - INFO - 127.0.0.1 - - [05/Aug/2025 13:53:18] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 13:53:19,120 - INFO - 127.0.0.1 - - [05/Aug/2025 13:53:19] "POST /chat HTTP/1.1" 200 -
+2025-08-05 13:53:58,248 - INFO - 127.0.0.1 - - [05/Aug/2025 13:53:58] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 13:53:58,553 - INFO - 127.0.0.1 - - [05/Aug/2025 13:53:58] "POST /chat HTTP/1.1" 200 -
+2025-08-05 13:54:16,354 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 13:54:21,170 - INFO - Loading faiss with AVX2 support.
+2025-08-05 13:54:21,183 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 13:54:21,185 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 13:54:21,385 - INFO - Sistem gata
+2025-08-05 13:54:21,385 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-05 13:54:21,385 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 13:54:24,341 - INFO - 127.0.0.1 - - [05/Aug/2025 13:54:24] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 13:54:30,912 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 13:54:40,740 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 13:54:40,749 - INFO - 127.0.0.1 - - [05/Aug/2025 13:54:40] "POST /chat HTTP/1.1" 200 -
+2025-08-05 13:56:45,594 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 13:56:50,594 - INFO - Loading faiss with AVX2 support.
+2025-08-05 13:56:50,605 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 13:56:50,610 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 13:56:50,809 - INFO - Sistem gata
+2025-08-05 13:56:50,809 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-05 13:56:50,809 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 13:57:00,312 - INFO - 127.0.0.1 - - [05/Aug/2025 13:57:00] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 13:57:06,661 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 13:57:24,036 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 13:57:24,041 - INFO - 127.0.0.1 - - [05/Aug/2025 13:57:24] "POST /chat HTTP/1.1" 200 -
+2025-08-05 14:02:17,591 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 14:02:22,630 - INFO - Loading faiss with AVX2 support.
+2025-08-05 14:02:22,646 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 14:02:22,650 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 14:02:22,848 - INFO - Sistem gata
+2025-08-05 14:02:22,848 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-05 14:02:22,848 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 14:02:42,092 - INFO - 127.0.0.1 - - [05/Aug/2025 14:02:42] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 14:02:59,435 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:03:16,320 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:03:16,335 - INFO - 127.0.0.1 - - [05/Aug/2025 14:03:16] "POST /chat HTTP/1.1" 200 -
+2025-08-05 14:14:14,909 - INFO - Încărcare sistem...
+2025-08-05 14:14:18,909 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 14:14:23,592 - INFO - Loading faiss with AVX2 support.
+2025-08-05 14:14:23,609 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 14:14:23,611 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 14:14:23,814 - INFO - Sistem gata
+2025-08-05 14:14:23,814 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-05 14:14:23,824 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 14:14:23,825 - INFO -  * Restarting with stat
+2025-08-05 14:14:24,921 - INFO - Încărcare sistem...
+2025-08-05 14:14:28,947 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 14:14:34,060 - INFO - Loading faiss with AVX2 support.
+2025-08-05 14:14:34,072 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 14:14:34,078 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 14:14:34,304 - INFO - Sistem gata
+2025-08-05 14:14:34,312 - WARNING -  * Debugger is active!
+2025-08-05 14:14:34,313 - INFO -  * Debugger PIN: 636-956-771
+2025-08-05 14:14:38,832 - INFO - 127.0.0.1 - - [05/Aug/2025 14:14:38] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 14:14:44,861 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:14:51,491 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:14:51,500 - INFO - 127.0.0.1 - - [05/Aug/2025 14:14:51] "POST /chat HTTP/1.1" 200 -
+2025-08-05 14:15:25,913 - INFO - 127.0.0.1 - - [05/Aug/2025 14:15:25] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 14:15:32,892 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:15:41,902 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:15:41,902 - INFO - 127.0.0.1 - - [05/Aug/2025 14:15:41] "POST /chat HTTP/1.1" 200 -
+2025-08-05 14:16:10,784 - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:10] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 14:16:18,562 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:16:23,083 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:16:23,092 - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:23] "POST /chat HTTP/1.1" 200 -
+2025-08-05 14:16:36,504 - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:36] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 14:16:45,159 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:16:49,892 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:16:49,901 - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:49] "POST /chat HTTP/1.1" 200 -
+2025-08-05 14:17:19,969 - INFO - 127.0.0.1 - - [05/Aug/2025 14:17:19] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 14:17:31,882 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:17:38,754 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:17:38,757 - INFO - 127.0.0.1 - - [05/Aug/2025 14:17:38] "POST /chat HTTP/1.1" 200 -
+2025-08-05 14:17:52,064 - INFO - 127.0.0.1 - - [05/Aug/2025 14:17:52] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 14:17:57,992 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:18:03,011 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:18:03,011 - INFO - 127.0.0.1 - - [05/Aug/2025 14:18:03] "POST /chat HTTP/1.1" 200 -
+2025-08-05 14:18:31,649 - INFO - 127.0.0.1 - - [05/Aug/2025 14:18:31] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 14:18:37,414 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:18:40,434 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:18:40,456 - INFO - 127.0.0.1 - - [05/Aug/2025 14:18:40] "POST /chat HTTP/1.1" 200 -
+2025-08-05 14:35:52,098 - INFO -  * Detected change in 'D:\\AB\\Desktop\\posta_chatbot\\app.py', reloading
+2025-08-05 14:35:52,672 - INFO -  * Restarting with stat
+2025-08-05 14:35:54,132 - INFO - Încărcare sistem...
+2025-08-05 14:36:03,964 - INFO - Încărcare sistem...
+2025-08-05 14:36:07,484 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 14:36:12,325 - INFO - Loading faiss with AVX2 support.
+2025-08-05 14:36:12,338 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 14:36:12,344 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 14:36:12,539 - INFO - Sistem gata
+2025-08-05 14:36:12,539 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.230:5000
+2025-08-05 14:36:12,539 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 14:36:12,550 - INFO -  * Restarting with stat
+2025-08-05 14:36:13,780 - INFO - Încărcare sistem...
+2025-08-05 14:36:17,566 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 14:36:22,647 - INFO - Loading faiss with AVX2 support.
+2025-08-05 14:36:22,660 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 14:36:22,664 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 14:36:22,859 - INFO - Sistem gata
+2025-08-05 14:36:22,877 - WARNING -  * Debugger is active!
+2025-08-05 14:36:22,880 - INFO -  * Debugger PIN: 636-956-771
+2025-08-05 14:36:50,494 - INFO - 127.0.0.1 - - [05/Aug/2025 14:36:50] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 14:36:57,782 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:37:02,412 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:37:02,412 - INFO - 127.0.0.1 - - [05/Aug/2025 14:37:02] "POST /chat HTTP/1.1" 200 -
+2025-08-05 14:39:09,423 - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:09] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 14:39:26,493 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:39:42,473 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:39:42,473 - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:42] "POST /chat HTTP/1.1" 200 -
+2025-08-05 14:40:23,503 - INFO - 127.0.0.1 - - [05/Aug/2025 14:40:23] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 14:40:28,345 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:40:35,585 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:40:35,594 - INFO - 127.0.0.1 - - [05/Aug/2025 14:40:35] "POST /chat HTTP/1.1" 200 -
+2025-08-05 14:40:58,624 - INFO - 127.0.0.1 - - [05/Aug/2025 14:40:58] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 14:41:14,635 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:41:24,364 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:41:24,364 - INFO - 127.0.0.1 - - [05/Aug/2025 14:41:24] "POST /chat HTTP/1.1" 200 -
+2025-08-05 14:42:41,913 - INFO - 127.0.0.1 - - [05/Aug/2025 14:42:41] "OPTIONS /chat HTTP/1.1" 200 -
+2025-08-05 14:42:45,664 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:42:47,715 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-05 14:42:48,001 - INFO - Datele au fost salvate în api_costs.xlsx
+2025-08-05 14:42:48,001 - INFO - 127.0.0.1 - - [05/Aug/2025 14:42:48] "POST /chat HTTP/1.1" 200 -

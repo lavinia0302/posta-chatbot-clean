@@ -1,0 +1,369 @@
+Întrebări frecvente
+
+1. De ce trebuie să plătesc TVA, dacă am comandat un produs cu o valoare foarte mică, de 1-2 USD?
+
+R: Uniunea Europeană a implementat noi reguli de TVA pentru comerțul online, astfel că, începând cu data de 1 iulie 2021, toate bunurile importate din afara Uniunii Europene sunt supuse TVA. Excepție fac bunurile fără caracter comercial expediate de la o persoană fizică către altă persoană fizică, având o valoare de până la 45 EUR.
+
+ 
+
+2. Trebuie să depun declarație vamală pentru orice bun comandat din afara Uniunii Europene?
+
+R: Da. Toate trimiterile poștale cu valoare redusă, care intră pe teritoriul vamal al UE, inclusiv cele fără valoare comercială, trebuie să fie supuse unei declarații vamale electronice cu set redus de date (DVSRD-H7) cu excepția bunurilor supuse accizelor sau restricțiilor, folosirea formularului poștal CN22/CN23 ca declarație vamală nemaifiind posibilă după această dată.
+
+Bunurile supuse accizelor sau restrictiilor, precum si cele cu o valoare mai mare de 1000 EUR necesita depunerea unei declaratii vamale electronice cu set complet de date (H1) in sistemul informatic vamal RCDPS.
+
+De asemenea, la nivelul Uniunii Europene au fost introduse noi cerințe vamale în materie de securitate și siguranță. Astfel, începând cu data de 1 octombrie 2021, toate trimiterile poștale sosite pe cale aeriană vor fi supuse unei analize vamale risc, pe baza declarațiilor sumare de intrare (ENS), depuse de operatorii poștali din țările de destinație.
+
+ 
+
+3. Ce înseamnă bunuri fără valoare comercială?
+
+R: Conform reglementărilor vamale în vigoare, nu sunt de natură comercială coletele care îndeplinesc, cumulativ, următoarele condiţii: 
+
+- prezintă un caracter ocazional;
+- conţin bunuri destinate exclusiv uzului personal al destinatarului şi al familiei sale; 
+- conţin bunuri care, prin natura sau cantitatea lor nu sunt destinate comercializării; 
+- sunt trimise de expeditor către destinatar fără nicio obligaţie de plată.
+
+Atragem atenția asupra faptului că în cazul cumpărăturilor efectuate online (ex. Ebay, Amazon), expeditorul este, de cele mai multe ori, o persoană fizică, dar trimiterile poștale (îndeosebi trimiterile, format pachet mic) conțin bunuri de natură comercială (expediate către destinatar, cu obligație de plată). În consecință, este imposibil să se diferențieze trimiterile comerciale de cele necomerciale, în momentul prelucrării automatizate a trimiterilor poștale cu valoare redusă la nivelul Biroului de Schimb Internațional București, existând riscul neplății datoriei vamale la bugetul de stat. Pentru aceste considerente, trimiterile cu valoare redusă sunt tratate de Poșta Română ca trimiteri de tip e-commerce, purtătoare de TVA, cu excepția celor care au marcajul "gift" prezent în mesajele standard electronice (ITMATT), la câmpul "Nature of goods".
+
+ 
+
+4. De ce se aplică în mod automat cota de TVA de 19% pentru toate trimiterile?
+
+R: Începând cu data de 1 octombrie 2021, CN Poșta Română utilizează mecanismul special prevăzut pentru operatorii poștali, pentru declararea și plata TVA la import, pentru bunurile cu valoare redusă (sub 150 euro), introdus în codul fiscal prin Ordonanța de Urgență nr. 59/2021. În temeiul acestuia, este permisă utilizarea sistematică a cotei standard de TVA (19%), pentru a facilita procesul de declarare la vamă de către C.N. Poșta Română, în calitate de reprezentant al destinatarilor. Cursurile de schimb valabile sunt cele din prima zi lucrătoare a lunii octombrie, aplicate de la data de 1 ianuarie a anului următor. Rotunjirea cuantumului TVA la import se face la leu, prin majorare, când fracţiunea este egală sau mai mare de 50 de bani, şi prin reducere, când fracţiunea este mai mică decât 50 de bani.
+
+Potrivit Codului Fiscal al României, baza de impozitare TVA la import este constituită din valoarea în vamă a bunurilor, respectiv prețul plătit sau plătibil pentru bunurile importate, la care se adaugă, costul transportului și al asigurării. Conform reglementărilor vamale comunitare în vigoare, în cazul mărfurilor expediate prin poștă, taxele poștale achitate până la locul de destinație se includ în valoarea - în vamă a acestor mărfuri.
+
+ 
+
+5. De ce trebuie achitată taxa de 12,00 lei, chiar dacă nu se achită (din nou) TVA?
+
+R: Taxa de prezentare la vamă în cuantum de 12,00 lei, prevăzută în reglementările poștale internaționale (Convenția Uniunii Poștale Universale), este percepută de C.N. Poșta Română S.A. pentru prelucrarea vamală a trimiterilor poștale cu valoare redusă, inclusiv cele fără valoare comercială sau cu TVA achitată la sursă. Așa cum menționam și mai sus, declarația vamală electronică pentru orice bun comandat din afara Uniunii Europene este obligatorie.
+
+ 
+
+6. Cum s-a pregătit Poșta Română pentru aceste schimbări? Ce înseamnă acele mesaje ITMATT?
+
+R: Pentru alinierea la cerințele vamale și fiscale la nivel european,  Poșta Română, la fel ca și restul operatorilor poștali desemnați la nivel european, și-a dezvoltat o soluție automată de procesare a datelor electronice referitoare la trimiterile poștale; întârzierea în integrarea acesteia cu vama s-a datorat exclusiv nefinalizării la timp a aplicației system-to-system, a autorității vamale.
+
+Începând cu data de 1 iulie 2021, asemenea tuturor operatorilor poștali europeni, C.N. Poșta Română S.A. procesează automatizat trimiterile poștale cu valoare redusă, la nivelul Biroului de Schimb Internațional București, pe baza informațiilor standard, electronice, primite în avans de la operatorii poștali externi (mesaje ITMATT). Acestea conțin toate informațiile necesare (date despre expeditor, destinatar, descrierea și valoarea bunurilor, codul HS, costul transportului și/ sau asigurării, moneda în care s-a efectuat plata, numărul IOSS – dacă e cazul, etc.) efectuării declarațiilor vamale cu set redus de date (DVSRD-H7), a analizei de risc vamale, în scopul securității și siguranței, precum și pentru stabilirea cuantumului TVA la import. Pentru aceasta, operatorii poștali au încheiat Acorduri Internaționale privind Schimbul Electronic de Date în Scopuri Vamale.
+
+Recomandăm clienților care primesc trimiteri poștale din afara UE să verifice cu expeditorul (comerciantul online) ca acesta să completeze corespunzător documentația vamală electronică, pentru fiecare trimitere poștală în parte.
+
+De asemenea, atragem atenția asupra faptului că trimiterile poștale care nu sunt însoțite de documentația vamală electronică (ITMATT) sau de formularele poștale în format fizic CN22/CN23, atașate la trimitere și completate corect și complet, vor fi returnate la expeditor.
+
+ 
+
+7. Ce înseamnă trimiteri IOSS și cum sunt ele prelucrate?
+
+R: Trimiterile poștale sosite la import, în regim IOSS, sunt acele trimiteri pentru care TVA a fost achitat la sursă, în momentul achiziționării produsului. Aceste trimiteri beneficiază de scutire de TVA, întrucât vânzătorul este responsabil de colectarea TVA de la consumatorii din UE. Conform procedurilor vamale, acestea trebuie declarate la vamă, în vederea punerii în libera circulație în sistemul informatic vamal, respectiv pe baza declarației vamale electronice cu set redus de date (DVSRD sau H7).
+
+Numărul IOSS trebuie menționat în declarația vamală și verificat automat în sistemul informatic. În situația în care numărul IOSS este valid, se consideră că TVA a fost plătită la momentul efectuării comenzii, iar la data punerii în liberă circulație se aplică scutirea de TVA. În cazul în care numărul IOSS nu este valid sau nu este furnizat, scutirea de TVA nu poate fi acordată și, în consecință, TVA va fi percepută la import.
+
+Trimiterile poștale sosite la import în regim IOSS sunt identificate de Poșta Română exclusiv după nr. IOSS prezent în mesajele standard electronice (ITMATT), la câmpul "Sender - Id reference". În absența informației electronice referitoare la nr. IOSS transmisă de operatorul de origine, trimiterile respective sunt procesate ca trimiteri purtătoare de TVA. Acesta este modul de lucru agreat la nivel internațional între operatorii poștali desemnați, ținând cont de necesitatea asigurării securității informațiilor legate de IOSS și  prevenirea tentativelor de fraudă.
+
+Mesajele standard, electronice, prevăzute în legislația internațională sunt singurul canal securizat pentru transmiterea între operatorii poștali a informațiilor referitoare la tranzacțiile efectuate în regim IOSS de către vânzătorii online, respectiv comunicarea numărului IOSS (strict confidențial). Orice altă modalitate de comunicare a acestui număr IOSS (ex. e-mail, pe buletinul de expediție (pe trimitere) cu scopuri vamale, nu este recunoscută din punct de vedere poștal la nivel internațional, nerespectând condițiile de confidențialitate a datelor și neputând fi integrată în mod legal, în fluxul operațional poștal.
+
+În cazul în care vi s-a solicitat de către Poșta Română să plătiți TVA la import, iar dvs. așteptați o trimitere poștală fără TVA (tip IOSS), care nu a ajuns la subunitatea vamală cu asistența vamală, în vederea efectuării formalităților vamale la import, vă rugăm să contactați vânzătorul online pentru clarificări. Posibile cauze:
+
+Vânzătorul online sau operatorul poștal de origine nu a inclus TVA în prețul de vânzare;
+Vânzătorul online sau operatorul de origine nu a transmis către Poșta Română numărul IOSS în mesajele standard, electronice, tip ITMATT, respectiv nu a declarat tranzacția în regim IOSS.
+În aceste situații vă puteți adresa vânzătorului online pentru recuperarea TVA. Documentele solicitate pentru rambursare sunt următoarele:
+
+- Copie a facturii eliberată de Poșta Română, pentru sumele achitate la ridicarea trimiterii (cu nr. de tracking și cuantumul TVA achitat).
+- Copie a AWB-lui de trimitere.
+
+                  
+
+8. De ce sunt, în continuare, întârzieri la prelucrarea trimiterilor poștale?
+
+R: Pot apărea întârzieri în efectuarea formalităților vamale la import, în cazul trimiterilor poștale cu valoare redusă, cauzate de faptul că expeditorii (comercianții online) nu furnizează poștelor de destinație documentația electronică corespunzatoare pentru declararea la vamă a trimiterilor poștale (informații electronice lipsă sau incomplete). Poșta Română trebuie să se conformeze cerințelor vamale în vigoare, privind efectuarea analizei de risc la intrare și declararea la vamă.
+
+Recomandăm clienților să se asigure că bunurile expediate nu sunt considerate interzise/restricționate la importul în România. În cazul acestor bunuri, este posibil ca autoritatea vamală să solicite informații/documente suplimentare și depunerea unei declarații vamale electronice cu set complet de date (H1) în sistemul informatic vamal RCDPS sau să dispună reținerea bunurilor în vederea confiscării.
+
+Conform reglementărilor vamale la nivel național, persoanele fizice pot introduce în țară bunuri fără caracter comercial în limitele și în condițiile prevăzute de lege. Calificarea produselor ca fiind pentru uz personal sau obiectul unei operațiuni economice se realizează de către autoritatea vamală, la momentul efectuării operațiunilor de vămuire, pe baza valorilor, cantităţilor acestora și a frecvenței coletelor primite de către destinatari.
+
+Totodată, este interzisă introducerea în România a mărfurilor care aduc atingere unui drept de proprietate intelectuală (mărfuri contrafăcute sau mărfuri pirat), și care, prin cantitatea ori natura lor sugerează că sunt introduse în scop comercial. Totodată, este interzis importul anumitor categorii de bunuri sau materiale al căror transport prin poștă este interzis sau restricționat, precum armele de foc reale sau imitație și părți ale acestora, explozivi şi muniție, rămășițe umane, materiale pornografice, animalele vii, droguri sau materialele inflamabile/toxice etc.
+
+Tentativa de import pe cale poștală a acestor bunuri se soldează cu reținerea trimiterii poștale de către organele vamale și poate atrage răspunderea penală, fiind sancționată potrivit legii. Lista completă cu obiectele interzise sau admise condiționat la importul în România, se regăsește pe site-ul C.N Poșta Română www.posta-romana.ro.
+
+ 
+
+9. De ce, în cazul unor trimiteri, trebuie achitată taxa de 22 de lei și nu cea de 12,00 lei?
+
+R: Trimiterile poștale cu valoare redusă selectate de autoritatea vamală, la analiza de risc presupun formalități vamale suplimentare (avizare destinatar, solicitare documentație vamală suplimentară) și implicit costuri suplimentare ale operațiunii, întrucât astfel de situații nu presupun prelucrare automatizată a datelor, ci prelucrare manuală, bucată cu bucată. În aceste situații se va aplica tariful de comisionariat vamal, în cuantum de 22 lei/trimitere.
+
+ 
+
+10. Pot achita TVA și alte taxe cu cardul bancar, la oficiul poștal?
+
+Plata taxelor de import şi a altor taxe (TVA) se poate efectua în principal, în numerar, dar și cu card bancar la oficiile poștale cu asistență vamală, în care au fost deja instalate terminale POS (ale autorității vamale), cu eliberarea chitanței vamale.
+
+ 
+
+11.  Pot sa declar eu insumi bunurile cu valoare redusa primite prin trimiterile postale sau sa numesc un alt reprezentant decat Posta Romana in fata autoritatilor vamale?
+
+Da. In cazul in care nu doriti ca Posta Romana sa efectueze declaratia vamala cu set redus de date DVSRD-H7 in cazul trimiterii postale sosita pe numele Dumneavoastra, puteti sa declarati bunurile in persoana la autoritatea vamala sau sa numiti un alt reprezentant vamal decat Posta Romana.
+
+Informatii suplimentare privind DVSRD-H7 precum si lista reprezentantilor acreditati sa functioneze in calitate de comisionari vamali pe langa birourile vamale din toata tara se regasesc pe site-ul D.G.V.-A.N.A.F. www.customs.ro. 
+
+In cazul in care nu doriti ca Posta Romana sa efectueze declararea trimiterilor postale cu valoare redusa care urmeaza sa soseasca pe numele Dvs., va rugam sa efectuati o solicitare scrisa la adresa de e-mail: declaranti.vamali@ro.post, cu urmatorul continut:
+
+Nume si prenume destinatar
+Adresa destinatar inscrisa pe trimitere
+Precizez ca nu doresc sa fiu reprezentat de Posta Romana pentru efectuarea declaratiei vamale cu set redus de date DVSRD-H7 pentru punerea in libera circulatie a trimiterilor postale cu valoare redusa
+Dupa inregistrarea solicitarii, toate trimiterile postale care vor sosi in viitor pe numele Dvs. vor fi indrumate catre subunitatea postala cu asistenta vamala unde va revine sarcina sa declarati bunurile in sistemul informatic vamal, in persoana sau printr-un reprezentant vamal, altul decat Posta Romana.
+
+
+Ce este serviciul Track&Trace?
+
+Serviciul Track&Trace vă oferă posibilitatea de urmărire (doar pe teritoriul României) a expedierilor trimise prin intermediul Poştei Române în orice moment, exclusiv pentru serviciile enumerate mai jos.
+
+Pentru a afla statusul unei trimiteri, trebuie să intri aici şi să introduci în caseta de căutare codul de identificare al trimiterii, format din 13 caractere dintre care primele două şi ultimele două sunt litere. Acest cod de identificare se introduce fără spaţii.
+
+Operatorii poştali naţionali care pun la dispoziţia clienţilor sistemul Track&Trace oferă informaţii doar pentru ţara de expediţie si ţara de destinaţie (www.upu.int – The UPU - Member countries), pe baza numărului de prezentare - ex: colet extern - CO006150666RO sau EMS - EM001220590RO.
+
+Sistemul de urmărire a trimiterilor poştale funcţioneaza în prezent pentru următoarele servicii:
+
+Interne
+
+Corespondenţă cu serviciul suplimentar Valoare Declarată
+
+Corespondenţă cu confirmare de primire cu serviciul suplimentar Valoare Declarată
+
+Imprimate cu serviciul suplimentar Valoare Declarată
+
+Imprimate cu confirmare de primire cu serviciul suplimentar Valoare Declarată
+
+Colete poştale cu serviciul suplimentar Valoare Declarată*
+
+Colete poştale cu confirmare de primire cu serviciul suplimentar Valoare Declarată*
+
+Coletărie anunţată
+
+Prioripost
+
+Prioripost cu valoare declarată fixă
+
+Internaţionale
+
+Corespondenţă cu serviciile suplimentare Recomandat şi Valoare Declarată
+
+Corespondenţă cu confirmare de primire cu serviciul suplimentar Valoare Declarată
+
+Corespondenţă cu ramburs
+
+Imprimate cu serviciile suplimentare Recomandat şi Valoare Declarată
+
+Imprimate cu confirmare de primire cu serviciul suplimentare Valoare Declarată
+
+Sac M cu serviciul suplimentar Recomandat
+
+Colete poştale
+
+Colete poştale cu ramburs
+
+Colete poştale cu confirmare de primire cu serviciul suplimentar Valoare Declarată
+
+Ems
+
+Care sunt obiectele admise la expediere pe riscul expeditorilor?
+
+Lista obiectelor admise la expediere pe riscul expeditorilor
+
+⚠️ ALIMENTE ALTERABILE
+carne proaspătă, preparate din carne, pește proaspăt
+produse lactate, fructe proaspete
+
+⚠️ LIPITORI ȘI PARAZIȚI
+lipitori
+paraziți
+
+⚠️ ALBINE
+albine vii
+
+⚠️ OBIECTE FRAGILE
+Obiecte fragile protejate necorespunzător, în interiorul ambalajului și care
+nu asigură integritatea în timpul manipulării. (Obiecte din ceramică,
+aparate radio și televizor, becuri de iluminat, vase, cu conținut lichid)
+
+Salariații CNPR sunt scuțiți de răspundere materială în cazul deteriorării acestor obiecte, dacă au asigurat preluarea în timpii de control stabiliți, iar manipularea s-a efectuat cu respectarea obligațiilor ce le revin privind indicațiile speciale cu care au fost admise la prezentare.
+
+Care sunt oficiile postale unde pot plati cu cardul?
+Posta Romana a inceput dotarea subunitatilor sale cu terminale POS. In prezent, peste 700 de oficii poştale din toată tara ofera clientilor posibilitatea sa efectueze plati cu cardul bancar. 
+
+Cum se completează formularele postale?
+
+Mai jos gasiti exemple de completare a formularelor postale (Modelare)
+
+ 
+
+Model pentru completarea unui Buletin de Expeditie - https://www.posta-romana.ro/ajutor.html
+
+Model pentru completarea unei Confirmari de Primire (AR)- https://www.posta-romana.ro/ajutor.html
+
+
+Model pentru completarea unui mandat postal persoane fizice- https://www.posta-romana.ro/ajutor.html
+
+
+​Model pentru completarea unui mandat postal persoane juridice- https://www.posta-romana.ro/ajutor.html
+
+În ce monedă se exprimă limitele maxime ale valorii declarate pentru serviciile internaţionale?
+Moneda în care se exprimă limitele maxime ale valorii declarate pentru toate trimiterile poştale internaţionale este DTS (fr. Droit Tirage Spéciaux) sau SDR (eng. Special Drawing Rights).
+
+Această monedă a fost creată de FMI în 1969 pentru a completa rezervele financiare existente în ţările membre.
+
+din categoria corespondenţă internaţională, imprimate (cărţi, ziare, reviste, saci M, cecograme) internaţionale, colete internaţionale simple, cu AR sau cu valoare declarată.
+
+Întrucât valoarea de schimb a acestei monede fluctuează, limitele maxime ale valorii declarate care se regăsesc în tabelele privind trimiterile internaţionale sunt orientative şi calculate la un curs mediu de 1 DTS = 6,03 LEI.
+
+Acest curs mediu (1DTS = 6,03 lei) stă la baza calculatorului de tarife, secţiunea Internaţional. Tariful afişat în această secţiune pentru serviciul suplimentar  valoare declarată este pur orientativ.
+
+Pentru a afla cursul zilnic, te rugăm să consulţi site-ul Curs Valutar BNR (https://www.bnr.ro/), cu precizarea că actualizarea informaţiilor se face după ora 13.
+
+ Care sunt oficiile poştale cu asistenţă vamală?
+
+Informaţii complete despre oficiile poştale cu activitate de asistenţă vamală (adresă, program de funcţionare şi persoană de contact) găseşti în tabelul următor:
+
+Poşta Română: subunităţi poştale cu asistenţă vamală la adresa https://www.posta-romana.ro/ajutor.html 
+
+Te rugăm să contactezi oficiul ales înainte de a merge să îţi ridici trimiterea, pentru a te asigura că ai îndeplinit toate formalităţile şi ai toate documentele necesare ca să intri în posesia trimiterii poştale pe care o aştepţi.
+ 
+ Ce dimensiune, formă şi greutate pot avea coletele pe care vreau să le trimit?
+Colete
+
+
+FORMAT standart - Descriere: Trimitere poștală care conține bunuri cu sau fără valoare comercială - Dimensiune minimă de 9 x 14 cm - Dimensiune maximă de 70 x 70 x 70 cm - Greutate maximă de 10kg
+
+Format voluminoase - Descriere: Trimitere poștală care conține bunuri cu sau fără valoare comercială -  Dimensiune minimă 70 x 70 x 70 cm - Dimensiune maximă de 2 m pentru una dintre dimensiuni sau 3 m pentru suma lungimii și a celui mai mare perimetru luat în alt sens decât cel al lungimii - Greutate maximă de 15 kg pentru colete obișnuite/ 20 kg conținut indivizibil 
+
+Unde găsesc Contractul Cadru pentru furnizarea serviciilor poştale ?
+
+Contract Cadru privind furnizarea serviciilor poştale - https://www.posta-romana.ro/ajutor.html
+
+Unde pot să prezint o scrisoare sau un colet ?
+
+Pentru Scrisori:
+
+Cutii poştale: numai corespondenţa internă care face obiectul serviciului Standard, al căror volum şi dimensiuni permit introducerea lor în cutia poştală şi care sunt francate prin aplicarea de timbre poştale.
+
+Orice subunitate poştală: care are prevăzut program de lucru cu publicul (oficiu poştal, ghişeu exterior poştal, agenţie poştală, circumscripţie rurală).
+
+ 
+
+Pentru Colete:
+
+Orice subunitate poştală: care are prevăzut program de lucru cu publicul (oficiu poştal, ghişeu exterior poştal, agenţie poştală, circumscripţie rurală).
+ 
+
+Pentru Prioripost (curierat rapid):
+
+Specializate: Subunităţile poştale incluse în reţeaua PRIORIPOST.
+
+Pot fi preluate de la sediul/domiciliul expeditorului (în urma apelului telefonic sau pe bază de contract) în localităţile reşedinţă de judeţ.
+
+Ce este nou în site-ul Poştei Române?
+Noul site al Poştei Române îţi prezintă, în primul rând, informaţii comerciale despre produsele şi serviciile oferite. Acum, aceste informaţii sunt prezentate în funcţie de cel care le foloseşte: expeditor sau destinatar. De asemenea, serviciile dedicate persoanelor juridice se regăsesc într-o secţiune separată. Află mai multe din acest Ghid de utilizare https://www.posta-romana.ro/ajutor.html.
+
+Despăgubire pentru colet/scrisoare
+DESPĂGUBIRILE
+
+Pentru a vă proteja trimiterile de valoare, trebuie să plătiţi costuri suplimentare, care să acopere asigurarea lor.
+
+Pentru trimiterile înregistrate (inclusiv cele asigurate), pierdute sau deteriorate, sunteţi îndreptăţit să cereţi despăgubiri. 
+
+Despăgubirile vor fi suportate de către Poşta Română în conformitate cu prevederile legale în vigoare – O.U.G. nr. 13/2013, aşa cum a fost aprobată cu modificări şi completări prin Ordonanta nr. 27/2019.
+
+Cererea de despăgubire poate fi depusă la orice oficiu poştal împreună cu dovada depunerii (tichetul sau chitanţa) trimiterii poştale ce constituie obiectul reclamaţiei prealabile.
+
+Dacă nu sunteţi mulţumiţi de răspuns, puteţi apela la Directorul Regiunii Poştale de care aparţineţi sau la sediul central al Poştei Române - B-dul Dacia nr. 140, sector 2, cod poştal 020065, Bucureşti.
+
+După primirea răspunsului, în cazul în care sunteţi nemulţumiţi de răspuns sau după expirarea termenului în care trebuia să primiţi răspunsul, aveţi posibilitatea să vă adresaţi instanţelor de judecată române.
+
+Vreau să fac o reclamaţie şi nu mai găsesc formularul de reclamaţii. Cum procedez?
+Pentru a face o reclamaţie internă sau internaţională, te rugăm să cauţi în partea de jos a formularului InfoPost cele două linkuri (Reclamaţii interne şi Reclamaţii externe), să le completezi şi să le trimiţi. Cele două linkuri pentru reclamaţii interne şi externe se regăsesc atât pe pagina principală a site-ului, cât şi pe paginile de servicii.
+
+Poţi accesa mai rapid formularele dând click pe unul dintre linkurile de mai jos:
+
+- Formular reclamaţii interne - https://www.posta-romana.ro/reclamatii-interne.html
+
+- Formular reclamaţii externe - https://www.posta-romana.ro/en/reclamatii-externe.html
+
+Care sunt modalităţile de tarifare?
+TIMBRUL POŞTAL reprezintă modalitatea clasică de taxare a unui obiect de corespondenţă.
+
+ 
+
+SISTEMUL “TP” (taxe plătite) 
+
+reprezintă un mod de lucru şi de taxare specific serviciului de corespondenţă poştală, precum şi serviciilor de publicitate prin poştă şi se adresează, prin facilităţile oferite, în principal clienţilor care prezintă un volum semnificativ de trimiteri la o expediţie;
+
+trimiterile circulă netimbrate, urmând ca pe faţa fiecărui exemplar, banderolă sau ambalaj să fie tipărit simbolul "TP", numărul aprobării Poştei Române şi termenul de valabilitate al acesteia;
+
+taxele aferente se încasează global pentru întreaga expediţie;
+
+expedierile sunt condiţionate de un volum minim de trimiteri.
+
+expedierile sunt condiţionate de un volum minim de 500 trimiteri pentru fiecare categorie în parte, excepţie fac actele de procedură pentru care nu există limită de volum
+
+Formular TP - editabil
+
+Ghid de completare a formularului TP
+
+ 
+
+Lista subunităţilor poştale de prezentare a trimiterilor în sistem TP
+
+ 
+
+SISTEMUL CONT-AVANS 
+
+reprezintă o modalitate de plată care presupune depunerea anticipată de către client, în contul Poştei Române, Direcţia Regională de Poştă/Oficiului Judeţean de Poştă de care aparţine oficiul de prezentare, a unei sume egale cu cel puţin valoarea medie lunară a taxelor pentru serviciile utilizate;
+
+pe măsura utilizării serviciilor poştale cont-avans se debitează, urmând a fi alimentat periodic.
+
+ 
+
+CUPOANE RĂSPUNS INTERNAŢIONAL pot fi utilizate pe termen nelimitat, pe teritoriul oricărei ţări membre a Uniunii Poştale Universale, ca modalitate de procurare a timbrelor aferente francării unei trimiteri de corespondenţă standard prioritară.
+
+
+Preţul de comercializare a cupoanelor răspuns internaţional este de 8.60 lei/bucată (scutit de TVA).
+
+ Ce trebuie să cunoască destinatarul unui mandat Western Union la ridicarea banilor în oficiul poştal?
+Destinatarul banilor trebuie să cunoască numele şi prenumele expeditorului, suma de plată, ţara de expediţie şi obligatoriu numărul de control al transferului (MTCN)
+
+Care este suma maximă care se poate achita printr-un transfer Western Union?
+Suma maximă care se poate achita printr-un transfer Western Union este de 5.000 USD (sau echivalentul în Euro/lei).
+
+ În ce condiţii se poate face achitarea la domiciliu a unui transfer Western Union?
+Serviciul de achitare a transferului Western Union la domiciliu se face în următoarele condiţii:
+
+ -   expeditorul solicită acest serviciu la prezentarea transferului, contra unei  taxe suplimentare;
+
+-    serviciul se execută prin 41 de subunităti poştale reşedinţă de judeţ abilitate pentru executarea acestuia;
+
+-    destinatarul transferului este contactat de către salariatul poştal în vederea stabilirii valutei în care doreşte să încaseze transferul şi a orei de achitare.
+
+Care sunt avantajele folosirii serviciului Western Union prin Poşta Română?
+Poşta Română este singurul agent Wester Union care oferă serviciul de achitare la domiciliul destinatarului pentru transferurile Western Union. Deci, dacă vrei să trimiţi bani din străinătate direct acasă la destinatar, o poţi face numai folosind serviciul Western Union prin Poşta Română.
+
+Pentru ce servicii trebuie să completez codul poştal?
+Codul poştal trebuie completat pentru toate trimiterile poştale monitorizate electronic şi pentru toate trimiterile poştale pentru care se acordă tarife preferenţiale pentru sortarea pe cod poştal.  În aceste cazuri admiterea la prezentare se face numai cu condiţia completării codului poştale pe fiecare trimitere.
+
+Care sunt serviciile poştale care permit monitorizarea electronică a trimiterilor?
+Serviciille poştale care permit monitorizarea electronică a trimiterilor poştale sunt:
+
+Prioripost (curierat rapid)
+
+Corespondenţă cu serviciul suplimentar Valoare Declarată
+
+Corespondenţă cu confirmare de primire cu serviciul suplimentar Valoare Declarată
+
+Coletărie anunţată
+
+Imprimate cu serviciul suplimentar Valoare Declarată
+
+Imprimat cu confirmare de primire cu serviciul suplimentar Valoare Declarată
+
+Pentru toate aceste servicii poştale este obligatorie completarea codului poştal.

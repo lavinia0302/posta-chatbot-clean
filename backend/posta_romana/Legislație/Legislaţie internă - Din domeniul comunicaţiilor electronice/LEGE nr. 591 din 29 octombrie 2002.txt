@@ -1,0 +1,109 @@
+LEGE nr. 591 din 29 octombrie 2002
+pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 79/2002 privind cadrul general de reglementare a comunicaţiilor
+EMITENT	
+PARLAMENTUL
+Publicat în  MONITORUL OFICIAL nr. 791 din 30 octombrie 2002
+
+
+
+
+Parlamentul României adopta prezenta lege.
+Articolul 1
+Se aprobă Ordonanţa de urgenta a Guvernului nr. 79 din 13 iunie 2002 privind cadrul general de reglementare a comunicaţiilor, publicată în Monitorul Oficial al României, Partea I, nr. 457 din 27 iunie 2002, cu următoarele modificări şi completări:
+1. Litera a) a articolului 1 va avea următorul cuprins:
+"a) stabilirea cadrului general de reglementare a activităţilor privind reţelele şi serviciile de comunicaţii electronice prin definirea atribuţiilor şi obiectivelor Autorităţii Naţionale de Reglementare în Comunicaţii, denumita în continuare ANRC, în domeniul comunicaţiilor electronice, a regimului autorizării acestor activităţi, precum şi a regulilor specifice care guvernează concurenta pe piaţa reţelelor şi serviciilor de comunicaţii electronice;"
+2. La articolul 2, litera e) a alineatului (1) va avea următorul cuprins:
+"e) interferenta perturbatoare - o interferenta care influenţează negativ funcţionarea unui serviciu de radionavigatie ori a altor servicii cu rol de siguranţă sau care în orice alt mod afectează grav, obstructioneaza ori întrerupe repetat un serviciu de comunicaţii electronice care utilizează frecvente radioelectrice şi operează în conformitate cu dispoziţiile legale în vigoare."
+3. Alineatul (4) al articolului 4 va avea următorul cuprins:
+"(4) Persoana care a realizat notificarea în termenul şi în condiţiile prevăzute la alin. (2) şi (3) este autorizata sa furnizeze tipurile de reţele sau de servicii pe care le-a indicat în notificare, având toate drepturile şi obligaţiile prevăzute în autorizaţia generală care se elaborează, se actualizează, se modifica şi se revoca în condiţiile art. 5."
+4. Alineatul (3) al articolului 5 va avea următorul cuprins:
+"(3) ANRC modifica autorizaţia generală, cu respectarea principiilor obiectivitatii şi proportionalitatii, numai după parcurgerea procedurii de consultare prevăzute la art. 50 şi numai în următoarele situaţii:
+a) aceasta decizie este necesară pentru respectarea obligaţiilor care decurg dintr-un acord internaţional la care România este parte;
+b) circumstanţele în care autorizaţia generală a fost emisă s-au modificat."
+5. La articolul 5, după alineatul (3) se introduce alineatul (4) cu următorul cuprins:
+"(4) ANRC revoca autorizaţia generală, cu respectarea principiilor obiectivitatii şi proportionalitatii, numai după parcurgerea procedurii de consultare prevăzute la art. 50 şi numai în următoarele situaţii:
+a) aceasta decizie este necesară pentru respectarea obligaţiilor care decurg dintr-un acord internaţional la care România este parte;
+b) în vederea protejării interesului public, atunci când circumstanţele în care autorizaţia generală a fost emisă s-au modificat."
+6. Articolul 8 va avea următorul cuprins:
+"Art. 8. - (1) Ministerul Comunicaţiilor şi Tehnologiei Informatiei, denumit în continuare ministerul de specialitate, adopta Tabelul naţional de alocare a benzilor de frecventa.
+(2) Ministerul de specialitate asigura, în condiţiile legii, administrarea şi coordonarea la nivel naţional a gestionării frecventelor radioelectrice în conformitate cu Tabelul naţional de alocare a benzilor de frecventa şi cu acordurile internaţionale la care România este parte.
+(3) Ministerul de specialitate poate interzice pe o perioadă limitată utilizarea parţială sau totală a unei benzi de frecventa ori a unei anumite frecvente de către persoane fizice sau juridice, la cererea motivată a autorităţilor publice competente, în cazul în care siguranţa naţionala, ordinea publică sau apărarea naţionala impune această măsură.
+(4) Autorităţile publice competente în domeniul apărării naţionale, ordinii publice şi siguranţei naţionale au dreptul sa utilizeze benzile de frecventa alocate, în măsura în care este necesar pentru îndeplinirea atribuţiilor speciale conferite de lege.
+(5) În cazul necesităţii schimbării destinaţiei unor benzi de frecventa cu alocare guvernamentală, utilizate în scopul apărării naţionale de către Ministerul Apărării Naţionale, se vor compensa costurile achiziţionării echipamentelor necesare utilizării noilor frecvente. Modul de compensare a acestor costuri se stabileşte prin hotărâre a Guvernului."
+7. Articolul 10 va avea următorul cuprins:
+"Art. 10. - (1) Autorităţile abilitate sa gestioneze benzile de frecventa radioelectrice sunt următoarele:
+a) Inspectoratul General pentru Comunicaţii şi Tehnologia Informatiei, denumit în continuare IGCTI, pentru frecventele din benzile alocate pentru utilizare neguvernamentala;
+b) instituţiile competente în domeniul apărării naţionale, ordinii publice şi siguranţei naţionale, pentru frecventele din benzile cu alocare guvernamentală.
+(2) IGCTI atribuie spre utilizare, în mod individual, prin asignare, frecventele radioelectrice din benzile prevăzute în Tabelul naţional de alocare a benzilor de frecventa şi tine permanent evidenta utilizării acestora, în conformitate cu procedura stabilită de către ministerul de specialitate.
+(3) Autorităţile prevăzute la alin. (1) au obligaţia de a asigura schimbul reciproc de informaţii referitoare la asignarile de frecvente efectuate, în conformitate cu prevederile Legii nr. 182/2002 privind protecţia informaţiilor clasificate. Sub coordonarea ministerului de specialitate acestea colaborează în vederea identificarii şi localizarii emisiilor neautorizate şi a interferentelor perturbatoare, în scopul asigurării protecţiei radioelectrice a tuturor serviciilor de comunicaţii electronice care utilizează frecvente radioelectrice."
+8. Articolul 11 va avea următorul cuprins:
+"Art. 11. - (1) ANRC adopta Planul naţional de numerotatie.
+(2) ANRC asigura, în condiţiile legii, administrarea şi gestionarea la nivel naţional a resurselor de numerotatie, în conformitate cu Planul naţional de numerotatie şi cu acordurile internaţionale la care România este parte."
+9. Alineatul (3) al articolului 12 va avea următorul cuprins:
+"(3) Furnizorii de servicii de comunicaţii electronice destinate publicului, cărora li s-au alocat blocuri de numere, sunt obligaţi să aplice principiul nediscriminarii şi transparenţei faţă de alţi furnizori de servicii de comunicaţii electronice, în privinta secventelor de numere utilizate pentru accesul la serviciile lor."
+10. Alineatele (1) şi (4) ale articolului 13 vor avea următorul cuprins:
+"Art. 13. - (1) Utilizarea frecventelor radioelectrice şi a resurselor de numerotatie este permisă numai după obţinerea unei licenţe acordate, conform legii, în condiţii care să asigure exploatarea lor eficienta.
+...................................................................
+(4) În cazul frecventelor radioelectrice necesare pentru nevoile proprii ale instituţiilor din cadrul Sistemului naţional de apărare, utilizarea acestora se realizează în mod gratuit, fără a fi necesară obţinerea unei licenţe, pe baza alocării efectuate de ministerul de specialitate, prin Tabelul naţional de alocare a benzilor de frecventa, cu îndeplinirea următoarelor condiţii:
+a) respectarea cerinţelor tehnice şi operationale necesare pentru evitarea interferentelor perturbatoare şi pentru limitarea expunerii populaţiei la efectele campurilor electromagnetice, acolo unde aceste cerinţe sunt diferite faţă de cele incluse în autorizaţia generală;
+b) respectarea obligaţiilor care decurg din acorduri internaţionale privind utilizarea frecventelor."
+11. La articolul 14, litera d) a alineatului (2) va avea următorul cuprins:
+"d) durata pentru care se acordă dreptul de utilizare, sub rezerva modificării Tabelului naţional de alocare a benzilor de frecventa;"
+12. Alineatul (2) al articolului 16 va avea următorul cuprins:
+"(2) Limitarea numărului de licenţe de utilizare a frecventelor radioelectrice ce urmează să fie acordate se poate face numai cu respectarea următoarelor condiţii:
+a) luarea în considerare, de către ministerul de specialitate, a necesităţii ca măsura sa aducă utilizatorilor maximum de beneficii şi sa faciliteze dezvoltarea concurentei;
+b) acordarea de către ministerul de specialitate tuturor părţilor interesate, inclusiv utilizatorilor şi consumatorilor, a oportunităţii de a-şi exprima opiniile referitoare la decizia de limitare."
+13. La articolul 16, după alineatul (2) se introduc alineatele (2^1) şi (2^2) cu următorul cuprins:
+"(2^1) Ministerul de specialitate va publică decizia de limitare a numărului de licenţe, însoţită de motivatia corespunzătoare.
+(2^2) După stabilirea procedurii de acordare a licenţelor respective ministerul de specialitate va lansa invitaţia de depunere a cererilor, în conformitate cu procedura stabilită."
+14. Alineatul (4) al articolului 16 va avea următorul cuprins:
+"(4) În cazul în care ministerul de specialitate considera ca noi frecvente radioelectrice întrunesc condiţiile necesare în vederea acordării, are obligaţia sa aducă la cunoştinţa publicului acest lucru şi sa lanseze invitaţia de depunere a cererilor."
+15. La articolul 17, litera e) a alineatului (2) va avea următorul cuprins:
+"e) durata pentru care se acordă dreptul de utilizare, sub rezerva modificării Planului naţional de numerotatie;"
+16. La articolul 26, litera a) a alineatului (3) va avea următorul cuprins:
+"a) zonele în care este permis accesul, metodele de lucru ce urmează să fie folosite şi condiţiile efective, inclusiv termenul, în care titularul dreptului instituit în condiţiile art. 23 are acces la imobil, în vederea instalării sau întreţinerii facilităţilor respective;"
+17. Alineatul (5) al articolului 26 va avea următorul cuprins:
+"(5) În cazul în care Guvernul stabileşte obligaţia de plată a unor sume, cu titlu de tarife sau de taxe de utilizare ori cu orice alt titlu, pentru ocuparea şi folosinţă anumitor imobile aflate în proprietate publică, precum drumurile, podurile, pasajele, viaductele, tunelurile, suporturile şi celelalte facilităţi destinate sustinerii elementelor reţelelor şi altele asemenea, titularul dreptului instituit în condiţiile art. 23 datorează numai aceste sume ca preţ al contractului."
+18. Articolul 30 va avea următorul cuprins:
+"Art. 30. - Titularul dreptului instituit în condiţiile art. 23 poate solicita proprietarului sau, după caz, titularului dreptului de administrare taierea, în condiţiile legii, a arborilor sau arbustilor, precum şi a ramurilor ori radacinilor care ingreuneaza sau ar ingreuna efectuarea lucrărilor prevăzute la art. 22. Aceste operaţiuni se vor realiza pe cheltuiala solicitantului şi cu acordarea unei despăgubiri în condiţiile art. 26 alin. (4) lit. b)."
+19. Articolul 31 va avea următorul cuprins:
+"Art. 31. - (1) Titularul dreptului instituit în condiţiile art. 23 are obligaţia sa reaseze elementele reţelelor de comunicaţii electronice, în cadrul aceleiaşi proprietăţi, pe cheltuiala proprie, când aceasta reasezare este necesară pentru construcţia de clădiri sau pentru efectuarea de lucrări de către proprietar sau, după caz, de către titularul dreptului de administrare, în condiţiile convenite prin contractul încheiat potrivit prevederilor art. 26 sau prin hotărârea judecătorească pronunţată în condiţiile art. 27.
+(2) Când reasezarea elementelor reţelelor de comunicaţii electronice este necesară pentru efectuarea unor lucrări de către alte persoane decât proprietarul sau, după caz, titularul dreptului de administrare, cheltuielile vor fi suportate de acestea, dacă prin contractul prevăzut la art. 26 nu s-a convenit altfel."
+20. Alineatele (2) şi (3) ale articolului 34 vor avea următorul cuprins:
+"(2) Dacă pe baza analizei de piaţa astfel realizate ANRC stabileşte ca pe piaţa relevanta respectiva exista concurenta efectivă, ea nu va impune nici una dintre obligaţiile menţionate la alin. (1) sau le va retrage în cazul în care acestea exista. Cu cel puţin 30 de zile înainte de retragerea oricăror obligaţii impuse unui furnizor de reţele sau de servicii de comunicaţii electronice ANRC trebuie să aducă aceasta intenţie la cunoştinţa persoanelor care sunt afectate prin luarea acestei măsuri, pentru a le permite să se adapteze la noile condiţii.
+(3) Dacă pe baza analizei de piaţa astfel realizate ANRC stabileşte ca pe piaţa relevanta respectiva nu exista concurenta efectivă, ea va identifica, aplicând prevederile Regulamentului privind efectuarea analizelor de piaţa şi determinarea puterii semnificative pe piaţa, furnizorii de reţele sau de servicii de comunicaţii electronice care au, potrivit art. 33, putere semnificativă pe piaţa şi va putea impune acestora, în mod corespunzător, una sau mai multe dintre obligaţiile menţionate la alin. (1) sau va menţine ori va modifica aceste obligaţii, acolo unde acestea exista deja."
+21. Alineatele (1) şi (4) ale articolului 36 vor avea următorul cuprins:
+"Art. 36. - (1) În situaţia apariţiei unui litigiu între furnizorii de reţele sau de servicii de comunicaţii electronice ori între furnizorii de servicii poştale, în legătură cu obligaţiile impuse acestora în temeiul prezentei ordonanţe de urgenţă sau al legislaţiei speciale, partea interesată va sesiza ANRC în vederea soluţionării litigiului. Litigiul se va soluţiona printr-o decizie emisă de preşedintele ANRC, în termen de 4 luni de la data sesizării, în afară situaţiilor excepţionale, în care un termen mai lung este necesar pentru buna soluţionare a cazului.
+..................................................................
+(4) Decizia emisă de preşedintele ANRC, în condiţiile prezentului articol, constituie act administrativ jurisdicţional, putând fi atacată în contencios administrativ, în conformitate cu prevederile art. 38 alin. (7)."
+22. La articolul 36, după alineatul (4) se introduce alineatul (5) cu următorul cuprins:
+"(5) Procedura de soluţionare a litigiilor prevăzute de prezentul articol se stabileşte prin decizie a preşedintelui ANRC, în termen de 30 de zile de la data intrării în vigoare a legii de aprobare a prezentei ordonanţe de urgenţă."
+23. Titlul capitolului VIII va avea următorul cuprins:
+"CAPITOLUL VIII
+Funcţiile, obiectivele şi atribuţiile ANRC"
+24. Litera c) a articolului 44 va avea următorul cuprins:
+"c) de alocare a resurselor de numerotatie pentru servicii de comunicaţii electronice, prin elaborarea Planului naţional de numerotatie şi a planurilor de perspectiva în acest sens;"
+25. La articolul 46, punctele 2, 4 şi 15 ale alineatului (1) vor avea următorul cuprins:
+"2. monitorizarea şi controlul respectării obligaţiilor impuse furnizorilor de reţele şi de servicii de comunicaţii electronice prin autorizaţiile generale;
+...................................................................
+4. adoptarea Planului naţional de numerotatie şi a oricăror modificări ale acestuia, sub rezerva restrictiilor impuse din motive de siguranţă naţionala;
+..................................................................
+15. atribuţiile care revin autorităţii de reglementare în temeiul prevederilor Ordonanţei Guvernului nr. 31/2002 privind serviciile poştale, publicată în Monitorul Oficial al României, Partea I, nr. 87 din 1 februarie 2002;"
+26. Alineatul (2) al articolului 55 va avea următorul cuprins:
+"(2) Contravenţiile prevăzute la alin. (1) se sancţioneaza cu amendă de la 50.000.000 lei la 1.000.000.000 lei, iar pentru societăţile comerciale cu o cifra de afaceri de peste 50.000.000.000 lei, prin derogare de la dispoziţiile Ordonanţei Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, aprobată cu modificări şi completări prin Legea nr. 180/2002, cu amendă în cuantum de până la 2% din cifra de afaceri."
+27. Litera c) a articolului 66 va avea următorul cuprins:
+"c) alineatul (2) al articolului 49 din Ordonanţa Guvernului nr. 31/2002 privind serviciile poştale, publicată în Monitorul Oficial al României, Partea I, nr. 87 din 1 februarie 2002, se modifica şi va avea următorul cuprins:
+<<(2) Pentru scopurile aplicării prezentei ordonanţe atribuţiile autorităţii de reglementare sunt îndeplinite de Autoritatea Naţionala de Reglementare în Comunicaţii.>>"
+28. La articolul 66, după litera d) se introduce litera e) cu următorul cuprins:
+"e) În tot cuprinsul Legii audiovizualului nr. 504/2002 denumirea <> se înlocuieşte cu denumirea <>"
+Articolul 2
+Ordonanţa de urgenta a Guvernului nr. 79/2002, cu modificările şi completările aduse prin prezenta lege, va fi republicată în Monitorul Oficial al României, Partea I, dându-se textelor o noua numerotare.
+Această lege a fost adoptată de Senat în şedinţa din 3 octombrie 2002, cu respectarea prevederilor art. 74 alin. (1) din Constituţia României.
+p. PREŞEDINTELE SENATULUI,
+DORU IOAN TARACILA
+Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 8 octombrie 2002, cu respectarea prevederilor art. 74 alin. (1) din Constituţia României.
+PREŞEDINTELE CAMEREI DEPUTAŢILOR
+VALER DORNEANU
+Bucureşti, 29 octombrie 2002.
+Nr. 591.
+-----------

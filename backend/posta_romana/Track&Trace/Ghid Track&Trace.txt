@@ -1,0 +1,919 @@
+ 
+
+Ghid Track&Trace
+
+ 
+
+Cuprins
+
+Click pe întrebare pentru a citi răspunsul
+
+ 
+
+A. Prezentare generală
+1. Ce este Track&Trace?
+
+2. Cum funcţionează serviciul Track&Trace?
+
+ 
+
+3. Ce reprezintă primele două litere ale codului de tracking?
+4. Ce reprezintă ultimele două litere ale codului de tracking?
+5. Care este formatul codului de tracking acceptat în sistemul de Track&Trace al Poştei Române?
+
+6. Poșta Română are un serviciu de Track&Trace?
+
+7. Serviciul de Track&Trace este identic pentru persoane fizice şi persoane juridice?
+
+8. Ce informaţii oferă serviciul Track&Trace în România?
+
+ 
+
+9. Cum pot verifica/căuta o trimitere poştală?
+10. Pentru ce categorii de trimiteri poştale este disponibil serviciul de Track&Trace?
+
+11. Care sunt pașii pe care trebuie să îi urmez pe site-ul Poştei Române pentru a căuta o trimitere poştală după
+codul de tracking?
+
+12. Codul de tracking primit pentru o trimitere poştală care a plecat din România poate fi folosit pentru a afla
+informaţii despre statusul acesteia pe teritoriul altei ţări?
+
+13. Ce informaţii oferă sistemele de Track&Trace disponibile pe site-urile operatorilor poștali din străinătate sau pe
+
+site-urile şi aplicaţiile de Track&Trace internaţional (exemple de site-uri)?
+
+B. Informaţii utile dacă sunteți expeditor (aţi trimis un pachet, un colet sau o scrisoare)
+
+1. Unde găsesc codul de tracking pentru coletul sau scrisoarea pe care am trimis-o?
+
+2. Care este aria unde pot urmări trimiterile poştale expediate în altă ţară cu cod de tracking?
+
+3. Cum pot verifica o trimitere poştală (scrisoare, pachet, colet) care a ieşit de pe teritoriul României?
+4. Pot verifica starea unei trimiteri poştale prin intermediul altor platforme de tracking?
+
+C. Informații utile dacă sunteţi destinatar (asteptați un pachet, un colet sau o scrisoare)
+
+1. Care sunt pașii pe care trebuie să îi urmez pe site-ul Poștei Române pentru a căuta o trimitere poștală inter-
+
+naţională după codul de tracking?
+
+ 
+
+www.posta-romana.ro
+
+Cuprins
+
+Click pe întrebare pentru a citi răspunsul
+
+ 
+
+2. Unde găsesc codul de tracking pentru pachetul pe care l-am comandat pe un site din străinătate?
+
+ 
+
+3. Am primit un număr de înregistrare pentru un pachet conţinând o comanda de pe un site străin (de exemplu
+aliexpress.com), dar nu il pot folosi pe site-ul Poștei Române. Ce pot să fac?
+
+4. Când pot primi informaţii despre trimiterile poștale internaţionale?
+
+5. De ce durează atât de mult până când codul de tracking al pachetului pe care l-am comandat de pe aliex-
+press.com este recunoscut de sistemul de Track&Trace al Poștei Române? Cum este posibil ca un colet să facă o
+săptămână din China și apoi să stea două săptămâni în prelucrare în BSI?
+
+6.
+
+7. Am un cod de tracking pentru coletul/pachetul/scrisoarea pe care o astept. De ce nu apare în sistemul
+Track&Trace de pe site-ul Poştei Române?
+
+8. Am comandat mai multe produse de pe site-uri de magazine online din străinătate și am primit niște numere de
+referinţă şi numere de comandă. De ce nu pot urmări coletele în sistemul Track&Trace al Poştei Române folosind
+
+aceste numere?
+
+9. Coletul poștal pe care trebuie să îl primesc a intrat în România. Ce ar trebui să fac?
+
+10. De ce o aplicaţie de tracking internaţional îmi spune ca pachetul meu a ajuns în România dar pe site-ul Poştei
+Române mi se spune că codul de tracking introdus nu este valid?
+
+11. Deceoaplicaţie de tracking internaţional îmi spune ca pachetul sau scrisoarea pe care le aștept au fost
+livrate, i ar sistemul de Track&Trace al Poştei Române îmi indică alt status?
+
+12. Statusul trimiterii poştale pe care urmează să o primesc este: “În prelucrare — BSI Bucureşti”, Ce înseamnă
+acest | ucru?
+
+ 
+
+13. Care este durata de prelucrare a unei trimiteri poștale în cadrul BSI (Biroul de Schimb Internaţional)?
+14. Pot merge să ridic trimiterea poștală sau pot obține informaţii despre aceasta direct de la BSI Bucureşti?
+
+15. Dece în judeţul de care aparţin nu există decât un singur oficiu cu asistenţă vamală? De ce nu deschideţi mai
+multe oficii cu asistenţă vamală?
+
+16. Statusul trimiterii poştale pe care urmează să o primesc este: “Programat pentru predare începând cu această
+dată - Subunitatea poștală”. Ce înseamnă acest lucru?
+
+ 
+
+ 
+
+www.posta-romana.ro
+
+A. Prezentare generală
+
+ 
+
+1. Ce este Track&Trace?
+
+Track&Trace este un serviciu computerizat care permite
+monitorizarea electronică a parcursului unei trimiteri poștale
+înregistrate și care are cod de tracking. Prin intermediul
+sistemului Track&Trace pot fi aflate starea și locul unde se află o
+trimitere poștală, la un moment dat. Termenul a fost folosit pentru
+prima dată în Statele Unite pentru a le permite clienţilor să
+determine poziția fizică a trimiterilor aflate în rețeaua poștală.
+Sistemul a fost folosit iniţial de către operatori poştali precum UPS
+şi DHL pentru a le oferi clienţilor săi posibilitatea de a localiza
+coletele și documentele livrate în regim rapid, acest lucru fiind
+des întâlnit în ziua de azi în industria logistică. La fiecare centru de
+prelucrare, bunurile sunt identificate şi informaţia este transmisă
+către software-ul care va permite să determinaţi starea expediției.
+Înapoi la cuprins
+
+ 
+
+2. Cum funcţionează serviciul Track&Trace?
+
+Serviciul Track&Trace funcţionează pe baza unui cod sau număr de tracking (denumit uneori și număr AWB), format
+din 13 caractere alfa-numerice (mai multe detalii despre structura codului de tracking aici). Acest cod de tracking
+este alocat în oficiul poștal fiecărei trimiteri poștale pentru care este disponibil serviciul de Track&Trace, și este tipărit
+pe o etichetă cu cod de bare aplicată pe trimiterea poștală. La fiecare prelucrare a trimiterii poștale, codul de tracking
+tipărit pe eticheta respectivă este scanat şi transmite în software-ul dedicat gestionării trimiterilor poştale informații
+despre locul în care se află aceasta la momentul interogării sistemului, precum și data și ora la care s-a făcut
+prelucrarea. Aceste informaţii pot fi accesate de expeditorul sau destinatarul trimiterii poştale pe pagina
+https://www.posta-romana.ro/track-trace.html
+
+Inapoi la cuprins
+
+3. Ce reprezintă primele două litere ale codului de tracking?
+Primele două litere ale codului de tracking oferă informaţii despre tipul trimiterii poştale, dintre care cele mai comune
+sunt următoarele (lista nu este exhaustivă):
+
+Pad
+
+Imprimat intern cu AR
+
+Pa
+Pa
+
+Imprimat extern cu AR
+Corespondenţă internă cu AR (confirmare de primire)
+Corespondenţă externă
+
+lei iesea
+
+Corespondenţă internă
+Colet poştal extern
+Colet poştal intern
+
+EMS Document/EMS Marfă
+
+(EMS = Express Mail Service, serviciu express de transmitere documente sau marfă/colete în sistem rapid
+în peste 90 de ţări din întreaga lume)
+
+[a)
+
+Pe)
+.
+
+Corespondenţă recomandată internă
+
+Pa
+
+Corespondenţă recomandaţă externă
+
+S
+
+Corespondenţă cu valoare internă
+
+E SRI
+IN
+E
+RI
+
+past
+pa
+
+Corespondenţă cu valoare externă
+
+ 
+
+Inapoi la cuprins
+
+ 
+
+www.posta-romana.ro
+
+A. Prezentare generală
+
+ 
+
+4. Ce reprezintă ultimele două litere ale codului de tracking?
+
+Ultimele două litere reprezintă codul ISO al ţării din care este expediată trimiterea.
+
+(de ex. RO - România, CN - China, SG - Singapore, DE - Germania etc.)
+
+Totodată, vă menţionăm că statusul unei trimiteri poștale nu poate fi verificat după nume sau adresă.
+Inapoi la cuprins
+
+5. Care este formatul codului de tracking acceptat în sistemul de Track&Trace al Poştei Române?
+
+Codul de tracking acceptat în sistemul de tracking al Poștei Române respectă standardul S10 al Uniunii Poștale
+Universale, fiind format din 13 caractere (exclusiv cifre şi litere, fără spaţii, semne de punctuație sau simboluri),
+de ex. EE123456789XX. Pot exista și excepţii de la codul standard de 13 caractere în schimburile dintre operatorii
+poștali (exemplu: coletele poștale sosite din Olanda au codul: 3S urmat de 4 caractere alfanumerice și 7 numerice;
+cele sosite din Germania: 12 caractere numerice). Aceste coduri pot fi de asemenea urmarite pe site-ul:
+https://www.posta-romana.ro/track-trace.html.
+
+Înapoi la cuprins
+
+6. Poşta Română are un serviciu de Track&Trace?
+Da, Poşta Română oferă un serviciu de Track&Trace pe site-ul https://www.posta-romana.ro/track-trace.html.
+
+ 
+
+Urmărirea electronică a trimiterilor poștale este însă disponibilă doar pe teritoriul României, și doar pentru anumite
+tipuri de servicii poștale. Lista serviciilor poştale pentru care se oferă număr de tracking și pentru care este disponibil
+serviciul de Track&Trace o găsiţi aici.
+
+    
+       
+ 
+
+Liei e A)
+
+a Track & Trace
+
+Calculator de 1;
+
+Aur SERVICII
+
+Înapoi la cuprins
+
+  
+
+7. Serviciul de Track&Trace este identic pentru persoane fizice și persoane juridice?
+
+Atât pentru persoanele fizice cât și pentru persoanele juridice care au contract cu Poșta Română, serviciul de
+Track&Trace are la bază același sistem de identificare a trimiterilor poștale prin cod de tracking, cât și același software
+care înregistrează mișcarea trimiterilor poștale și informaţii despre acestea. Totuși, pe bază de contract, Poșta
+Romana oferă clienţilor persoane juridice acces la o platforma dedicată de gestionare, creare, urmărire a trimiterilor
+poștale pe bază de AWB-uri (coduri de tracking). Aceasta platformă este disponibilă la adresa: awb.posta-romana.ro
+
+8. Ce informaţii oferă serviciul Track&Trace în România?
+Serviciul de Track&Trace pus la dispoziţia clienţilor pe site-ul | Raport detaliat:
+https://www.posta-romana.ro/track-trace.html oferă informaţii | miri oma Sarea rimieni
+
+. . . . . . . 04.07.2016 01:39 Sosit in Romania - BSI Bucuresti
+despre statusul unei trimiteri poștale exclusiv pe teritoriul | es.97206 sis priit citi pill 880 cinci
+Aniaji i ii 3 i rii i i 05.07.2016 02:00 In prelucrare - BSI Bucuresti
+
+României. Aceste informaţii se referă la stadiul prelucrării (primit de | ze Sa e e
+la expeditor, în transport, în prelucrare la oficiu, programat pentru estzai n ia peer el acu
+
+, , , Ă : n prelucrare - jucuresti
+predare, predat la destinatar), precum și la locul și data unde s-a | os.o7.20:5 or:s0 Ta preluerare - BSI Bucuresti
+= pr. i. 12.07.2016 13:42 In prelucrare - Suceava 6 - Ghiseu 2 gh
+făcut prelucrarea respectivă. Pentru a afla cum se poate urmări o A a A ate 0 aie ae
+
+AR . i ARI J , , 13.07.2016 13:21 Eee =
+
+trimitere poștală pe teritoriul altei ţări, vă rugăm să consultaţi ccastă data Suecăța 6 Calea 2
+
+18.07.2016 11:08 Predat la destinatar
+
+sistemul Track&Trace pus la dispoziție de operatorul poștal al ţării
+de destinaţie. Mai multe detalii aici. Inapoi la cuprins
+
+ 
+
+ 
+
+A. Prezentare generală
+
+ 
+
+9. Cum pot verifica/căuta o trimitere poştală?
+Trimiterile care se pot urmări pot fi vizualizate pe site-ul Poştei Române la secţiunea Track&Trace (https://www.pos-
+ta-romana.ro/track-trace.html) sau cu ajutorul aplicaţiei gratuite Poşta Română (aplicaţia pot fi descărcată deaici:
+
+APLICAȚIA MOBILĂ
+POȘTA ROMÂNĂ
+
+HreS3Ea [| scANEAZĂ CODULOR
+E | ȘI DESCARCĂ APLICAȚIA
+
+Avatable on the
+| Google Play
+
+ 
+
+Trimiterile poștale internaţionale (care au fost trimise din sau trebuie să sosească în Romania) pot fi verificate și pe
+site-urile operatorilor poștali internaționali ai țării de expediţie sau destinație (ţara din care a plecat sau unde trebuie
+să ajungă trimiterea poştală). Inapoi la cuprins
+
+10. Pentru ce categorii de trimiteri poştale este disponibil serviciul de Track&Trace?
+Sistemul de urmărire a trimiterilor poştale funcţioneaza în prezent pentru următoarele servicii poștale:
+
+CATEGORIE SERVICII INTERNE SERVICII SUPLIMENTARE
+CORESPONDENȚĂ II TKeT la UT
+
+20 Uz VALOARE DECLARATĂ
+
+ 
+
+IMPRIMATE VALOARE DECLARATĂ
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+(ID) (UIT,
+
+IMPRIMATE CU CONFIRMARE DE PRIMIRE VALOARE DECLARATĂ
+
+ 
+
+COLETE ȘI COLETE CU CONFIRMARE DE PRIMIRE VALOARE DECLARATĂ
+
+COLETE CU RAMBURS VALOARE DECLARATĂ
+
+sis
+
+ULTRAPOST
+POSTCOLLECT ȘI STAIACASĂ PLUS
+
+INTER POINT ȘI RETUR 30
+
+RO www.posta-romana.ro
+
+ 
+
+CATEGORIE SERVICII INTERNAȚIONALE SERVICII SUPLIMENTARE
+CORESPONDENȚĂ RECOMANDAT ŞI VALOARE DECLARATĂ D
+
+CORESPONDENȚĂ CU CONFIRMARE DE PRIMIRE ANU PAT
+CORESPONDENȚĂ CU RAMBURS .
+
+Luz RECOMANDAT ȘI VALOARE DECLARATĂ
+IMPRIMATE CU CONFIRMARE DE PRIMIRE AZ VeY 0-4». U7.Vy-A
+
+PACHET MIC RECOMANDAT ȘI VALOARE DECLARATĂ
+
+SACM RECOMANDAT
+COLETE ȘI COLETE CU RAMBURS
+
+[del au-Batieei lau Ilia
+
+ 
+
+Pasul 1: Accesaţi linkul: https://www.posta-romana.ro/track-trace.html
+
+https://www.posta-romana.ro/track-trace.html
+
+Pasul 2: Introduceţi codul de tracking al trimiterii poștale în câmpul dedicat
+Pasul 3: Bifaţi căsuţa “Nu sunt robot” a codului reCAPTCHA și apăsaţi butonul “Caută”
+
+Un serviciu oferit de Poșta Română
+
+EV Nu sunt robot
+
+Nu sunt robot
+
+Pasul 4: Primiţi raportul sumar al trimiterii. Pentru raportul detaliat click pe “Vezi raport detaliat”
+
+Raport sumar:
+
+Numarul trimiterii: RF 123456789 SG
+Tara de origine: Singapore
+
+Data intrarii in tara: 11.06.2016
+
+Stare actuala: Predat la destinatar
+
+Inapoi la cuprins
+
+A. Prezentare generală
+
+ 
+
+12. Codul de tracking primit pentru o trimitere poştală
+care a plecat din România poate fi folosit pentru a afla
+informații despre statusul acesteia pe teritoriul altei ţări?
+Codul de tracking aferent unei trimiteri poștale poate fi
+verificat pe site-urile operatorilor poştali de destinaţie.iin
+funcţie de acordurile poştale internaţionale la care Poșta
+Română este parte.
+
+Inapoi la cuprins
+
+ 
+
+13. Ce informaţii oferă sistemele de Track&Trace disponibile pe site-urile operatorilor poștali din străinătate
+sau pe site-urile şi aplicaţiile de Track&Trace internațional (exemple de site-uri)?
+
+Operatorii poștali internaţionali, site-urile şi aplicaţiile care oferă serviciii de Track&Trace internaţional înregistrează
+informaţii despre starea, locul şi data în care se află o trimitere la un moment determinat din timp doar pentru ţara
+de expediţie sau ţara de destinaţie, după caz (ţara din care a plecat sau în care trebuie să ajungă trimiterea poştală).
+
+Inapoi la cuprins
+
+RO www.posta-romana.ro V
+
+ 
+
+38 Die lia FR:
+
+dacă sunteţi expeditor
+
+(aţi trimis un pachet, un colet sau o scrisoare)
+
+ 
+
+1. Unde găsesc codul de tracking pentru coletul sau scrisoarea pe care am trimis-o?
+
+La expedierea unei trimiteri poştale se primeşte o chitanţă/factură emisă de oficiul poştal pe care este menţionat
+numărul de prezentare aferent trimiterii; acesta se regăsește la jumătatea paginii în partea stângă sub datele de
+identificare ale instituţiei.
+
+Exemplu cod Track&Trace Exemplu cod Track&Trace
+
+Corespondenţă internă AR Colet poștal extern
+
+Exemplu cod Track&Trace Exemplu cod Track&Trace
+Serviciul Prioripost (Curierat rapid) Serviciul Prioripost (Curierat rapid)
+
+ 
+
+“
+
+   
+
+(a = ia i
+a ie —
+E A N
+E a ai
+re n mem arma, me me e ami sară
+4 —_ —— we b
+a _. m e
+a A
+ei see 00 MII
+inapoi la cuprins E
+
+2. Care este aria unde pot urmări trimiterile poștale expediate în altă ţară cu cod de tracking?
+
+Serviciul Track&Trace disponibil pe site-ul https://www.posta-romana.ro/track-trace.html oferă informaţii despre
+trimiterile poștale cât timp acestea se află pe teritoriul României, respectiv până în momentul când au fost expediate
+din ţară (status: “Expediat din România”)
+
+ 
+
+ 
+
+Înapoi la cuprins
+
+ 
+
+www.posta-romana.ro
+
+38 Die lia FR:
+
+dacă sunteţi expeditor
+
+(aţi trimis un pachet, un colet sau o scrisoare)
+
+ 
+
+3. Cum pot verifica o trimitere poștală (scrisoare, pachet, colet) care a ieșit de pe teritoriul României?
+
+Dacă aţi expediat o trimitere poștală în altă ţară, aceasta poate fi urmărită doar până la ieșirea din România.
+În momentul în care trimiterea intră pe teritoriul țării de destinaţie, puteţi obţine informaţii pe baza numărului de
+tracking, accesând adresa web a operatorului poștal al țării de destinaţie. Spre exemplu, dacă aţi trimis un colet cu
+valoare în Spania, trebuie să introduceţi codul de tracking primit pe site-ul www.correos.es (site-ul Poștei Spaniole -
+Correos) . Mai jos puteţi găsi o listă a celor mai frecvente ţări de destinaţie, denumirea operatorilor poştali care le
+deservesc precum şi linkuri către serviciile de Track&Trace ale acestora:
+
+Austria Austrian Post “G7 Post link Luxemburg Luce ce burg [. link
+
+Belgia BPost . st link Letonia Latvia Post PASTS link
+; Bulgarian d i a PoRrsa .
+
+Bulgaria pa link Lituania Lietuvos Pastas (ED zu link
+
+BbATAPCKH NOU
+
+Cehia Czech Post Ceskă poăta link Malta Malta Post KB link
+Cipru Cyprus Post DD link Olanda PostNL D link
+
+  
+
+Croatia Croatian Post NO Hrvatska posta link Portugalia CTT - Correios RE ctt link
+
+Danemarca Post Danmark E) link Polonia  Poczta Polska link
+- Regatul Unit al
+
+Estonia Eesti Post ț= link Marii Britaniișial Royal Mail rerzza link
+
+omniva — Irlandei de Nord ei
+
+Franta LaPoste 4 2 LA PosTE link Romania Posta Romana link
+
+Finlanda  PostiLtd posti link Spania Correos | WCORREOS link
+
+, , f Posten ,
+
+Germania Deutsche Post | Deutsche Pest (0% link Suedia s veden Post 9 link
+
+Grecia Seci ai EATA link Slovacia  SlovenskâPosta  & 59, link
+
+ELTA Ea = 3 POSTA
+
+ltalia Poste ltaliane Posteitaliane link Slovenia Posta Slovenije O link
+
+— POSTA SLOVENIJE —
+
+> , ADR
+
+Irlanda AN Post E oi link Ungaria Magyar Posta PREA. ag link
+
+SUA USPS ENPI link Japonia Japan Post EP JAPAN POST link
+
+Canada Canada Post link Nigeria Nigerian Postal [sa link
+
+UD ervice ezzăsa) —
+
+China China Post PI A link Singapore  SingPost PP link
+
+Inapoi la cuprins
+
+ 
+
+www.posta-romana.ro
+
+38 Die lia FR:
+
+dacă sunteţi expeditor
+
+(aţi trimis un pachet, un colet sau o scrisoare)
+
+ 
+
+4. Pot verifica starea unei trimiteri poștale prin intermediul altor platforme de tracking?
+
+Da. Puteţi deasemenea verifica starea trimiterilor accesând una din multele platforme dedicate existente:
+17Track, Track-Trace , TrackltOnline, etc. Unele platforme de Track&Trace oferă utilizatorilor și aplicaţii mobile,
+disponibile pe Google Play și AppStore.
+
+Poșta Română nu este răspunzătoare pentru acuratețea informaţiilor prezentate pe platforme externe de tracking și
+nici pentru informaţiile eronate transmise de către acestea.
+
+17TRACK O gtrack-trace TRACK
+
+ALL-IN-ONE PACKAGE TRACKING ea Ş Datem
+
+Inapoi la cuprins
+
+ 
+
+www.posta-romana
+
+C. Informaţii utile
+
+dacă sunteţi destinatar
+
+(aşteptaţi un pachet, un colet sau o scrisoare)
+
+ 
+
+1. Care sunt pașii pe care trebuie să îi urmez pe site-ul Poștei Române pentru a căuta o trimitere poștală
+internațională după codul de tracking?
+Pasul 1: Accesaţi linkul: https://www.posta-romana.ro/track-trace.html
+
+ht www.posta-romana.ro/track-trace.html
+
+ 
+
+Pasul 2: Introduceţi codul de tracking al trimiterii poștale în câmpul dedicat
+
+CAUTĂ ÎN ROMÂNIA
+
+Un serviciu oferit de Poșta Română
+
+ 
+
+Nu sunt robot
+
+CAUTĂ ÎN ROMÂNIA
+
+Un serviciu oferit de Poșta Română
+
+Vf Nu sunt robot
+
+Nu sunt robot
+
+ 
+
+Pasul 4: Primiţi raportul sumar al trimiterii. Pentru raportul detaliat click pe “Vezi raport detaliat”
+
+CAUTĂ ÎN ROMÂNIA
+
+Un serviciu oferit de Poşta Română
+
+ 
+
+RF123456789SG
+Cauta
+Raport sumar:
+Numarul trimiterii: RF123456789SG
+Tara de origine Singapore
+Data intrarii in tara: 11.06.2016
+Stare actuala Predat la destinatar
+
+Vrei sa primesti notificare( VEZI RAPORT DETALIAT
+prin email? Click aici!
+
+ 
+
+ 
+
+ 
+
+Inapoi la cuprins
+
+RO www.posta-romana.ro 11
+
+ 
+
+Li
+dacă sunteţi destinatar
+
+(aşteptaţi un pachet, un colet sau o scrisoare)
+
+C. informaţi
+
+ 
+
+2. Unde găsesc codul de tracking pentru pachetul pe care l-am comandat pe un site din străinătate?
+
+În cazul în care expeditorul utilizează un serviciu poştal care oferă cod de tracking, acesta vă este comunicat prin
+e-mail, sau în spaţiul dedicat din contul pe care dvs. l-aţi creat pe acel site. Condiţia ca acest cod să poată fi utilizat
+pe site-ul Poştei Române este ca el să fie conform standardului S10 UPU (13 caractere, dintre care noua numerice și
+patru alfabetice).
+
+Înapoi la cuprins
+
+3. Am primit un număr de înregistrare pentru un pachet conţinând o comandă de pe un site străin (de
+exemplu aliexpress.com), dar nu il pot folosi pe site-ul Poştei Române. Ce pot să fac?
+
+Dacă nu v-aţi asigurat de la început că veţi primi un cod de tracking care respectă standardul S10 UPU, din păcate nu
+mai puteţi face nimic, pentru că informaţiile despre starea unei trimiteri nu se pot obţine nici pe baza numelui,
+prenumelui şi/sau adresei expeditorului, şi nici pe baza unui număr de referinţă/inregistrare care nu respectă
+standardul descris mai sus.
+
+Întrucât codul de tracking acceptat în sistemul Poştei Române este doar cel care respectă standardul S10 UPU, vă
+rugăm să vă asiguraţi întotdeauna pe site-ul expeditorului că alegeţi un serviciu poștal care alocă numere de
+tracking valide, pe care să le puteţi utiliza pe site-ul www.posta-romana.ro. Unii expeditori oferă servicii poştale de
+bază (corespondenţă simplă înregistrată), care alocă doar numere de înregistrare interne, numere de comandă sau
+numere de referință. Acestea nu pot fi utilizate în sistemul Track&Trace al Poştei Române.
+
+Inapoi la cuprins
+
+4. Când pot primi informaţii despre trimiterile poştale internaționale?
+Puteţi urmări o trimitere poștală doar după ce aceasta a intrat pe teritoriul României și a fost prelucrată (scanată)
+pentru înregistrare în software-ul intern.
+
+Înapoi la cuprins
+
+5. De ce durează atât de mult până când codul de tracking al pachetului pe care l-am comandat in luna
+decembrie de pe aliexpress.com este recunoscut de sistemul de Track&Trace al Poştei Române? Cum este
+posibil ca un colet să facă o săptămână din China și apoi să stea două săptămâni în prelucrare în BSI?
+
+Perioada decembrie-ianuarie este o perioadă
+în care volumul traficului poștal internaţional
+cunoaşte o creştere semnificativă față de
+restul perioadei din an, motiv pentru care
+sunt întârzieri în prelucrarea și distribuirea
+acestora. Acest fapt a fost prevăzut de către
+Poșta Română, motiv pentru care au fost
+întocmite adrese de înştiinţare, astfel încât
+clienţii Poştei Române să fie informaţi de
+întârzieri în prelucrare și distribuire a
+trimiterilor poștale internaţionale.
+
+ 
+
+Înapoi la cuprins
+
+ 
+
+Li
+dacă sunteţi destinatar
+
+(aşteptaţi un pachet, un colet sau o scrisoare)
+
+C. informaţi
+
+ 
+
+Înapoi la cuprins
+
+7. Am un cod de tracking pentru coletul/pachetul/scrisoarea pe care o aştept. De ce nu apare în sistemul
+Track&Trace de pe site-ul Poștei Române?
+
+Dacă trimiterea dvs nu apare în sistemul Track&Trace înseamnă că aceasta nu figurează intrată în sistemul nostru
+poștal. Pe baza numărului de prezentare al trimiterii, puteţi obține informaţii despre aceasta, numai în momentul în
+care va intra în sistemul poștal, respectiv va fi prelucrată și scanată pentru înregistrare în software-ul intern al Poştei
+Române.
+
+Înapoi la cuprins
+
+8. Am comandat mai multe produse de pe site-uri de magazine online din străinătate și am primit nişte
+numere de referinţă şi numere de comandă. De ce nu pot urmări coletele în sistemul Track&Trace al Poştei
+Române folosind aceste numere?
+
+Un pachet expediat din străinătate către un destinatar din România poate fi monitorizat și urmărit pe teritoriul țării
+doar dacă circulă înregistrat, respectiv are un cod de tracking format din 13 cifre și litere, care respectă standardul
+S10 UPU.
+
+De cele mai multe ori, datorita preţului mai redus, expeditorul din străinătate alege să trimită comenzile făcute prin
+intermediul serviciului de Corespondenţă Simplă (pachet mic). Acest serviciu este neînregistrat (nu are cod de
+tracking conform standardului S10 UPU); astfel această modalitate de expediere nu oferă destinatarului din România
+posibilitatea urmăririi pachetului în sistemul Track&Trace, și implicit, pune cel mai adesea probleme de localizare și
+livrare a expediției.
+
+Pentru a evita aceste situaţii, se recomandă persoanelor care fac cumpărături pe site-urile de e-commerce din
+străinătate (aliexpress.com, e-bay sau orice alt site care permite achiziţionarea de produse între persoane fizice), să
+contacteze pe cat posibil vânzătorul și să solicite ca bunul achiziționat să fie expediat printr-un serviciu care oferă
+cod de tracking, și nu prin corespondenţă simplă (pachet mic). Inapoi la cuprins
+
+RO www.posta-romana.ro 13
+
+ 
+
+Li
+dacă sunteţi destinatar
+
+(aşteptaţi un pachet, un colet sau o scrisoare)
+
+C. informaţi
+
+ 
+
+9. Coletul poștal pe care trebuie să îl primesc a intrat în România. Ce ar trebui să fac?
+
+Coletele poștale interne și cele sosite din Uniunea Europeană ajung la oficiul poștal care vă deservește, iar coletele
+cu conţinut necomunitar și cele sosite din afara ţărilor Uniunii Europene sunt supuse controlului vamal și ajung la
+oficiul poştal cu asistenţă vamală (pentru coletele poştale/pachete mici cu conţinut necomunitar și cele sosite din
+ţări non UE adresate destinatarilor din Municipiul Bucureşti şi judeţul Ilfov există posibilitatea ca procesul de vămuire
+să aibă loc la nivelul BSI (Biroul de Schimb Internaţional) prin serviciul de comisionariat vamal).
+
+   
+
+Lista OFICIU PO'TAL
+subunităților poştale
+
+cu asistenţă vamală
+
+poate fi consultată
+
+Inapoi la cuprins AICI —
+
+10. De ce o aplicaţie de tracking internaţional îmi spune că pachetul meu a ajuns în România dar pe site-ul
+Poștei Române mi se spune că codul de tracking introdus nu este valid?
+
+Dacă trimiterea dvs. nu apare în sistemul Track&Trace al Poștei Române, înseamnă că aceasta nu figurează intrată în
+sistemul nostru poștal, respectiv trimiterea poștală (scrisoarea, pachetul sau coletul) dvs. nu a fost încă scanată
+pentru a se înregistra informaţii despre ea în software-ul intern al Poștei Române. Atunci când apar perturbări ale
+traficului aerian international și în perioadele aglomerate, pot apărea întârzieri în prelucrare iar codurile de tracking
+pentru trimiterile poștale intrate în ţară nu sunt recunoscute de sistemul de Track&Trace chiar dacă sunt valide. În
+acest caz este nevoie să reveniţi periodic pe site-ul Poştei Române pentru a primi informaţii actualizate în momentul
+în care va intra în sistemul poștal.
+
+Inapoi la cuprins
+
+11. De ce o aplicaţie de tracking internaţional îmi spune că pachetul sau scrisoarea pe care le aştept au fost
+livrate, iar sistemul de Track&Trace al Poștei Române imi indică alt status?
+
+Poşta Română nu este răspunzătoare pentru acurateţea informaţiilor prezentate pe platforme externe de tracking și
+nici pentru informaţiile eronate transmise de către acestea. Informaţii actualizate și valide despre statusul unei
+trimiteri poștale pe teritoriul României pot fi obţinute numai prin intermediul serviciului Track&Trace oferit pe site-ul
+https://www.posta-romana.ro/track-trace.html Înapoi la cuprins
+
+12. Statusul trimiterii poștale pe care urmează să o primesc este:“În prelucrare - BSI București”, Ce înseamnă
+acest lucru?
+
+Trimiterile poştale aflate în prelucrare la BSI (Biroul de Schimb Internaţional) sunt supuse operaţiunilor specifice
+interne, urmând a fi îndrumate după caz, pentru formalităţile vamale sau către subunitățile poştale de transport şi
+distribuire.
+
+Inapoi la cuprins (o 000 0) (o 000 0) (o 000 )) (o 000 o)
+
+RO www.posta-romana.ro 14
+
+ 
+
+Durata de staţionare a unei trimiteri poştale în
+BSI poate varia în funcţie de volumul de trimiteri
+sosite în ţară şi procedura de vămuire/
+distribuire.
+
+Conform normelor interne din cadrul Poștei
+Române, durata de prelucrare este de 1 zi de la
+sosire, exceptând cazurile cu trimiteri aflate în
+sold datorate unor perioade de vârf
+(exemplu: perioada sărbătorilor de iarnă, etc).
+
+Inapoi la cuprins
+
+Nu. Vă informăm că BSI (Biroul de Schimb Internaţional) nu lucrează cu publicul, fiind o structură care gestionează
+preluarea, prelucrarea și îndrumarea tuturor trimiterilor poștale internaţionale către subunitățile poștale care
+deservesc adresa destinatarului, după îndeplinirea formalităţilor vamale. Din acest motiv nu pot fi obţinute telefonic
+
+informaţii despre statusul acestor trimiteri.
+Înapoi la cuprins
+
+Subunităţile poștale în cadrul cărora se desfășoara operațiuni de vămuire sunt considerate locuri desemnate de
+autoritatea vamală. Înfiinţarea/desființarea acestora se poate face numai cu acordul autorității vamale. Poșta
+Română a înaintat autorităţii vamale propuneri privind optimizarea activității de vămuire care se deruleaza în
+subunitățile poștale cu asistență vamală (extinderea programului de lucru, suplimentarea personalului vamal)
+precum şi propuneri de înfiinţare a unor noi subunități poştale cu asistență vamală, propuneri formulate ţinând cont
+de volumul de colete poștale extracomunitare înregistrat.
+
+Înapoi la cuprins
+
+  
+ 
+ 
+
+EXPORT
+
+IMPORT
+[EI
+
+ 
+
+ 
+
+ 
+
+ 
+
+ză Customs
+
+ 
+
+ 
+
+C. Informaţii utile
+
+dacă sunteţi destinatar
+
+(aşteptaţi un pachet, un colet sau o scrisoare)
+
+ 
+
+16. Statusul trimiterii poștale pe care urmează să o a „A £
+
+primesc este: “Programat pentru predare începând cu Ă Să
+
+această dată - Subunitatea poștală”, Ce înseamnă An
+acest lucru? N ” |
+Începând cu data înregistrată în raportul Track&Trace
+
+urmează să primiţi în cutia dvs. poștală avizul prin care
+
+sunteţi înștiințat în ce zi să vă prezentați la subunitatea
+
+poștală pentru a ridica trimiterea.
+
+În cazul în care nu primiţi avizul, puteţi ridica trimiterea şi
+
+fără acesta, în baza actului de legitimare și a numărului de
+
+prezentare, conform programului orar al oficiului poştal.
+
+     
+
+inapoi la cuprins
+
+ 
+
+www.posta-romana.ro
+

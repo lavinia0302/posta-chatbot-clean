@@ -1,0 +1,340 @@
+2025-08-04 10:30:24,977 - INFO - Pornire proces ingest
+2025-08-04 10:30:24,980 - WARNING - Eroare la citirea posta_romana\Legislație\Decizii ANCOM - Auditare şi situaţii financiare\Decizia nr. 66.2006 pentru modificarea şi completarea Deciziei Preşedintelui ANRC nr.1480.2005 privind condiţiile de întocmire şi auditare a situaţiilor financiare separate de către Compania Naţională Poşta Română S.A..txt: [Errno 2] No such file or directory: 'posta_romana\\Legislație\\Decizii ANCOM - Auditare şi situaţii financiare\\Decizia nr. 66.2006 pentru modificarea şi completarea Deciziei Preşedintelui ANRC nr.1480.2005 privind condiţiile de întocmire şi auditare a situaţiilor financiare separate de către Compania Naţională Poşta Română S.A..txt'
+2025-08-04 10:30:24,987 - WARNING - Eroare la citirea posta_romana\Legislație\Decizii ANCOM - Auditare şi situaţii financiare\Decizia preşedintelui Autoritaţii Naţionale pentru Administrare şi Reglementare în Comunicaţii nr. 976.2012 privind condiţiile de întocmire şi auditare a situatiilor financiare separate de către Compania Naţională Poşta Româna S.A..txt: [Errno 2] No such file or directory: 'posta_romana\\Legislație\\Decizii ANCOM - Auditare şi situaţii financiare\\Decizia preşedintelui Autoritaţii Naţionale pentru Administrare şi Reglementare în Comunicaţii nr. 976.2012 privind condiţiile de întocmire şi auditare a situatiilor financiare separate de către Compania Naţională Poşta Româna S.A..txt'
+2025-08-04 10:30:24,987 - WARNING - Eroare la citirea posta_romana\Legislație\Decizii ANCOM - Timbre şi emisiuni filatelice\Decizia nr. 968,.2011 privind planurile emisiunilor filatelice, condiţiile de emitere, tipărire, punere în circulaţie, retragere din circulaţie şi de comercializare a timbrelor.txt: [Errno 2] No such file or directory: 'posta_romana\\Legislație\\Decizii ANCOM - Timbre şi emisiuni filatelice\\Decizia nr. 968,.2011 privind planurile emisiunilor filatelice, condiţiile de emitere, tipărire, punere în circulaţie, retragere din circulaţie şi de comercializare a timbrelor.txt'
+2025-08-04 10:30:24,988 - WARNING - Eroare la citirea posta_romana\Legislație\Decizii ANCOM - Timbre şi emisiuni filatelice\Referat de aprobare la proiectul Deciziei preşedintelui Autorităţii Naţionale pentru Administrare şi Reglementare în Comunicaţii privind planurile emisiunilor filatelice, condiţiile de emitere, tipărire, punere în circulaţie.txt: [Errno 2] No such file or directory: 'posta_romana\\Legislație\\Decizii ANCOM - Timbre şi emisiuni filatelice\\Referat de aprobare la proiectul Deciziei preşedintelui Autorităţii Naţionale pentru Administrare şi Reglementare în Comunicaţii privind planurile emisiunilor filatelice, condiţiile de emitere, tipărire, punere în circulaţie.txt'
+2025-08-04 10:30:25,003 - INFO - Procesare 169 fișiere modificate
+2025-08-04 10:30:25,864 - ERROR - Proces terminat cu erori
+2025-08-04 10:32:47,719 - INFO - Pornire proces ingest
+2025-08-04 10:32:47,810 - ERROR - Eroare critică: Can't pickle local object 'safe_file_operation.<locals>.wrapper'
+Traceback (most recent call last):
+  File "D:\AB\Desktop\posta_chatbot\ingest.py", line 161, in <module>
+    success = load_and_process_documents()
+  File "D:\AB\Desktop\posta_chatbot\ingest.py", line 127, in load_and_process_documents
+    results = list(tqdm(pool.imap(process_file, all_files), total=len(all_files), desc="Procesare"))
+  File "D:\AB\Desktop\posta_chatbot\venv\lib\site-packages\tqdm\std.py", line 1181, in __iter__
+    for obj in iterable:
+  File "C:\Users\pn\AppData\Local\Programs\Python\Python39\lib\multiprocessing\pool.py", line 870, in next
+    raise value
+  File "C:\Users\pn\AppData\Local\Programs\Python\Python39\lib\multiprocessing\pool.py", line 537, in _handle_tasks
+    put(task)
+  File "C:\Users\pn\AppData\Local\Programs\Python\Python39\lib\multiprocessing\connection.py", line 211, in send
+    self._send_bytes(_ForkingPickler.dumps(obj))
+  File "C:\Users\pn\AppData\Local\Programs\Python\Python39\lib\multiprocessing\reduction.py", line 51, in dumps
+    cls(buf, protocol).dump(obj)
+AttributeError: Can't pickle local object 'safe_file_operation.<locals>.wrapper'
+2025-08-04 10:34:33,168 - INFO - Pornire proces ingest
+2025-08-04 10:34:33,181 - WARNING - Fișierul nu există: posta_romana\Legislație\Decizii ANCOM - Auditare şi situaţii financiare\Decizia nr. 66.2006 pentru modificarea şi completarea Deciziei Preşedintelui ANRC nr.1480.2005 privind condiţiile de întocmire şi auditare a situaţiilor financiare separate de către Compania Naţională Poşta Română S.A..txt
+2025-08-04 10:34:33,181 - WARNING - Fișierul nu există: posta_romana\Legislație\Decizii ANCOM - Auditare şi situaţii financiare\Decizia preşedintelui Autoritaţii Naţionale pentru Administrare şi Reglementare în Comunicaţii nr. 976.2012 privind condiţiile de întocmire şi auditare a situatiilor financiare separate de către Compania Naţională Poşta Româna S.A..txt
+2025-08-04 10:34:33,183 - WARNING - Fișierul nu există: posta_romana\Legislație\Decizii ANCOM - Timbre şi emisiuni filatelice\Decizia nr. 968,.2011 privind planurile emisiunilor filatelice, condiţiile de emitere, tipărire, punere în circulaţie, retragere din circulaţie şi de comercializare a timbrelor.txt
+2025-08-04 10:34:33,183 - WARNING - Fișierul nu există: posta_romana\Legislație\Decizii ANCOM - Timbre şi emisiuni filatelice\Referat de aprobare la proiectul Deciziei preşedintelui Autorităţii Naţionale pentru Administrare şi Reglementare în Comunicaţii privind planurile emisiunilor filatelice, condiţiile de emitere, tipărire, punere în circulaţie.txt
+2025-08-04 10:34:37,095 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 10:37:00,098 - INFO - Loading faiss with AVX2 support.
+2025-08-04 10:37:00,119 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 10:37:00,123 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 10:37:00,215 - INFO - Vectorstore creat cu 4713 chunk-uri
+2025-08-04 10:37:00,218 - INFO - Proces finalizat cu succes
+2025-08-04 10:40:44,145 - INFO - Pornire proces ingest
+2025-08-04 10:40:44,162 - WARNING - Fișierul nu există: posta_romana\Legislație\Decizii ANCOM - Auditare şi situaţii financiare\Decizia nr. 66.2006 pentru modificarea şi completarea Deciziei Preşedintelui ANRC nr.1480.2005 privind condiţiile de întocmire şi auditare a situaţiilor financiare separate de către Compania Naţională Poşta Română S.A..txt
+2025-08-04 10:40:44,162 - WARNING - Fișierul nu există: posta_romana\Legislație\Decizii ANCOM - Auditare şi situaţii financiare\Decizia preşedintelui Autoritaţii Naţionale pentru Administrare şi Reglementare în Comunicaţii nr. 976.2012 privind condiţiile de întocmire şi auditare a situatiilor financiare separate de către Compania Naţională Poşta Româna S.A..txt
+2025-08-04 10:40:44,164 - WARNING - Fișierul nu există: posta_romana\Legislație\Decizii ANCOM - Timbre şi emisiuni filatelice\Decizia nr. 968,.2011 privind planurile emisiunilor filatelice, condiţiile de emitere, tipărire, punere în circulaţie, retragere din circulaţie şi de comercializare a timbrelor.txt
+2025-08-04 10:40:44,164 - WARNING - Fișierul nu există: posta_romana\Legislație\Decizii ANCOM - Timbre şi emisiuni filatelice\Referat de aprobare la proiectul Deciziei preşedintelui Autorităţii Naţionale pentru Administrare şi Reglementare în Comunicaţii privind planurile emisiunilor filatelice, condiţiile de emitere, tipărire, punere în circulaţie.txt
+2025-08-04 10:40:48,005 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 10:43:10,191 - INFO - Loading faiss with AVX2 support.
+2025-08-04 10:43:10,208 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 10:43:10,212 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 10:43:10,305 - INFO - Vectorstore creat cu 4713 chunk-uri
+2025-08-04 10:43:10,309 - INFO - Proces finalizat cu succes
+2025-08-04 10:49:38,686 - INFO - Pornire proces ingest
+2025-08-04 10:49:38,690 - INFO - Fișiere .txt identificate: 173
+2025-08-04 10:49:40,095 - INFO - Documente valide găsite: 173
+2025-08-04 10:49:40,163 - INFO - Chunk-uri create: 3897
+2025-08-04 10:49:43,917 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 10:49:48,708 - INFO - Creare vectorstore...
+2025-08-04 10:52:42,992 - INFO - Loading faiss with AVX2 support.
+2025-08-04 10:52:43,010 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 10:52:43,010 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 10:52:43,010 - ERROR - Eroare la crearea vectorstore: __init__() got an unexpected keyword argument 'progress_bar'
+Traceback (most recent call last):
+  File "D:\AB\Desktop\posta_chatbot\ingest.py", line 143, in load_and_process_documents
+    vectorstore = FAISS.from_documents(
+  File "D:\AB\Desktop\posta_chatbot\venv\lib\site-packages\langchain_core\vectorstores\base.py", line 848, in from_documents
+    return cls.from_texts(texts, embedding, metadatas=metadatas, **kwargs)
+  File "D:\AB\Desktop\posta_chatbot\venv\lib\site-packages\langchain_community\vectorstores\faiss.py", line 1044, in from_texts
+    return cls.__from(
+  File "D:\AB\Desktop\posta_chatbot\venv\lib\site-packages\langchain_community\vectorstores\faiss.py", line 1004, in __from
+    vecstore = cls(
+TypeError: __init__() got an unexpected keyword argument 'progress_bar'
+2025-08-04 10:52:43,031 - ERROR - Proces terminat cu erori
+2025-08-04 10:52:53,827 - INFO - Pornire proces ingest
+2025-08-04 10:52:53,831 - INFO - Fișiere .txt identificate: 173
+2025-08-04 10:52:55,092 - INFO - Documente valide găsite: 173
+2025-08-04 10:52:55,151 - INFO - Chunk-uri create: 3897
+2025-08-04 10:52:58,924 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 10:53:03,889 - INFO - Creare vectorstore...
+2025-08-04 10:56:03,257 - INFO - Loading faiss with AVX2 support.
+2025-08-04 10:56:03,277 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 10:56:03,282 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 10:56:03,283 - ERROR - Eroare la crearea vectorstore: __init__() got an unexpected keyword argument 'progress_bar'
+Traceback (most recent call last):
+  File "D:\AB\Desktop\posta_chatbot\ingest.py", line 143, in load_and_process_documents
+    vectorstore = FAISS.from_documents(
+  File "D:\AB\Desktop\posta_chatbot\venv\lib\site-packages\langchain_core\vectorstores\base.py", line 848, in from_documents
+    return cls.from_texts(texts, embedding, metadatas=metadatas, **kwargs)
+  File "D:\AB\Desktop\posta_chatbot\venv\lib\site-packages\langchain_community\vectorstores\faiss.py", line 1044, in from_texts
+    return cls.__from(
+  File "D:\AB\Desktop\posta_chatbot\venv\lib\site-packages\langchain_community\vectorstores\faiss.py", line 1004, in __from
+    vecstore = cls(
+TypeError: __init__() got an unexpected keyword argument 'progress_bar'
+2025-08-04 10:56:03,295 - ERROR - Proces terminat cu erori
+2025-08-04 11:01:54,116 - INFO - Pornire proces ingest
+2025-08-04 11:01:54,116 - INFO - Fișiere .txt identificate: 173
+2025-08-04 11:01:55,360 - INFO - Documente valide găsite: 173
+2025-08-04 11:01:55,419 - INFO - Chunk-uri create: 3897
+2025-08-04 11:01:59,047 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 11:02:04,892 - INFO - Creare vectorstore...
+2025-08-04 11:04:30,966 - INFO - Loading faiss with AVX2 support.
+2025-08-04 11:04:30,990 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 11:04:30,990 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 11:04:30,990 - ERROR - Eroare la crearea vectorstore: __init__() got an unexpected keyword argument 'progress_bar'
+Traceback (most recent call last):
+  File "D:\AB\Desktop\posta_chatbot\ingest.py", line 143, in load_and_process_documents
+    vectorstore = FAISS.from_documents(
+  File "D:\AB\Desktop\posta_chatbot\venv\lib\site-packages\langchain_core\vectorstores\base.py", line 848, in from_documents
+    return cls.from_texts(texts, embedding, metadatas=metadatas, **kwargs)
+  File "D:\AB\Desktop\posta_chatbot\venv\lib\site-packages\langchain_community\vectorstores\faiss.py", line 1044, in from_texts
+    return cls.__from(
+  File "D:\AB\Desktop\posta_chatbot\venv\lib\site-packages\langchain_community\vectorstores\faiss.py", line 1004, in __from
+    vecstore = cls(
+TypeError: __init__() got an unexpected keyword argument 'progress_bar'
+2025-08-04 11:04:31,010 - ERROR - Proces terminat cu erori
+2025-08-04 11:05:03,096 - INFO - Pornire proces ingest
+2025-08-04 11:05:03,096 - INFO - Fișiere .txt găsite: 173
+2025-08-04 11:05:04,344 - INFO - Documente valide găsite: 173
+2025-08-04 11:05:04,420 - INFO - Chunk-uri create: 4818
+2025-08-04 11:05:07,934 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 11:05:13,177 - INFO - Creare vectorstore...
+2025-08-04 11:07:29,756 - INFO - Loading faiss with AVX2 support.
+2025-08-04 11:07:29,792 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 11:07:29,796 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 11:07:29,796 - ERROR - Eroare la crearea vectorstore: __init__() got an unexpected keyword argument 'progress_bar'
+Traceback (most recent call last):
+  File "D:\AB\Desktop\posta_chatbot\ingest.py", line 143, in load_and_process_documents
+    vectorstore = FAISS.from_documents(
+  File "D:\AB\Desktop\posta_chatbot\venv\lib\site-packages\langchain_core\vectorstores\base.py", line 848, in from_documents
+    return cls.from_texts(texts, embedding, metadatas=metadatas, **kwargs)
+  File "D:\AB\Desktop\posta_chatbot\venv\lib\site-packages\langchain_community\vectorstores\faiss.py", line 1044, in from_texts
+    return cls.__from(
+  File "D:\AB\Desktop\posta_chatbot\venv\lib\site-packages\langchain_community\vectorstores\faiss.py", line 1004, in __from
+    vecstore = cls(
+TypeError: __init__() got an unexpected keyword argument 'progress_bar'
+2025-08-04 11:07:29,812 - ERROR - Proces terminat cu erori
+2025-08-04 11:10:43,457 - INFO - Pornire proces ingest
+2025-08-04 11:10:43,463 - INFO - Fișiere .txt identificate: 173
+2025-08-04 11:10:44,757 - INFO - Documente valide găsite: 173
+2025-08-04 11:10:44,813 - INFO - Chunk-uri create: 3897
+2025-08-04 11:10:48,529 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 11:10:53,343 - INFO - Creare vectorstore...
+2025-08-04 11:13:54,123 - INFO - Loading faiss with AVX2 support.
+2025-08-04 11:13:54,141 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 11:13:54,143 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 11:13:54,225 - INFO - Vectorstore creat cu 3897 chunk-uri
+2025-08-04 11:13:54,227 - INFO - Proces finalizat cu succes
+2025-08-04 12:19:33,728 - INFO - Pornire proces ingest
+2025-08-04 12:19:33,737 - INFO - Fișiere .txt identificate: 173
+2025-08-04 12:19:35,021 - INFO - Documente valide găsite: 173
+2025-08-04 12:19:35,077 - INFO - Chunk-uri create: 3897
+2025-08-04 12:19:39,838 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 12:19:44,824 - INFO - Creare vectorstore...
+2025-08-04 12:22:13,837 - INFO - Loading faiss with AVX2 support.
+2025-08-04 12:22:13,881 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 12:22:13,885 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 12:22:13,957 - INFO - Vectorstore creat cu 3897 chunk-uri
+2025-08-04 12:22:13,966 - INFO - Proces finalizat cu succes
+2025-08-04 12:43:24,368 - INFO - Pornire proces ingest
+2025-08-04 12:43:24,378 - INFO - Fișiere .txt identificate: 173
+2025-08-04 12:43:25,721 - INFO - Documente valide găsite: 173
+2025-08-04 12:43:25,791 - INFO - Chunk-uri create: 3897
+2025-08-04 12:43:30,359 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 12:43:35,406 - INFO - Creare vectorstore...
+2025-08-04 12:46:30,478 - INFO - Loading faiss with AVX2 support.
+2025-08-04 12:46:30,529 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 12:46:30,529 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 12:46:30,628 - INFO - Vectorstore creat cu 3897 chunk-uri
+2025-08-04 12:46:30,641 - INFO - Proces finalizat cu succes
+2025-08-04 12:57:26,319 - INFO - Pornire proces ingest
+2025-08-04 12:57:26,319 - INFO - Fișiere .txt identificate: 173
+2025-08-04 12:57:27,671 - INFO - Documente valide găsite: 173
+2025-08-04 12:57:27,730 - INFO - Chunk-uri create: 3897
+2025-08-04 12:57:31,923 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 12:57:37,261 - INFO - Creare vectorstore...
+2025-08-04 13:00:38,928 - INFO - Loading faiss with AVX2 support.
+2025-08-04 13:00:38,970 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 13:00:38,980 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 13:00:39,062 - INFO - Vectorstore creat cu 3897 chunk-uri
+2025-08-04 13:00:39,066 - INFO - Proces finalizat cu succes
+2025-08-04 14:09:27,892 - INFO - Pornire proces ingest
+2025-08-04 14:09:27,892 - INFO - Fișiere .txt identificate: 174
+2025-08-04 14:09:29,167 - INFO - Documente valide găsite: 174
+2025-08-04 14:09:29,226 - INFO - Chunk-uri create: 3933
+2025-08-04 14:09:33,705 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 14:09:38,970 - INFO - Creare vectorstore...
+2025-08-04 14:12:12,387 - INFO - Loading faiss with AVX2 support.
+2025-08-04 14:12:12,425 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 14:12:12,435 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 14:12:12,518 - INFO - Vectorstore creat cu 3933 chunk-uri
+2025-08-04 14:12:12,522 - INFO - Proces finalizat cu succes
+2025-08-04 14:52:38,915 - INFO - Pornire proces ingest
+2025-08-04 14:52:38,936 - INFO - Fișiere .txt identificate: 174
+2025-08-04 14:52:40,443 - INFO - Documente valide găsite: 174
+2025-08-04 14:52:40,497 - INFO - Chunk-uri create: 3933
+2025-08-04 14:53:03,967 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 14:53:09,373 - INFO - Creare vectorstore...
+2025-08-04 14:55:44,613 - INFO - Loading faiss with AVX2 support.
+2025-08-04 14:55:44,900 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 14:55:44,909 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 14:55:45,006 - INFO - Vectorstore creat cu 3933 chunk-uri
+2025-08-04 14:55:45,015 - INFO - Proces finalizat cu succes
+2025-08-04 15:03:01,637 - INFO - Pornire proces ingest
+2025-08-04 15:03:01,653 - INFO - Fișiere .txt identificate: 174
+2025-08-04 15:03:02,931 - INFO - Documente valide găsite: 174
+2025-08-04 15:03:02,987 - INFO - Chunk-uri create: 3933
+2025-08-04 15:03:07,319 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 15:03:12,457 - INFO - Creare vectorstore...
+2025-08-04 15:06:12,432 - INFO - Loading faiss with AVX2 support.
+2025-08-04 15:06:12,473 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 15:06:12,483 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 15:06:12,568 - INFO - Vectorstore creat cu 3933 chunk-uri
+2025-08-04 15:06:12,573 - INFO - Proces finalizat cu succes
+2025-08-04 15:13:25,607 - INFO - Pornire proces ingest
+2025-08-04 15:13:25,607 - INFO - Fișiere .txt identificate: 174
+2025-08-04 15:13:26,900 - INFO - Documente valide găsite: 174
+2025-08-04 15:13:26,962 - INFO - Chunk-uri create: 3933
+2025-08-04 15:13:30,820 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 15:13:35,996 - INFO - Creare vectorstore...
+2025-08-04 15:16:06,592 - INFO - Loading faiss with AVX2 support.
+2025-08-04 15:16:06,614 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 15:16:06,614 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 15:16:06,685 - INFO - Vectorstore creat cu 3933 chunk-uri
+2025-08-04 15:16:06,696 - INFO - Proces finalizat cu succes
+2025-08-04 16:10:17,649 - INFO - Pornire proces ingest
+2025-08-04 16:10:17,664 - INFO - Fișiere .txt identificate: 175
+2025-08-04 16:10:18,942 - INFO - Documente valide găsite: 175
+2025-08-04 16:10:18,991 - INFO - Chunk-uri create: 3982
+2025-08-04 16:10:23,737 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 16:10:29,066 - INFO - Creare vectorstore...
+2025-08-04 16:13:35,130 - INFO - Loading faiss with AVX2 support.
+2025-08-04 16:13:35,199 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 16:13:35,209 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 16:13:35,291 - INFO - Vectorstore creat cu 3982 chunk-uri
+2025-08-04 16:13:35,291 - INFO - Proces finalizat cu succes
+2025-08-04 16:19:18,412 - INFO - Pornire proces ingest
+2025-08-04 16:19:18,412 - INFO - Fișiere .txt identificate: 175
+2025-08-04 16:19:19,858 - INFO - Documente valide găsite: 175
+2025-08-04 16:19:19,911 - INFO - Chunk-uri create: 3982
+2025-08-04 16:19:47,179 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 16:19:52,288 - INFO - Creare vectorstore...
+2025-08-04 16:22:37,178 - INFO - Loading faiss with AVX2 support.
+2025-08-04 16:22:37,448 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 16:22:37,451 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 16:22:37,529 - INFO - Vectorstore creat cu 3982 chunk-uri
+2025-08-04 16:22:37,529 - INFO - Proces finalizat cu succes
+2025-08-04 16:27:51,110 - INFO - Pornire proces ingest
+2025-08-04 16:27:51,111 - INFO - Fișiere .txt identificate: 175
+2025-08-04 16:27:52,464 - INFO - Documente valide găsite: 175
+2025-08-04 16:27:52,520 - INFO - Chunk-uri create: 3984
+2025-08-04 16:28:03,427 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-04 16:28:08,700 - INFO - Creare vectorstore...
+2025-08-04 16:30:43,482 - INFO - Loading faiss with AVX2 support.
+2025-08-04 16:30:43,753 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-04 16:30:43,767 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-04 16:30:43,847 - INFO - Vectorstore creat cu 3984 chunk-uri
+2025-08-04 16:30:43,852 - INFO - Proces finalizat cu succes
+2025-08-05 08:45:34,301 - INFO - Pornire proces ingest
+2025-08-05 08:45:34,314 - INFO - Fișiere .txt identificate: 175
+2025-08-05 08:45:35,696 - INFO - Documente valide găsite: 175
+2025-08-05 08:45:35,751 - INFO - Chunk-uri create: 3986
+2025-08-05 08:45:58,351 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 08:46:04,143 - INFO - Creare vectorstore...
+2025-08-05 08:48:51,030 - INFO - Loading faiss with AVX2 support.
+2025-08-05 08:48:51,310 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 08:48:51,310 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 08:48:51,404 - INFO - Vectorstore creat cu 3986 chunk-uri
+2025-08-05 08:48:51,411 - INFO - Proces finalizat cu succes
+2025-08-05 08:57:49,836 - INFO - Pornire proces ingest
+2025-08-05 08:57:49,846 - INFO - Fișiere .txt identificate: 175
+2025-08-05 08:57:51,244 - INFO - Documente valide găsite: 175
+2025-08-05 08:57:51,289 - INFO - Chunk-uri create: 3986
+2025-08-05 08:58:12,499 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 08:58:18,019 - INFO - Creare vectorstore...
+2025-08-05 09:00:57,299 - INFO - Loading faiss with AVX2 support.
+2025-08-05 09:00:57,552 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 09:00:57,567 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 09:00:57,655 - INFO - Vectorstore creat cu 3986 chunk-uri
+2025-08-05 09:00:57,660 - INFO - Proces finalizat cu succes
+2025-08-05 09:06:29,177 - INFO - Pornire proces ingest
+2025-08-05 09:06:29,193 - INFO - Fișiere .txt identificate: 175
+2025-08-05 09:06:30,633 - INFO - Documente valide găsite: 175
+2025-08-05 09:06:30,691 - INFO - Chunk-uri create: 3986
+2025-08-05 09:06:34,610 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 09:06:39,426 - INFO - Creare vectorstore...
+2025-08-05 09:09:48,063 - INFO - Loading faiss with AVX2 support.
+2025-08-05 09:09:48,081 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 09:09:48,092 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 09:09:48,175 - INFO - Vectorstore creat cu 3986 chunk-uri
+2025-08-05 09:09:48,180 - INFO - Proces finalizat cu succes
+2025-08-05 09:22:10,376 - INFO - Pornire proces ingest
+2025-08-05 09:22:10,379 - INFO - Fișiere .txt identificate: 175
+2025-08-05 09:22:11,744 - INFO - Documente valide găsite: 175
+2025-08-05 09:22:11,800 - INFO - Chunk-uri create: 3986
+2025-08-05 09:22:15,644 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 09:22:20,918 - INFO - Creare vectorstore...
+2025-08-05 09:25:27,285 - INFO - Loading faiss with AVX2 support.
+2025-08-05 09:25:27,303 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 09:25:27,307 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 09:25:27,389 - INFO - Vectorstore creat cu 3986 chunk-uri
+2025-08-05 09:25:27,395 - INFO - Proces finalizat cu succes
+2025-08-05 09:37:45,270 - INFO - Pornire proces ingest
+2025-08-05 09:37:45,270 - INFO - Fișiere .txt identificate: 175
+2025-08-05 09:37:46,522 - INFO - Documente valide găsite: 175
+2025-08-05 09:37:46,581 - INFO - Chunk-uri create: 3986
+2025-08-05 09:37:50,150 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 09:37:54,931 - INFO - Creare vectorstore...
+2025-08-05 09:40:26,814 - INFO - Loading faiss with AVX2 support.
+2025-08-05 09:40:26,835 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 09:40:26,839 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 09:40:26,916 - INFO - Vectorstore creat cu 3986 chunk-uri
+2025-08-05 09:40:26,921 - INFO - Proces finalizat cu succes
+2025-08-05 10:47:48,070 - INFO - Pornire proces ingest
+2025-08-05 10:47:48,070 - INFO - Fișiere .txt identificate: 175
+2025-08-05 10:47:49,489 - INFO - Documente valide găsite: 175
+2025-08-05 10:47:49,543 - INFO - Chunk-uri create: 3986
+2025-08-05 10:47:53,235 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 10:47:58,433 - INFO - Creare vectorstore...
+2025-08-05 10:50:52,473 - INFO - Loading faiss with AVX2 support.
+2025-08-05 10:50:52,502 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 10:50:52,507 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 10:50:52,595 - INFO - Vectorstore creat cu 3986 chunk-uri
+2025-08-05 10:50:52,601 - INFO - Proces finalizat cu succes
+2025-08-05 11:46:01,386 - INFO - Pornire proces ingest
+2025-08-05 11:46:01,390 - INFO - Fișiere .txt identificate: 175
+2025-08-05 11:46:02,777 - INFO - Documente valide găsite: 175
+2025-08-05 11:46:02,837 - INFO - Chunk-uri create: 3986
+2025-08-05 11:46:33,476 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 11:46:38,499 - INFO - Creare vectorstore...
+2025-08-05 11:49:37,476 - INFO - Loading faiss with AVX2 support.
+2025-08-05 11:49:37,850 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 11:49:37,856 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 11:49:37,939 - INFO - Vectorstore creat cu 3986 chunk-uri
+2025-08-05 11:49:37,944 - INFO - Proces finalizat cu succes
+2025-08-05 12:06:41,842 - INFO - Pornire proces ingest
+2025-08-05 12:06:41,842 - INFO - Fișiere .txt identificate: 175
+2025-08-05 12:06:43,299 - INFO - Documente valide găsite: 175
+2025-08-05 12:06:43,366 - INFO - Chunk-uri create: 3986
+2025-08-05 12:06:47,226 - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-08-05 12:06:52,542 - INFO - Creare vectorstore...
+2025-08-05 12:09:58,062 - INFO - Loading faiss with AVX2 support.
+2025-08-05 12:09:58,083 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-05 12:09:58,091 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-05 12:09:58,208 - INFO - Vectorstore creat cu 3986 chunk-uri
+2025-08-05 12:09:58,213 - INFO - Proces finalizat cu succes
