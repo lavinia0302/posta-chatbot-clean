@@ -46,6 +46,14 @@ coverage/
 
 # Mediu virtual Python
 # Mediu virtual Python
+# Mediu virtual Python
 venv/
-*.pyc
+
+# Fișiere Python temporare
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dependințe
+site-packages/
