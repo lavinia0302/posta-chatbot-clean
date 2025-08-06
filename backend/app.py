@@ -1,85 +1,67 @@
 import os
-from flask import Flask, request, jsonify, session
-from flask_cors import CORS
-from dotenv import load_dotenv
 import logging
 import re
 import uuid
-import pandas as pd
-from collections import deque, defaultdict
+import tempfile
 from datetime import datetime
+from collections import deque, defaultdict
+from functools import wraps
+
+import pandas as pd
+import psutil
+from flask import Flask, request, jsonify, session
+from flask_cors import CORS
+from dotenv import load_dotenv
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_openai import ChatOpenAI
-from langchain.chains import RetrievalQA
+from langchain.chains import RetrievalQA, LLMChain
 from langchain.prompts import PromptTemplate
 from langchain.chains.combine_documents.stuff import StuffDocumentsChain
-from langchain.chains.llm import LLMChain
 from langchain.callbacks import get_openai_callback
-import os
 
-openai_key = os.environ["OPENAI_API_KEY"]  # Nu hardcoda niciodată cheia aici!
-flask_secret = os.environ["FLASK_SECRET_KEY"]
 # Configurare logging
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.StreamHandler()
-    ]
+    handlers=[logging.StreamHandler()]
 )
 logger = logging.getLogger(__name__)
 
 load_dotenv()
+
 app = Flask(__name__)
-CORS(app)
-app.secret_key = os.environ.get('FLASK_SECRET_KEY', 'default-secret-key')
+CORS(app, resources={
+    r"/chat": {"origins": os.getenv("ALLOWED_ORIGINS", "*")},
+    r"/metrics": {"origins": ""}
+})
 
-# Memorie conversațională per sesiune
-conversation_history = {}
+# Configurare cheie secretă
+app.secret_key = os.environ['FLASK_SECRET_KEY']
 
-# Structură pentru stocarea costurilor
-usage_data = defaultdict(list)
-EXCEL_FILE = "/tmp/api_costs.xlsx"  # Folosim /tmp pentru compatibilitate cu Render
-
-# Prețuri pe token
+# Constante
 INPUT_COST_PER_TOKEN = 5e-6
 OUTPUT_COST_PER_TOKEN = 15e-6
-retrieval_k = int(os.environ.get("RETRIEVAL_K", 10))  # Folosește 10 dacă nu e setat
-@app.before_request
-def init_session():
-    if 'session_id' not in session:
-        session['session_id'] = str(uuid.uuid4())
-    if session['session_id'] not in conversation_history:
-        conversation_history[session['session_id']] = deque(maxlen=5)
+EXCEL_FILE = os.path.join(tempfile.gettempdir(), "api_costs.xlsx")
+RETRIEVAL_K = int(os.getenv("RETRIEVAL_K", 10))
 
-def get_context():
-    return "\n".join(conversation_history[session['session_id']])
+# Memorie conversațională și date de utilizare
+conversation_history = {}
+usage_data = defaultdict(list)
 
-def save_to_excel():
-    try:
-        if os.path.exists(EXCEL_FILE):
-            existing_df = pd.read_excel(EXCEL_FILE)
-        else:
-            existing_df = pd.DataFrame()
+# Middleware pentru autentificare metrici
+def require_api_key(view_func):
+    @wraps(view_func)
+    def wrapped(*args, **kwargs):
+        if request.headers.get('X-API-KEY') != os.getenv('METRICS_API_KEY'):
+            logger.warning("Acces neautorizat la endpoint-ul de metrici")
+            return jsonify({"error": "Unauthorized"}), 401
+        return view_func(*args, **kwargs)
+    return wrapped
 
-        current_df = pd.DataFrame(usage_data)
-        combined_df = pd.concat([existing_df, current_df], ignore_index=True)
-        combined_df.to_excel(EXCEL_FILE, index=False)
-        usage_data.clear()
-    except Exception as e:
-        logger.error(f"Eroare la salvarea datelor: {str(e)}")
-
-def calculate_cost(prompt_tokens, completion_tokens):
-    return (
-        prompt_tokens * INPUT_COST_PER_TOKEN,
-        completion_tokens * OUTPUT_COST_PER_TOKEN,
-        (prompt_tokens * INPUT_COST_PER_TOKEN) + (completion_tokens * OUTPUT_COST_PER_TOKEN)
-    )
-
-# Inițializare componente
+# Inițializare componente NLP
 try:
-    logger.info("Încărcare sistem...")
+    logger.info("Încărcare sistem NLP...")
     
     embeddings = HuggingFaceEmbeddings(
         model_name="intfloat/multilingual-e5-small",
@@ -87,16 +69,15 @@ try:
         encode_kwargs={'normalize_embeddings': True}
     )
     
-    # Încărcare vectorstore cu cale relativă
     vectorstore = FAISS.load_local(
-        "./vectorstore", 
-        embeddings, 
+        os.getenv("VECTORSTORE_PATH", "./vectorstore"),
+        embeddings,
         allow_dangerous_deserialization=True
     )
     
     retriever = vectorstore.as_retriever(
         search_type="similarity_score_threshold",
-        search_kwargs={"k": 10, "score_threshold": 0.6}
+        search_kwargs={"k": RETRIEVAL_K, "score_threshold": 0.6}
     )
     
     llm = ChatOpenAI(
@@ -131,11 +112,26 @@ try:
         output_key="extracted_info"
     )
     
-    logger.info("Sistem gata")
+    logger.info("Sistem NLP încărcat cu succes")
 
 except Exception as e:
-    logger.error(f"Eroare inițializare: {str(e)}", exc_info=True)
+    logger.critical(f"Eroare inițializare sistem: {str(e)}", exc_info=True)
     raise
+
+# Utilitare
+def init_session():
+    if 'session_id' not in session:
+        session['session_id'] = str(uuid.uuid4())
+    if session['session_id'] not in conversation_history:
+        conversation_history[session['session_id']] = deque(maxlen=5)
+
+def save_to_excel():
+    try:
+        df = pd.DataFrame(usage_data)
+        df.to_excel(EXCEL_FILE, index=False, mode='a' if os.path.exists(EXCEL_FILE) else 'w')
+        usage_data.clear()
+    except Exception as e:
+        logger.error(f"Eroare salvare Excel: {str(e)}", exc_info=True)
 
 def reformuleaza_intrebare(intrebare):
     replacements = {
@@ -148,12 +144,19 @@ def reformuleaza_intrebare(intrebare):
         intrebare = re.sub(pattern, replacement, intrebare.lower())
     return intrebare.capitalize()
 
+# Endpoint-uri
+@app.before_request
+def before_request():
+    init_session()
+
 @app.route('/chat', methods=['POST'])
 def chat():
     try:
         data = request.get_json()
         question = data.get('question', '').strip()
+        
         if not question:
+            logger.warning("Întrebare goală primită")
             return jsonify({'error': 'Întrebare goală'}), 400
 
         session_id = session['session_id']
@@ -169,14 +172,15 @@ def chat():
             
             conversation_history[session_id].append(f"Asistent: {answer}")
             
-            # Salvarea datelor de utilizare
-            usage_data["timestamp"].append(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+            # Logare utilizare
+            usage_data["timestamp"].append(datetime.now().isoformat())
             usage_data.update({
                 "session_id": session_id,
                 "question": question,
                 "prompt_tokens": cb.prompt_tokens,
                 "completion_tokens": cb.completion_tokens,
-                "total_cost": (cb.prompt_tokens * INPUT_COST_PER_TOKEN) + (cb.completion_tokens * OUTPUT_COST_PER_TOKEN)
+                "total_cost": (cb.prompt_tokens * INPUT_COST_PER_TOKEN) + 
+                             (cb.completion_tokens * OUTPUT_COST_PER_TOKEN)
             })
             
             if len(usage_data["timestamp"]) >= 5:
@@ -187,33 +191,43 @@ def chat():
                 "usage": {
                     "prompt_tokens": cb.prompt_tokens,
                     "completion_tokens": cb.completion_tokens,
-                    "total_cost": (cb.prompt_tokens * INPUT_COST_PER_TOKEN) + (cb.completion_tokens * OUTPUT_COST_PER_TOKEN)
+                    "total_cost": cb.total_cost
                 }
             })
             
     except Exception as e:
-        logger.error(f"Eroare: {str(e)}")
+        logger.error(f"Eroare procesare chat: {str(e)}", exc_info=True)
         return jsonify({"error": "Eroare la procesare"}), 500
-        @app.route('/metrics')
+
+@app.route('/metrics')
+@require_api_key
 def metrics():
     return jsonify({
         "memory_usage": psutil.virtual_memory().percent,
-        "cpu_usage": psutil.cpu_percent()
+        "cpu_usage": psutil.cpu_percent(),
+        "active_sessions": len(conversation_history)
     })
+
 @app.route('/health')
 def health_check():
-    return jsonify({"status": "healthy"}), 200
+    return jsonify({
+        "status": "healthy",
+        "components": {
+            "vectorstore": "active",
+            "llm": "active"
+        }
+    }), 200
+
 @app.route('/save_costs', methods=['POST'])
 def save_costs():
     try:
         save_to_excel()
         return jsonify({"status": "success"})
     except Exception as e:
+        logger.error(f"Eroare salvare costuri: {str(e)}")
         return jsonify({"status": "error", "message": str(e)}), 500
 
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))
-
-    app.run(host='0.0.0.0', port=port)
-
+    app.run(host='0.0.0.0', port=port, debug=os.getenv('DEBUG', 'false').lower() == 'true')
 
