@@ -8,6 +8,7 @@ import uuid
 import pandas as pd
 from collections import deque, defaultdict
 from datetime import datetime
+# Add these if missing:
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_openai import ChatOpenAI
@@ -15,7 +16,7 @@ from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 from langchain.chains.combine_documents.stuff import StuffDocumentsChain
 from langchain.chains.llm import LLMChain
-from langchain.callbacks import get_openai_callback
+from langchain_community.callbacks import get_openai_callback
 
 # Configuration
 load_dotenv()
