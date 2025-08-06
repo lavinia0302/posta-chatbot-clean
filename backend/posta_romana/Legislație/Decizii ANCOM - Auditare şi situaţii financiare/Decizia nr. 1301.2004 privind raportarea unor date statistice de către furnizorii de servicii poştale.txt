@@ -1,0 +1,69 @@
+În temeiul prevederilor art.38 alin.(1), (3) şi (5) şi ale art.44 lit.f) din Ordonanţa de urgenţă a Guvernului nr.79/2002, aprobată cu modificări şi completări prin Legea nr.591/2002, precum şi ale art.49 alin.(3) lit.a) şi art.50 din Ordonanţa Guvernului nr.31/2002 privind 
+serviciile poştale, aprobată cu modificări şi completări prin Legea nr.642/2002, 
+ 
+ 
+PREŞEDINTELE AUTORITĂŢII NAŢIONALE 
+DE REGLEMENTARE ÎN COMUNICAŢII 
+ 
+emite prezenta: 
+ 
+ 
+DECIZIE 
+privind raportarea unor date statistice de către furnizorii de servicii poştale 
+ 
+ 
+Art.1. – Prezenta decizie are ca obiect impunerea, în sarcina furnizorilor de servicii poştale, a obligaţiei de a transmite periodic Autorităţii Naţionale de Reglementare în Comunicaţii, denumită în continuare ANRC, unele date statistice în vederea elaborării de rapoarte, studii, analize şi alte asemenea documente în domeniul serviciilor poştale, precum şi a urmăririi şi controlului aplicării prevederilor cuprinse în actele normative în vigoare. 
+ 	 
+Art.2. – Prin prezenta decizie se stabilesc anumiţi indicatori aferenţi furnizării de servicii poştale, precum şi categoriile de informaţii corespunzătoare fiecărui indicator. 
+ 
+Art.3. – (1) Furnizorii de servicii poştale au obligaţia de a raporta periodic către ANRC valorile aferente indicatorilor prevăzuţi la art.2, în formatul-tip şi în condiţiile prevăzute în anexa care face parte integrantă din prezenta decizie. 
+ (2) Transmiterea datelor statistice prevăzute în anexă se va realiza anual, până la data de 15 martie, pentru perioada de raportare reprezentată de anul calendaristic anterior. 
+ 
+Art.4. – (1) Transmiterea documentelor care conţin valorile aferente indicatorilor prevăzuţi la art.2 se poate efectua către sediul central sau oficiul teritorial al ANRC în a cărui rază se situează sediul furnizorului în unul dintre următoarele moduri: 
+a)	prin depunere, personal sau de către un reprezentant al furnizorului, sub luare de 
+semnătură; 
+b)	prin serviciul de trimitere recomandată cu confirmare de primire; 
+c)	ca înscris în formă electronică, căruia i s-a încorporat, i s-a ataşat sau i s-a asociat logic o semnătură electronică extinsă, bazată pe un certificat calificat şi generată cu ajutorul unui dispozitiv securizat de creare a semnăturii electronice. 
+(2)	În măsura posibilităţilor tehnice, furnizorii de servicii poştale vor completa prin mijloace electronice formularele disponibile pe pagina de Internet a ANRC, o dată cu transmiterea acestora în condiţiile alin.(1). 
+(3)	ANRC va comunica fiecărui furnizor de servicii poştale numele său de utilizator, parola şi adresa de Internet prin intermediul cărora acesta va completa formularele prevăzute la alin.(2).  
+ 
+Art.5. – În cazul nerespectării obligaţiei prevăzute la art.3 alin.(1), ANRC poate aplica amenzile administrative prevăzute la art.60 alin.(1) lit.a) din Ordonanţa Guvernului nr.31/2002 privind serviciile poştale, aprobată cu modificări şi completări prin Legea nr.642/2002. 
+ 
+Art.6. – Prezenta decizie se publică în Monitorul Oficial al României, Partea I, şi intră în vigoare la 3 zile de la publicare. 
+ 
+ 
+ 
+PREŞEDINTE, 
+ION SMEEIANU 
+ 
+ 
+CHESTIONAR ADRESAT FURNIZORILOR DE SERVICII POŞTALE îl găsiți la adresa https://www.posta-romana.ro/a831/despre-noi/legislatie.html
+ 
+ 
+- date raportate pentru anul: ……… 
+ 
+ 
+Denumirea furnizorului de servicii poştale: …………………………………………………………….. 
+ 
+Sediul societăţii: ..……………………….……………………………………………............................... 
+
+Semnătura şi ştampila reprezentantului societăţii…….......................................................... 
+
+În înţelesul prezentului chestionar următorii termeni se definesc astfel: 
+a) Servicii poştale: servicii destinate publicului care constau în colectarea, sortarea, transportul şi livrarea la destinatari a trimiterilor poştale, efectuate cu caracter profesional şi în scopul obţinerii de profit; după criteriul caracteristicilor serviciului poştal, serviciile se clasifică în: 
+-	servicii cu valoare adăugată: trimiteri poştale ce prezintă anumite caracteristici („valori adăugate”) care răspund unor cerinţe speciale ale utilizatorilor, de exemplu: colectarea de la o adresă desemnată de către expeditor, livrarea pe bază de semnătură, personal destinatarului sau reprezentantului autorizat al acestuia, livrarea la o dată şi o oră anume stabilite, garantarea livrării la o dată şi o oră anume stabilite, încercări multiple de livrare, livrarea potrivit priorităţii sau ordinei specificate de expeditor, confirmarea către expeditor a efectuării livrării, posibilitatea de schimbare a destinaţiei sau a destinatarului în timpul transportului sau, dacă livrarea la destinaţia iniţială nu este posibilă, monitorizarea electronică a traseului trimiterii poştale pe toată durata transportului şi altele asemenea. Nu constituie „valori adăugate” în sensul prezentei definiţii: livrarea accelerată (prioritate în prelucrare şi transport) a trimiterii poştale ori transmiterea sau primirea conţinutului unei trimiteri poştale prin mijloace electronice către/de către un furnizor de servicii poştale în vederea sortării, tipăririi sau pregătirii trimiterii poştale (hybrid mail); 
+-	servicii fără valoare adăugată: trimiteri poştale ce nu prezintă „valori adăugate” în sensul definiţiei de mai sus. 
+b) Trimitere poştală: un bun aflat în forma finală în care urmează să fie transportat şi livrat, altfel decât prin mijloace electronice, la adresa indicată de expeditor; din această categorie fac parte trimiterile de corespondenţă, precum şi cărţi, cataloage, ziare, periodice şi colete poştale conţinând bunuri cu sau fără valoare comercială; se asimilează acestei categorii şi trimiterile poştale care nu au indicată pe ambalaj adresa destinatarului, lista conţinând adresele destinatarilor fiind comunicată de către expeditor furnizorului de servicii poştale în orice formă; după criteriul localizării colectării şi livrării trimiterilor poştale, acestea se clasifică în: 
+-	trimiteri poştale interne: trimiteri poştale expediate de pe teritoriul României către o adresă aflată pe teritoriul României; 
+-	trimiteri poştale internaţionale: trimiteri poştale expediate de pe teritoriul României către o adresă care nu se află pe acest teritoriu sau expediate din afara teritoriului României către o adresă aflată pe teritoriul acesteia. 
+c)	Trimitere de corespondenţă: comunicare scrisă, tipărită, imprimată sau înregistrată pe orice fel de suport material, care urmează să fie transportată şi livrată, altfel decât electronic, la adresa indicată de expeditor pe acest suport sau pe ambalajul acestuia. Cele două caracteristici esenţiale ale trimiterii de corespondenţă sunt aşadar: 1. mesajul scris, tipărit, imprimat sau înregistrat, adresat destinatarului de către expeditor şi 2. înscrierea adresei destinatarului. Imprimatele (cărţi, cataloage, ziare şi periodice) sunt trimiteri poştale dar nu sunt incluse în categoria trimiterilor de corespondenţă. 
+d)	Colet poştal: trimitere poştală conţinând bunuri cu sau fără valoare comercială; 
+coletele poştale nu trebuie să conţină alte trimiteri poştale. 
+e)	Publicitate prin poştă: trimiteri poştale care urmează să fie transportate şi livrate la adresa indicată de expeditor pe trimiterea în sine sau pe ambalajul acesteia, depuse în număr minim de 1000 de bucăţi în acelaşi punct de acces, de către acelaşi expeditor, prin aceeaşi expediţie, constând exclusiv în materiale de reclamă, marketing sau publicitate, care conţin mesaje identice, cu excepţia numelui, adresei şi a numărului de identificare ale destinatarului, precum şi a altor modificări care nu alterează natura mesajului. Pe faţa trimiterii poştale care conţine publicitate prin poştă trebuie să fie inscripţionată menţiunea „Publicitate”. Nu constituie publicitate prin poştă chitanţele, facturile, situaţiile financiare şi alte mesaje având un conţinut diferit, precum şi trimiterile care conţin, în afară de publicitate prin poştă, şi alte trimiteri poştale în acelaşi ambalaj. Trimiterile poştale care constituie publicitate prin poştă nu sunt considerate trimiteri de corespondenţă. 
+f)	Servicii Express: servicii care prezintă cel puţin următoarele trei „valori adăugate”: 1. 
+colectarea trimiterilor poştale de la o adresă desemnată de către expeditor, 2. garantarea timpului de distribuire şi 3. monitorizarea electronică a trimiterilor pe parcursul transportului către destinatar. 
+g)	Servicii de schimb de documente: furnizarea de mijloace, inclusiv punerea la dispoziţie de către un terţ de sedii ad-hoc şi de mijloace de transport, care permit autolivrarea prin schimb reciproc a trimiterilor poştale între utilizatorii abonaţi la acest serviciu. 
+h)	Servicii financiar-poştale: ansamblul de servicii de încasări, de plăţi şi transferuri de fonduri efectuate de furnizorii de servicii poştale prin intermediul reţelei poştale publice aşa cum sunt reglementate prin actele Uniunii Poştale Universale.  
+i)	Salariaţi cu normă întreagă: toţi angajaţii furnizorului care îşi îndeplinesc sarcinile de muncă pe durata timpului normal de lucru. Timpul normal de lucru corespunde numărului de ore de lucru pe săptămână fixate de furnizor ca reprezentând o normă întreagă, în condiţiile legii. 
+j)	Salariaţi cu normă redusă (parţială): toţi angajaţii furnizorului care îşi îndeplinesc sarcinile de muncă pe o durată mai mică decât durata timpului normal de lucru, aşa cum acesta este definit la lit.i). 
+

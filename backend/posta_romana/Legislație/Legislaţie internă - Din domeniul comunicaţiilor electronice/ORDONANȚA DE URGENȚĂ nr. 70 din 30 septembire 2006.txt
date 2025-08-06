@@ -1,0 +1,780 @@
+ORDONANȚA DE URGENȚĂ nr. 70 din 30 septembrie 2006
+privind modificarea și completarea unor acte normative din domeniul comunicațiilor electronice și al serviciilor poștale
+EMITENT	
+GUVERNUL
+Publicat în  MONITORUL OFICIAL nr. 810 din 2 octombrie 2006
+
+
+
+
+Notă
+Reproducem mai jos prevederile art. II din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007:
+”Articolul II
+(1) Primele situații financiare separate pe care Compania Națională "Poșta Română" - S.A. are obligația să le întocmească în condițiile stabilite de autoritatea de reglementare în temeiul art. 24 din Ordonanța Guvernului nr. 31/2002 privind serviciile poștale, aprobată cu modificări și completări prin Legea nr. 642/2002, cu modificările și completările ulterioare, sunt cele aferente anului 2007. Acestea vor fi întocmite, auditate și transmise autorității de reglementare până la data de 30 noiembrie 2008.
+(2) Până la data transmiterii situațiilor financiare separate pentru anul 2007, în condițiile stabilite de autoritatea de reglementare, dar nu mai târziu de data prevăzută la alin. (1), Compania Națională "Poșta Română" - S.A. poate majoră tarifele pentru serviciile din sfera serviciului universal pe care are obligația să le presteze, în etape, cu cel mult 100%, fără aprobarea autorității de reglementare.
+(3) Fără a se aduce atingere prevederilor art. 31 alin. (4) din Ordonanța Guvernului nr. 31/2002, aprobată cu modificări și completări prin Legea nr. 642/2002, cu modificările și completările ulterioare, primul dintre rapoartele de evaluare prevăzute la art. 30 alin. (5) din Ordonanța Guvernului nr. 31/2002, aprobată cu modificări și completări prin Legea nr. 642/2002, cu modificările și completările ulterioare, din care trebuie să rezulte respectarea de către Compania Națională "Poșta Română" - S.A., în anul 2008, a standardelor de calitate stabilite conform prevederilor art. 30 alin. (2) și (4) din Ordonanța Guvernului nr. 31/2002, aprobată cu modificări și completări prin Legea nr. 642/2002, cu modificările și completările ulterioare, va fi realizat și publicat, în condițiile stabilite de autoritatea de reglementare, până la data de 1 mai 2009.
+(4) În termen de 60 de zile de la intrarea în vigoare a prezentei legi, Compania Națională "Poșta Română" - S.A. va supune aprobării autorității de reglementare o planificare detaliată a măsurilor pe care urmează să le ia în vederea atingerii următoarelor obiective:
+a) realizarea metodologiei care să descrie în detaliu principiile, ipotezele și metodele folosite în elaborarea sistemului de evidență contabilă separată, precum și întocmirea, auditarea și transmiterea, în mod corect și complet, a situațiilor financiare separate pentru anul 2007;
+b) îndeplinirea standardelor de calitate pentru serviciile din sfera serviciului universal, precum și evaluarea respectării acestora.
+(5) Netransmiterea planificării prevăzute la alin. (4) și nerespectarea etapelor acesteia constituie contravenții care se constată de către personalul de control împuternicit în acest scop al autorității de reglementare și se sancționează conform prevederilor art. 59 alin. (1) lit. b) și ale art. 61 alin. (4) din Ordonanța Guvernului nr. 31/2002, aprobată cu modificări și completări prin Legea nr. 642/2002, cu modificările și completările ulterioare.”
+Având în vedere necesitatea armonizării depline a legislației naționale cu cea comunitara, în vederea garantarii ducerii la îndeplinire a obligațiilor României rezultate din actul aderării și din prevederile tratatelor constitutive ale Uniunii Europene, în special în ceea ce privește stabilirea mecanismelor necesare pentru realizarea cooperării dintre Comisia Europeană și România în domeniul comunicațiilor electronice și al serviciilor poștale, și pentru preîntâmpinarea declanșării de către Comisia Europeană a procedurilor de sancționare a României,
+având în vedere necesitatea asigurării unei executii uniforme de-a lungul unui exercițiu financiar a bugetului Autorității Naționale de Reglementare în Comunicații, întrucât în prezent colectarea veniturilor reprezentând tariful de monitorizare se realizează în a doua jumătate a fiecărui exercițiu financiar, ceea ce duce la sfârșitul anului la executii bugetare în procente extrem de scăzute, cu consecințe negative asupra modului de utilizare a resurselor financiare ale instituției,
+în temeiul art. 115 alin. (4) din Constituția României, republicată,
+Guvernul României adopta prezenta ordonanță de urgență.
+Articolul I
+Ordonanța Guvernului nr. 31/2002 privind serviciile poștale, publicată în Monitorul Oficial al României, Partea I, nr. 87 din 1 februarie 2002, aprobată cu modificări și completări prin Legea nr. 642/2002, cu modificările ulterioare, se modifică și se completează după cum urmează:
+1. La articolul 2, literele b), i) și p) vor avea următorul cuprins:
+b) rețea poștală - sistemul de organizare și resursele de orice fel, utilizate de furnizorii de servicii poștale, în principal, pentru:
+– colectarea trimiterilor poștale de la toate punctele de acces;
+– transportul și manipularea trimiterilor poștale de la punctele de acces până la centrele de distribuire;
+– distribuirea trimiterilor poștale la adresele indicate pe acestea;
+(la 27-05-2007, Litera b) din Articolul 2 , Punctul 1. , Articolul I a fost modificată de Punctul 1, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+........................................................................................
+i) trimitere poștală internationala - trimiterea poștală expediată de pe teritoriul României către o adresa care nu se afla pe acest teritoriu sau expediată din afară teritoriului României către o adresa aflată pe teritoriul acesteia și trimiterea poștală expediată din afară teritoriului României către o adresa care nu se afla pe acest teritoriu, dar aflată în tranzit pe teritoriul României;
+........................................................................................
+p) furnizor de servicii poștale - orice persoană, fizica sau juridică, a carei activitate consta, în tot sau în parte, în prestarea de servicii poștale;
+1^1. La articolul 2, după litera b) se introduce o nouă literă, litera b^1), cu următorul cuprins:
+b^1) rețea poștală publică - sistemul de organizare și resursele de orice fel, utilizate de unul sau mai mulți furnizori de serviciu universal, în principal, pentru:
+– colectarea trimiterilor poștale care fac obiectul unei obligații de serviciu universal de la toate punctele de acces;
+– transportul și manipularea trimiterilor poștale de la punctele de acces până la centrele de distribuire;
+– distribuirea trimiterilor poștale la adresele indicate pe acestea;»
+(la 27-05-2007, Articolul I a fost completat de Punctul 2, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+1^2. La articolul 2, literele c), m), s) și v) vor avea următorul cuprins:
+c) puncte de acces - ansamblul instalațiilor fizice, inclusiv cutiile poștale, puse la dispoziție publicului, prin intermediul cărora trimiterile poștale pot fi introduse în rețeaua poștală;
+............................................................................
+m) serviciu de trimitere contra ramburs - serviciu poștal a cărui particularitate constă în achitarea contravalorii bunului care face obiectul trimiterii poștale de către destinatar expeditorului prin intermediul rețelei poștale;
+...................................................................................
+s) expeditor - persoana care generează efectiv trimiterea poștală și, personal sau prin intermediul unui terț, o introduce în rețeaua poștală;
+...................................................................................
+v) cerințe esențiale - condiții generale, care nu sunt de natură economică, impuse de stat pentru furnizarea serviciilor poștale, constând în: protecția secretului corespondenței, asigurarea securității rețelei poștale în ceea ce privește transportul bunurilor periculoase, precum și, în cazuri justificate, protecția datelor cu caracter personal, asigurarea confidențialității informațiilor transmise sau stocate, protecția dreptului la viață privată, protecția mediului și respectarea normelor privind amenajarea teritoriului și urbanismul;
+(la 27-05-2007, Articolul I a fost completat de Punctul 2, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+2. La articolul 2, după litera i) se introduce o noua litera, litera i^1), cu următorul cuprins:
+i^1) trimitere poștală intracomunitara - trimiterea poștală internationala expediată de pe teritoriul României către o adresa de pe teritoriul unui alt stat membru al Uniunii Europene sau expediată de la o adresa de pe teritoriul unui alt stat membru al Uniunii Europene către o adresa de pe teritoriul României și trimiterea poștală expediată de pe teritoriul unui stat membru al Uniunii Europene către o adresa de pe teritoriul unui alt stat membru al Uniunii Europene, dar aflată în tranzit pe teritoriul României;
+3. La articolul 2, literele n) și w) se abrogă.
+4. La articolul 5 alineatul (4), literele d) și e) vor avea următorul cuprins:
+d) serviciul de trimitere recomandată având ca obiect trimiteri poștale din categoriile prevăzute la lit. a)-c);
+e) serviciul de trimitere cu valoare declarata având ca obiect trimiteri poștale din categoriile prevăzute la lit. a)-c);
+5. Alineatul (7) al articolului 5 va avea următorul cuprins:
+(7) Nu sunt incluse în sfera serviciului universal:
+a) serviciul de schimb de documente;
+b) serviciile poștale stabilite de autoritatea de reglementare, care prezintă caracteristici suplimentare față de cele prevăzute de prezenta ordonanță pentru serviciile incluse în sfera serviciului universal.
+6. Alineatul (2) al articolului 6 va avea următorul cuprins:
+(2) Pe baza politicii și strategiei stabilite potrivit alin. (1), autoritatea de reglementare stabilește și comunică public condițiile și procedura pe care le aplică pentru a desemna unul sau mai mulți furnizori de servicii poștale ca furnizori de serviciu universal, precum și condițiile speciale pe care trebuie să le respecte aceștia și drepturile de care beneficiază în furnizarea serviciului universal.
+(la 27-05-2007, Alineatul (2) din Articolul 6 , Punctul 6. , Articolul I a fost modificat de Punctul 3, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+7. După alineatul (3) al articolului 6 se introduce un nou alineat, alineatul (4), cu următorul cuprins:
+(4) Autoritatea de reglementare va informa Comisia Europeană cu privire la măsurile luate privind asigurarea dreptului de acces la serviciul universal și, în special, cu privire la furnizorii de serviciu universal desemnați.
+(la 27-05-2007, Alineatul (4) din Articolul 6 , Punctul 7. , Articolul I a fost modificat de Punctul 4, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+8. După alineatul (2) al articolului 7 se introduce un nou alineat, alineatul (3), cu următorul cuprins:
+(3) Autoritatea de reglementare va informa Comisia Europeană și celelalte autorități naționale de reglementare din statele membre ale Uniunii Europene cu privire la situațiile de excepție determinate potrivit alin. (1) și (2).
+9. După alineatul (2) al articolului 9 se introduce un nou alineat, alineatul (3), cu următorul cuprins:
+(3) Autoritatea de reglementare va informa Comisia Europeană cu privire la modalitățile de punere la dispoziția utilizatorilor a informațiilor prevăzute la alin. (1).
+10. La articolul 11, literele a) și b) se abrogă.
+(la 27-05-2007, Punctul 10. din Articolul I a fost modificat de Punctul 5, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+10^1. Articolul 11^1 se abrogă.
+(la 27-05-2007, Articolul I a fost completat de Punctul 6, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+10^2. Titlul capitolului IV va avea următorul cuprins: ”Finanțarea serviciului universal”.
+(la 27-05-2007, Articolul I a fost completat de Punctul 6, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+11. Articolul 12 va avea următorul cuprins:
+Articolul 12
+Dreptul de a presta unul sau mai multe servicii poștale incluse în sfera serviciului universal, având ca obiect trimiteri de corespondență interne sau internaționale, indiferent dacă livrarea acestora este accelerată ori nu, a căror greutate este mai mică de 50 g și al căror tarif este mai mic decât de 2,5 ori tariful public corespunzător unei trimiteri de corespondență din prima treaptă de greutate a celei mai rapide categorii standard, poate fi rezervat de către autoritatea de reglementare furnizorului de serviciu universal, în măsura necesară îndeplinirii obligațiilor de asigurare a serviciilor din sfera serviciului universal care îi revin. Serviciile care fac obiectul unui asemenea drept rezervat de autoritatea de reglementare sunt denumite în continuare servicii rezervate.
+(la 27-05-2007, Articolul 12 din Punctul 11. , Articolul I a fost modificat de Punctul 7, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+12. Articolul 13 va avea următorul cuprins:
+Articolul 13
+Dreptul de a presta servicii poștale având ca obiect publicitatea prin posta nu poate fi rezervat, indiferent de greutatea trimiterilor poștale care fac obiectul serviciilor sau de tariful aplicabil.
+(la 06-11-2006, sintagma: indiferent de greutatea trimiterilor poștale care fac obiectul serviciilor sau tarifului aplicabil. a fost înlocuită de RECTIFICAREA nr. 70 din 30 septembrie 2006, publicată în MONITORUL OFICIAL nr. 899 din 06 noiembrie 2006 )
+12^1. Articolul 14 va avea următorul cuprins:
+Articolul 14
+(1) Începând cu data expirării drepturilor rezervate conform art. 12, în măsura în care costul net asociat îndeplinirii obligațiilor de asigurare a serviciilor din sfera serviciului universal care revin unui furnizor de serviciu universal reprezintă o sarcină injustă pentru acesta, autoritatea de reglementare va decide suportarea partajată a acestui cost de către furnizorii de servicii poștale ori de către utilizatori.
+(2) Autoritatea de reglementare va determina, cu respectarea principiilor transparenței, minimei atingeri aduse concurenței, nediscriminării și proporționalității, un mecanism de compensare care va fi bazat pe contribuții ale furnizorilor de servicii poștale ori ale utilizatorilor și care va fi administrat de autoritatea de reglementare, în condițiile stabilite de aceasta. În acest scop, autoritatea de reglementare va stabili:
+a) furnizorii de servicii poștale sau utilizatorii care au obligația să contribuie la compensare;
+b) cuantumul contribuțiilor datorate, stabilite ca un procent din cifra de afaceri a furnizorilor de servicii poștale sau ca o sumă fixă suplimentară percepută utilizatorilor la furnizarea serviciilor poștale, fără a se limita doar la aceste modalități de stabilire a contribuțiilor;
+c) modalitatea și termenul de plată a contribuțiilor;
+d) orice alte elemente necesare în vederea funcționării mecanismului de compensare.
+(3) În măsura în care sumele care ar putea fi colectate din contribuțiile prevăzute la alin. (2), în condițiile stabilirii unui cuantum al contribuțiilor rezonabil și care să nu aducă atingere viabilității economice a furnizorilor, sunt insuficiente, diferența dintre costul net prevăzut la alin. (1) și aceste sume va fi suportată de la bugetul de stat.
+(4) În acest scop, autoritatea de reglementare va comunică Ministerului Economiei și Finanțelor, până la data de 15 iulie a fiecărui an, o previziune a diferenței determinate conform prevederilor alin. (3), iar Ministerul Economiei și Finanțelor are obligația introducerii acesteia în proiectul legii bugetului de stat pentru anul următor.
+(5) Autoritatea de reglementare stabilește și comunică Ministerului Economiei și Finanțelor condițiile în care se virează furnizorilor de serviciu universal diferența determinată conform prevederilor alin. (3), iar Ministerul Economiei și Finanțelor are obligația de a vira furnizorilor de serviciu universal aceste sume, în termen de 30 de zile de la data comunicării condițiilor stabilite de autoritatea de reglementare.
+(la 27-05-2007, Articolul I a fost completat de Punctul 8, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+13. Articolul 14^1 se abrogă.
+(la 27-05-2007, Punctul 13. din Articolul I a fost modificat de Punctul 9, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+14. Articolul 15 va avea următorul cuprins:
+Articolul 15
+(1) Furnizarea serviciilor poștale se realizează în condițiile regimului de autorizare generală prevăzut de prezentul capitol.
+(2) Regimul de autorizare generală este regimul juridic adoptat de autoritatea de reglementare, care stabilește drepturile și obligațiile furnizorilor de servicii poștale, permitand furnizarea de servicii poștale fără obținerea unei decizii explicite din partea autorității de reglementare, prin notificarea intentiei de a presta activități de furnizare a serviciilor poștale.
+(3) Regimul de autorizare generală stabilește obligații privind furnizarea serviciilor poștale, în scopul și în măsura necesare pentru garantarea respectării cerințelor esențiale.
+(4) Regimul de autorizare generală poate stabili obligații specifice privind furnizarea serviciilor incluse în sfera serviciului universal, în scopul și în măsura necesare pentru asigurarea dreptului de acces la serviciul universal.
+(5) Obligațiile prevăzute la alin. (4) pot privi, printre altele:
+a) furnizarea unor servicii din sfera serviciului universal;
+b) calitatea, disponibilitatea și modul de prestare a serviciilor furnizate;
+c) respectarea drepturilor rezervate furnizorilor de serviciu universal, în conformitate cu prevederile cap. IV;
+d) eventualele contribuții datorate de titular în temeiul unui mecanism de compensare a costurilor implicate de furnizarea serviciilor poștale din sfera serviciului universal.
+15. Articolul 16 va avea următorul cuprins:
+Articolul 16
+(1) În scopul realizării unei evidente oficiale a furnizorilor, orice persoană care intenționează sa furnizeze servicii poștale transmite autorității de reglementare o notificare. Notificarea se va realiza în mod obligatoriu prin completarea formularului-tip stabilit și actualizat de autoritatea de reglementare.
+(2) Autoritatea de reglementare stabilește condițiile și procedura de obținere, modificare, suspendare și retragere a dreptului de a furniza servicii poștale în condițiile regimului de autorizare generală, cu respectarea principiilor transparenței, nediscriminarii, proportionalitatii și obiectivitatii.
+(3) Persoana care a transmis notificarea cu respectarea dispozițiilor legale este autorizata sa furnizeze serviciile poștale pe care le-a indicat în notificare, aplicându-i-se în mod corespunzător regimul de autorizare generală.
+(4) La cerere sau din oficiu, autoritatea de reglementare va elibera în cel mult 7 zile persoanei care a transmis notificarea cu respectarea dispozițiilor legale un certificat-tip prin care se atesta dreptul de a furniza servicii poștale.
+16. Articolul 17 se abrogă.
+17. Articolul 18 va avea următorul cuprins:
+Articolul 18
+Persoanele cărora li s-a aplicat sancțiunea retragerii dreptului de a furniza servicii poștale pe baza regimului de autorizare generală nu pot beneficia de dreptul de a furniza servicii poștale pe o perioadă de 3 ani de la aplicarea sancțiunii.
+18. Articolul 19 se abrogă.
+19. Alineatele (1) și (4)-(6) ale articolului 22 vor avea următorul cuprins:
+Articolul 22
+(1) Tarifele practicate de furnizorul de serviciu universal pentru serviciile din sfera serviciului universal pe care are obligația să le presteze trebuie să fie accesibile, transparente, nediscriminatorii și fundamentate în funcție de costuri.
+........................................................................................
+(4) Furnizorul de serviciu universal poate aplica tarife speciale în cazul unui volum mare de trimiteri poștale. În aceasta situație, acesta are obligația de a aplica principiile transparenței și nediscriminarii atât cu privire la tarifele propriu-zise, cat și cu privire la condițiile asociate acestora.
+(5) Stabilirea și practicarea tarifelor speciale prevăzute la alin. (4) trebuie să respecte următoarele condiții cumulative:
+a) stabilirea tarifelor speciale va ține seama de costurile ce sunt evitate, datorită volumului mare de trimiteri poștale, față de situația în care serviciul, incluzând întreaga gama de prestații aferente colectării, sortarii, transportului și livrării, s-ar referi la o singura trimitere poștală;
+b) tarifele speciale și condițiile asociate acestora se aplică în același mod atât în raport cu furnizori de servicii poștale diferiți, cat și în raport cu serviciile echivalente prestate de furnizorii de serviciu universal;
+c) tarifele speciale sunt practicate în mod nediscriminatoriu față de toți utilizatorii care folosesc serviciile poștale în condiții similare;
+d) tarifele speciale sunt făcute publice în condițiile stabilite de autoritatea de reglementare și pe cheltuiala furnizorului de serviciu universal.
+(6) Autoritatea de reglementare poate stabili în sarcina furnizorului de serviciu universal obligația menținerii pe întregul teritoriu național a unui nivel uniform al tarifelor percepute pentru serviciile din sfera serviciului universal pe care este obligat să le presteze, fără a aduce atingere posibilității furnizorului de serviciu universal de a încheia acorduri tarifare individuale cu utilizatorii.
+20. La articolul 23 alineatul (1), partea introductivă va avea următorul cuprins:
+Articolul 23
+(1) Furnizorul de serviciu universal trebuie să respecte următoarele principii la încheierea acordurilor privind cheltuielile terminale pentru trimiterile poștale intracomunitare expediate de pe teritoriul unui stat membru al Uniunii Europene către o adresa aflată pe teritoriul României:
+21. Articolul 24 va avea următorul cuprins:
+Articolul 24
+(1) Furnizorul de serviciu universal are obligația de a ține evidența contabilă separată, în cadrul contabilității interne de gestiune, prin aplicarea, în mod unitar, a principiilor privind elaborarea sistemului de evidență contabilă separată și a cerințelor privind întocmirea și transmiterea situațiilor financiare separate stabilite de către autoritatea de reglementare.
+(2) În cadrul evidenței contabile separate sunt evidențiate distinct cel puțin fiecare dintre serviciile rezervate, pe de o parte, și serviciile nerezervate, pe de altă parte, iar în cadrul serviciilor nerezervate se urmăresc distinct serviciile incluse în sfera serviciului universal și cele neincluse în sfera serviciului universal.
+(3) Respectarea de către furnizorul de serviciu universal a principiilor și cerințelor prevăzute la alin. (1) se verifică de un auditor independent, în condițiile stabilite de autoritatea de reglementare. Furnizorul de serviciu universal are obligația de a publică anual o declarație privind respectarea acestor principii și cerințe, în condițiile stabilite de autoritatea de reglementare.
+(4) Autoritatea de reglementare va transmite Comisiei Europene, la cerere, informații detaliate cu privire la sistemul de evidență contabilă separată elaborat de furnizorul de serviciu universal în procesul de implementare a obligației prevăzute la alin. (1).
+(5) Furnizorul de serviciu universal va transmite autorității de reglementare și Comisiei Europene, la cerere, informații contabile detaliate rezultate din sistemul de evidență contabilă separată prevăzut la alin. (4), cu respectarea confidențialității acestora.
+(6) În cazul în care autoritatea de reglementare decide că nu se justifică rezervarea unor servicii poștale furnizorului de serviciu universal, potrivit art. 12, și nici stabilirea unui mecanism de compensare a costurilor ocazionate de furnizarea serviciilor din sfera serviciului universal, potrivit art. 14, iar furnizorul de serviciu universal nu beneficiază de măsuri de natura ajutorului de stat sau cu efecte similare, autoritatea de reglementare poate decide să nu impună obligația de a ține evidența contabilă separată. Autoritatea de reglementare va informa Comisia Europeană cu privire la această măsură.
+(la 27-05-2007, Articolul 24 din Punctul 21. , Articolul I a fost modificat de Punctul 10, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+22. Abrogat.
+(la 27-05-2007, Punctul 22. din Articolul I a fost abrogat de Punctul 11, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+23. Articolul 25 va avea următorul cuprins:
+Articolul 25
+(1) Subvenționarea de către furnizorul de serviciu universal a serviciilor din sfera serviciului universal pe care este obligat să le presteze și care nu i-au fost rezervate, pe baza veniturilor obținute din furnizarea serviciilor rezervate, este permisă numai în cazul și în măsura în care aceasta subventionare este strict necesară pentru îndeplinirea anumitor obligații de furnizare a serviciilor nerezervate din sfera serviciului universal.
+(2) Condițiile în care operează subvenționarea incrucisata prevăzută la alin. (1) se stabilesc de către autoritatea de reglementare și se comunică Comisiei Europene.
+23^1. Alineatul (2) al articolului 29 va avea următorul cuprins:
+(2) Furnizorul de servicii poștale are obligația să marcheze toate instalațiile fizice care fac parte din rețeaua poștală pe care o operează, inclusiv cutiile poștale, cu un semn distinctiv care să asigure identificarea furnizorului în cauză.
+(la 27-05-2007, Articolul I a fost completat de Punctul 12, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+24. Articolul 30 va avea următorul cuprins:
+Articolul 30
+(1) Furnizorul de serviciu universal are obligația de a respecta standardele de calitate pentru serviciile din sfera serviciului universal pe care are obligația să le presteze.
+(2) Furnizorul de serviciu universal are obligația de a asigura livrarea la destinatari a 85% din trimiterile poștale intracomunitare de corespondenta din cea mai rapida categorie standard în 3 zile lucrătoare de la data depunerii acestora la punctele de acces și a 97% din trimiterile poștale intracomunitare de corespondenta din cea mai rapida categorie standard în 5 zile lucrătoare de la data depunerii acestora la punctele de acces.
+(3) În cazuri excepționale, determinate de infrastructura rețelei poștale publice sau de situații geografice speciale, autoritatea de reglementare poate stabili excepții de la standardele de calitate prevăzute la alin. (2), cu informarea în acest sens a Comisiei Europene.
+(la 27-05-2007, Alineatul (3) din Articolul 30 , Punctul 24. , Articolul I a fost modificat de Punctul 13, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+(4) Standardele de calitate pentru serviciile poștale ce au ca obiect trimiteri poștale interne se stabilesc de autoritatea de reglementare. Standardele de calitate privind normele de distribuire a trimiterilor poștale interne se stabilesc astfel încât să se asigure respectarea standardelor de calitate pentru serviciile poștale ce au ca obiect trimiteri poștale intracomunitare, prevăzute la alin. (2), și se comunică de către autoritatea de reglementare Comisiei Europene.
+(5) Respectarea standardelor de calitate de către furnizorul de serviciu universal va face anual obiectul evaluării de către un organism independent, în condițiile stabilite de autoritatea de reglementare. Raportul de evaluare se publică anual pe cheltuiala furnizorului de serviciu universal.
+(6) Autoritatea de reglementare va lua toate măsurile necesare pentru asigurarea realizării evaluării respectării standardelor de calitate pentru serviciile poștale ce au ca obiect trimiteri poștale interne, verificarea acestora și publicarea raportului de evaluare.
+(7) Evaluarea respectării standardelor de calitate pentru serviciile poștale ce au ca obiect trimiteri poștale intracomunitare și publicarea raportului de evaluare se realizează în condițiile stabilite de Comisia Europeană.
+(8) Autoritatea de reglementare poate dispune, din oficiu ori la primirea unei plângeri sau sesizări, obligarea furnizorului de serviciu universal de a lua măsurile necesare în vederea asigurării respectării standardelor de calitate prevăzute la alin. (1).
+(la 06-11-2006, sintagma: standardelor de calitate prevăzute la alin. (2). a fost înlocuită de RECTIFICAREA nr. 70 din 30 septembrie 2006, publicată în MONITORUL OFICIAL nr. 899 din 06 noiembrie 2006 )
+(9) Standardele de calitate pentru serviciile poștale având ca obiect trimiteri poștale interne și trimiteri poștale intracomunitare se publică pe paginile de internet ale furnizorului de serviciu universal și autorității de reglementare.
+25. Articolul 31 va avea următorul cuprins:
+Articolul 31
+(1) Furnizorii de servicii poștale au obligația sa pună la dispoziția utilizatorilor condițiile generale privind furnizarea serviciilor poștale, care vor conține cel puțin următoarele:
+a) condițiile de acceptare a trimiterilor poștale;
+b) condițiile de calitate pe care urmează să le îndeplinească serviciile poștale prestate;
+c) răspunderea furnizorului de servicii poștale;
+d) un mecanism simplu, transparent și accesibil de soluționare a reclamatiilor primite de la utilizatori, în special în ceea ce privește pierderea, furtul, distrugerea parțială ori totală sau deteriorarea trimiterilor poștale, precum și nerespectarea condițiilor de calitate a serviciilor.
+(2) La momentul acceptării unei trimiteri poștale în rețeaua poștală, între furnizorul de servicii poștale și expeditor se considera încheiat un contract individual, în condițiile generale prevăzute la alin. (1). Orice alte clauze pot fi stabilite prin acordul părților, cu respectarea prevederilor legale imperative.
+(3) Mecanismul de soluționare a reclamatiilor prevăzut la alin. (1) lit. d) trebuie să prevadă:
+a) proceduri pentru determinarea furnizorului de servicii poștale căruia îi revine răspunderea, în cazul în care sunt implicați 2 sau mai mulți asemenea furnizori;
+b) proceduri care să permită soluționarea echitabila și prompta a reclamatiilor, precum și un sistem adecvat de rambursare sau compensare.
+(4) Informațiile privind statistica reclamatiilor adresate furnizorului de serviciu universal, precum și modul în care acestea au fost soluționate se publică odată cu raportul de evaluare prevăzut la art. 30 alin. (5).
+(5) În cazul în care reclamația adresată furnizorului de servicii poștale nu a fost soluționată în mod satisfăcător, utilizatorul în cauza poate introduce o cerere de chemare în judecata la instanța competența.
+26. Alineatul (1) al articolului 32 va avea următorul cuprins:
+Articolul 32
+(1) Răspunderea față de utilizatori pentru serviciile poștale se stabilește potrivit contractelor încheiate cu utilizatorii, în condițiile prevăzute de prezenta ordonanță și de celelalte dispoziții legale în vigoare.
+27. Articolul 36 va avea următorul cuprins:
+Articolul 36
+Componenta și modul de administrare ale Conservatorului de timbre se stabilesc de Ministerul Comunicațiilor și Tehnologiei Informatiei.
+28. Alineatele (3)-(7) ale articolului 40 vor avea următorul cuprins:
+(3) Înainte de a se adresa instanței, în condițiile art. 31 alin. (5), utilizatorul care se considera prejudiciat prin prestarea necorespunzătoare a serviciului de către furnizorul de servicii poștale va adresa o reclamație prealabilă acestuia. Reclamația prealabilă poate fi adresată de către expeditor sau de către destinatar.
+(4) Termenul de introducere a reclamației prealabile adresate furnizorului de serviciu universal în legătură cu un serviciu din sfera serviciului universal pe care are obligația sa îl presteze este de 6 luni și se calculează de la data depunerii trimiterii poștale la punctul de acces.
+(5) Furnizorul de serviciu universal are obligația de a soluționa reclamația prealabilă în termen de 3 luni de la data introducerii acesteia.
+(6) Furnizorul de serviciu universal are obligația de a păstra trimiterile poștale care fac obiectul serviciilor din sfera serviciului universal pe care are obligația să le presteze timp de cel puțin 18 luni de la data depunerii trimiterii poștale la punctul de acces.
+(la 06-11-2006, sintagma: serviciilor din sfera serviciului universal timp de cel puțin a fost înlocuită de RECTIFICAREA nr. 70 din 30 septembrie 2006, publicată în MONITORUL OFICIAL nr. 899 din 06 noiembrie 2006 )
+(7) Termenele prevăzute la alin. (4)-(6) se aplică și în cazul trimiterilor poștale internaționale, dacă prin acordurile internaționale la care România este parte nu se prevede altfel.
+29. După alineatul (7) al articolului 40 se introduce un nou alineat, alineatul (8), cu următorul cuprins:
+(8) În toate celelalte cazuri, termenul de introducere a reclamației prealabile, termenul de soluționare a acesteia și termenul de păstrare a trimiterilor poștale se stabilesc prin contractul încheiat de furnizorul de servicii poștale cu utilizatorii.
+30. La articolul 43, punctul 4 al literei a) a alineatului (1) și alineatul (3) se abrogă.
+31. Alineatul (7) al articolului 43 va avea următorul cuprins:
+(7) În cazul neefectuarii prestațiilor care constituie caracteristici suplimentare ale serviciilor poștale, nominalizate de expeditor prin indicații speciale, se restituie numai tarifele încasate suplimentar față de tariful aplicabil pentru serviciul poștal standard.
+32. Articolul 44 va avea următorul cuprins:
+Articolul 44
+Furnizorul de servicii poștale este exonerat de răspundere în următoarele situații:
+a) paguba s-a produs ca urmare a faptei expeditorului;
+b) trimiterea a fost primită fără obiecții de către destinatar, cu excepția reclamatiilor referitoare la pierderea, furtul sau distrugerea conținutului trimiterii poștale;
+c) paguba s-a produs ca urmare a unui caz de forta majoră sau a cazului fortuit; în acest caz expeditorul are dreptul la restituirea tarifelor achitate, cu excepția tarifului de asigurare.
+33. Articolul 46 se abrogă.
+34. Articolul 47 va avea următorul cuprins:
+Articolul 47
+Furnizorul de servicii poștale răspunde pentru trimiterile poștale internaționale în conformitate cu prevederile acordurilor internaționale la care România este parte. În situația în care nu exista acorduri internaționale se aplică prevederile prezentului capitol.
+35. La articolul 49 alineatul (3), litera a) va avea următorul cuprins:
+a) să adopte reglementările și să ia măsurile necesare în vederea organizării aplicării prezentei ordonanțe;
+36. La articolul 58, punctele 15, 16, 17 și 20 vor avea următorul cuprins:
+15. prestarea sau oferirea către public a altor servicii poștale decât cele pentru care a fost obținut dreptul de a furniza servicii poștale în condițiile regimului de autorizare generală;
+16. nerespectarea obligațiilor care incumba furnizorilor de servicii poștale, stabilite prin regimul de autorizare generală, precum și prin reglementările adoptate în temeiul prezentei ordonanțe;
+17. încălcarea obligațiilor prevăzute la art. 22 alin. (1), (2), (4), (5) sau (6), art. 23, 24 sau 25;
+........................................................................................
+20. încălcarea obligațiilor prevăzute la art. 28, art. 29 alin. (1) sau (2), art. 30, 31, art. 32 alin. (2), art. 37 sau art. 40 alin. (6);
+37. La articolul 58, după punctul 20 se introduc doua noi puncte, punctele 20^1 și 20^2, cu următorul cuprins:
+20^1. nerespectarea planurilor emisiunilor filatelice sau a condițiilor de emitere, tipărire, punere în circulație, retragere din circulație ori comercializare a timbrelor și efectelor poștale;
+20^2. nerespectarea normelor referitoare la componenta și modul de administrare a Conservatorului de timbre.
+38. Articolul 59 va avea următorul cuprins:
+Articolul 59
+(1) Contravențiile prevăzute la art. 58 se sancționează astfel:
+a) faptele prevăzute la pct. 1-8, cu amendă de la 500 lei la 5.000 lei;
+b) faptele prevăzute la pct. 9-20^2, cu amendă de la 5.000 lei la 60.000 lei, pentru furnizorii de servicii poștale cu o cifră de afaceri de până la 3.000.000 lei;
+c) faptele prevăzute la pct. 9-20^2, prin derogare de la dispozițiileart. 8 alin. (2) lit. a) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002, cu modificările și completările ulterioare, cu amendă în cuantum de până la 2% din cifra de afaceri, iar în cazul unor încălcări repetate, cu amendă în cuantum de până la 5% din cifra de afaceri, pentru furnizorii de servicii poștale cu o cifră de afaceri peste 3.000.000 lei.
+(la 27-05-2007, Alineatul (1) din Articolul 59 , Punctul 38. , Articolul I a fost modificat de Punctul 14, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+(2) Individualizarea sancțiunii în cazul săvârșirii uneia dintre contravențiile prevăzute la art. 58 pct. 9-20^1 se face ținându-se seama de gravitatea faptei și a consecințelor sale asupra concurentei.
+(3) Cifra de afaceri este cea prevăzută în ultima situație financiară anuală întocmită de operatorul economic.
+(4) În situațiile în care gravitatea faptei o justifica, autoritatea de reglementare poate decide retragerea dreptului de a furniza servicii poștale în condițiile regimului de autorizare generală.
+39. Articolul 61 va avea următorul cuprins:
+Articolul 61
+(1) Contravențiile prevăzute la art. 58 pct. 1-20^1 se constata de către personalul de control împuternicit în acest scop al autorității de reglementare, iar cele prevăzute la art. 58 pct. 1-8, și de către ofițerii și agenții din cadrul Ministerului Administrației și Internelor.
+(2) Contravenția prevăzută la art. 58 pct. 20^2 se constata de către personalul de control împuternicit în acest scop al Ministerului Comunicațiilor și Tehnologiei Informatiei.
+(3) Sancțiunile pentru faptele prevăzute la art. 58 pct. 1-8 se aplică de către personalul de control împuternicit în acest scop al autorității de reglementare ori de către ofițerii sau agenții din cadrul Ministerului Administrației și Internelor, după caz.
+(4) Sancțiunile pentru faptele prevăzute la art. 58 pct. 9-20^1 se aplică, prin rezoluție scrisă, de către președintele autorității de reglementare.
+(5) Sancțiunile pentru faptele prevăzute la art. 58 pct. 20^2 se aplică de către personalul de control împuternicit în acest scop al Ministerului Comunicațiilor și Tehnologiei Informatiei.
+(6) Sancțiunile prevăzute la art. 60 se aplică de către președintele autorității de reglementare, iar decizia prin care sunt aplicate, neatacata în termenul legal, constituie titlu executoriu, fără vreo alta formalitate.
+40. După articolul 69 se introduce mențiunea privind transpunerea normelor comunitare, cu următorul cuprins:
+Prezenta ordonanță transpune Directiva 97/67/CE a Parlamentului European și a Consiliului din 15 decembrie 1997 privind regulile comune pentru dezvoltarea pieței interne a serviciilor poștale comunitare și îmbunătățirea calității serviciilor, publicată în Jurnalul Oficial al Comunităților Europene nr. L 15 din 21 ianuarie 1998, modificată și completată prin Directiva 2002/39/CE a Parlamentului European și a Consiliului din 10 iunie 2002 pentru modificarea Directivei 97/67/CE în ceea ce privește continuarea deschiderii concurentei în domeniul serviciilor poștale comunitare, publicată în Jurnalul Oficial al Comunităților Europene nr. L 176 din 5 iulie 2002.
+41. Abrogat.
+(la 27-05-2007, Punctul 41. din Articolul I a fost abrogat de Punctul 15, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+Articolul II
+Ordonanța Guvernului nr. 34/2002 privind accesul la rețelele publice de comunicații electronice și la infrastructura asociata, precum și interconectarea acestora, publicată în Monitorul Oficial al României, Partea I, nr. 88 din 2 februarie 2002, aprobată cu modificări și completări prin Legea nr. 527/2002, cu modificările ulterioare, se modifica și se completează după cum urmează:
+1. La articolul 2, literele a) și b) vor avea următorul cuprins:
+a) rețea de comunicații electronice - sistemele de transmisie și, acolo unde este cazul, echipamentele de comutare sau rutare și alte resurse care permit transportul semnalelor prin cablu, pe cale radio, prin mijloace optice sau alte mijloace electromagnetice, incluzând rețelele de comunicații prin satelit, rețelele terestre fixe, cu comutare de circuite și cu comutare de pachete, și mobile, rețelele electrice, în măsura în care sunt utilizate pentru transmiterea de semnale, rețelele utilizate pentru difuzarea serviciilor de programe audiovizuale și rețelele de televiziune prin cablu, indiferent de tipul de informație transmisă;
+(la 27-05-2007, Litera a) din Articolul 2 , Punctul 1. , Articolul II a fost modificată de Punctul 16, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+b) serviciu de comunicații electronice - un serviciu, furnizat de regula cu titlu oneros, care consta, în întregime sau în principal, în transportul semnalelor prin rețelele de comunicații electronice, incluzând serviciile de telecomunicații și serviciile de transmisie prin rețelele utilizate pentru difuzarea serviciilor de programe audiovizuale, dar fără a include serviciile prin care se furnizează conținutul informatiei transmise prin intermediul rețelelor sau serviciilor de comunicații electronice sau se exercită controlul editorial asupra acestui conținut; de asemenea, nu se includ serviciile societății informationale, definite prin art. 1 pct. 1 din Legea nr. 365/2002 privind comerțul electronic, cu modificările și completările ulterioare, care nu constau, în întregime sau în principal, în transportul semnalelor prin rețelele de comunicații electronice;
+2. La articolul 2, litera i) se abrogă.
+3. La articolul 2 se introduce un nou alineat, alineatul (2), cu următorul cuprins:
+(2) În cuprinsul prezentei ordonanțe sunt, de asemenea, aplicabile definițiile prevăzute la art. 2 din Ordonanța de urgenta a Guvernului nr. 79/2002 privind cadrul general de reglementare a comunicațiilor, aprobată cu modificări și completări prin Legea nr. 591/2002, cu modificările și completările ulterioare, denumita în continuare Ordonanța-cadru.
+4. Articolul 3 va avea următorul cuprins:
+Articolul 3
+Încheierea acordurilor de acces și interconectare se realizează potrivit principiilor libertății contractuale și negocierii cu buna-credința a condițiilor tehnice și comerciale ale acestora, cu respectarea dispozițiilor prezentei ordonanțe.
+5. Alineatele (2) și (5) ale articolului 4 vor avea următorul cuprins:
+(2) Operatorii vor oferi acces și interconectare în conformitate cu obligațiile stabilite de autoritatea de reglementare potrivit dispozițiilor art. 5 sau 8.
+........................................................................................
+(5) Informațiile obținute înaintea, în timpul sau după finalizarea negocierilor unui acord de acces sau de interconectare trebuie utilizate numai în scopul în care au fost furnizate, iar confidențialitatea informațiilor transmise sau stocate va fi respectată în toate cazurile. Aceste informații nu pot fi divulgate către niciun terț, în special către alte departamente, filiale, sedii secundare sau parteneri ai operatorului ori ai furnizorului de servicii de comunicații electronice, care ar obține astfel un avantaj de ordin competitiv, cu excepția informațiilor solicitate de autoritatea de reglementare, potrivit dispozițiilor art. 11 alin. (3), art. 13 alin. (3) sau art. 19 alin. (1) lit. a) din prezenta ordonanță ori ale art. 51 sau art. 54 alin. (1) din Ordonanța-cadru.
+(la 27-05-2007, Alineatul (5) din Articolul 4 , Punctul 5. , Articolul II a fost modificat de Punctul 17, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+6. Alineatele (2), (4) și (5) ale articolului 5 vor avea următorul cuprins:
+(2) Măsurile adoptate potrivit alin. (1) pot viza, în special, impunerea următoarelor obligații, fără a aduce atingere măsurilor ce ar putea fi luate în conformitate cu prevederile art. 8 față de operatorii cu putere semnificativă pe piața:
+a) obligații în sarcina operatorilor care controlează accesul la utilizatorii finali, inclusiv, acolo unde este cazul, obligația de a asigura interconectarea rețelelor acestora, dacă impunerea acestor obligații este necesară pentru asigurarea conectivitatii între utilizatorii finali;
+b) obligația operatorilor de a furniza accesul la anumite elemente ale infrastructurii asociate, stabilite prin dispozițiile legale adoptate potrivit art. 6, în condiții echitabile, rezonabile și nediscriminatorii, dacă impunerea acestei obligații este necesară pentru a asigura accesul utilizatorilor finali la serviciile de difuzare în format digital a programelor de radio sau de televiziune.
+........................................................................................
+(4) Obligațiile și condițiile impuse potrivit prevederilor alin. (1)-(3) trebuie să fie obiective, transparente, proporționale și nediscriminatorii, iar impunerea lor trebuie să se realizeze în urma parcurgerii procedurilor prevăzute la art. 34^1 și 50 din Ordonanța-cadru.
+(5) Autoritatea de reglementare are dreptul să intervină, din proprie inițiativă, acolo unde este justificat, sau, în cazul în care în urma negocierilor nu se poate ajunge la încheierea unui acord, la cererea oricăreia dintre părțile implicate, și, dacă este cazul, să stabilească condițiile în care se realizează accesul sau interconectarea, în vederea atingerii obiectivelor prevăzute la art. 45 din Ordonanța-cadru, în conformitate cu prevederile prezentei ordonanțe și cu respectarea procedurilor corespunzătoare prevăzute la art. 34^1, 36 și 50 din Ordonanța-cadru.
+(la 27-05-2007, Alineatul (5) din Articolul 5 , Punctul 6. , Articolul II a fost modificat de Punctul 18, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+7. După alineatul (5) al articolului 5 se introduce un nou alineat, alineatul (6), cu următorul cuprins:
+(6) În luarea unei decizii în conformitate cu prezentul articol, autoritatea de reglementare va avea în vedere asigurarea unor condiții de acces și interconectare echivalente pentru servicii echivalente, precum și imposibilitatea condiționării încheierii acordului de acces sau de interconectare de acceptarea unor clauze care nu au legătură cu acesta.
+(la 27-05-2007, Alineatul (6) din Articolul 5 , Punctul 7. , Articolul II a fost modificat de Punctul 19, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+8. Articolul 8 va avea următorul cuprins:
+Articolul 8
+(1) Dacă, în urma unei analize de piața realizate în conformitate cu prevederile cap. V din Ordonanța-cadru, un operator este desemnat ca având putere semnificativă pe o piața relevanta, autoritatea de reglementare va impune acestuia, în mod corespunzător, una sau mai multe dintre obligațiile prevăzute la art. 9-13.
+(2) În măsura în care legea nu dispune altfel și fără a se aduce atingere prevederilor art. 5, dispozițiilor legale adoptate potrivit art. 6, prevederilor art. 17 alin. (2) lit. h), art. 25 sau 35 din Ordonanța-cadru, ale art. 25, 26 sau 28 din Legea nr. 304/2003 pentru serviciul universal și drepturile utilizatorilor cu privire la rețelele și serviciile de comunicații electronice, prevederilor relevante ale Legii nr. 506/2004 privind prelucrarea datelor cu caracter personal și protecția vieții private în sectorul comunicațiilor electronice, cu completările ulterioare, sau obligațiilor rezultate din acordurile internaționale la care România este parte, autoritatea de reglementare poate impune obligațiile prevăzute la art. 9-13 numai operatorilor care au fost desemnați ca având putere semnificativă pe piața potrivit alin. (1).
+(3) În cazuri excepționale, dacă autoritatea de reglementare intenționează sa impună în sarcina unui operator desemnat ca având putere semnificativă pe piața potrivit alin. (1) alte obligații în legătură cu accesul și interconectarea decât cele prevăzute la art. 9-13, aceasta va transmite Comisiei Europene o solicitare în acest sens. Comisia Europeană va lua o decizie de autorizare sau de respingere a măsurii propuse, care se publică pe pagina de internet a autorității de reglementare.
+(4) Obligațiile impuse în conformitate cu prevederile alin. (1) și (3) trebuie să se bazeze pe natura problemei identificate, să fie proporționale și justificate, având în vedere obiectivele autorității de reglementare prevăzute la art. 45 din Ordonanța-cadru, iar impunerea acestora trebuie să se realizeze în urma parcurgerii procedurilor prevăzute la art. 34^1 și 50 din Ordonanța-cadru.
+(5) Măsurile prin care se impun, se modifica sau se retrag obligații în legătură cu accesul sau interconectarea în conformitate cu acordurile internaționale la care România este parte se notifica Comisiei Europene, în conformitate cu procedura prevăzută la art. 34^1 din Ordonanța-cadru.
+9. Alineatul (4) al articolului 9 va avea următorul cuprins:
+(4) Autoritatea de reglementare poate impune modificări ale ofertei de referința, pentru a asigura implementarea corespunzătoare a obligațiilor impuse în conformitate cu dispozițiile prezentei ordonanțe.
+10. După alineatul (5) al articolului 9 se introduce un nou alineat, alineatul (6), cu următorul cuprins:
+(6) În cazul în care unui operator i s-au impus obligații potrivit art. 12, în legătură cu furnizarea accesului necondiționat la bucla locală, autoritatea de reglementare va impune acestuia obligația de a publică o ofertă de referința care va conține cel puțin elementele prevăzute în anexa care face parte integrantă din prezenta ordonanță.
+11. La articolul 10, litera a) va avea următorul cuprins:
+a) aplică condiții echivalente în circumstanțe echivalente altor persoane care furnizează servicii echivalente;
+12. Alineatul (2) al articolului 11 va avea următorul cuprins:
+(2) Autoritatea de reglementare poate, în special, sa impună unui operator integrat pe verticala sa urmărească distinct în evidenta corespunzătoare tarifele la vânzarea de gros și tarifele de transfer intern, pentru a asigura, între altele, îndeplinirea obligației de nediscriminare impuse în conformitate cu prevederile art. 10 sau pentru a împiedica subvenționarea incrucisata. Autoritatea de reglementare poate stabili formatul și metodologia contabila ce trebuie utilizate în vederea respectării acestei obligații.
+13. Alineatul (1) al articolului 13 va avea următorul cuprins:
+Articolul 13
+(1) Dacă o analiza de piața realizată în condițiile legii indica absenta concurentei efective, care presupune ca operatorul în cauza este capabil sa mențină tarifele la un nivel excesiv de înalt sau ca diferența dintre tarifele pentru serviciile cu amănuntul și tarifele de gros percepute furnizorilor care oferă servicii cu amănuntul similare este de asa natura încât produce efecte anticoncurentiale, în detrimentul utilizatorilor finali, atunci autoritatea de reglementare poate, în conformitate cu prevederile art. 8, sa impună obligații referitoare la recuperarea costurilor și controlul tarifelor, inclusiv obligații de fundamentare a tarifelor în funcție de costuri și obligații privind evidența contabilă, pentru furnizarea anumitor forme de acces sau de interconectare. La impunerea obligațiilor autoritatea de reglementare va lua în considerare investiția facuta de operatorul în cauza și va permite existenta unei rate rezonabile de recuperare a capitalului investit, ținând seama de riscurile asociate acestei investiții.
+14. Articolul 14 se abrogă.
+15. Articolul 15 va avea următorul cuprins:
+Articolul 15
+Autoritatea de reglementare va notifica Comisiei Europene operatorii desemnați ca având putere semnificativă pe piața și obligațiile impuse acestora, în conformitate cu prevederile prezentei ordonanțe, precum și, în cel mai scurt timp, orice modificare în ceea ce privește obligațiile sau operatorii cărora li se aplică aceste obligații.
+15^1. Articolul 17 se abrogă.
+(la 27-05-2007, Articolul II a fost completat de Punctul 20, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+16. La articolul 18 alineatul (1), litera l) și alineatul (1^1) se abroga.
+17. Alineatul (2) al articolului 18 va avea următorul cuprins:
+(2) Contravențiile prevăzute la alin. (1) se sancționează astfel:
+a) faptele prevăzute la lit. a) și b), cu amendă de la 500 lei la 5.000 lei;
+b) faptele prevăzute la lit. c)-k), cu amendă de la 5.000 lei la 100.000 lei, pentru furnizorii sau operatorii cu o cifră de afaceri de până la 5.000.000 lei;
+c) faptele prevăzute la lit. c)-k), prin derogare de la dispozițiile art. 8 alin. (2) lit. a) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002, cu modificările și completările ulterioare, cu amendă în cuantum de până la 2% din cifra de afaceri, iar în cazul unor încălcări repetate, cu amendă în cuantum de până la 5% din cifra de afaceri, pentru furnizorii sau operatorii cu o cifră de afaceri de peste 5.000.000 lei.
+(la 27-05-2007, Alineatul (2) din Articolul 18 , Punctul 17. , Articolul II a fost modificat de Punctul 21, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+17^1. La articolul 19 alineatul (1), literele a) și b) vor avea următorul cuprins:
+a) să furnizeze în mod complet și corect, în conformitate cu solicitarea scrisă a autorității de reglementare, informațiile care le-au fost cerute conform prevederilor art. 11 alin. (3) sau ale art. 13 alin. (3);
+b) să se supună controlului prevăzut la art. 16;
+(la 27-05-2007, Articolul II a fost completat de Punctul 22, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+18. Alineatul (3) al articolului 20 va avea următorul cuprins:
+(3) Sancțiunile pentru faptele prevăzute la art. 18 alin. (1) lit. c)-k) și amenzile administrative prevăzute la art. 19 se aplică prin decizie a președintelui autorității de reglementare.
+19. După alineatul (6) al articolului 20 se introduce un nou alineat, alineatul (7), cu următorul cuprins:
+(7) Regimul sanctionator instituit prin prezentul capitol se completează în mod corespunzător cu prevederile art. 59 și 59^1 din Ordonanța-cadru.
+20. După articolul 23 se introduce mențiunea privind transpunerea normelor comunitare, cu următorul cuprins:
+Prezenta ordonanță transpune Directiva 2002/19/CE a Parlamentului European și a Consiliului din 7 martie 2002 privind accesul la rețelele de comunicații electronice și la infrastructura asociata, precum și interconectarea acestora (Directiva privind accesul), publicată în Jurnalul Oficial al Comunităților Europene nr. L 108 din 24 aprilie 2002.
+21. Litera C din anexa va avea următorul cuprins:
+C. Sisteme informationale
+Condiții de acces la anumite sisteme ale operatorului: sisteme de asistența operationala, sisteme informationale sau baze de date pentru pregătirea comenzilor, aprovizionare, comanda, întreținere, solicitări de reparații și facturare.
+Articolul III
+Ordonanța de urgenta a Guvernului nr. 79/2002 privind cadrul general de reglementare a comunicațiilor, publicată în Monitorul Oficial al României, Partea I, nr. 457 din 27 iunie 2002, aprobată cu modificări și completări prin Legea nr. 591/2002, cu modificările și completările ulterioare, se modifica și se completează după cum urmează:
+1. La articolul 2 alineatul (1), litera e) va avea următorul cuprins:
+e) perturbație - efectul unei energii nedorite care apare la recepția într-o rețea de comunicații electronice ce utilizează spectrul de frecvențe radio, energie cauzată de o emisie sau de un fenomen de radiație ori de inducție, care se manifestă prin orice fel de degradare a performanțelor rețelei și care poate conduce la interpretarea eronată a informațiilor sau la pierderea acestora, informații care ar fi putut fi obținute în absența unei asemenea energii nedorite;
+(la 27-05-2007, Litera e) din Alineatul (1) , Articolul 2 , Punctul 1. , Articolul III a fost modificată de Punctul 23, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+2. La articolul 2 alineatul (1), după litera e) se introduce o noua litera, litera f), cu următorul cuprins:
+f) piața transnationala - piața identificata de Comisia Europeană, care acoperă teritoriul Comunității Europene sau o parte substantiala a acestuia.
+3. Alineatul (2) al articolului 2 va avea următorul cuprins:
+(2) În cuprinsul prezentei ordonanțe de urgență sunt, de asemenea, aplicabile definițiile prevăzute la art. 2 din Ordonanța Guvernului nr. 34/2002 privind accesul la rețelele publice de comunicații electronice și la infrastructura asociată, precum și interconectarea acestora, aprobată cu modificări și completări prin Legea nr. 527/2002, cu modificările ulterioare, denumită în continuare Ordonanța privind accesul, la art. 2 din Ordonanța Guvernului nr. 31/2002 privind serviciile poștale, aprobată cu modificări și completări prin Legea nr. 642/2002, cu modificările ulterioare, denumită în continuare Ordonanța privind serviciile poștale, la art. 2 alin. (1) din Legea nr. 304/2003 pentru serviciul universal și drepturile utilizatorilor cu privire la rețelele și serviciile de comunicații electronice, denumită în continuare Legea serviciului universal, și la art. 2 alin. (1) din Legea nr. 510/2004 privind reorganizarea Inspectoratului General pentru Comunicații și Tehnologia Informației, cu modificările ulterioare.
+(la 27-05-2007, Alineatul (2) din Articolul 2 , Punctul 3. , Articolul III a fost modificat de Punctul 24, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+4. Abrogat.
+(la 27-05-2007, Punctul 4. din Articolul III a fost abrogat de Punctul 25, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+5. Alineatele (2), (4) și (6) ale articolului 4 vor avea următorul cuprins:
+(2) În scopul realizării unei evidente oficiale a furnizorilor, orice persoană care intenționează sa furnizeze rețele sau servicii de comunicații electronice transmite ANRC o notificare, în forma prevăzută la alin. (3).
+........................................................................................
+(4) Persoana care a realizat notificarea în condițiile prevăzute la alin. (2) și (3) este autorizata sa furnizeze tipurile de rețele și de servicii pe care le-a indicat în notificare, având drepturile și obligațiile corespunzătoare prevăzute în autorizația generală.
+........................................................................................
+(6) Persoanelor cărora li s-a retras dreptul de a furniza rețele sau servicii de comunicații electronice li se retrag licenta de utilizare a frecventelor radioelectrice și licenta de utilizare a resurselor de numerotatie, acolo unde este cazul, și nu mai pot beneficia de autorizația generală pe o perioadă de 3 ani de la retragerea dreptului.
+5^1. Articolul 7 va avea următorul cuprins:
+Articolul 7
+(1) Spectrul de frecvențe radio și resursele de numerotație sunt resurse limitate, aflate în proprietatea publică a statului.
+(2) Administrarea și gestionarea spectrului de frecvențe radio și a resurselor de numerotație se realizează pe baza principiilor obiectivității, transparenței, nediscriminării și proporționalității.
+(la 27-05-2007, Articolul III a fost completat de Punctul 26, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+5^2. Alineatele (2) și (5) ale articolului 8 vor avea următorul cuprins:
+(2) Inspectoratul General pentru Comunicații și Tehnologia Informației asigură, în condițiile legii, administrarea și coordonarea la nivel național a gestionării spectrului de frecvențe radio în conformitate cu Tabelul național de atribuire a benzilor de frecvență și cu acordurile internaționale la care România este parte.
+...................................................................................
+(5) Costurile ocazionate de schimbarea destinației sau reorganizarea utilizării unor benzi de frecvență radio vor fi suportate din cuantumul taxei de licență menționate la art. 15 alin. (3). Modul de compensare va fi stabilit, pentru fiecare caz în parte, prin hotărâre a Guvernului.
+(la 27-05-2007, Articolul III a fost completat de Punctul 26, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+5^3. Articolul 9 va avea următorul cuprins:
+Articolul 9
+Activitatea Inspectoratului General pentru Comunicații și Tehnologia Informației privind administrarea și coordonarea gestionării spectrului de frecvențe radio este asistată de Comisia Interdepartamentală de Radiocomunicații, înființată prin Hotărârea Guvernului nr. 1.015/2001 privind înființarea, organizarea și funcționarea Comisiei Interdepartamentale de Radiocomunicații.
+(la 27-05-2007, Articolul III a fost completat de Punctul 26, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+5^4. Alineatele (1) și (2) ale articolului 10 vor avea următorul cuprins:
+Articolul 10
+(1) Autoritățile abilitate să gestioneze spectrul de frecvențe radio sunt următoarele:
+a) Inspectoratul General pentru Comunicații și Tehnologia Informației, denumit în continuare IGCTI, pentru frecvențele din benzile atribuite pentru utilizare neguvernamentală;
+b) instituțiile competente în domeniul apărării naționale, ordinii publice și siguranței naționale, pentru frecvențele din benzile atribuite pentru utilizare guvernamentală.
+(2) IGCTI acordă spre utilizare, în mod individual, prin asignare, frecvențe radio din benzile prevăzute în Tabelul național de atribuire a benzilor de frecvențe și ține permanent evidența utilizării acestora, în conformitate cu procedura stabilită prin decizie a președintelui IGCTI.
+(la 27-05-2007, Articolul III a fost completat de Punctul 26, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+5^5. Articolul 13 va avea următorul cuprins:
+Articolul 13
+(1) Utilizarea frecvențelor radio este permisă numai după obținerea unei licențe acordate, conform legii, în condiții care să asigure exploatarea lor eficientă și evitarea apariției perturbațiilor prejudiciabile asupra rețelelor operate de alte persoane care utilizează spectrul de frecvențe radio în condițiile legii.
+(2) Utilizarea resurselor de numerotație este permisă numai după obținerea unei licențe acordate, conform legii, în condiții care să asigure exploatarea lor eficientă.
+(3) IGCTI poate desemna anumite categorii de frecvențe a căror utilizare este permisă fără obținerea unei licențe de utilizare a frecvențelor radio, supusă regimului de autorizare generală în ceea ce privește accesul și condițiile de utilizare, în cazurile în care acest lucru este posibil din punct de vedere tehnic și în special atunci când riscul producerii perturbațiilor prejudiciabile este redus. IGCTI stabilește regimul armonizat de utilizare a acestora, pentru fiecare categorie de frecvențe a căror utilizare este permisă fără obținerea unei licențe de utilizare a frecvențelor radio, prin decizie a președintelui.
+(4) În cazul frecvențelor radio necesare pentru nevoile proprii ale instituțiilor din cadrul Sistemului național de apărare, utilizarea acestora se realizează în mod gratuit, fără a fi necesară obținerea unei licențe, pe baza atribuirii efectuate de ministerul de specialitate, prin Tabelul național de atribuire a benzilor de frecvențe, cu îndeplinirea următoarelor condiții:
+a) respectarea cerințelor tehnice și operaționale necesare pentru evitarea perturbațiilor prejudiciabile și pentru limitarea expunerii populației la efectele câmpurilor electromagnetice, acolo unde aceste cerințe sunt diferite față de cele incluse în autorizația generală;
+b) respectarea obligațiilor care decurg din acorduri internaționale privind utilizarea frecvențelor radio la care România este parte.
+(5) În cazul frecvențelor radio necesare pentru nevoile proprii de comunicații ale ambasadelor și misiunilor diplomatice ale altor state aflate pe teritoriul României, utilizarea și autorizarea acestora se supun unui regim special stabilit prin hotărâre a Guvernului, cu respectarea procedurilor armonizate la nivel european și a acordurilor internaționale la care România este parte.
+(la 27-05-2007, Articolul III a fost completat de Punctul 26, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+6. După articolul 13 se introduce un nou articol, articolul 13^1, cu următorul cuprins:
+Articolul 13^1
+(1) Personalul de operare al stațiilor de radiocomunicații în serviciile mobil aeronautic și mobil aeronautic prin satelit, serviciile mobil maritim și mobil maritim prin satelit, serviciul radiotelefonic pe căile de navigație interioară și serviciul mobil terestru, cu excepția personalului de operare al stațiilor de radiocomunicații din componența rețelelor naționale de telefonie mobilă, trebuie să posede nivelul de cunoștințe necesar operării respectivelor stații.
+(la 27-05-2007, Alineatul (1) din Articolul 13^1 , Punctul 6. , Articolul III a fost modificat de Punctul 27, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+(2) IGCTI asigura certificarea personalului prevăzut la alin. (1) în termenii și condițiile stabilite prin regulament aprobat prin decizie a președintelui IGCTI.
+6^1. După articolul 13^1 se introduce un nou articol, articolul 13^2, cu următorul cuprins:
+Articolul 13^2
+(1) Utilizarea frecvențelor radio în serviciul de amator se realizează fără obținerea unei licențe de utilizare a frecvențelor radio.
+(2) În cadrul serviciului de amator operează numai persoane autorizate în acest sens, denumite radioamatori, în benzi de frecvență atribuite prin Tabelul național de atribuire a benzilor de frecvențe, pentru activități fără caracter comercial și în scop personal, pentru instruire individuală, studii tehnice și intercomunicare.
+(3) Certificarea și autorizarea radioamatorilor, precum și modul de utilizare a frecvențelor radio de către aceștia sunt stabilite prin regulament aprobat prin decizie a președintelui IGCTI.
+(la 27-05-2007, Articolul III a fost completat de Punctul 28, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+6^2. După articolul 13^2 se introduce un nou articol, articolul 13^3, cu următorul cuprins:
+Articolul 13^3
+Până la data de 31 decembrie 2007, IGCTI va adopta, prin decizie a președintelui, un set de reglementări care vor stabili caracteristicile tehnice ale perturbațiilor prejudiciabile, în funcție de tipurile de servicii de radiocomunicații autorizate în România, cu respectarea specificațiilor, standardelor și normelor tehnice aplicabile echipamentelor generatoare de câmp radioelectric.
+(la 27-05-2007, Articolul III a fost completat de Punctul 28, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+6^3. La articolul 14, după alineatul (2) se introduc două noi alineate, alineatele (3) și (4), cu următorul cuprins:
+(3) Licența de utilizare a frecvențelor radio poate fi modificată la inițiativa IGCTI, potrivit competențelor ce îi revin în conformitate cu legislația în vigoare, în cazurile impuse de:
+a) respectarea condițiilor privind utilizarea efectivă, rațională și eficientă a frecvențelor radio;
+b) evitarea perturbațiilor prejudiciabile;
+c) realizarea obiectivelor de armonizare la nivel european și cooperare internațională privind utilizarea frecvențelor radio;
+d) respectarea acordurilor internaționale la care România este parte, referitoare la utilizarea frecvențelor radio;
+e) rezolvarea situațiilor de criză de frecvențe radio, în anumite zone geografice, în benzile de frecvențe radio alocate pentru furnizarea rețelei care fac obiectul licenței;
+f) implementarea strategiei de dezvoltare a comunicațiilor electronice și a politicii de gestionare a spectrului de frecvențe radio;
+g) modificarea Tabelului național de atribuire a benzilor de frecvență.
+(4) În situația prevăzută la alin. (3), IGCTI va informa titularul licenței de utilizare a frecvențelor radio cu privire la modificările ce trebuie operate și îi va acorda un termen de conformare proporțional cu natura calitativă și cantitativă a acestora.
+(la 27-05-2007, Articolul III a fost completat de Punctul 28, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+6^4. Alineatul (1) al articolului 15 va avea următorul cuprins:
+Articolul 15
+(1) Acordarea licențelor de utilizare a frecvențelor radio se face prin intermediul unei proceduri deschise, transparente și nediscriminatorii, în cel mult 6 săptămâni de la primirea unei cereri complete, însoțită de toate documentele necesare în acest sens, cu excepția acelor licențe care se acordă printr-o procedură de selecție competitivă sau comparativă, pentru care termenul este de cel mult 8 luni și nu trebuie să aibă ca efect restrângerea, împiedicarea sau denaturarea concurenței.
+(la 27-05-2007, Articolul III a fost completat de Punctul 28, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+6^5. La articolul 15, după alineatul (2) se introduc patru noi alineate, alineatele (3)-(6), cu următorul cuprins:
+(3) Acordarea licențelor de utilizare a frecvențelor radio prin intermediul unor proceduri de selecție competitivă sau comparativă este condiționată de plată către bugetul statului a unei taxe de licență al cărei cuantum va fi stabilit, pentru fiecare caz în parte, prin hotărâre a Guvernului.
+(4) Selecția competitivă reprezintă procedura de acordare a licențelor de utilizare a frecvențelor radio prin care dreptul de utilizare a spectrului radio este acordat câștigătorului unei licitații, ca urmare a oferirii unei valori maxime pentru taxa de licență, având ca punct de pornire valoarea minimală stabilită conform alin. (3), asigurându-se totodată și îndeplinirea unor criterii de precalificare de natură tehnică, administrativă și/sau financiară, după caz.
+(5) Selecția comparativă reprezintă procedura de acordare a licențelor de utilizare a frecvențelor radio prin care dreptul de utilizare a spectrului radio este acordat primului clasat/primilor clasați, în urma evaluării ofertelor depuse pe baza unui set de criterii prestabilite de natură tehnică, administrativă și/sau financiară, după caz.
+(6) Tipul de procedură de selecție aplicată pentru acordarea dreptului de utilizare a spectrului radio se stabilește prin hotărâre a Guvernului, iar reglementarea detaliată a modului de desfășurare a procedurilor de selecție competitivă sau comparativă se adoptă prin decizie a președintelui IGCTI.
+(la 27-05-2007, Articolul III a fost completat de Punctul 28, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+6^6. Alineatul (1) al articolului 18 va avea următorul cuprins:
+Articolul 18
+(1) Acordarea licențelor de utilizare a resurselor de numerotație se face prin intermediul unei proceduri deschise, transparente și nediscriminatorii, în cel mult 3 săptămâni de la primirea unei cereri complete, însoțită de toate documentele necesare în acest sens, în cazul resurselor de numerotație a căror destinație a fost stabilită prin Planul național de numerotație, cu excepția acelor licențe care se acordă printr-o procedură de selecție competitivă sau comparativă, pentru care termenul este de cel mult 6 săptămâni.
+(la 27-05-2007, Articolul III a fost completat de Punctul 28, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+6^7. Alineatele (1) și (4) ale articolului 20 vor avea următorul cuprins:
+Articolul 20
+(1) Licența de utilizare a frecvențelor radio și licența de utilizare a resurselor de numerotație pot fi cedate către un terț, autorizat în condițiile art. 4, numai cu acordul prealabil al IGCTI, respectiv al ANRCTI, și numai cu asumarea tuturor obligațiilor decurgând din acestea, precum și cu respectarea condițiilor prevăzute în licențe cu privire la cedarea acestora. Licența de utilizare a frecvențelor radio poate fi cedată numai în integralitatea sa, orice acord având ca obiect cedarea dreptului de folosință conferit prin licența de utilizare a frecvențelor radio fiind nul de drept.
+.............................................................................
+(4) Cedarea licenței de utilizare a frecvențelor radio pentru rețele publice de comunicații electronice și a licenței de utilizare a resurselor de numerotație se aduce la cunoștința publicului prin grija IGCTI, respectiv a ANRCTI.
+(la 27-05-2007, Articolul III a fost completat de Punctul 28, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+6^8. La articolul 20, după alineatul (4) se introduce un nou alineat, alineatul (5), cu următorul cuprins:
+(5) Licența de utilizare a frecvențelor radio obținută prin procedură de selecție competitivă sau comparativă poate fi cedată numai cu acordul prealabil al IGCTI, cu respectarea de către cesionar a tuturor condițiilor minimale ce au fost avute în vedere la acordarea inițială a licenței, precum și cu asumarea de către acesta a tuturor obligațiilor cuprinse în licență.
+(la 27-05-2007, Articolul III a fost completat de Punctul 28, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+6^9. La articolul 21 se introduce un nou alineat, alineatul (2), cu următorul cuprins:
+(2) ANRCTI stabilește procedura de alocare a codurilor de identificare, semnalizare și rutare, fără a se limita doar la acestea, necesare în vederea furnizării serviciilor de comunicații electronice destinate publicului sau operării rețelelor publice de comunicații electronice, precum și drepturile și obligațiile titularilor dreptului de utilizare a acestor resurse, cu respectarea principiilor obiectivității, transparenței și nediscriminării.
+(la 27-05-2007, Articolul III a fost completat de Punctul 28, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+7. Articolul 32 va avea următorul cuprins:
+Articolul 32
+(1) ANRCTI identifică, ținând seama de recomandarea Comisiei Europene privind piețele de produse și de servicii din sectorul comunicațiilor electronice ale căror caracteristici pot justifica impunerea unor obligații specifice în sarcina furnizorilor de rețele sau de servicii de comunicații electronice cu putere semnificativă pe piață, prevăzută la art. 15 alin. (1) din Directiva 2002/21/CE a Parlamentului European și a Consiliului din 7 martie 2002 privind cadrul comun de reglementare pentru rețelele și serviciile de comunicații electronice, denumită în continuare Directiva-cadru, și de instrucțiunile Comisiei Europene pentru efectuarea analizelor de piață și determinarea puterii semnificative pe piață, prevăzute la art. 15 alin. (2) din Directiva-cadru, piețele relevante din sectorul comunicațiilor electronice corespunzătoare circumstanțelor naționale, în special piețele geografice relevante de pe teritoriul național.
+(la 27-05-2007, Alineatul (1) din Articolul 32 , Punctul 7. , Articolul III a fost modificat de Punctul 29, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+(2) ANRC poate identifica piețe relevante din sectorul comunicațiilor electronice diferite de cele cuprinse în recomandarea prevăzută la alin. (1), dar numai în urma parcurgerii procedurilor prevăzute la art. 34^1 și 50.
+(3) Pe piețele relevante identificate în conformitate cu prevederile alin. (1) sau (2), ANRC, în conformitate cu instrucțiunile prevăzute la alin. (1), efectuează periodic analize de piața, în scopul determinării situației concurentiale pe aceste piețe și al impunerii, menținerii, modificării ori retragerii obligațiilor specifice prevăzute în cuprinsul cap. II din Ordonanța privind accesul sau al cap. III din Legea serviciului universal.
+(4) Identificarea piețelor relevante din sectorul comunicațiilor electronice și realizarea analizelor de piața pe piețele identificate se realizează cu respectarea principiilor instituite prin Legea concurentei nr. 21/1996, republicată, cu modificările ulterioare, și prin regulamentele emise în aplicarea acesteia. Acolo unde este cazul, ANRC va solicita colaborarea Consiliului Concurentei.
+8. Alineatul (4) al articolului 33 se abrogă.
+9. Articolul 34 va avea următorul cuprins:
+Articolul 34
+(1) Dacă în urma unei analize de piața ANRC stabilește ca pe o piața relevanta din sectorul comunicațiilor electronice exista concurenta efectivă, nu va impune niciuna dintre obligațiile specifice prevăzute la art. 32 alin. (3) sau le va retrage în cazul în care acestea exista. Decizia președintelui ANRC prin care se retrag obligații impuse unui furnizor de rețele sau de servicii de comunicații electronice va stabili un termen corespunzător de la care încetează obligațiile respective, pentru a permite persoanelor care sunt afectate prin luarea acestei măsuri să se adapteze la noile condiții.
+(2) Dacă în urma unei analize de piața ANRC stabilește ca pe o piața relevanta din sectorul comunicațiilor electronice nu exista concurenta efectivă, va identifica furnizorii de rețele sau de servicii de comunicații electronice care au, potrivit art. 33, putere semnificativă pe piața și va impune acestora, în mod corespunzător, una ori mai multe dintre obligațiile prevăzute la art. 32 alin. (3) sau va menține ori va modifica aceste obligații, acolo unde acestea exista deja.
+(3) În cazul în care o piața transnationala identificata de Comisia Europeană, în conformitate cu art. 15 alin. (4) din Directiva-cadru, acoperă parțial sau total teritoriul României, ANRC, împreună cu celelalte autorități naționale de reglementare implicate, va realiza analizele de piața, va identifica furnizorii cu putere semnificativă pe piața și va decide în mod concertat cu aceste autorități asupra impunerii, menținerii, modificării sau retragerii obligațiilor specifice prevăzute la art. 32 alin. (3).
+(4) Măsurile prevăzute la alin. (1)-(3) pot fi luate numai în urma parcurgerii procedurilor prevăzute la art. 34^1 și 50.
+10. După articolul 34 se introduce un nou articol, articolul 34^1, cu următorul cuprins:
+Articolul 34^1
+(1) Suplimentar față de parcurgerea procedurii prevăzute la art. 50, dacă ANRC intenționează sa ia o măsura dintre cele prevăzute la art. 32 sau 34 din prezenta ordonanță de urgență, la art. 5 ori 8 din Ordonanța privind accesul sau la art. 15-18 din Legea serviciului universal, care ar afecta comerțul între statele membre ale Uniunii Europene, va notifica în același timp Comisiei Europene și autorităților naționale de reglementare din celelalte state membre ale Uniunii Europene proiectul acestei măsuri, împreună cu motivele care stau la baza adoptării acesteia. Dispozițiile art. 52 alin. (6) se aplică în mod corespunzător.
+(2) Comisia Europeană și celelalte autorități naționale de reglementare vor putea transmite comentarii și observații cu privire la măsura propusă de ANRC în termen de o luna de la data notificării sau în cadrul perioadei de consultare publică prevăzută la art. 50, dacă această perioadă este mai lungă. Termenul de o luna nu poate fi prelungit.
+(3) În cazul în care măsura prevăzută la alin. (1) are ca obiect identificarea unei piețe relevante diferite de cele identificate în recomandarea Comisiei Europene prevăzută la art. 15 alin. (1) din Directiva-cadru sau determinarea situației concurentiale pe o piața relevanta, în sensul existenței sau nu a unor furnizori de rețele ori de servicii de comunicații electronice cu putere semnificativă pe piața, și această măsură ar afecta comerțul între statele membre ale Uniunii Europene, iar comentariile și observațiile Comisiei Europene transmise ANRC potrivit alin. (2) indica faptul ca această măsură ar crea o bariera pentru piața unica sau existenta unor rezerve serioase în ceea ce privește compatibilitatea acestei măsuri cu dreptul comunitar și în special cu obiectivele prevăzute la art. 45, ANRC nu va putea adopta măsura propusă pentru o perioadă de doua luni.
+(4) În perioada prevăzută la alin. (3), Comisia Europeană poate adopta o decizie prin care să solicite ANRC retragerea măsurii propuse. Decizia va fi însoțită de o analiza detaliată și obiectivă a motivelor pentru care Comisia Europeană considera ca măsura propusă nu ar trebui adoptată, precum și de propuneri concrete de modificare a măsurii propuse.
+(5) Cu excepția situației prevăzute la alin. (4), ANRC poate adopta măsura propusă, având în vedere comentariile și observațiile primite din partea Comisiei Europene și autorităților naționale de reglementare. Măsura adoptată va fi comunicată de către ANRC Comisiei Europene.
+(6) Abrogat.
+(la 27-05-2007, Alineatul (6) din Articolul 34^1 , Punctul 10. , Articolul III a fost abrogat de Punctul 30, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+(7) În situații excepționale, prin excepție de la prevederile alin. (1)-(5), atunci când este necesară intervenția urgentă, în vederea protejării concurenței și a intereselor utilizatorilor finali, ANRCTI poate lua măsuri temporare, cu respectarea principiului proporționalității, comunicând în cel mai scurt timp aceste măsuri, împreună cu motivele care au stat la baza adoptării acestora, Comisiei Europene și autorităților naționale de reglementare din celelalte state membre ale Uniunii Europene.
+(la 27-05-2007, Alineatul (7) din Articolul 34^1 , Punctul 10. , Articolul III a fost modificat de Punctul 31, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+(8) Prelungirea aplicării măsurilor prevăzute la alin. (7) sau aplicarea definitivă a acestora nu poate fi realizată decât în urma parcurgerii procedurii prevăzute la alin. (1)-(5).
+(la 27-05-2007, Alineatul (8) din Articolul 34^1 , Punctul 10. , Articolul III a fost modificat de Punctul 31, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+11. Alineatele (1) și (3) ale articolului 36 vor avea următorul cuprins:
+Articolul 36
+(1) În situația apariției unui litigiu între furnizori de rețele sau de servicii de comunicații electronice în legătură cu obligațiile impuse acestora prin dispozițiile prezentei ordonanțe de urgență sau ale legislației speciale în domeniul comunicațiilor electronice sau de către ANRC în conformitate cu aceste dispoziții, partea interesată poate sesiza ANRC în vederea soluționării litigiului sau poate introduce o cerere de chemare în judecata la instanța competența. ANRC soluționează litigiul în termen de 4 luni de la data sesizării, în afară situațiilor excepționale, în care un termen mai lung este necesar pentru buna soluționare a cazului.
+........................................................................................
+(3) În situația apariției unui litigiu între furnizori de rețele sau de servicii de comunicații electronice care provin din România și dintr-un alt stat membru al Uniunii Europene, partea interesată se poate adresa oricăreia dintre autoritățile naționale de reglementare competente, în vederea soluționării litigiului. Dacă ANRC este sesizată, litigiul va fi soluționat cu luarea în considerare a punctelor de vedere exprimate de celelalte autorități naționale de reglementare.
+11^1. Articolul 42 va avea următorul cuprins:
+Articolul 42
+(1) Bugetul anual de venituri și cheltuieli al ANRCTI se aprobă de către președintele acesteia în condițiile art. 16 alin. (1) lit. e) din Legea nr. 500/2002 privind finanțele publice, cu modificările ulterioare.
+(2) Excedentul anual rezultat din execuția bugetului de venituri și cheltuieli al ANRCTI se reportează în anul următor.
+(la 27-05-2007, Articolul III a fost completat de Punctul 32, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+12. Abrogat.
+(la 27-05-2007, Punctul 12. din Articolul III a fost abrogat de Punctul 33, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+13. Abrogat.
+(la 27-05-2007, Punctul 13. din Articolul III a fost abrogat de Punctul 34, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+14. Articolul 45 va avea următorul cuprins:
+Articolul 45
+(1) În îndeplinirea atribuțiilor sale, ANRC va urmări atingerea obiectivelor prevăzute la alin. (2)-(4), luând în acest sens măsuri rezonabile, cu respectarea principiului proportionalitatii.
+(2) ANRC promovează concurenta în sectorul comunicațiilor electronice și al serviciilor poștale, actionand în special în următoarele direcții:
+a) luarea tuturor măsurilor necesare pentru ca utilizatorii, inclusiv cei cu handicap sau cu nevoi sociale speciale, să obțină un maxim de beneficii în condițiile unei piețe concurentiale, în ceea ce privește diversitatea ofertei, tarifele și calitatea serviciilor;
+b) prevenirea acțiunilor ce au ca obiect sau pot avea ca efect distorsionarea ori restrangerea concurentei în sectorul comunicațiilor electronice și al serviciilor poștale;
+c) încurajarea investițiilor eficiente în infrastructura și promovarea inovatiei;
+d) încurajarea utilizării eficiente și asigurarea administrării eficiente a resurselor de numerotatie.
+(3) ANRC contribuie la dezvoltarea pieței interne a Comunității Europene, în special prin:
+a) înlăturarea barierelor în calea furnizarii la nivel european a rețelelor și serviciilor de comunicații electronice, a infrastructurii asociate și a serviciilor poștale;
+b) încurajarea stabilirii și dezvoltării de rețele transeuropene, a interoperabilitatii serviciilor paneuropene și a conectivitatii între utilizatorii finali;
+c) respectarea principiului nediscriminarii în ceea ce privește tratamentul aplicat furnizorilor de rețele și servicii de comunicații electronice sau furnizorilor de servicii poștale aflați în situații similare;
+d) cooperarea într-o maniera transparenta cu autoritățile naționale de reglementare cu atribuții similare din străinătate, precum și cu Comisia Europeană, în vederea dezvoltării unei practici de reglementare coerente și a aplicării concertate a legislației naționale armonizate cu normele adoptate la nivelul Uniunii Europene.
+(4) ANRC promovează interesele utilizatorilor finali din Uniunea Europeană, în special prin:
+a) asigurarea condițiilor de exercitare a dreptului de acces la serviciul universal, astfel cum acesta este prevăzut de Legea serviciului universal și de Ordonanța privind serviciile poștale;
+b) asigurarea unui nivel înalt de protecție a utilizatorilor finali în relațiile acestora cu furnizorii;
+c) implicarea în asigurarea unui nivel înalt de protecție a drepturilor persoanelor, în special a dreptului la viața privată, cu privire la prelucrarea datelor cu caracter personal;
+d) promovarea furnizarii de informații clare, în special în ceea ce privește transparenta tarifelor și a condițiilor de utilizare a serviciilor de comunicații electronice destinate publicului;
+e) promovarea intereselor specifice ale utilizatorilor cu handicap și ale celor cu nevoi sociale speciale;
+f) asigurarea protejării integrității și securității rețelelor publice de comunicații electronice.
+(5) În activitatea sa ANRC are în vedere respectarea principiului neutralitatii tehnologice, prin prisma fenomenului convergentei tehnologiilor, și contribuie, în limitele competentelor sale, la asigurarea implementarii politicilor care urmăresc promovarea diversitatii culturale și lingvistice, precum și a pluralismului media.
+15. Abrogat.
+(la 27-05-2007, Punctul 15. din Articolul III a fost abrogat de Punctul 35, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+16. După articolul 46 se introduc doua noi articole, articolele 46^1 și 46^2, cu următorul cuprins:
+Articolul 46^1
+(1) ANRC va incuraja utilizarea standardelor sau specificatiilor tehnice pentru furnizarea serviciilor, interfetelor tehnice și funcțiilor rețelelor, publicate în Jurnalul Oficial al Comunităților Europene, în măsura strict necesară asigurării interoperabilitatii serviciilor și îmbunătățirii posibilităților de alegere pentru utilizatori, cu excepția cazului în care utilizarea unor standarde sau specificații a fost declarata obligatorie de Comisia Europeană.
+(2) Până la publicarea standardelor și specificatiilor prevăzute la alin. (1), ANRC va incuraja implementarea standardelor și specificatiilor adoptate de organizațiile europene de standardizare sau, în lipsa acestora, a standardelor și recomandărilor adoptate de Uniunea Internationala a Telecomunicatiilor, de Organizația Internationala de Standardizare sau de Comisia Electrotehnica Internationala.
+(3) Prezentul articol nu se aplică în cazul cerințelor esențiale, specificatiilor interfetelor și standardelor armonizate prevăzute în Hotărârea Guvernului nr. 88/2003 privind echipamentele radio și echipamentele terminale de telecomunicații și recunoașterea mutuala a conformitatii acestora, cu modificările și completările ulterioare.
+Articolul 46^2
+(1) În cazul în care Comisia Europeană adopta recomandări în vederea asigurării aplicării armonizate a normelor comunitare în domeniul comunicațiilor electronice, ANRC va tine seama în cel mai înalt grad de aceste recomandări în exercitarea atribuțiilor sale.
+(2) Dacă ANRC optează sa nu aplice o recomandare, va transmite o informare motivată Comisiei Europene.
+17. La capitolul VIII^1 "Tariful de monitorizare", articolele 48^1 - 48^5 vor avea următorul cuprins:
+Articolul 48^1
+(1) Orice persoană care are calitatea de furnizor de rețele publice de comunicații electronice, furnizor de servicii de comunicații electronice destinate publicului sau furnizor de servicii poștale are obligația de a plati către ANRC un tarif de monitorizare anual, în condițiile prevăzute de prezentul capitol, din momentul dobândirii calității de furnizor și până la încetarea acestei calități.
+(2) Persoanele prevăzute la alin. (1) care au avut calitatea de furnizor pe parcursul unui an calendaristic întreg sunt obligate la plata către ANRC a unui tarif de monitorizare anual pentru anul următor, calculat ca un procent din cifra de afaceri a fiecărui furnizor din anul anterior celui pentru care se datorează tariful de monitorizare.
+(3) Pentru persoanele prevăzute la alin. (1) care nu au avut calitatea de furnizor pe parcursul unui an calendaristic întreg, tariful de monitorizare se calculează ca un procent din cifra de afaceri înregistrată în lunile anului anterior celui pentru care se datorează tariful, în care acestea au avut calitatea de furnizor.
+(4) Procentul prevăzut la alin. (2) și (3) se determină anual, fără a depăși 0,4%, ca raport între:
+a) cheltuielile prevăzute în bugetul de venituri și cheltuieli aprobat potrivit art. 42, din care se scad veniturile din alte surse; și
+b) cifra de afaceri cumulată a persoanelor prevăzute la alin. (2) și (3).
+(la 27-05-2007, Alineatul (4) din Articolul 48^1 , Punctul 17. , Articolul III a fost modificat de Punctul 36, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+(5) Cifra de afaceri a persoanelor prevăzute la alin. (2) este cea prevăzută în situațiile financiare anuale întocmite pentru anul anterior celui pentru care se datorează tariful de monitorizare.
+(6) Cifra de afaceri a persoanelor prevăzute la alin. (3) se determina prin cumularea veniturilor realizate în lunile din anul anterior celui pentru care se datorează tariful de monitorizare, în care acestea au avut calitatea de furnizor, luându-se în considerare inclusiv luna în care au dobândit aceasta calitate și exclusiv luna în care aceasta a încetat.
+(7) Pentru persoanele fizice sau asociațiile familiale autorizate în condițiile legii sa desfășoare activități economice în mod independent, cifrei de afaceri îi corespunde totalitatea veniturilor brute realizate în anul anterior celui pentru care se datorează tariful de monitorizare, respectiv totalitatea veniturilor brute realizate în lunile din anul anterior celui pentru care se datorează tariful de monitorizare, în care au avut calitatea de furnizor.
+(8) Abrogat.
+(la 27-05-2007, Alineatul (8) din Articolul 48^1 , Punctul 17. , Articolul III a fost abrogat de Punctul 37, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+Articolul 48^2
+(1) Cuantumul tarifului de monitorizare anual datorat de fiecare furnizor se stabilește prin aplicarea procentului prevăzut la art. 48^1 alin. (4) la cifra de afaceri prevăzută la art. 48^1 alin. (5) și (6), după caz.
+(2) Cuantumul tarifului de monitorizare prevăzut la alin. (1) se stabilește la data determinării cifrei de afaceri cumulate prevăzute la art. 48^1 alin. (4) lit. b), dar nu mai târziu de data de 15 septembrie a anului respectiv, prin decizie a președintelui ANRC, care se comunică fiecărui furnizor.
+(3) Tariful de monitorizare și tariful de utilizare a resurselor de numerotatie se administrează de ANRC, fiind aplicabile în mod corespunzător dispozițiile Ordonanței Guvernului nr. 92/2003 privind Codul de procedură fiscală, republicată, cu modificările și completările ulterioare, cu excepția cazului în care prin lege specială se dispune altfel.
+Articolul 48^3
+(1) La încetarea calității de furnizor, indiferent de forma acesteia, orice furnizor are obligația de a achită un tarif de monitorizare stabilit astfel:
+a) în cazul în care încetarea calității de furnizor are loc înainte de determinarea tarifului de monitorizare anual potrivit art. 48^2 alin. (2), furnizorul datorează un tarif de monitorizare ce reprezintă produsul dintre procentul stabilit de ANRC în condițiile art. 48^1 alin. (4) pentru anul anterior și cifra de afaceri realizată în anul anterior sau în lunile din anul anterior în care acesta a avut calitatea de furnizor, cumulată cu cifra de afaceri realizată în lunile în care a avut aceasta calitate din anul în cursul căruia are loc încetarea;
+b) în cazul în care încetarea calității de furnizor are loc după determinarea tarifului de monitorizare anual potrivit art. 48^2 alin. (2), pe lângă acest tarif, furnizorul datorează și un tarif suplimentar, calculat ca produs între procentul stabilit de ANRC în condițiile art. 48^1 alin. (4) pentru anul în curs și cifra de afaceri realizată în lunile în care a avut aceasta calitate din anul în cursul căruia are loc încetarea.
+(2) Persoanele care datorează tariful de monitorizare prevăzut la alin. (1) au obligația de a transmite ANRC, odată cu încetarea calității de furnizor, o situație privind cifra de afaceri realizată în anul anterior sau în lunile din anul anterior în care a avut calitatea de furnizor, cumulată cu cifra de afaceri realizată în lunile în care a avut aceasta calitate din anul în cursul căruia are loc încetarea sau, respectiv, privind cifra de afaceri realizată în lunile în care a avut aceasta calitate din anul în cursul căruia are loc încetarea, în condițiile stabilite de ANRC.
+(3) În cazul în care persoanele prevăzute la alin. (1) nu comunică ANRC, odată cu încetarea calității de furnizor, documentele prevăzute la alin. (2), până la data transmiterii acestora, ANRC va stabili în sarcina acestor persoane obligația de plată a tarifului de monitorizare anual, ca și cum nu ar fi încetat calitatea de furnizor.
+(4) Tariful de monitorizare datorat potrivit prevederilor alin. (1) lit. a) se stabilește prin decizie a președintelui ANRC, în termen de 7 zile de la data primirii documentelor prevăzute la alin. (2), iar diferența dintre acesta și plățile anticipate stabilite în condițiile art. 48^4 alin. (1) se achită în termen de 30 de zile de la data comunicării deciziei sau, după caz, se restituie în condițiile Codului de procedura fiscală.
+(5) Tariful de monitorizare datorat potrivit prevederilor alin. (1) lit. b) se stabilește prin decizie a președintelui ANRC, în termen de 7 zile de la data primirii documentelor prevăzute la alin. (2), și se achită în termen de 30 de zile de la comunicarea deciziei.
+(6) Persoanele care au dobândit calitatea de furnizor de rețele sau servicii de comunicații electronice ori furnizor de servicii poștale în același an în care încetează aceasta calitate datorează un tarif de monitorizare ce reprezintă produsul dintre procentul prevăzut la alin. (1) lit. a) sau, după caz, la alin. (1) lit. b) și cifra de afaceri realizată în lunile în care a avut aceasta calitate.
+(7) Persoanelor prevăzute la alin. (6) li se aplică în mod corespunzător prevederile alin. (2)-(5).
+Articolul 48^4
+(1) Persoanele prevăzute la art. 48^1 alin. (1) au obligația de a efectua în contul tarifului de monitorizare anual plati anticipate după cum urmează:
+a) până la data de 15 martie a anului, 30% din tariful de monitorizare datorat pentru anul precedent;
+b) până la data de 15 iunie a anului, 30% din tariful de monitorizare datorat pentru anul precedent.
+(2) Cuantumul plăților anticipate prevăzute la alin. (1) se stabilește până la data de 15 februarie prin decizie a președintelui ANRC.
+(3) Tariful de monitorizare datorat pentru anul precedent, pe baza căruia se determină plățile anticipate, este tariful de monitorizare stabilit în condițiile art. 48^2 alin. (2), fără a lua în calcul plățile anticipate efectuate în acel an.
+(la 27-05-2007, Alineatul (3) din Articolul 48^4 , Punctul 17. , Articolul III a fost modificat de Punctul 38, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+(4) Diferența dintre tariful de monitorizare anual stabilit în condițiile art. 48^2 alin. (2) și plățile anticipate stabilite în condițiile alin. (1) se achită în termen de 30 de zile de la data comunicării deciziei președintelui ANRCTI sau, după caz, se restituie în condițiile Codului de procedură fiscală.
+(la 27-05-2007, Alineatul (4) din Articolul 48^4 , Punctul 17. , Articolul III a fost modificat de Punctul 38, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+Articolul 48^5
+(1) Persoanele prevăzute la art. 48^1 și la art. 48^3 alin. (1) și (6) pot solicita, în vederea determinării tarifului, luarea în considerare a veniturilor rezultate din furnizarea de rețele sau de servicii de comunicații electronice ori din furnizarea de servicii poștale, în locul cifrei de afaceri, prevederile art. 48^1 - 48^4 aplicându-se în mod corespunzător.
+(2) În vederea aplicării prevederilor alin. (1), furnizorii sunt obligați sa țină contabilitatea în mod distinct în ceea ce privește veniturile obținute din activitățile de furnizare de rețele sau de servicii de comunicații electronice ori, după caz, de furnizare de servicii poștale. Certificarea acestor venituri se va realiza de un auditor independent autorizat potrivit legii, în condițiile stabilite de ANRC.
+18. La capitolul VIII^1, după articolul 48^5 se introduc doua noi articole, articolele 48^6 și 48^7, cu următorul cuprins:
+Articolul 48^6
+(1) Persoanele juridice care au calitatea de comerciant, prevăzute la art. 48^1 alin. (2) și (3), au obligația de a transmite ANRCTI situațiile financiare anuale conținând cifrele de afaceri înscrise în contul de profit și pierdere, necesare pentru determinarea tarifului de monitorizare, în termen de 5 zile de la expirarea termenului legal de depunere a acestora la organele competente la care se înregistrează, potrivit legislației în vigoare.
+(la 27-05-2007, Alineatul (1) din Articolul 48^6 , Punctul 18. , Articolul III a fost modificat de Punctul 39, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+(2) Persoanele fizice și asociațiile familiale care datorează tariful de monitorizare prevăzut la art. 48^1 au obligația de a transmite ANRCTI declarațiile financiare anuale privind veniturile brute realizate, necesare pentru determinarea tarifului de monitorizare, în termen de 5 zile de la expirarea termenului legal de depunere a acestora la organele competente la care se înregistrează, potrivit legislației în vigoare.
+(la 27-05-2007, Alineatul (2) din Articolul 48^6 , Punctul 18. , Articolul III a fost modificat de Punctul 39, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+(3) Pentru alte categorii de persoane decât cele prevăzute la alin. (1) și (2), care au calitatea de furnizor, documentele necesare în vederea stabilirii tarifului de monitorizare și termenele de transmitere a acestora către ANRC se stabilesc prin decizie a președintelui ANRC.
+(4) Persoanele prevăzute la art. 48^1 alin. (3) au obligația de a transmite ANRC, în termenul prevăzut la alin. (2), situația privind cifra de afaceri realizată în lunile din anul anterior în care acestea au avut calitatea de furnizor de rețele sau servicii de comunicații electronice ori de furnizor de servicii poștale.
+(5) Netransmiterea în termenele și în condițiile prevăzute de dispozițiile legale a documentelor necesare în vederea determinării tarifului de monitorizare are ca efect determinarea acestuia în funcție de cifra de afaceri prevăzută la art. 48^1 alin. (5).
+Articolul 48^7
+Prin excepție de la prevederile art. 48^1 alin. (1) și ale art. 48^3 alin. (1) și (6), furnizorii care înregistrează o cifră de afaceri care nu depășește echivalentul în lei a 100.000 de euro, la cursul de schimb valutar mediu al perioadei în care a fost realizată cifra de afaceri, calculat pe baza cursului de schimb valutar mediu lunar comunicat de Banca Națională a României, nu au obligația de plată a tarifului de monitorizare, prevederile art. 48^1-48^6 aplicându-se în mod corespunzător.
+(la 27-05-2007, Articolul 48^7 din Punctul 18. , Articolul III a fost modificat de Punctul 40, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+18^1. După articolul 48^7 se introduce un nou articol, articolul 48^8, cu următorul cuprins:
+Articolul 48^8
+Procedura de aplicare a prevederilor art. 48^1-48^7 se stabilește prin decizie a președintelui ANRCTI.
+(la 27-05-2007, Articolul III a fost completat de Punctul 41, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+19. La articolul 49 alineatul (1), după litera h) se introduc patru noi litere, literele h^1)-h^4), cu următorul cuprins:
+h^1) obligațiile impuse de ANRC în conformitate cu Ordonanța privind accesul;
+h^2) procedura de autorizare generală și procedura de solicitare și emitere a licențelor de utilizare a resurselor de numerotatie;
+h^3) drepturile și obligațiile furnizorilor de rețele sau de servicii de comunicații electronice, autorizați în condițiile art. 4;
+h^4) drepturile și obligațiile titularilor de licențe de utilizare a resurselor de numerotatie;
+20. După articolul 49 se introduce un nou articol, articolul 49^1, cu următorul cuprins:
+Articolul 49^1
+(1) ANRC va comunică Comisiei Europene prevederile adoptate în legislația naționala în domeniul de reglementare al Directivei-cadru, al Directivei 2002/20/CE a Parlamentului European și a Consiliului din 7 martie 2002 privind autorizarea rețelelor și serviciilor de comunicații electronice, al Directivei 2002/19/CE a Parlamentului European și a Consiliului din 7 martie 2002 privind accesul la rețelele de comunicații electronice și la infrastructura asociata, precum și interconectarea acestora și al Directivei 2002/22/CE a Parlamentului European și a Consiliului din 7 martie 2002 privind serviciul universal și drepturile utilizatorilor cu privire la rețelele și serviciile de comunicații electronice, precum și orice modificări sau completări ale acestor prevederi.
+(2) ANRC va transmite Comisiei Europene o copie de pe informațiile prevăzute la art. 49 alin. (1) lit. h^1).
+21. Alineatul (1) al articolului 50 va avea următorul cuprins:
+Articolul 50
+(1) Cu excepția măsurilor adoptate potrivit prevederilor art. 34^1 alin. (7) sau art. 36, ANRC are obligația de a respecta procedura de consultare stabilită prin prezentul articol ori de câte ori intenționează sa adopte măsuri de natura sa producă un impact semnificativ pe piața relevanta, în aplicarea prevederilor prezentei ordonanțe de urgență ori a legislației speciale în domeniul comunicațiilor electronice sau al serviciilor poștale.
+22. La articolul 51, litera h) a alineatului (2) și alineatul (3) vor avea următorul cuprins:
+h) soluționarea litigiilor dintre furnizorii de rețele sau de servicii de comunicații electronice și dintre utilizatorii finali și furnizorii de servicii de comunicații electronice;
+........................................................................................
+(3) În exercitarea atribuțiilor sale, IGCTI are dreptul să solicite furnizorilor de rețele sau de servicii de comunicații electronice informațiile necesare în vederea verificării respectării obligațiilor prevăzute de prezenta ordonanță de urgență, de legislația specială din domeniul comunicațiilor electronice sau de licentele de utilizare a frecventelor radioelectrice ori impuse de IGCTI în conformitate cu aceste dispoziții.
+23. La articolul 52 se introduc opt noi alineate, alineatele (2)-(9), cu următorul cuprins:
+(2) ANRC va transmite autorităților naționale de reglementare din alte state membre ale Uniunii Europene informațiile solicitate motivat de acestea, în vederea îndeplinirii atribuțiilor acestora prevăzute în legislația comunitara.
+(3) ANRC va furniza Comisiei Europene, la cererea motivată a acesteia, toate informațiile necesare în vederea exercitării atribuțiilor sale. Natura și cantitatea informațiilor vor fi proporționale cu scopul pentru care au fost solicitate.
+(4) Dacă informațiile solicitate de Comisia Europeană au fost transmise în prealabil de furnizorii de rețele sau de servicii de comunicații electronice, în conformitate cu dispozițiile art. 51, ANRC va informa furnizorii respectivi cu privire la transmiterea informațiilor.
+(5) În măsura în care este necesar, Comisia Europeană poate pune la dispoziția autorităților naționale de reglementare din alte state membre ale Uniunii Europene informațiile transmise în conformitate cu prevederile alin. (3), cu excepția cazului în care ANRC a solicitat, în mod expres și motivat, contrariul.
+(6) Dacă informațiile transmise în conformitate cu prevederile alin. (2), (3) sau (5) sunt considerate de ANRC confidențiale, în conformitate cu prevederile legislației naționale și comunitare, Comisia Europeană și autoritățile naționale de reglementare vor respecta caracterul confidențial al informațiilor.
+(7) ANRC poate solicita autorităților naționale de reglementare din alte state membre ale Uniunii Europene informațiile necesare în vederea exercitării atribuțiilor prevăzute de prezenta ordonanță de urgență sau de legislația specială din domeniul comunicațiilor electronice ori al serviciilor poștale, respectând, acolo unde este cazul, caracterul confidențial al informațiilor primite.
+(8) În vederea revizuirii periodice a legislației comunitare din domeniul comunicațiilor electronice, ANRC va furniza Comisiei Europene toate informațiile solicitate.
+(9) ANRC va publică informațiile care ar putea contribui la dezvoltarea unei piețe deschise și concurentiale, cu respectarea principiului confidențialității și a prevederilor legale privind liberul acces la informațiile de interes public, precizând și condițiile și procedura de acces al persoanelor interesate la aceste informații.
+23^1. La articolul 55 alineatul (1), după litera e) se introduce o nouă literă, litera e^1), cu următorul cuprins:
+e^1) producerea de către orice persoană și în orice mod a unei perturbații prejudiciabile;
+(la 27-05-2007, Articolul III a fost completat de Punctul 42, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+24. La articolul 55 alineatul (1), litera h^1) va avea următorul cuprins:
+h^1) nedepunerea situațiilor financiare anuale sau, în cazul persoanelor fizice ori al asociațiilor familiale, a declarațiilor financiare anuale privind veniturile realizate în termenul și în condițiile prevăzute la art. 48^6 alin. (1) și (2);
+24^1. Alineatul (2) al articolului 55 va avea următorul cuprins:
+(2) Contravențiile prevăzute la alin. (1) se sancționează astfel:
+a) cu amendă de la 5.000 lei la 100.000 lei, pentru societățile comerciale cu o cifră de afaceri de până la 5.000.000 lei;
+b) prin derogare de la dispozițiile art. 8 alin. (2) lit. a) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002, cu modificările și completările ulterioare, cu amendă în cuantum de până la 2% din cifra de afaceri, iar în cazul unor încălcări repetate, cu amendă în cuantum de până la 5% din cifra de afaceri, pentru societățile comerciale cu o cifră de afaceri de peste 5.000.000 lei.
+(la 27-05-2007, Articolul III a fost completat de Punctul 43, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+25. Articolul 57 va avea următorul cuprins:
+Articolul 57
+Dacă în termen de 90 de zile de la data scadentei furnizorul nu achită tariful de monitorizare, tariful de utilizare a spectrului sau tariful de utilizare a resurselor de numerotatie, precum și accesoriile acestora, ANRC sau IGCTI, după caz, îi poate suspenda sau retrage dreptul de a mai furniza rețele ori servicii de comunicații electronice pe baza regimului de autorizare generală sau licenta de utilizare a frecventelor radioelectrice ori a resurselor de numerotatie.
+25^1. Alineatele (2) și (5) ale articolului 58 vor avea următorul cuprins:
+(2) Constatarea contravențiilor prevăzute la art. 55 alin. (1) lit. c), e) și e^1) se face de către personalul de control prevăzut la art. 53 alin. (2).
+..................................................................................
+(5) Sancțiunile pentru faptele prevăzute la art. 55 alin. (1) lit. c), e) și e^1) se aplică, prin rezoluție scrisă, de către președintele IGCTI.
+(la 27-05-2007, Articolul III a fost completat de Punctul 44, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+26. După alineatul (6) al articolului 58 se introduce un nou alineat, alineatul (6^1), cu următorul cuprins:
+(6^1) Odată cu aplicarea amenzilor prevăzute la art. 55 alin. (2) se poate dispune confiscarea bunurilor destinate, rezultate sau folosite la săvârșirea contravențiilor prevăzute la art. 55 alin. (1).
+27. Alineatul (1) al articolului 59 va avea următorul cuprins:
+Articolul 59
+(1) În cazul descoperirii nerespectării de către un furnizor de rețele sau de servicii de comunicații electronice a unei obligații prevăzute în prezenta ordonanță de urgență, în legislația specială în domeniul comunicațiilor electronice sau în actele normative ori individuale emise în temeiul prezentei ordonanțe de urgență sau al legislației speciale în domeniul comunicațiilor electronice, ANRC ori IGCTI, după caz, va transmite furnizorului în cauza o notificare prin care îi va aduce la cunoștința intenția aplicării sancțiunii prevăzute de lege și îi va acorda un termen de cel puțin 30 de zile pentru a justifica sau remedia încălcarea săvârșită.
+28. La articolul 59 alineatul (2), litera c) se abrogă.
+29. După alineatul (3) al articolului 59 se introduce un nou alineat, alineatul (3^1), cu următorul cuprins:
+(3^1) Măsurile prevăzute la alin. (3) vor fi dispuse prin actul prin care se aplică sancțiunea, emis de președintele ANRC sau de președintele IGCTI, după caz. Transmiterea actului prin care se aplică sancțiunea și se dispun măsuri în vederea asigurării respectării obligației incalcate se realizează într-un termen de 7 zile de la emiterea acestuia.
+30. Alineatul (5) al articolului 59 va avea următorul cuprins:
+(5) În cazul în care nerespectarea obligațiilor prevăzute la alin. (1) prezintă un pericol grav și iminent pentru siguranța naționala, ordinea publică sau sănătatea publică ori poate crea probleme grave de natura economică sau operationala altor furnizori de rețele ori servicii de comunicații electronice sau utilizatorilor, ANRC ori IGCTI, după caz, poate lua măsuri urgente cu caracter provizoriu pentru remedierea situației, care pot fi ulterior confirmate. Persoanei în cauza trebuie să i se acorde posibilitatea de a-și prezenta punctul de vedere, în condiții rezonabile, și de a propune soluții pentru remedierea definitivă a situației create.
+31. După articolul 59 se introduce un nou articol, articolul 59^1, cu următorul cuprins:
+Articolul 59^1
+Procedura prealabilă prevăzută la art. 59 nu se aplică:
+a) în cazul nerespectării deciziilor președintelui ANRC emise în temeiul art. 36;
+b) în cazul nerespectării obligației de a transmite informațiile solicitate de ANRC sau IGCTI, după caz, în temeiul art. 51 alin. (2) lit. a), respectiv al art. 51 alin. (3);
+c) în cazul contravențiilor prevăzute la art. 55 alin. (1) lit. a), c), d) și h^1);
+d) în cazul nerespectării obligațiilor de transparenta impuse de ANRC în conformitate cu prevederile art. 9 din Ordonanța privind accesul.
+31^1. După articolul 62^1 se introduce un nou articol, articolul 62^2, cu următorul cuprins:
+Articolul 62^2
+Până la revizuirea piețelor relevante din sectorul comunicațiilor electronice identificate înainte de data aderării României la Uniunea Europeană și a situației concurențiale pe aceste piețe, dar nu mai târziu de 31 decembrie 2008, modificarea sau completarea obligațiilor impuse de ANRCTI în sarcina furnizorilor cu putere semnificativă, în conformitate cu prevederile legislației speciale din domeniul comunicațiilor electronice, se realizează fără parcurgerea procedurii prevăzute la art. 34^1.
+(la 27-05-2007, Articolul III a fost completat de Punctul 45, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+32. După articolul 67 se introduce mențiunea privind transpunerea normelor comunitare, cu următorul cuprins:
+Prezenta ordonanță de urgență transpune Directiva 2002/20/CE a Parlamentului European și a Consiliului din 7 martie 2002 privind autorizarea rețelelor și serviciilor de comunicații electronice (Directiva privind autorizarea), publicată în Jurnalul Oficial al Comunităților Europene nr. L 108 din 24 aprilie 2002, și Directiva 2002/21/CE a Parlamentului European și a Consiliului din 7 martie 2002 privind cadrul comun de reglementare pentru rețelele și serviciile de comunicații electronice (Directiva-cadru), publicată în Jurnalul Oficial al Comunităților Europene nr. L 108 din 24 aprilie 2002.
+33. În cuprinsul ordonanței de urgență, sintagma ”interferență perturbatoare” se înlocuiește cu sintagma ”perturbație prejudiciabilă”, iar sintagma ”frecvențe radioelectrice» se înlocuiește cu sintagma «frecvențe radio”.
+(la 27-05-2007, Punctul 33. din Articolul III a fost modificat de Punctul 46, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+Articolul IV
+Legea nr. 304/2003 pentru serviciul universal și drepturile utilizatorilor cu privire la rețelele și serviciile de comunicații electronice, publicată în Monitorul Oficial al României, Partea I, nr. 551 din 31 iulie 2003, se modifica și se completează după cum urmează:
+1. La articolul 2 alineatul (1), litera c) va avea următorul cuprins:
+c) serviciu de telefonie destinat publicului - serviciul pus la dispoziția publicului de către un furnizor de servicii de comunicații electronice în scopul inițierii și primirii apelurilor naționale și internaționale și al accesului la serviciile de urgență, prin utilizarea unui număr sau unor numere din Planul național de numerotație ori dintr-un plan internațional de numerotație. De asemenea, acesta poate include, după caz, unul sau mai multe dintre următoarele servicii: serviciul de relații cu clienții, serviciul de informații privind abonații, registrele abonaților, telefoane publice cu plată, servicii furnizate în condiții speciale, facilități pentru persoanele cu handicap sau cu nevoi sociale speciale ori servicii nongeografice;
+(la 27-05-2007, Litera c) din Alineatul (1) , Articolul (2) , Punctul 1. , Articolul IV a fost modificată de Punctul 47, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+2. Alineatul (2) al articolului 2 va avea următorul cuprins:
+(2) În cuprinsul prezentei legi sunt, de asemenea, aplicabile definițiile relevante prevăzute la art. 1 din Ordonanța Guvernului nr. 18/2002 privind funcționarea Sistemului național unic pentru apeluri de urgenta, aprobată cu modificări și completări prin Legea nr. 398/2002, cu modificările ulterioare, la art. 2 din Ordonanța Guvernului nr. 34/2002 privind accesul la rețelele publice de comunicații electronice și la infrastructura asociata, precum și interconectarea acestora, aprobată cu modificări și completări prin Legea nr. 527/2002, denumita în continuare Ordonanța privind accesul, și la art. 2 alin. (1) din Ordonanța de urgenta a Guvernului nr. 79/2002 privind cadrul general de reglementare a comunicațiilor, aprobată cu modificări și completări prin Legea nr. 591/2002, cu modificările și completările ulterioare, denumita în continuare Ordonanța-cadru, și la art. 2 din Legea nr. 506/2004 privind prelucrarea datelor cu caracter personal și protecția vieții private în sectorul comunicațiilor electronice, cu completările ulterioare.
+3. Alineatele (2) și (4) ale articolului 4 vor avea următorul cuprins:
+(2) În stabilirea politicii și strategiei privind implementarea serviciului universal, Ministerul Comunicațiilor și Tehnologiei Informației va urmări reducerea la minimum a posibilelor efecte negative asupra concurenței, determinate în special de furnizarea serviciilor la tarife sau în condiții diferite de cele practicate în condiții comerciale normale, protejând în același timp interesul public.
+(la 27-05-2007, Alineatul (2) din Articolul 4 , Punctul 3. , Articolul IV a fost modificat de Punctul 48, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+........................................................................................
+(4) Condițiile și procedura de desemnare a furnizorilor de serviciu universal se stabilesc de către ANRC, cu respectarea principiilor eficientei, obiectivitatii, transparenței și nediscriminarii, niciun furnizor de rețele sau de servicii de comunicații electronice nefiind a priori exclus.
+4. Alineatele (3) și (4) ale articolului 6 vor avea următorul cuprins:
+(3) Registrul abonatilor prevăzut la alin. (1) și serviciul de informații privind abonatii prevăzut la alin. (2) vor conține informații cu privire la numerele de telefon și datele cu caracter personal ale tuturor abonatilor serviciilor de telefonie destinate publicului, cu respectarea prevederilor art. 11 din Legea nr. 506/2004, cu completările ulterioare.
+(4) Furnizorii de serviciu universal care pun la dispoziție utilizatorilor finali registrele abonaților sau serviciile de informații privind abonații, în condițiile alin. (1)-(3), au obligația să aplice principiul nediscriminării în tratamentul informațiilor care le-au fost puse la dispoziție.
+(la 27-05-2007, Alineatul (4) din Articolul 6 , Punctul 4. , Articolul IV a fost modificat de Punctul 49, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+5. Articolul 8 va avea următorul cuprins:
+Articolul 8
+(1) ANRC va lua măsuri specifice, acolo unde este cazul, pentru a asigura accesul și posibilitatea utilizatorilor finali cu handicap de a beneficia de serviciile de telefonie destinate publicului, inclusiv la serviciile de urgenta, la serviciile de informații privind abonatii și la registrele abonatilor, în condiții echivalente celor de care beneficiază ceilalți utilizatori finali.
+(2) ANRC poate lua măsuri specifice pentru a asigura ca utilizatorii finali cu handicap pot beneficia de aceeași oferta de servicii disponibilă pentru majoritatea utilizatorilor finali.
+6. Alineatul (3) al articolului 9 va avea următorul cuprins:
+(3) ANRCTI poate obliga furnizorii de serviciu universal să ofere consumatorilor anumite opțiuni tarifare sau pachete tarifare diferite de cele practicate în condiții comerciale normale, în special pentru a asigura posibilitatea persoanelor cu venituri reduse sau cu nevoi sociale speciale de a avea acces la serviciile de telefonie destinate publicului și de a utiliza aceste servicii, prevederile art. 13 aplicându-se în mod corespunzător. Ministerul Comunicațiilor și Tehnologiei Informației poate stabili categoriile de persoane care beneficiază de opțiunile tarifare sau pachetele tarifare oferite.
+(la 27-05-2007, Alineatul (3) din Articolul 9 , Punctul 6. , Articolul IV a fost modificat de Punctul 50, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+7. Alineatele (1) și (3)-(5) ale articolului 10 vor avea următorul cuprins:
+Articolul 10
+(1) Prestarea de către furnizorii de serviciu universal a serviciilor în condițiile prevăzute la art. 5-8 sau art. 9 alin. (3) nu poate fi condiționată de oferirea unor facilități sau servicii suplimentare ce nu sunt necesare pentru furnizarea serviciului solicitat.
+........................................................................................
+(3) Furnizorii de serviciu universal sunt obligați să asigure următoarele facilități, astfel încât abonatii să-și poată monitoriza și controla cheltuielile și sa evite deconectarea nejustificată:
+a) la cerere, gratuit sau contra cost, facturarea detaliată;
+(la 27-05-2007, Litera a) din Alineatul (3) , Articolul 10 , Punctul 7. , Articolul IV a fost modificată de Punctul 51, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+b) la cerere, restrictionarea selectiva, gratuita, a originarii de apeluri de un anumit tip sau către anumite tipuri de numere;
+c) modalități de plată în avans;
+d) plata esalonata a tarifelor de conectare la rețeaua publică de telefonie;
+e) măsuri specifice aplicabile în caz de neplata a facturilor.
+(4) ANRC poate stabili, cu respectarea prevederilor art. 6 din Legea nr. 506/2004, cu completările ulterioare, informațiile minime pe care trebuie să le conțină factura detaliată care va fi emisă de către furnizorii de serviciu universal în mod gratuit, astfel încât abonatii:
+a) să poată verifica și controla tarifele de utilizare a rețelei publice de telefonie și a serviciilor de telefonie destinate publicului furnizate;
+b) să poată monitoriza în mod adecvat utilizarea și cheltuielile, asigurându-se un control rezonabil asupra sumelor datorate.
+(5) Acolo unde este cazul, abonatilor le pot fi oferite informații suplimentare față de cele stabilite potrivit alin. (4), în mod gratuit sau la un tarif rezonabil, aprobat în prealabil de ANRC. Apelurile gratuite inițiate de abonat, inclusiv apelurile de urgenta, nu vor fi cuprinse în factura detaliată.
+8. Alineatul (11) al articolului 10 va avea următorul cuprins:
+(11) În toate cazurile, suspendarea furnizarii, la un punct fix, a serviciului de telefonie destinat publicului sau deconectarea de la rețeaua publică de telefonie, în caz de neplata a facturii telefonice, se va realiza doar în urma notificării abonatului de către furnizor.
+Deconectarea de la rețeaua publică de telefonie nu va avea loc mai devreme de 60 de zile de la suspendare, perioadă în care este permisă doar inițierea sau primirea de apeluri care nu presupun nicio plată de către abonat.
+(la 06-11-2006, Alineatul (11) din Articolul 10, Punctul 8 a fost completat de RECTIFICAREA nr. 70 din 30 septembrie 2006, publicată în MONITORUL OFICIAL nr. 899 din 06 noiembrie 2006 )
+9. Alineatele (12) și (13) ale articolului 10 vor avea următorul cuprins:
+(12) ANRC poate impune tuturor furnizorilor de rețele sau de servicii de comunicații electronice obligația de a lua măsurile prevăzute la alin. (8) sau (11) în ceea ce privește deconectarea.
+(13) ANRC poate retrage obligațiile prevăzute la alin. (3) sau (10) pe întregul teritoriu național sau pe o parte a acestuia, în cazul în care aceste facilități sunt larg accesibile.
+10. Alineatul (1) al articolului 14 va avea următorul cuprins:
+Articolul 14
+(1) ANRC va face public și va comunică Comisiei Europene mecanismul de compensare a costului net stabilit în conformitate cu prevederile art. 13.
+11. Alineatul (1) al articolului 15 va avea următorul cuprins:
+Articolul 15
+(1) Dacă în urma unei analize de piața realizate în conformitate cu prevederile cap. V din Ordonanța-cadru ANRC stabilește ca pe o anumită piața la nivelul furnizarii serviciilor cu amănuntul nu exista concurenta efectivă, iar obligațiile impuse în conformitate cu prevederile art. 8 din Ordonanța privind accesul sau ale art. 18 din prezenta lege nu sunt suficiente pentru atingerea obiectivelor prevăzute la art. 45 din Ordonanța-cadru, ANRC poate impune furnizorilor de rețele sau servicii de comunicații electronice cu putere semnificativă pe piața respectiva, în mod corespunzător, una sau mai multe dintre obligațiile prevăzute la alin. (2) și (3), în scopul protejării intereselor utilizatorilor finali și al promovării unei concurente efective.
+12. La articolul 15 alineatul (2), partea introductivă și litera b) vor avea următorul cuprins:
+(2) Obligațiile impuse de ANRC pot include:
+........................................................................................
+b) interzicerea practicării unor prețuri de ruinare, având ca efect limitarea intrării pe piața sau restrangerea concurentei;
+13. La articolul 15 alineatul (3), partea introductivă și litera a) vor avea următorul cuprins:
+(3) De asemenea, ANRC poate impune:
+a) plafoane tarifare sau formule de control al creșterii tarifelor la furnizarea serviciilor cu amănuntul;
+14. După alineatul (7) al articolului 15 se introduce un nou alineat, alineatul (8), cu următorul cuprins:
+(8) La cererea Comisiei Europene, ANRC va transmite informații privind obligațiile impuse în conformitate cu prevederile alin. (1)-(4), precum și, dacă este cazul, sistemele de evidențiere contabila a costurilor utilizate de furnizorii cu putere semnificativă pe piața.
+15. Alineatele (1) și (2) ale articolului 16 vor avea următorul cuprins:
+Articolul 16
+(1) Acolo unde, pe baza unei analize de piața realizate în conformitate cu prevederile cap. V din Ordonanța-cadru, ANRC stabilește ca, în ceea ce privește furnizarea unei părți sau a întregului set minim de linii închiriate, astfel cum acesta este identificat în lista de standarde publicată în Jurnalul Oficial al Comunităților Europene în conformitate cu prevederile art. 17 din Directiva 2002/21/CE a Parlamentului European și a Consiliului din 7 martie 2002 privind cadrul comun de reglementare pentru rețelele și serviciile de comunicații electronice, nu exista concurenta efectivă, va desemna furnizorii cu putere semnificativă și le va impune acestora obligații de nediscriminare, fundamentare a tarifelor în funcție de costuri și transparenta, în conformitate cu prevederile alin. (2)-(8).
+(2) ANRC va impune furnizorilor desemnați ca având putere semnificativă pe piața, potrivit alin. (1), să aplice condiții similare în situații similare pentru furnizorii care prestează servicii similare și sa furnizeze linii închiriate către terți în aceleași condiții și la aceeași calitate cu cele folosite pentru furnizarea propriilor servicii sau ale filialelor ori ale altor societăți din același grup, dacă este cazul.
+16. Alineatul (3) al articolului 16 va avea următorul cuprins:
+(3) Acolo unde este cazul, ANRC va impune furnizorilor identificati ca având putere semnificativă pe piața, potrivit alin. (1), obligația de a implementa un sistem adecvat de evidențiere contabila a costurilor. ANRC va avea disponibile informații detaliate privind sistemul contabil utilizat, pe baza informațiilor transmise de furnizorii cu putere semnificativă pe piața, pe care le va transmite, la cerere, Comisiei Europene.
+17. La articolul 16 alineatul (4), litera b) va avea următorul cuprins:
+b) tarifele practicate, incluzând tarifele inițiale de conectare, tarifele de utilizare și alte tarife, precizându-se, dacă este cazul, dacă tarifele sunt diferențiate;
+18. La articolul 16 alineatul (5), litera d) va avea următorul cuprins:
+d) termenul obișnuit de efectuare a reparațiilor, care reprezintă perioada în care 80% din defecțiunile apărute la liniile închiriate de același tip au fost remediate, calculată de la momentul în care defectiunea a fost notificată departamentului responsabil cu remedierea defectiunilor până la momentul în care defectiunea a fost remediata și, acolo unde este cazul, a fost transmisă o notificare către utilizator privind remedierea defectiunii. În cazurile în care pentru același tip de linii închiriate sunt oferite servicii de reparații de calități diferite, termenele diferite de efectuare a reparațiilor vor fi publicate;
+(la 06-11-2006, sintagma: servicii de reparații diferite a fost înlocuită de RECTIFICAREA nr. 70 din 30 septembrie 2006, publicată în MONITORUL OFICIAL nr. 899 din 06 noiembrie 2006 )
+19. Alineatele (6) și (7) ale articolului 16 vor avea următorul cuprins:
+(6) Termenul obișnuit de livrare, prevăzut la alin. (5) lit. b), se va stabili luându-se în considerare duratele în care liniile închiriate au fost puse la dispoziție utilizatorilor, pe parcursul unui interval de timp de durata rezonabila, apropiat de momentul la care se efectuează aceasta determinare. La stabilirea termenului obișnuit de livrare nu se vor lua în calcul cazurile în care utilizatorii au solicitat livrarea într-un termen mai lung.
+(7) Dacă, într-un caz concret, un furnizor identificat ca având putere semnificativă pe piața, potrivit alin. (1), considera ca furnizarea unei linii închiriate din setul minim prevăzut la art. 16 alin. (1) la tarifele și în condițiile publicate potrivit alin. (4) și (5) este nerezonabila, acesta va putea solicita acordul ANRC pentru modificarea tarifelor sau condițiilor în acel caz.
+20. Articolul 17 va avea următorul cuprins:
+Articolul 17
+Dacă, în urma unei analize de piața realizate în conformitate cu prevederile cap. V din Ordonanța-cadru, ANRC stabilește ca pe piața furnizarii unei părți sau a întregului set minim de linii închiriate prevăzut la art. 16 alin. (1) exista concurenta efectivă, va retrage obligațiile impuse potrivit art. 16 alin. (2)-(8).
+21. La articolul 18, alineatul (1) partea introductivă și alineatul (2) vor avea următorul cuprins:
+Articolul 18
+(1) Dacă, în urma unei analize de piața realizate în conformitate cu prevederile cap. V din Ordonanța-cadru, un furnizor de rețele sau servicii de comunicații electronice este desemnat ca având putere semnificativă pe piața furnizarii conectarii la un punct fix la rețelele publice de telefonie și a utilizării la un punct fix a acestor rețele, ANRC va impune acestuia obligația de a oferi abonatilor săi posibilitatea de a utiliza serviciile oricărui furnizor de servicii de telefonie destinate publicului, cu care este interconectat, în următoarele moduri:
+........................................................................................
+(2) Cererea utilizatorilor ca facilitățile prevăzute la alin. (1) să fie implementate și pe alte rețele sau în alte moduri va fi evaluată de ANRC în urma unei analize de piața realizate în conformitate cu prevederile cap. V din Ordonanța-cadru, iar obligațiile necesare pentru satisfacerea acestei cereri vor fi impuse în conformitate cu prevederile art. 12 din Ordonanța privind accesul.
+22. La articolul 19, alineatul (1) partea introductivă va avea următorul cuprins:
+Articolul 19
+(1) Contractele între utilizatorii finali și furnizorii de servicii de comunicații electronice destinate publicului vor conține următoarele clauze minime privitoare la:
+23. După alineatul (1) al articolului 19 se introduc doua noi alineate, alineatele (1^1) și (1^2), cu următorul cuprins:
+(1^1) Contractele între utilizatorii finali și furnizorii de servicii de comunicații electronice destinate publicului, cu excepția celor privind serviciile furnizate prin intermediul cartelelor preplătite sau al altor mijloace de plată asimilate, vor fi încheiate în scris sau, după caz, prin mijloace electronice, cu respectarea condițiilor cerute de lege pentru validitatea acestora.
+(la 27-05-2007, Alineatul (1^1) din Articolul 19 , Punctul 23. , Articolul IV a fost modificat de Punctul 52, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+(1^2) La momentul achiziționării serviciilor furnizate prin intermediul cartelelor preplatite sau al altor mijloace de plată asimilate, furnizorii de servicii de comunicații electronice destinate publicului au obligația sa pună la dispoziția utilizatorilor finali condițiile generale privind furnizarea acestora, care vor conține informațiile corespunzătoare clauzelor minime prevăzute la alin. (1).
+24. La articolul 20 alineatul (3), litera a) va avea următorul cuprins:
+a) descrierea serviciilor oferite, cu precizarea serviciilor incluse în tariful inițial de conectare și a celor incluse în tariful periodic de utilizare;
+25. Alineatul (1) al articolului 22 va avea următorul cuprins:
+Articolul 22
+(1) Furnizorii de rețele publice de telefonie și furnizorii de servicii de telefonie destinate publicului sunt obligați să ia toate măsurile necesare pentru a asigura integritatea rețelei publice de telefonie ale cărei puncte terminale se află la locații fixe și, în caz de perturbare gravă a funcționării rețelei sau în caz de forță majoră, disponibilitatea rețelei publice de telefonie și a serviciilor de telefonie destinate publicului furnizate la puncte terminale aflate la locații fixe.
+(la 27-05-2007, Alineatul (1) din Articolul 22 , Punctul 25. , Articolul IV a fost modificat de Punctul 53, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+25^1. Alineatul (2) al articolului 22 va avea următorul cuprins:
+(2) Furnizorii de servicii de telefonie destinate publicului furnizate la puncte terminale aflate la locații fixe sunt obligați să ia toate măsurile necesare pentru a asigura în mod neîntrerupt posibilitatea efectuării de apeluri de urgență.
+(la 27-05-2007, Articolul IV a fost completat de Punctul 54, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+26. Alineatul (4) al articolului 23 va avea următorul cuprins:
+(4) Prevederile prezentului articol nu aduc atingere dispozițiilor art. 11 din Legea nr. 506/2004, cu completările ulterioare.
+27. Articolul 24 va avea următorul cuprins:
+Articolul 24
+(1) Utilizatorii finali ai serviciilor de telefonie destinate publicului, inclusiv utilizatorii telefoanelor publice cu plată, au dreptul de a efectua în mod gratuit, indiferent de tipul rețelei sau al echipamentului terminal utilizat, apeluri către numărul unic pentru apeluri de urgență 112.
+(la 27-05-2007, Alineatul (1) din Articolul 24 , Punctul 27. , Articolul IV a fost modificat de Punctul 55, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+(2) Furnizorii de rețele publice de telefonie au obligația de a pune la dispoziția Sistemului național unic pentru apeluri de urgenta informații privind localizarea apelantului, în măsura în care este tehnic posibil, pentru toate apelurile către numărul unic pentru apeluri de urgenta 112.
+(3) ANRC va lua toate măsurile necesare pentru a asigura informarea adecvată a publicului despre existenta și modul de utilizare a numărului unic pentru apeluri de urgenta 112 în rețelele publice de telefonie.
+28. Alineatul (2) al articolului 25 va avea următorul cuprins:
+(2) Furnizorii de rețele publice de telefonie au obligația de a transmite la destinație toate apelurile efectuate către Spațiul european de numerotatie telefonica (ETNS), fără a se aduce atingere dreptului acestora de a recupera costurile determinate de transportul apelurilor prin propriile rețele.
+29. Alineatul (1) al articolului 27 va avea următorul cuprins:
+Articolul 27
+(1) ANRC poate impune furnizorilor de rețele publice de telefonie obligația de a pune la dispoziția utilizatorilor finali, acolo unde este tehnic fezabil și economic viabil:
+a) servicii de semnalizare tip multifrecventa bitonala (DTMF), potrivit standardelor europene sau standardelor naționale care implementeaza în statele membre ale Uniunii Europene acest standard;
+b) servicii de identificare a liniei care apelează, în condițiile prevăzute la art. 7 din Legea nr. 506/2004, cu completările ulterioare.
+30. După alineatul (1) al articolului 27 se introduce un nou alineat, alineatul (1^1), cu următorul cuprins:
+(1^1) În măsura în care este tehnic fezabil, furnizorii de rețele publice de telefonie vor furniza date și semnale pentru a facilita furnizarea serviciilor prevăzute la alin. (1) între statele membre ale Uniunii Europene.
+31. Articolul 29 se abrogă.
+32. La articolul 31 alineatul (1), punctul 31 va avea următorul cuprins:
+31. nerespectarea prevederilor art. 22 alin. (1) și (2) și ale art. 24 alin. (2);
+33. La articolul 31 alineatul (1), punctul 42 se abrogă.
+33^1. Alineatul (2) al articolului 31 va avea următorul cuprins:
+(2) Contravențiile prevăzute la alin. (1) se sancționează astfel:
+a) faptele prevăzute la pct. 13 și la pct. 30-41, cu amendă de la 500 lei la 50.000 lei;
+b) faptele prevăzute la pct. 1-12 și la pct. 14-29, cu amendă de la 10.000 lei la 100.000 lei, pentru furnizorii cu o cifră de afaceri de până la 5.000.000 lei;
+c) faptele prevăzute la pct. 1-12 și la pct. 14-29, prin derogare de la dispozițiile art. 8 alin. (2) lit. a) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002, cu modificările și completările ulterioare, cu amendă în cuantum de până la 2% din cifra de afaceri, iar în cazul unor încălcări repetate, cu amendă în cuantum de până la 5% din cifra de afaceri, pentru furnizorii cu o cifră de afaceri de peste 5.000.000 lei.
+(la 27-05-2007, Articolul IV a fost completat de Punctul 56, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+34. Alineatele (2) și (3) ale articolului 33 vor avea următorul cuprins:
+(2) Sancțiunile pentru contravențiile prevăzute la art. 31 alin. (1) pct. 1-27 se aplică prin decizie a președintelui ANRC.
+(3) Sancțiunile pentru contravențiile prevăzute la art. 31 alin. (1) pct. 28-41 se aplică prin rezoluție scrisă a președintelui ANRC, potrivit dispozițiilor art. 21 alin. (2) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002, cu modificările și completările ulterioare.
+35. Articolul 34 va avea următorul cuprins:
+Articolul 34
+Regimul sanctionator instituit prin prezentul capitol se completează în mod corespunzător cu prevederile art. 59 și art. 59^1 din Ordonanța-cadru.
+36. Articolul 36 va avea următorul cuprins:
+Articolul 36
+ANRC stabilește o procedură transparenta, simpla și necostisitoare, în scopul soluționării corecte și prompte a litigiilor nerezolvate pe cale amiabila dintre utilizatorii finali și furnizorii de servicii de comunicații electronice, ocazionate de aplicarea prezentei legi, cu implicarea organismelor ce reprezintă interesele utilizatorilor finali, precum și a altor entități relevante din domeniul protecției consumatorilor, după caz. ANRC poate stabili un sistem de rambursare a cheltuielilor făcute de utilizatorii finali sau de despăgubire pentru prejudiciile suferite de aceștia în raporturile cu furnizorii de servicii de comunicații electronice, aplicabil în cazuri întemeiate.
+37. După articolul 36 se introduce un nou articol, articolul 36^1, cu următorul cuprins:
+Articolul 36^1
+(1) ANRC va notifica de îndată Comisiei Europene furnizorii de serviciu universal desemnați sa presteze serviciile prevăzute la art. 3 alin. (2).
+(2) ANRC va notifica Comisiei Europene furnizorii de rețele sau de servicii de comunicații electronice desemnați ca având putere semnificativă pe piețele relevante cu amănuntul din sectorul comunicațiilor electronice și obligațiile impuse acestora în conformitate cu prevederile cap. III, precum și, în cel mai scurt timp, orice modificare a obligațiilor impuse sau a furnizorilor cărora li se aplică aceste obligații.
+38. Articolul 38 va avea următorul cuprins:
+Articolul 38
+(1) Tarifele practicate pe piețele relevante cu amănuntul de către furnizorii de rețele sau de servicii de comunicații electronice identificați ca având putere semnificativă pe aceste piețe nu sunt supuse aprobării prealabile a ANRCTI.
+(2) ANRCTI poate obliga furnizorii de rețele sau de servicii de comunicații electronice identificați ca având putere semnificativă pe piețele relevante cu amănuntul să notifice către ANRCTI tarifele practicate pe aceste piețe în același moment în care aceste tarife sunt notificate către clienți, în vederea controlării de către ANRCTI a respectării obligațiilor legale care le revin.
+(3) ANRCTI are obligația să își exprime punctul de vedere asupra tarifelor notificate, până la data intrării în vigoare a acestora.
+(la 27-05-2007, Articolul 38 din Punctul 38. , Articolul IV a fost modificat de Punctul 57, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+39. După articolul 39 se introduce mențiunea privind transpunerea normelor comunitare, cu următorul cuprins:
+Prezenta lege transpune Directiva 2002/22/CE a Parlamentului European și a Consiliului din 7 martie 2002 privind serviciul universal și drepturile utilizatorilor cu privire la rețelele și serviciile de comunicații electronice (Directiva privind serviciul universal), publicată în Jurnalul Oficial al Comunităților Europene nr. L 108 din 24 aprilie 2002.
+Articolul V
+În cazul în care furnizorii de serviciu universal beneficiază de sprijin financiar din partea statului, acesta va fi acordat numai cu respectarea condițiilor prevăzute în legislația aplicabilă în domeniul ajutorului de stat, în vigoare la data acordării acestuia.
+Articolul VI
+(1) Pentru anul 2006, cuantumul tarifului de monitorizare definitiv se va determina până la data de 30 noiembrie 2006, pe baza cifrelor de afaceri sau a veniturilor realizate din furnizarea de rețele sau servicii de comunicații electronice ori din furnizarea de servicii poștale în anul 2005, prin decizie a președintelui ANRC.
+(2) Diferența dintre tariful de monitorizare estimativ pentru anul 2006 și tariful de monitorizare prevăzut la alin. (1) se achită în termen de 30 de zile de la data comunicării deciziei sau, după caz, se restituie în condițiile Ordonanței Guvernului nr. 92/2003 privind Codul de procedură fiscală, republicată, cu modificările și completările ulterioare.
+(3) Tariful de monitorizare prevăzut la alin. (1) va fi avut în vedere la determinarea cuantumului plăților anticipate pe care furnizorii de rețele publice de comunicații electronice, furnizorii de servicii de comunicații electronice destinate publicului și furnizorii de servicii poștale au obligația să le efectueze în contul tarifului de monitorizare pentru anul 2007.
+Articolul VI^1
+Legea nr. 510/2004 privind reorganizarea Inspectoratului General pentru Comunicații și Tehnologia Informației, publicată în Monitorul Oficial al României, Partea I, nr. 1.082 din 22 noiembrie 2004, cu modificările ulterioare, se modifică și se completează după cum urmează:
+1. Alineatul (1) al articolului 4 va avea următorul cuprins:
+Articolul 4
+(1) Conducerea IGCTI este asigurată de un președinte și de un vicepreședinte, numiți prin decizie a primului-ministru. Durata mandatului acestora este de 5 ani.
+2. După alineatul (1) al articolului 4 se introduce un nou alineat, alineatul (1^1), cu următorul cuprins:
+(1^1) Președintele și vicepreședintele pot fi revocați de către primul-ministru pentru următoarele motive:
+a) încălcarea prevederilor legislației din domeniul de activitate al IGCTI;
+b) condamnarea penală prin hotărâre judecătorească definitivă, pentru care nu a intervenit reabilitarea;
+c) în situația imposibilității de a-și îndeplini mandatul mai mult de 120 de zile calendaristice consecutive.
+(la 27-05-2007, Actul a fost completat de Punctul 58, Articolul I din LEGEA nr. 133 din 11 mai 2007, publicată în MONITORUL OFICIAL nr. 355 din 24 mai 2007 )
+Articolul VII
+Prezenta ordonanță de urgență intră în vigoare la data publicării în Monitorul Oficial al României, Partea I, cu următoarele excepții:
+a) dispozițiile art. I pct. 3 în ceea ce privește lit. w) a art. 2 din Ordonanța Guvernului nr. 31/2002, art. I pct. 13 în ceea ce privește art. 14^1 din Ordonanța Guvernului nr. 31/2002 și art. I pct. 14 și 15 intră în vigoare la 90 de zile de la data publicării prezentei ordonanțe de urgență;
+b) dispozițiile art. III pct. 17, 18 și 24 intră în vigoare la data de 31 decembrie 2006;
+c) dispozițiile art. I pct. 2, 7-9, 20, art. I pct. 21 în ceea ce privește alin. (4) - (6) ale art. 24 din Ordonanța Guvernului nr. 31/2002, art. I pct. 23 în ceea ce privește alin. (2) al art. 25 din Ordonanța Guvernului nr. 31/2002 și pct. 24, art. II pct. 6 în ceea ce privește trimiterea la procedura prevăzută la art. 34^1 din Ordonanța de urgenta a Guvernului nr. 79/2002 din cuprinsul alin. (4) și (5) ale art. 5 din Ordonanța Guvernului nr. 34/2002, art. II pct. 8 în ceea ce privește modificarea alin. (3) - (5) ale art. 8 din Ordonanța Guvernului nr. 34/2002 și art. II pct. 15, art. III pct. 2, art. III pct. 7-10, art. III pct. 11 în ceea ce privește modificarea alin. (3) al art. 36 din Ordonanța de urgenta a Guvernului nr. 79/2002, art. III pct. 14, 16, 19, 20, 21 și 23, art. IV pct. 10, 14, art. IV pct. 15 în ceea ce privește modificarea alin. (1) al art. 16 din Legea nr. 304/2003 și art. IV pct. 16, 28, 30, 31, 33, 37 și 38 intră în vigoare la data aderării României la Uniunea Europeană.
+Articolul VIII
+La expirarea termenului prevăzut la art. VII lit. a), licentele individuale emise în temeiul art. 16 din Ordonanța Guvernului nr. 31/2002 își încetează valabilitatea.
+Articolul IX
+Ordonanța Guvernului nr. 31/2002 privind serviciile poștale, aprobată cu modificări și completări prin Legea nr. 642/2002, cu modificările ulterioare, Ordonanța Guvernului nr. 34/2002 privind accesul la rețelele publice de comunicații electronice și la infrastructura asociata, precum și interconectarea acestora, aprobată cu modificări și completări la Legea nr. 527/2002, Ordonanța de urgenta a Guvernului nr. 79/2002 privind cadrul general de reglementare a comunicațiilor, aprobată cu modificări și completări prin Legea nr. 591/2002, cu modificările și completările ulterioare, și Legea nr. 304/2003 pentru serviciul universal și drepturile utilizatorilor cu privire la rețelele și serviciile de comunicații electronice, cu modificările și completările aduse prin prezenta ordonanță de urgență, după aprobarea prin lege a acesteia, vor fi republicate în Monitorul Oficial al României, Partea I, dându-se textelor o noua numerotare.

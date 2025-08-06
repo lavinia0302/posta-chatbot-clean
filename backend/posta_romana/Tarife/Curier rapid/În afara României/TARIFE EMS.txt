@@ -1,0 +1,492 @@
+TARIFE EMS
+
+Administratia de destinație 
+
+AFRICA DE SUD:
+Tarif până la 500g:148,45 lei
+Tarif 501 - 1.000g:179,97 lei   
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg):62,03 lei  
+
+ALBANIA:
+Tarif până la 500g: 142,35 lei
+Tarif 501 - 1.000g: 158,62 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 32,54 lei     
+
+ALGERIA:
+Tarif până la 500g: 147,44 lei
+Tarif 501 - 1.000g: 165,74 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 35,59 lei
+
+ARABIA SAUDITĂ:
+Tarif până la 500g: 169,81 lei
+Tarif 501 - 1.000g: 187,09 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 32,54 lei
+
+ARGENTINA:
+Tarif până la 500g: 143,37 lei
+Tarif 501 - 1.000g: 175,91 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 63,04 lei
+
+AUSTRALIA:
+Tarif până la 500g: 232,85 lei
+Tarif 501 - 1.000g: 292,84 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 118,97 lei
+
+AUSTRIA:
+Tarif până la 500g: 121,00 lei
+Tarif 501 - 1.000g: 130,15 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 17,29 lei
+
+BELARUS:
+Trafic suspendat
+
+BELGIA:
+Tarif până la 500g: 135,24 lei
+Tarif 501 - 1.000g: 145,40 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 18,30 lei
+
+BOSNIA HERȚEGOVINA:
+Tarif până la 500g: 131,17 lei
+Tarif 501 - 1.000g: 146,42 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 28,47 lei
+
+BRAZILIA:
+Tarif până la 500g: 170,82 lei
+Tarif 501 - 1.000g: 196,24 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 50,84 lei
+
+BULGARIA:
+Tarif până la 500g: 128,12 lei
+Tarif 501 - 1.000g: 139,30 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 21,35 lei
+
+CAMERUN:
+Trafic suspendat
+
+CANADA:
+Tarif până la 500g: 133,20 lei
+Tarif 501 - 1.000g: 165,74 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 63,04 lei
+
+CHILE:
+Trafic suspendat
+
+CHINA:
+Tarif până la 500g: 98,63 lei
+Tarif 501 - 1.000g: 126,08 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 53,89 lei
+
+CIPRU:
+Tarif până la 500g: 141,34 lei
+Tarif 501 - 1.000g: 157,61 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 30,50 lei
+
+COASTA DE FILDES:
+Tarif până la 500g: 135,24 lei
+Tarif 501 - 1.000g: 163,71 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 54,91 lei
+
+COLUMBIA:
+Tarif până la 500g: 129,13 lei
+Tarif 501 - 1.000g: 151,50 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 43,72 lei
+
+CROAȚIA:
+Tarif până la 500g: 109,82 lei
+Tarif 501 - 1.000g: 124,05 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 28,47 lei
+
+CUBA:
+Trafic suspendat
+
+DANEMARCA:
+Tarif până la 500g: 185,06 lei
+Tarif 501 - 1.000g: 193,19 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 17,29 lei
+
+DJIBUTI:
+Trafic suspendat
+
+ECUADOR:
+Tarif până la 500g: 150,49 lei
+Tarif 501 - 1.000g: 184,04 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 66,09 lei
+
+EGIPT:
+Tarif până la 500g: 133,20 lei
+Tarif 501 - 1.000g: 149,47 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 32,54 lei
+
+ELVEȚIA:
+Tarif până la 500g: 176,92 lei
+Tarif 501 - 1.000g: 186,08 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 17,29 lei
+
+EMIRATELE ARABE:
+Tarif până la 500g: 147,44 lei
+Tarif 501 - 1.000g: 160,66 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 24,40 lei
+
+ESTONIA:
+Tarif până la 500g: 145,40 lei
+Tarif 501 - 1.000g: 159,64 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 28,47 lei
+
+ETIOPIA:
+Tarif până la 500g: 170,82 lei
+Tarif 501 - 1.000g: 196,24 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 50,84 lei
+
+FILIPINE:
+Tarif până la 500g: 133,20 lei
+Tarif 501 - 1.000g: 149,47 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 32,54 lei
+
+FINLANDA:
+Tarif până la 500g: 171,84 lei
+Tarif 501 - 1.000g: 185,06 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 24,40 lei
+
+FRANȚA:
+Tarif până la 500g: 112,87 lei
+Tarif 501 - 1.000g: 124,05 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 22,37 lei
+
+GABON:
+Trafic suspendat
+
+GEORGIA:
+Tarif până la 500g: 153,54 lei
+Tarif 501 - 1.000g: 171,84 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 35,59 lei
+
+GERMANIA:
+Tarif până la 500g: 186,08 lei
+Tarif 501 - 1.000g: 193,19 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 13,22 lei
+
+GHANA:
+Tarif până la 500g: 183,03 lei
+Tarif 501 - 1.000g: 211,50 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 54,91 lei
+
+GRECIA:
+Tarif până la 500g: 147,44 lei
+Tarif 501 - 1.000g: 160,66 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 24,40 lei
+
+GUERNSEY:
+Tarif până la 500g: 225,73 lei
+Tarif 501 - 1.000g: 234,88 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 16,27 lei
+
+GUINEEA:
+Trafic suspendat
+
+HONG KONG:
+Tarif până la 500g: 170,82 lei
+Tarif 501 - 1.000g: 189,13 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 35,59 lei
+
+INDIA:
+Tarif până la 500g: 133,20 lei
+Tarif 501 - 1.000g: 149,47 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 32,54 lei
+
+INDONEZIA:
+Tarif până la 500g: 161,67 lei
+Tarif 501 - 1.000g: 179,97 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 34,57 lei
+
+INSULELE MALDIVE:
+Tarif până la 500g: 129,13 lei
+Tarif 501 - 1.000g: 141,34 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 23,39 lei
+
+INSULELE MAURICE:
+Trafic suspendat
+
+INSULELE CANARE:
+Tarif până la 500g: 198,28 lei
+Tarif 501 - 1.000g: 210,48 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 23,39 lei
+
+IORDANIA:
+Tarif până la 500g: 153,54 lei
+Tarif 501 - 1.000g: 171,84 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 35,59 lei
+
+IRAK:
+Trafic suspendat
+
+IRAN:
+Trafic suspendat
+
+IRLANDA:
+Tarif până la 500g: 158,62 lei
+Tarif 501 - 1.000g: 171,84 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 26,44 lei
+
+ISLANDA:
+Tarif până la 500g: 218,61 lei
+Tarif 501 - 1.000g: 238,95 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 39,66 lei
+
+ISRAEL:
+Tarif până la 500g: 130,15 lei
+Tarif 501 - 1.000g: 152,52 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 43,72 lei
+
+ITALIA:
+Tarif până la 500g: 148,45 lei
+Tarif 501 - 1.000g: 157,61 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 17,29 lei
+
+SAN MARINO:
+Tarif până la 500g: 148,45 lei
+Tarif 501 - 1.000g: 157,61 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 17,29 lei
+
+JAPONIA:
+Tarif până la 500g: 200,31 lei
+Tarif 501 - 1.000g: 222,68 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 43,72 lei
+
+JERSEY:
+Tarif până la 500g: 137,27 lei
+Tarif 501 - 1.000g: 149,47 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 24,40 lei
+
+KENIA:
+Tarif până la 500g: 151,50 lei
+Tarif 501 - 1.000g: 168,79 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 32,54 lei
+
+LETONIA:
+Tarif până la 500g: 140,32 lei
+Tarif 501 - 1.000g: 155,57 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 28,47 lei
+
+LIBAN:
+Tarif până la 500g: 122,02 lei
+Tarif 501 - 1.000g: 137,27 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 28,47 lei
+
+LIECHTENSTEIN:
+Tarif până la 500g: 176,92 lei
+Tarif 501 - 1.000g: 186,08 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 17,29 lei
+
+LITUANIA:
+Tarif până la 500g: 129,13 lei
+Tarif 501 - 1.000g: 142,35 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 24,40 lei
+
+LUXEMBURG:
+Tarif până la 500g: 119,98 lei
+Tarif 501 - 1.000g: 132,18 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 23,39 lei
+
+MACEDONIA:
+Tarif până la 500g: 137,27 lei
+Tarif 501 - 1.000g: 152,52 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 30,50 lei
+
+MADAGASCAR:
+Trafic suspendat
+
+MALI:
+Tarif până la 500g: 115,92 lei
+Tarif 501 - 1.000g: 143,37 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 52,87 lei
+
+MALTA:
+Tarif până la 500g: 140,32 lei
+Tarif 501 - 1.000g: 157,61 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 33,55 lei
+
+MAREA BRITANIE:
+Tarif până la 500g: 167,77 lei
+Tarif 501 - 1.000g: 175,91 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 16,27 lei
+
+MAROC:
+Tarif până la 500g: 164,72 lei
+Tarif 501 - 1.000g: 185,06 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 39,66 lei
+
+MAURITANIA:
+Trafic suspendat
+
+MEXIC:
+Tarif până la 500g: 187,09 lei
+Tarif 501 - 1.000g: 217,60 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 58,97 lei
+
+MOLDOVA:
+Tarif până la 500g: 74,23 lei
+Tarif 501 - 1.000g: 79,31 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 9,15 lei
+
+MOZAMBIC:
+Trafic suspendat
+
+NIGER:
+Trafic suspendat
+
+NIGERIA:
+Tarif până la 500g: 143,37 lei
+Tarif 501 - 1.000g: 165,74 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 43,72 lei
+
+NORVEGIA:
+Tarif până la 500g: 211,50 lei
+Tarif 501 - 1.000g: 222,68 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 20,34 lei
+
+NOUA ZEELANDĂ:
+Tarif până la 500g: 155,57 lei
+Tarif 501 - 1.000g: 212,51 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 113,88 lei
+
+OLANDA:
+Tarif până la 500g: 138,29 lei
+Tarif 501 - 1.000g: 147,44 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 16,27 lei
+
+PAKISTAN:
+Tarif până la 500g: 129,13 lei
+Tarif 501 - 1.000g: 142,35 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 24,40 lei
+
+PAPUA NOUA GUINEE:
+Trafic suspendat
+
+POLONIA:
+Tarif până la 500g: 133,20 lei
+Tarif 501 - 1.000g: 149,47 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 32,54 lei
+
+PORTUGALIA:
+Tarif până la 500g: 122,02 lei
+Tarif 501 - 1.000g: 136,25 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 28,47 lei
+
+QATAR:
+Tarif până la 500g: 162,69 lei
+Tarif 501 - 1.000g: 191,16 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 54,91 lei
+
+REPUBLICA DEMOCRATĂ CONGO:
+Tarif până la 500g: 161,67 lei
+Tarif 501 - 1.000g: 187,09 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 50,84 lei
+
+REPUBLICA CEHĂ:
+Tarif până la 500g: 115,92 lei
+Tarif 501 - 1.000g: 124,05 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 15,25 lei
+
+REPUBLICA CENTRAFRICANĂ:
+Trafic suspendat
+
+COREEA DE SUD:
+Tarif până la 500g: 125,07 lei
+Tarif 501 - 1.000g: 142,35 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 34,57 lei
+
+RUSIA:
+Trafic suspendat
+
+STATELE UNITE ALE AMERICII:
+Tarif până la 500g: 325,38 lei
+Tarif 501 - 1.000g: 347,75 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 42,71 lei
+
+EL SALVADOR:
+Trafic suspendat
+
+SENEGAL:
+Tarif până la 500g: 135,24 lei
+Tarif 501 - 1.000g: 153,54 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 35,59 lei
+
+SERBIA:
+Tarif până la 500g: 128,12 lei
+Tarif 501 - 1.000g: 139,30 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 21,35 lei
+
+SINGAPORE:
+Tarif până la 500g: 139,30 lei
+Tarif 501 - 1.000g: 157,61 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 35,59 lei
+
+SLOVACIA:
+Tarif până la 500g: 118,97 lei
+Tarif 501 - 1.000g: 131,17 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 22,37 lei
+
+SLOVENIA:
+Tarif până la 500g: 127,10 lei
+Tarif 501 - 1.000g: 137,27 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 19,32 lei
+
+SPANIA:
+Tarif până la 500g: 192,18 lei
+Tarif 501 - 1.000g: 204,38 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 23,39 lei
+
+SUDAN:
+Trafic suspendat
+
+SUEDIA:
+Tarif până la 500g: 164,72 lei
+Tarif 501 - 1.000g: 175,91 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 20,34 lei
+
+TAILANDA:
+Tarif până la 500g: 130,15 lei
+Tarif 501 - 1.000g: 148,45 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 35,59 lei
+
+TAIWAN:
+Tarif până la 500g: 171,84 lei
+Tarif 501 - 1.000g: 199,29 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 53,89 lei
+
+TANZANIA:
+Trafic suspendat
+
+TUNISIA:
+Tarif până la 500g: 154,55 lei
+Tarif 501 - 1.000g: 169,81 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 34,57 lei
+
+TURCIA:
+Tarif până la 500g: 161,67 lei
+Tarif 501 - 1.000g: 176,92 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 28,47 lei
+
+UCRAINA:
+Tarif până la 500g: 164,72 lei
+Tarif 501 - 1.000g: 174,89 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 20,34 lei
+
+UNGARIA:
+Tarif până la 500g: 144,39 lei
+Tarif 501 - 1.000g: 153,54 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 17,29 lei
+
+VANUATU:
+Trafic suspendat
+
+VENEZUELA:
+Trafic suspendat
+
+VIET NAM:
+Tarif până la 500g: 131,17 lei
+Tarif 501 - 1.000g: 146,42 lei
+Tarif peste 1 Kg (de fiecare kg sau fracție de kg): 28,47 lei
+
+Tarifele contin TVA
+In cazul tarifarii fractiilor de kg. acestea se rotunjesc la treapta  imediat  superioara de  kg.

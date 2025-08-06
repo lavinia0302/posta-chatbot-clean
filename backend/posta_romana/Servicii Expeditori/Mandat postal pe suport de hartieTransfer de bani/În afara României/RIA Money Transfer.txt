@@ -1,0 +1,50 @@
+Servicii expeditori > RIA Money Transfer
+
+Ria Money Transfer, filială a Euronet Worldwide, Inc. (NASDAQ: EEFT), oferă servicii financiare inovatoare, inclusiv transferuri de bani rapide, sigure și accesibile, în toată lumea. Cu o rețea de peste 447.000 de locații în 160 de țări și cea mai mare rețea de depozite bancare directe din lume, Ria livrează banii acolo unde contează.
+ 
+De acum înainte, clienții pot trimite bani prin rețeaua globală Ria, sau pot primi transferuri de bani în locațiile selectate ale Poștei Române care au expusă sigla Ria.
+
+ Comisioane/Tarife Ria Money Transfer (LEI)
+Suma trimisă RON	Comision RON
+0.01	100.00	15.00
+100.01	200.00	22.00
+200.01	300.00	24.00
+300.01	500.00	30.00
+500.01	800.00	45.00
+800.01	1500.00	70.00
+1500.01	2000.00	100.00
+2000.01	3000.00	120.00
+3000.01	4500.00	135.00
+4500.01	6000.00	170.00
+6000.01	8000.00	210.00
+8000.01	12000.00	280.00
+Peste 12000.01	350.00
+
+Comisioane/Tarife Ria Money Transfer (EURO)
+Suma trimisă EURO	Comision EURO
+0.01	25.00	2.49
+25.01	50.00	4.90
+50.01	100.00	6.00
+100.01	200.00	11.00
+200.01	300.00	13.00
+300.01	400.00	17.00
+400.01	500.00	20.00
+500.01	750.00	26.00
+750.01	1000.00	31.00
+1000.01	1250.00	35.50
+1250.01	1500.00	44.00
+1500.01	1750.00	53.00
+1750.01	2000.00	63.00
+2000.01	2500.00	72.00
+2500.01	3000.00	81.00
+3000.01	3500.00	101.00
+3500.01	4000.00	120.00
+4000.01	4500.00	140.00
+Peste 4500.01	160.00
+ 
+UCRAINA: LISTĂ CODURI POȘTALE UNDE SE ASIGURĂ SERVICIILE POȘTALE
+Lista codurilor poștale corespunzătoare unde Poșta Ucrainei poate asigura servicii poștale, poate fi consultată aici https://offices.ukrposhta.ua/
+
+De asemenea, listele cu codurile poștale și oficiile poștale în limba engleză, pot fi descărcate de aici https://index.ukrposhta.ua/postcodes-and-offices
+
+Lista codurilor poștale deservite de Ukrposhta actualizată la data de 30.03.2025 poate fi descărcată de aici

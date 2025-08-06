@@ -1,0 +1,646 @@
+În temeiul prevederilor art.7 alin.(1), (3) şi (5) din Ordonanţa de urgenţă a Guvernului nr.134/2006 privind înfiinţarea Autorităţii Naţionale pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei, ale art.488 din Ordonanţa de urgenţă a Guvernului nr.79/2002 privind cadrul general de reglementare a comunicaţiilor, aprobată cu modificări şi completări, prin Legea nr.591/2002, cu modificările şi completările ulterioare, precum şi ale art.13 alin.(2) din Legea nr.304/2003 pentru serviciul universal şi drepturile utilizatorilor cu privire la reţelele şi serviciile de comunicaţii electronice, cu modificările şi completările ulterioare, 
+ 
+PREŞEDINTELE AUTORITĂŢII NAŢIONALE PENTRU REGLEMENTARE ÎN COMUNICAŢII ŞI TEHNOLOGIA INFORMAŢIEI 
+ 
+ 
+emite prezenta: 
+ 
+DECIZIE 
+privind procedura de determinare a anumitor obligaţii financiare ale furnizorilor 
+de reţele sau servicii de comunicaţii electronice şi ale furnizorilor de servicii 
+poştale către Autoritatea Naţională pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei   
+  
+	 	Art. 1. – Prezenta decizie are ca obiect: 
+a)	stabilirea procedurii de exercitare a dreptului de opţiune al furnizorilor de reţele sau servicii de comunicaţii electronice şi al furnizorilor de servicii poştale în vederea determinării tarifului de monitorizare în funcţie de veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice ori din activităţi de furnizare de servicii poştale; 
+b)	stabilirea procedurii de exercitare a dreptului de opţiune al furnizorilor de reţele sau servicii de comunicaţii electronice în vederea determinării contribuţiei pentru compensarea costului net al furnizării serviciilor din sfera serviciului universal în funcţie de anumite venituri din domeniul comunicaţiilor electronice; 
+c)	stabilirea regulilor de conducere a evidenţei contabile distincte de către furnizorii de reţele sau servicii de comunicaţii electronice şi de către furnizorii de servicii poştale, în vederea determinării obligaţiilor financiare către Autoritatea Naţională pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei, denumită în continuare ANRCTI, în funcţie de o altă bază de calcul decât cifra de afaceri; 
+d)	stabilirea regulilor de determinare a furnizorilor de reţele sau servicii de 
+comunicaţii electronice şi a furnizorilor de servicii poştale cărora le incumbă obligaţia de  plată a tarifului de monitorizare. 
+ 
+ 
+Art. 2. – (1) În înţelesul prezentei decizii, prin venituri obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice se înţelege următoarele categorii de venituri: 
+ A. venituri obţinute din furnizarea de reţele sau servicii de comunicaţii electronice către utilizatorii finali: 
+a)	venituri obţinute din furnizarea de servicii de telefonie;  
+b)	venituri obţinute din furnizarea de servicii de transmisiuni de date şi acces la 
+internet; 
+c)	venituri obţinute din furnizarea de servicii de linii închiriate; 
+d)	venituri obţinute din furnizarea de servicii de transmisie a programelor 
+audiovizuale; 
+e)	alte venituri obţinute din furnizarea de reţele sau servicii de comunicaţii 
+electronice; 
+B. venituri obţinute din furnizarea de reţele sau servicii de comunicaţii electronice către alţi furnizori de reţele sau servicii de comunicaţii electronice: 
+a)	venituri obţinute din furnizarea de servicii de interconectare (inclusiv 
+interconectare în vederea furnizării de servicii de transmisiuni de date şi acces la internet); 
+b)	venituri obţinute din furnizarea de servicii de roaming; 
+c)	venituri obţinute din furnizarea de servicii de linii închiriate; 
+d)	venituri obţinute din furnizarea de alte servicii de acces; 
+e)	alte venituri obţinute din furnizarea de reţele sau servicii de comunicaţii 
+electronice. 
+(2) În înţelesul prezentei decizii, prin venituri obţinute din activităţi de furnizare de servicii poştale se înţelege următoarele categorii de venituri: 
+A. venituri obţinute din furnizarea de servicii poştale incluse în sfera serviciului universal, care includ veniturile obţinute din prestarea următoarelor servicii: 
+a)	colectarea, sortarea, transportul şi livrarea trimiterilor poştale (trimiteri de corespondenţă, imprimate şi trimiteri de publicitate prin poştă) interne şi internaţionale în greutate de până la 2 kg;  
+b)	colectarea, sortarea, transportul şi livrarea coletelor poştale interne şi 
+internaţionale în greutate de până la 10 kg;  
+c)	distribuirea coletelor poştale cu limite de greutate între 10 şi 20 kg expediate din 
+afara teritoriului României către o adresă aflată pe teritoriul acesteia; 
+d)	serviciul de trimitere recomandată, având ca obiect:  
+-	trimiteri poştale interne şi internaţionale în greutate de până la 2 kg; 
+-	colete poştale interne şi internaţionale în greutate de până la 10 kg;  
+-	colete poştale cu limite de greutate între 10 şi 20 kg, expediate din afara teritoriului României către o adresă aflată pe teritoriul acesteia; 
+e) serviciul de trimitere cu valoare declarată, având ca obiect:  
+-	trimiteri poştale interne şi internaţionale în greutate de până la 2 kg; 
+-	colete poştale interne şi internaţionale în greutate de până la 10 kg;  
+-	colete poştale cu limite de greutate între 10 şi 20 kg, expediate din afara teritoriului României către o adresă aflată pe teritoriul acesteia. 
+B. venituri obţinute din furnizarea de servicii poştale neincluse în sfera serviciului universal, care includ veniturile obţinute din prestarea următoarelor servicii: 
+a)	servicii având ca obiect trimiteri poştale (trimiteri de corespondenţă, imprimate şi 
+trimiteri de publicitate prin poştă) interne şi internaţionale în greutate mai mare de 2 kg; 
+b)	servicii având ca obiect colete poştale interne cu limite de greutate între 10 şi 50 
+kg; 
+c)	servicii având ca obiect colete poştale cu limite de greutate între 10 şi 50 kg, 
+expediate de pe teritoriul României către o adresă aflată în afara teritoriului acesteia; 
+d)	servicii având ca obiect colete poştale cu limite de greutate între 20 şi 50 kg, 
+expediate din afara teritoriului României către o adresă aflată pe teritoriul acesteia; 
+e)	servicii care prezintă caracteristici suplimentare serviciilor poştale incluse în sfera 
+serviciului universal: 
+-	serviciul Ramburs; 
+-	serviciul Schimbare destinaţie; 
+-	serviciul Livrare specială; 
+-	serviciul Confirmare de primire; 
+-	serviciul Express; 
+f) serviciul de schimb de documente. 
+(3) În cuprinsul prezentei decizii sunt, de asemenea, aplicabile definiţiile prevăzute în legislaţia primară din domeniul comunicaţiilor electronice şi al serviciilor poştale şi în deciziile relevante emise de preşedintele ANRCTI. 
+ 
+Art. 3. – (1) Furnizorii de reţele sau servicii de comunicaţii electronice şi furnizorii de servicii poştale beneficiază de dreptul de a opta pentru determinarea tarifului de monitorizare anual pe baza cifrei de afaceri ori a veniturilor obţinute exclusiv din activităţi de furnizare de reţele sau servicii de comunicaţii electronice ori, după caz, de furnizare de servicii poştale. 
+(2)	Furnizorii de reţele sau servicii de comunicaţii electronice beneficiază de dreptul de a opta pentru luarea în considerare a cifrei de afaceri ori a veniturilor obţinute exclusiv din activităţi de furnizare de reţele sau servicii de comunicaţii electronice în vederea determinării existenţei obligaţiei de plată a contribuţiei pentru compensarea costului net al furnizării serviciilor din sfera serviciului universal, precum şi a determinării cuantumului acesteia. 
+(3)	Furnizorii obligaţi la plata contribuţiei pentru compensarea costului net al furnizării serviciilor din sfera serviciului universal beneficiază, în vederea determinării cuantumului acesteia, de dreptul de a opta pentru scăderea din baza de calcul a veniturilor obţinute din servicii de transmisie a programelor audiovizuale, precum şi a veniturilor din furnizarea de servicii de interconectare şi din furnizarea de servicii de roaming. 
+(4)	Dreptul de opţiune prevăzut la alin.(1)-(3) se exercită în mod obligatoriu prin completarea formularului-tip "Opţiune privind modul de determinare a obligaţiilor financiare către Autoritatea Naţională pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei", prevăzut în anexa nr.1, care se transmite ANRCTI odată cu situaţiile sau declaraţiile financiare anuale, în termenele prevăzute la art.486 din Ordonanţa de urgenţă a Guvernului nr.79/2002 privind cadrul general de reglementare a comunicaţiilor, aprobată cu modificări şi completări, prin Legea nr.591/2002, cu modificările şi completările ulterioare, însă nu mai târziu de data de 15 iulie a anului. 
+(5)	Opţiunea transmisă ANRCTI produce efecte pentru anul pentru care este exprimată, precum şi pentru anii următori, până la exprimarea unei alte opţiuni, în condiţiile alin.(4).   
+(6)	Neexercitarea dreptului de opţiune prevăzut la alin.(1)-(3) în condiţiile alin.(4) are ca efect: 
+a)	determinarea obligaţiilor financiare către ANRCTI în funcţie de cifra de afaceri; 
+b)	în cazul furnizorilor de reţele sau servicii de comunicaţii electronice şi al 
+furnizorilor de servicii poştale care şi-au exercitat dreptul de opţiune prevăzut la alin.(1)(3) până la data intrării în vigoare a prezentei decizii, determinarea obligaţiilor financiare către ANRCTI potrivit acestei opţiuni. 
+ 
+  Art. 4. – (1) Pentru persoanele care nu au avut calitatea de furnizor pe parcursul unui an calendaristic întreg, tariful de monitorizare se calculează ca un procent din cifra de afaceri înregistrată în lunile anului anterior celui pentru care se datorează tariful, în care acestea au avut calitatea de furnizor. 
+(2)	În vederea determinării tarifului de monitorizare pentru persoanele prevăzute la alin.(1), acestea au obligaţia transmiterii către ANRCTI a situaţiei privind cifra de afaceri realizată în lunile din anul anterior celui pentru care se datorează tariful de monitorizare, în care au avut calitatea de furnizor, luându-se în considerare inclusiv luna în care au dobândit această calitate, însoţită de copii ale balanţelor de verificare sintetice întocmite pentru perioada respectivă, în cazul furnizorilor persoane juridice, sau de copii ale evidenţelor întocmite pentru perioada respectivă potrivit legislaţiei fiscale, în cazul furnizorilor autorizaţi să desfăşoare activităţi economice în mod independent, ca persoane fizice sau ca asociaţii familiale. 
+(3)	Netransmiterea către ANRCTI a documentelor prevăzute la alin.(2) are ca efect determinarea obligaţiilor financiare către ANRCTI în funcţie de cifra de afaceri realizată pentru întregul an anterior. 
+ 
+Art. 5. – (1) În vederea determinării obligaţiilor financiare către ANRCTI în funcţie de o altă bază de calcul decât cifra de afaceri, furnizorii de reţele sau servicii de comunicaţii electronice şi furnizorii de servicii poştale persoane juridice vor înregistra în evidenţa contabilă veniturile din activităţile de furnizare de reţele sau servicii de comunicaţii electronice ori de servicii poştale potrivit reglementărilor contabile în vigoare, pe baza facturilor care atestă prestarea serviciilor respective, precum şi veniturile din aceste activităţi realizate în aceeaşi perioadă, pentru care nu s-au întocmit încă facturi, şi în conformitate cu dezvoltarea clasei de conturi „Venituri” pe conturi analitice, potrivit categoriilor de venituri stabilite în formularul-tip "Declaraţie privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale", prevăzut în anexa nr.2. 
+(2)	Simbolurile conturilor analitice care se înscriu în Declaraţia privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale vor fi cele din evidenţa contabilă a fiecărui furnizor prevăzut la alin.(1). 
+(3)	Sumele din creditul conturilor analitice ale clasei de conturi „Venituri” se înregistrează la sfârşitul fiecărei luni într-o situaţie lunară privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale, similară jurnalului de vânzări întocmit potrivit reglementărilor în vigoare, care va cuprinde exclusiv veniturile obţinute din activităţile de furnizare de reţele sau servicii de comunicaţii electronice ori de furnizare de servicii poştale. 
+(4)	La sfârşitul anului, pe baza sumelor totale din situaţiile lunare prevăzute la alin.(3), se întocmeşte formularul-tip "Centralizatorul situaţiilor lunare privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale", prevăzut în anexa nr.3. 
+(5)	Furnizorii de reţele sau servicii de comunicaţii electronice şi furnizorii de servicii poştale vor întocmi şi vor transmite ANRCTI, împreună cu situaţiile financiare anuale, Declaraţia privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale şi Centralizatorul situaţiilor lunare privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale, în termen de 5 zile de la expirarea termenului legal de depunere a situaţiilor financiare anuale la organele competente la care se înregistrează, potrivit legislaţiei în vigoare. 
+(6)	Netransmiterea Declaraţiei privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale şi a Centralizatorului situaţiilor lunare privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale are ca efect determinarea obligaţiilor financiare către ANRCTI în funcţie de cifra de afaceri. 
+ 
+ Art. 6. – (1) În vederea determinării obligaţiilor financiare către ANRCTI în funcţie de o altă bază de calcul decât cifra de afaceri, furnizorii de reţele sau servicii de comunicaţii electronice şi furnizorii de servicii poştale autorizaţi să desfăşoare activităţi economice în mod independent, ca persoane fizice sau ca asociaţii familiale, vor ţine o evidenţă separată a veniturilor obţinute din activităţile de furnizare de reţele sau servicii de comunicaţii electronice ori de servicii poştale, potrivit categoriilor de venituri stabilite în formularul-tip "Declaraţie privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale", prevăzut în anexa nr.2. 
+(2) Furnizorii prevăzuţi la alin.(1) vor întocmi, pe baza evidenţelor separate prevăzute la alin.(1), şi vor transmite ANRCTI, împreună cu declaraţiile financiare anuale privind veniturile brute realizate, prevăzute de legislaţia fiscală, Declaraţia privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale şi Centralizatorul situaţiilor lunare privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale, în termen de 5 zile de la expirarea termenului legal de depunere a declaraţiilor financiare anuale la organele competente la care se înregistrează, potrivit legislaţiei în vigoare. 
+ 
+   Art. 7. – (1) Declaraţia privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale şi Centralizatorul situaţiilor lunare privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale vor fi supuse certificării de către un auditor financiar autorizat, în condiţiile prevăzute de lege, în cadrul unei misiuni cu scop special sau cu ocazia auditării situaţiilor financiare anuale. 
+(2) Documentele prevăzute la alin.(1) sunt considerate auditate dacă este îndeplinită una din următoarele condiţii: 
+a)	sunt certificate prin semnătura şi ştampila unui auditor financiar autorizat; 
+b)	există un raport al auditorului în care acesta îşi exprimă o opinie şi face referire directă la documentele prevăzute la alin.(1) şi la sumele înscrise în aceste documente, întocmite în prealabil de către furnizor, chiar dacă acestea nu sunt certificate prin semnătura şi ştampila auditorului financiar autorizat. 
+(3) Documentele prevăzute la alin.(1) nu vor fi luate în considerare pentru determinarea obligaţiilor financiare către ANRCTI în funcţie de o altă bază de calcul decât cifra de afaceri, dacă se află în una din următoarele situaţii: 
+a)	sunt certificate prin semnătura şi ştampila unei alte persoane decât un auditor 
+financiar autorizat; 
+b)	nu sunt certificate prin semnătura şi ştampila unui auditor financiar autorizat şi nu există un raport al auditorului în care acesta îşi exprimă o opinie şi face referire directă la documentele prevăzute la alin.(1) şi la sumele înscrise în aceste documente, întocmite în prealabil de către furnizor; 
+c)	nu sunt certificate prin semnătura şi ştampila unui auditor financiar autorizat şi există un raport al auditorului în care acesta îşi exprimă o opinie contrară sau nu îşi exprimă o opinie ori menţionează că este în imposibilitatea exprimării unei opinii în legătură cu documentele prevăzute la alin.(1). 
+(4)	Documentele prevăzute la alin.(1) produc efecte exclusiv în ceea ce priveşte determinarea obligaţiilor financiare către ANRCTI. 
+(5)	Netransmiterea Declaraţiei privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale şi a Centralizatorului situaţiilor lunare privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale sau transmiterea acestora în condiţiile prevăzute la alin.(3) are ca efect determinarea obligaţiilor financiare către ANRCTI în funcţie de cifra de afaceri. 
+ 
+Art. 8. – (1) ANRCTI va determina obligaţia de plată a tarifului de monitorizare datorat la încetarea activităţii în domeniul comunicaţiilor electronice sau al serviciilor poştale astfel:    
+a)	la încetarea calităţii de furnizor de reţele sau servicii de comunicaţii electronice ori de servicii poştale, indiferent de forma acesteia, furnizorul are obligaţia de a transmite ANRCTI o situaţie privind atât cifra de afaceri realizată în anul anterior sau în lunile din anul anterior în care a avut calitatea de furnizor, cuprinzând inclusiv luna în care a dobândit calitatea de furnizor, cât şi cifra de afaceri realizată în lunile în care a avut această calitate din anul în cursul căruia are loc încetarea, exclusiv luna în care calitatea de furnizor a încetat, însoţită de copii ale balanţelor de verificare sintetice întocmite pentru perioada respectivă, în cazul furnizorilor persoane juridice, sau de copii ale evidenţelor întocmite pentru perioada respectivă potrivit legislaţiei fiscale, în cazul furnizorilor autorizaţi să desfăşoare activităţi economice în mod independent, ca persoane fizice sau ca asociaţii familiale;  
+b)	furnizorii a căror calitate încetează în acelaşi an cu cel al dobândirii acestei calităţi transmit ANRCTI situaţia privind cifra de afaceri realizată în anul în curs, cuprinzând inclusiv luna în care au dobândit calitatea de furnizor şi exclusiv luna în care calitatea de furnizor a încetat, în condiţiile lit.a). 
+(2)	Transmiterea către ANRCTI a documentelor prevăzute la alin.(1) se realizează de către furnizor odată cu cererea de renunţare la dreptul de a furniza toate tipurile de reţele sau servicii de comunicaţii electronice ori de servicii poştale pentru care a fost autorizat. În cazul în care încetarea calităţii de furnizor intervine ca urmare a aplicării sancţiunii retragerii dreptului de a furniza reţele sau servicii de comunicaţii electronice ori servicii poştale pe baza regimului de autorizare generală, persoana căreia i-a fost retras acest drept are obligaţia transmiterii documentelor prevăzute la alin.(1) în termen de 30 de zile de la data comunicării deciziei de sancţionare. 
+(3)	Netransmiterea către ANRCTI a documentelor prevăzute la alin.(1) are ca efect determinarea obligaţiilor financiare către ANRCTI ca şi cum nu ar fi încetat calitatea de furnizor. 
+(4)	În vederea stabilirii obligaţiei de plată a tarifului de monitorizare datorat la încetarea calităţii de furnizor în funcţie de altă bază de calcul decât cifra de afaceri, furnizorii prevăzuţi la art.5 alin.(1) şi art.6 alin.(1) vor transmite către ANRCTI, odată cu cererea de renunţare la dreptul de a furniza toate tipurile de reţele sau servicii de comunicaţii electronice ori de servicii poştale pentru care au fost autorizaţi, Declaraţia privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale şi Centralizatorul situaţiilor lunare privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale, întocmite şi certificate potrivit prevederilor prezentei decizii, în mod distinct, atât pentru perioada din anul anterior în care au avut calitatea de furnizor, cât şi pentru perioada din anul în cursul căruia a avut loc încetarea calităţii de furnizor, în condiţiile prevăzute la alin.(1) lit.a) sau b), după caz. 
+ 
+Art. 9. – (1) Furnizorii de reţele sau servicii de comunicaţii electronice ori de servicii poştale care înregistrează o cifră de afaceri care nu depăşeşte echivalentul în lei a 100.000 euro într-un exerciţiu financiar, la cursul de schimb valutar mediu al perioadei în care a fost realizată cifra de afaceri, calculat pe baza cursului de schimb valutar mediu lunar comunicat de Banca Naţională a României, nu au obligaţia de plată a tarifului de monitorizare. 
+(2)	Persoanele care nu au avut calitatea de furnizor pe parcursul unui an calendaristic întreg au obligaţia de plată a tarifului de monitorizare dacă cifra de afaceri înregistrată în lunile anului anterior celui pentru care se datorează tariful, în care acestea au avut calitatea de furnizor, depăşeşte suma prevăzută la alin.(1). 
+(3)	Persoanele cărora le încetează calitatea de furnizor de reţele sau servicii de comunicaţii electronice ori de servicii poştale înainte de determinarea tarifului de monitorizare anual au obligaţia de plată a tarifului de monitorizare datorat la încetarea activităţii după cum urmează: 
+a)	în cazul în care atât cifra de afaceri realizată în anul anterior sau în lunile din anul anterior în care acestea au avut calitatea de furnizor, cât şi cifra de afaceri realizată în lunile în care au avut această calitate din anul în cursul căruia are loc încetarea depăşesc suma prevăzută la alin.(1), persoanele au obligaţia de plată a tarifului de monitorizare, iar cuantumul tarifului se determină în funcţie de cele două cifre de afaceri cumulate; 
+b)	în cazul în care numai una dintre cifrele de afaceri prevăzute la lit.a) depăşeşte suma prevăzută la alin.(1), persoanele au obligaţia de plată a tarifului de monitorizare, iar cuantumul tarifului se determină exclusiv în funcţie de cifra de afaceri prevăzută la lit.a) care depăşeşte suma prevăzută la alin.(1); 
+c)	în cazul în care niciuna dintre cifrele de afaceri prevăzute la lit.a) nu depăşeşte 
+suma prevăzută la alin.(1), persoanele nu au obligaţia de plată a tarifului de monitorizare. 
+(4)	Persoanele cărora le încetează calitatea de furnizor de reţele sau servicii de comunicaţii electronice ori de servicii poştale după determinarea tarifului de monitorizare anual au, pe lângă obligaţia de plată a acestui tarif, şi obligaţia de plată a unui tarif suplimentar, dacă cifra de afaceri realizată în lunile în care au avut această calitate din anul în cursul căruia are loc încetarea depăşeşte suma prevăzută la alin.(1). 
+(5)	Prevederile alin.(1)-(4) se aplică şi furnizorilor care au optat pentru determinarea obligaţiilor financiare către ANRCTI în funcţie de o altă bază de calcul decât cifra de afaceri, în situaţia în care din documentele transmise ANRCTI în condiţiile prezentei decizii rezultă că totalul veniturilor obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice ori servicii poştale în perioada de referinţă nu depăşeşte suma prevăzută la alin.(1). 
+ 
+Art. 10. – (1) ANRCTI poate efectua controlul ulterior al evidenţelor contabile ale furnizorilor de reţele sau servicii de comunicaţii electronice şi ale furnizorilor de servicii poştale în condiţiile Ordonanţei Guvernului nr.92/2003 privind Codul de procedură fiscală, republicată, în vederea verificării corectitudinii datelor cuprinse în documentele prevăzute de prezenta decizie, transmise ANRCTI. 
+(2) Personalul autorizat să efectueze controlul prevăzut la alin.(1) va fi stabilit prin decizie a preşedintelui ANRCTI. 
+ 
+Art.11. – Situaţiile financiare anuale întocmite de furnizorii de reţele sau servicii de comunicaţii electronice şi furnizorii de servicii poştale persoane juridice, precum şi declaraţiile financiare anuale privind veniturile brute realizate întocmite de furnizorii de reţele sau servicii de comunicaţii electronice şi furnizorii de servicii poştale autorizaţi să desfăşoare activităţi economice în mod independent, ca persoane fizice sau ca asociaţii familiale, transmise ANRCTI în condiţiile prevăzute la art.486 din Ordonanţa de urgenţă a Guvernului nr.79/2002, vor fi însoţite de dovada depunerii acestora la organele competente la care se înregistrează, potrivit legislaţiei în vigoare. 
+ 
+Art. 12. – (1) Anexele nr. 1-3 fac parte integrantă din prezenta decizie. 
+(2)	Formularele-tip prevăzute în anexele nr.1-3 pot fi obţinute de la sediul central sau de la orice structură teritorială a ANRCTI ori de pe pagina de internet a ANRCTI. 
+(3)	Transmiterea documentelor prevăzute de prezenta decizie se poate efectua către sediul central sau către structura teritorială a ANRCTI în a cărei rază teritorială îşi au sediul sau domiciliul furnizorii de reţele sau servicii de comunicaţii electronice ori furnizorii de servicii poştale numai în unul din următoarele moduri: 
+a)	prin depunere, personal sau de către un reprezentant al furnizorului, sub luare 
+de semnătură; 
+b)	printr-un serviciu poştal; 
+c)	ca înscris în formă electronică, căruia i s-a încorporat, ataşat sau i s-a asociat logic o semnătură electronică extinsă, bazată pe un certificat calificat nesuspendat ori nerevocat la momentul respectiv şi generată cu ajutorul unui dispozitiv asigurat securizat de creare a semnăturii electronice. 
+ 
+Art. 13. – (1) Prezenta decizie se publică în Monitorul Oficial al României, Partea I. 
+(2) La data intrării în vigoare a prezentei decizii se abrogă Decizia preşedintelui Autorităţii Naţionale de Reglementare în Comunicaţii nr.113/2006 privind procedura de exercitare a dreptului de opţiune în vederea determinării obligaţiilor financiare către Autoritatea Naţională de Reglementare în Comunicaţii şi conducerea evidenţei contabile distincte de către furnizorii de reţele sau servicii de comunicaţii electronice şi furnizorii de servicii poştale, publicată în Monitorul Oficial al României, Partea I, nr.305 din 5 aprilie 2006. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bucureşti, 14 august 2007 
+Nr. 2892 
+ 
+ANEXA Nr.1 
+ 
+OPŢIUNE PRIVIND MODUL DE DETERMINARE A OBLIGAŢIILOR FINANCIARE CĂTRE 
+AUTORITATEA NAŢIONALĂ PENTRU REGLEMENTARE ÎN COMUNICAŢII ŞI 
+TEHNOLOGIA INFORMAŢIEI 
+ 
+ 
+1.	Datele de identificare a furnizorului: 
+ 
+1.1.	Denumirea / numele: 
+............................................................................................................................................... 
+1.2.	Sediul / domiciliul: 
+...............................................................................................................................................         
+1.3.	Codul de identificare fiscală: 
+............................................................................................................................................... 
+ 	   
+2.	Tariful de monitorizare  
+ 	 
+ 	Optăm pentru determinarea tarifului de monitorizare anual pe baza*: 
+ 
+a)	cifrei de afaceri    
+b)	veniturilor din furnizarea de reţele sau servicii de comunicaţii electronice ori servicii poştale     
+ 
+3.	Contribuţia pentru compensarea costului net al furnizării serviciilor din sfera serviciului universal 
+  
+ 3.1. Optăm pentru determinarea contribuţiei pentru compensarea costului net al furnizării serviciilor din sfera serviciului universal pe baza*: 
+ 
+a)	cifrei de afaceri      
+b)	veniturilor din furnizarea de reţele sau servicii de comunicaţii electronice 
+ 
+ 3.2. Optăm pentru scăderea din baza de calcul prevăzută la pct.3.1. a următoarelor categorii de venituri*: 
+ 	 
+a)	veniturile din furnizarea de servicii de interconectare                                                              
+
+
+b)	veniturile din furnizarea de servicii de roaming 
+c)	veniturile din furnizarea de servicii de transmisie a programelor audiovizuale 
+ 
+L.S.
+ 	4. Numele în clar, semnătura reprezentantului legal şi ştampila  	………………………....…………………………............................................... 
+        
+* se bifeaza cu “X” varianta pentru care s-a optat  
+ 
+ 
+ 
+ 
+ 
+ANEXA Nr.2 
+DECLARAŢIE  
+PRIVIND VENITURILE OBŢINUTE DIN ACTIVITĂŢI DE FURNIZARE DE REŢELE SAU SERVICII DE COMUNICAŢII ELECTRONICE ORI DE SERVICII POŞTALE 
+ 
+ 
+ 
+ 	Datele de identificare a furnizorului: 
+ 
+ 	Denumirea / numele: 
+............................................................................................................................................... 
+ 	Sediul / domiciliul: 
+...............................................................................................................................................         
+Codul de identificare fiscală: 
+............................................................................................................................................... 
+ 
+ 
+NR. CRT. 	DENUMIRE VENIT 	SIMBOL* CONT 	SUMA 
+AN ...... 
+(RON) 
+1. 	Venituri din activităţi de furnizare de reţele sau servicii de comunicaţii electronice 		
+1.1. 	Venituri din furnizarea de reţele sau servicii de 
+comunicaţii electronice către utilizatorii finali 		
+1.1.1. 	Venituri din furnizarea de servicii de telefonie 		
+1.1.2. 	Venituri din furnizarea de servicii de transmisiuni de date şi acces la internet 		
+1.1.3. 	Venituri din furnizarea de servicii de linii închiriate 		
+1.1.4. 	Venituri din furnizarea de servicii de transmisie a programelor audiovizuale 		
+1.1.5. 	Alte venituri din furnizarea de reţele sau servicii de comunicaţii electronice 		
+1.2. 	Venituri din furnizarea de reţele sau servicii de comunicaţii electronice către alţi furnizori de reţele sau servicii de comunicaţii electronice 		
+1.2.1. 	Venituri din furnizarea de servicii de interconectare (inclusiv interconectare în vederea furnizării de servicii de transmisiuni de date şi acces la internet) 		
+1.2.2. 	Venituri din furnizarea de servicii de roaming 		
+1.2.3. 	Venituri din furnizarea de servicii de linii închiriate 		
+1.2.4. 	Venituri din furnizarea de alte servicii de acces 		
+1.2.5. 	Alte venituri din furnizarea de reţele sau servicii de comunicaţii electronice 		
+2. 	Venituri din activităţi de furnizare de servicii poştale 		
+2.1. 	Venituri din furnizarea de servicii poştale incluse în sfera serviciului universal 		
+2.1.1. 	Venituri din colectarea, sortarea, transportul şi livrarea trimiterilor poştale (corespondenţă, imprimate, publicitate prin poştă) interne şi internaţionale în greutate de până la 2 kg  		
+2.1.2. 	Venituri din colectarea, sortarea, transportul şi livrarea coletelor poştale interne şi internaţionale în greutate de până la 10 kg 		
+2.1.3. 	Venituri din distribuirea coletelor poştale în greutate de până la 20 kg expediate din afara teritoriului României către o adresă aflată pe teritoriul acesteia 		
+2.1.4. 	Venituri din serviciul de trimitere recomandată având ca obiect trimiteri poştale în greutate de până la 2 kg, colete poştale în greutate de până la 10 kg, respectiv colete poştale expediate din afara teritoriului României către o adresă aflată pe teritoriul acesteia, în greutate de până la 20 kg 		
+2.1.5. 	Venituri din serviciul de trimitere cu valoare declarată având ca obiect trimiteri poştale în greutate de până la 2 kg, colete poştale în greutate de până la 10 kg, respectiv colete poştale expediate din afara teritoriului României către o adresă aflată pe teritoriul acesteia, în greutate de până la 20 kg 		
+2.2. 	Venituri din furnizarea de servicii poştale neincluse în sfera serviciului universal 		
+2.2.1. 	Venituri din servicii având ca obiect trimiteri poştale (corespondenţă, imprimate, publicitate prin poştă) interne şi internaţionale în greutate mai mare de 2 kg  		
+2.2.2. 	Venituri din servicii având ca obiect colete poştale interne cu limite de greutate între 10 şi 50 kg 		
+2.2.3. 	Venituri din servicii având ca obiect colete poştale cu limite de greutate între 10 şi 50 kg expediate de pe teritoriul României către o adresă aflată în afara teritoriului acesteia 		
+2.2.4. 	Venituri din servicii având ca obiect colete poştale cu limite de greutate între 20 şi 50 kg expediate din afara teritoriului României către o adresă aflată pe teritoriul acesteia 		
+2.2.5. 	Venituri din serviciul Ramburs 		
+2.2.6. 	Venituri din serviciul Schimbare destinaţie 		
+2.2.7. 	Venituri din serviciul Livrare specială 		
+2.2.8. 	Venituri din serviciul Confirmare de primire 		
+2.2.9. 	Venituri din serviciul Express 		
+2.2.10. 	Venituri din serviciul de schimb de documente 		
+3. 	Total general venituri din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi servicii poştale 	 	
+4. 	Cifra de afaceri 	 	
+ 
+ 
+ 
+Administrator (director general) .......................................................................     
+ 
+Director economic (contabil şef) ......................................................................... 
+ 
+Persoană fizică autorizată/reprezentant asociaţie familială  ......................................... 
+ 
+ 
+Auditor financiar, ..................................................................................................... 
+ 
+ 
+ 
+* Persoanele fizice autorizate şi asociaţiile familiale nu vor completa coloana ce conţine simbolurile conturilor. 
+ 
+ 
+ 
+ 
+ 
+ANEXA Nr.3 
+ 
+CENTRALIZATORUL 
+ situaţiilor lunare privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice ori servicii poştale pentru anul………. 
+ 
+Datele de identificare a furnizorului: 
+ 
+Denumirea / numele: 
+............................................................................................................................................... 
+Sediul / domiciliul: 
+...............................................................................................................................................         
+Codul de identificare fiscală: 
+............................................................................................................................................... 
+ 
+NR. CRT. 	Situaţie privind veniturile din furnizarea de reţele sau servicii de comunicaţii electronice şi/sau servicii poştale 	SUMA (RON)* 
+1 	Ianuarie 	 
+2 	Februarie 	 
+3 	Martie 	 
+4 	Aprilie 	 
+5 	Mai 	 
+6 	Iunie 	 
+7 	Iulie 	 
+8 	August 	 
+9 	Septembrie 	 
+10 	Octombrie 	 
+11 	Noiembrie 	 
+12 	Decembrie 	 
+13 	Total general venituri din furnizarea de reţele sau servicii de comunicaţii electronice şi/sau servicii poştale 	 
+14 	Total cifră de afaceri 	 
+15 	Ponderea veniturilor din furnizarea de reţele sau servicii de comunicaţii electronice şi/sau servicii poştale în total cifră de afaceri 	 
+ 
+Administrator (director general) .......................................................................     
+ 
+Director economic (contabil şef) ......................................................................... 
+ 
+Persoană fizică autorizată/Reprezentant asociaţie familială  ......................................... 
+ 
+Auditor financiar ..................................................................................................... 
+ 
+*13 = total de la rândul 1 până la rândul 12. 
+14 = cifra de afaceri realizată din întreaga activitate desfăşurată. 15 = (rând 13/rând 14) × 100. 
+ 
+  
+ 
+ 
+În temeiul prevederilor art.7 alin.(1), (3) şi (5) din Ordonanţa de urgenţă a Guvernului nr.134/2006 privind înfiinţarea Autorităţii Naţionale pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei, ale art.488 din Ordonanţa de urgenţă a Guvernului nr.79/2002 privind cadrul general de reglementare a comunicaţiilor, aprobată cu modificări şi completări, prin Legea nr.591/2002, cu modificările şi completările ulterioare, precum şi ale art.13 alin.(2) din Legea nr.304/2003 pentru serviciul universal şi drepturile utilizatorilor cu privire la reţelele şi serviciile de comunicaţii electronice, cu modificările şi completările ulterioare, 
+ 
+PREŞEDINTELE AUTORITĂŢII NAŢIONALE PENTRU REGLEMENTARE ÎN COMUNICAŢII ŞI TEHNOLOGIA INFORMAŢIEI 
+ 
+ 
+emite prezenta: 
+ 
+DECIZIE 
+privind procedura de determinare a anumitor obligaţii financiare ale furnizorilor 
+de reţele sau servicii de comunicaţii electronice şi ale furnizorilor de servicii 
+poştale către Autoritatea Naţională pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei   
+  
+	 	Art. 1. – Prezenta decizie are ca obiect: 
+a)	stabilirea procedurii de exercitare a dreptului de opţiune al furnizorilor de reţele sau servicii de comunicaţii electronice şi al furnizorilor de servicii poştale în vederea determinării tarifului de monitorizare în funcţie de veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice ori din activităţi de furnizare de servicii poştale; 
+b)	stabilirea procedurii de exercitare a dreptului de opţiune al furnizorilor de reţele sau servicii de comunicaţii electronice în vederea determinării contribuţiei pentru compensarea costului net al furnizării serviciilor din sfera serviciului universal în funcţie de anumite venituri din domeniul comunicaţiilor electronice; 
+c)	stabilirea regulilor de conducere a evidenţei contabile distincte de către furnizorii de reţele sau servicii de comunicaţii electronice şi de către furnizorii de servicii poştale, în vederea determinării obligaţiilor financiare către Autoritatea Naţională pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei, denumită în continuare ANRCTI, în funcţie de o altă bază de calcul decât cifra de afaceri; 
+d)	stabilirea regulilor de determinare a furnizorilor de reţele sau servicii de 
+comunicaţii electronice şi a furnizorilor de servicii poştale cărora le incumbă obligaţia de  plată a tarifului de monitorizare. 
+ 
+ 
+Art. 2. – (1) În înţelesul prezentei decizii, prin venituri obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice se înţelege următoarele categorii de venituri: 
+ A. venituri obţinute din furnizarea de reţele sau servicii de comunicaţii electronice către utilizatorii finali: 
+a)	venituri obţinute din furnizarea de servicii de telefonie;  
+b)	venituri obţinute din furnizarea de servicii de transmisiuni de date şi acces la 
+internet; 
+c)	venituri obţinute din furnizarea de servicii de linii închiriate; 
+d)	venituri obţinute din furnizarea de servicii de transmisie a programelor 
+audiovizuale; 
+e)	alte venituri obţinute din furnizarea de reţele sau servicii de comunicaţii 
+electronice; 
+B. venituri obţinute din furnizarea de reţele sau servicii de comunicaţii electronice către alţi furnizori de reţele sau servicii de comunicaţii electronice: 
+a)	venituri obţinute din furnizarea de servicii de interconectare (inclusiv 
+interconectare în vederea furnizării de servicii de transmisiuni de date şi acces la internet); 
+b)	venituri obţinute din furnizarea de servicii de roaming; 
+c)	venituri obţinute din furnizarea de servicii de linii închiriate; 
+d)	venituri obţinute din furnizarea de alte servicii de acces; 
+e)	alte venituri obţinute din furnizarea de reţele sau servicii de comunicaţii 
+electronice. 
+(2) În înţelesul prezentei decizii, prin venituri obţinute din activităţi de furnizare de servicii poştale se înţelege următoarele categorii de venituri: 
+A. venituri obţinute din furnizarea de servicii poştale incluse în sfera serviciului universal, care includ veniturile obţinute din prestarea următoarelor servicii: 
+a)	colectarea, sortarea, transportul şi livrarea trimiterilor poştale (trimiteri de corespondenţă, imprimate şi trimiteri de publicitate prin poştă) interne şi internaţionale în greutate de până la 2 kg;  
+b)	colectarea, sortarea, transportul şi livrarea coletelor poştale interne şi 
+internaţionale în greutate de până la 10 kg;  
+c)	distribuirea coletelor poştale cu limite de greutate între 10 şi 20 kg expediate din 
+afara teritoriului României către o adresă aflată pe teritoriul acesteia; 
+d)	serviciul de trimitere recomandată, având ca obiect:  
+-	trimiteri poştale interne şi internaţionale în greutate de până la 2 kg; 
+-	colete poştale interne şi internaţionale în greutate de până la 10 kg;  
+-	colete poştale cu limite de greutate între 10 şi 20 kg, expediate din afara teritoriului României către o adresă aflată pe teritoriul acesteia; 
+e) serviciul de trimitere cu valoare declarată, având ca obiect:  
+-	trimiteri poştale interne şi internaţionale în greutate de până la 2 kg; 
+-	colete poştale interne şi internaţionale în greutate de până la 10 kg;  
+-	colete poştale cu limite de greutate între 10 şi 20 kg, expediate din afara teritoriului României către o adresă aflată pe teritoriul acesteia. 
+B. venituri obţinute din furnizarea de servicii poştale neincluse în sfera serviciului universal, care includ veniturile obţinute din prestarea următoarelor servicii: 
+a)	servicii având ca obiect trimiteri poştale (trimiteri de corespondenţă, imprimate şi 
+trimiteri de publicitate prin poştă) interne şi internaţionale în greutate mai mare de 2 kg; 
+b)	servicii având ca obiect colete poştale interne cu limite de greutate între 10 şi 50 
+kg; 
+c)	servicii având ca obiect colete poştale cu limite de greutate între 10 şi 50 kg, 
+expediate de pe teritoriul României către o adresă aflată în afara teritoriului acesteia; 
+d)	servicii având ca obiect colete poştale cu limite de greutate între 20 şi 50 kg, 
+expediate din afara teritoriului României către o adresă aflată pe teritoriul acesteia; 
+e)	servicii care prezintă caracteristici suplimentare serviciilor poştale incluse în sfera 
+serviciului universal: 
+-	serviciul Ramburs; 
+-	serviciul Schimbare destinaţie; 
+-	serviciul Livrare specială; 
+-	serviciul Confirmare de primire; 
+-	serviciul Express; 
+f) serviciul de schimb de documente. 
+(3) În cuprinsul prezentei decizii sunt, de asemenea, aplicabile definiţiile prevăzute în legislaţia primară din domeniul comunicaţiilor electronice şi al serviciilor poştale şi în deciziile relevante emise de preşedintele ANRCTI. 
+ 
+Art. 3. – (1) Furnizorii de reţele sau servicii de comunicaţii electronice şi furnizorii de servicii poştale beneficiază de dreptul de a opta pentru determinarea tarifului de monitorizare anual pe baza cifrei de afaceri ori a veniturilor obţinute exclusiv din activităţi de furnizare de reţele sau servicii de comunicaţii electronice ori, după caz, de furnizare de servicii poştale. 
+(2)	Furnizorii de reţele sau servicii de comunicaţii electronice beneficiază de dreptul de a opta pentru luarea în considerare a cifrei de afaceri ori a veniturilor obţinute exclusiv din activităţi de furnizare de reţele sau servicii de comunicaţii electronice în vederea determinării existenţei obligaţiei de plată a contribuţiei pentru compensarea costului net al furnizării serviciilor din sfera serviciului universal, precum şi a determinării cuantumului acesteia. 
+(3)	Furnizorii obligaţi la plata contribuţiei pentru compensarea costului net al furnizării serviciilor din sfera serviciului universal beneficiază, în vederea determinării cuantumului acesteia, de dreptul de a opta pentru scăderea din baza de calcul a veniturilor obţinute din servicii de transmisie a programelor audiovizuale, precum şi a veniturilor din furnizarea de servicii de interconectare şi din furnizarea de servicii de roaming. 
+(4)	Dreptul de opţiune prevăzut la alin.(1)-(3) se exercită în mod obligatoriu prin completarea formularului-tip "Opţiune privind modul de determinare a obligaţiilor financiare către Autoritatea Naţională pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei", prevăzut în anexa nr.1, care se transmite ANRCTI odată cu situaţiile sau declaraţiile financiare anuale, în termenele prevăzute la art.486 din Ordonanţa de urgenţă a Guvernului nr.79/2002 privind cadrul general de reglementare a comunicaţiilor, aprobată cu modificări şi completări, prin Legea nr.591/2002, cu modificările şi completările ulterioare, însă nu mai târziu de data de 15 iulie a anului. 
+(5)	Opţiunea transmisă ANRCTI produce efecte pentru anul pentru care este exprimată, precum şi pentru anii următori, până la exprimarea unei alte opţiuni, în condiţiile alin.(4).   
+(6)	Neexercitarea dreptului de opţiune prevăzut la alin.(1)-(3) în condiţiile alin.(4) are ca efect: 
+a)	determinarea obligaţiilor financiare către ANRCTI în funcţie de cifra de afaceri; 
+b)	în cazul furnizorilor de reţele sau servicii de comunicaţii electronice şi al 
+furnizorilor de servicii poştale care şi-au exercitat dreptul de opţiune prevăzut la alin.(1)(3) până la data intrării în vigoare a prezentei decizii, determinarea obligaţiilor financiare către ANRCTI potrivit acestei opţiuni. 
+ 
+  Art. 4. – (1) Pentru persoanele care nu au avut calitatea de furnizor pe parcursul unui an calendaristic întreg, tariful de monitorizare se calculează ca un procent din cifra de afaceri înregistrată în lunile anului anterior celui pentru care se datorează tariful, în care acestea au avut calitatea de furnizor. 
+(2)	În vederea determinării tarifului de monitorizare pentru persoanele prevăzute la alin.(1), acestea au obligaţia transmiterii către ANRCTI a situaţiei privind cifra de afaceri realizată în lunile din anul anterior celui pentru care se datorează tariful de monitorizare, în care au avut calitatea de furnizor, luându-se în considerare inclusiv luna în care au dobândit această calitate, însoţită de copii ale balanţelor de verificare sintetice întocmite pentru perioada respectivă, în cazul furnizorilor persoane juridice, sau de copii ale evidenţelor întocmite pentru perioada respectivă potrivit legislaţiei fiscale, în cazul furnizorilor autorizaţi să desfăşoare activităţi economice în mod independent, ca persoane fizice sau ca asociaţii familiale. 
+(3)	Netransmiterea către ANRCTI a documentelor prevăzute la alin.(2) are ca efect determinarea obligaţiilor financiare către ANRCTI în funcţie de cifra de afaceri realizată pentru întregul an anterior. 
+ 
+Art. 5. – (1) În vederea determinării obligaţiilor financiare către ANRCTI în funcţie de o altă bază de calcul decât cifra de afaceri, furnizorii de reţele sau servicii de comunicaţii electronice şi furnizorii de servicii poştale persoane juridice vor înregistra în evidenţa contabilă veniturile din activităţile de furnizare de reţele sau servicii de comunicaţii electronice ori de servicii poştale potrivit reglementărilor contabile în vigoare, pe baza facturilor care atestă prestarea serviciilor respective, precum şi veniturile din aceste activităţi realizate în aceeaşi perioadă, pentru care nu s-au întocmit încă facturi, şi în conformitate cu dezvoltarea clasei de conturi „Venituri” pe conturi analitice, potrivit categoriilor de venituri stabilite în formularul-tip "Declaraţie privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale", prevăzut în anexa nr.2. 
+(2)	Simbolurile conturilor analitice care se înscriu în Declaraţia privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale vor fi cele din evidenţa contabilă a fiecărui furnizor prevăzut la alin.(1). 
+(3)	Sumele din creditul conturilor analitice ale clasei de conturi „Venituri” se înregistrează la sfârşitul fiecărei luni într-o situaţie lunară privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale, similară jurnalului de vânzări întocmit potrivit reglementărilor în vigoare, care va cuprinde exclusiv veniturile obţinute din activităţile de furnizare de reţele sau servicii de comunicaţii electronice ori de furnizare de servicii poştale. 
+(4)	La sfârşitul anului, pe baza sumelor totale din situaţiile lunare prevăzute la alin.(3), se întocmeşte formularul-tip "Centralizatorul situaţiilor lunare privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale", prevăzut în anexa nr.3. 
+(5)	Furnizorii de reţele sau servicii de comunicaţii electronice şi furnizorii de servicii poştale vor întocmi şi vor transmite ANRCTI, împreună cu situaţiile financiare anuale, Declaraţia privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale şi Centralizatorul situaţiilor lunare privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale, în termen de 5 zile de la expirarea termenului legal de depunere a situaţiilor financiare anuale la organele competente la care se înregistrează, potrivit legislaţiei în vigoare. 
+(6)	Netransmiterea Declaraţiei privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale şi a Centralizatorului situaţiilor lunare privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale are ca efect determinarea obligaţiilor financiare către ANRCTI în funcţie de cifra de afaceri. 
+ 
+ Art. 6. – (1) În vederea determinării obligaţiilor financiare către ANRCTI în funcţie de o altă bază de calcul decât cifra de afaceri, furnizorii de reţele sau servicii de comunicaţii electronice şi furnizorii de servicii poştale autorizaţi să desfăşoare activităţi economice în mod independent, ca persoane fizice sau ca asociaţii familiale, vor ţine o evidenţă separată a veniturilor obţinute din activităţile de furnizare de reţele sau servicii de comunicaţii electronice ori de servicii poştale, potrivit categoriilor de venituri stabilite în formularul-tip "Declaraţie privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale", prevăzut în anexa nr.2. 
+(2) Furnizorii prevăzuţi la alin.(1) vor întocmi, pe baza evidenţelor separate prevăzute la alin.(1), şi vor transmite ANRCTI, împreună cu declaraţiile financiare anuale privind veniturile brute realizate, prevăzute de legislaţia fiscală, Declaraţia privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale şi Centralizatorul situaţiilor lunare privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale, în termen de 5 zile de la expirarea termenului legal de depunere a declaraţiilor financiare anuale la organele competente la care se înregistrează, potrivit legislaţiei în vigoare. 
+ 
+   Art. 7. – (1) Declaraţia privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale şi Centralizatorul situaţiilor lunare privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale vor fi supuse certificării de către un auditor financiar autorizat, în condiţiile prevăzute de lege, în cadrul unei misiuni cu scop special sau cu ocazia auditării situaţiilor financiare anuale. 
+(2) Documentele prevăzute la alin.(1) sunt considerate auditate dacă este îndeplinită una din următoarele condiţii: 
+a)	sunt certificate prin semnătura şi ştampila unui auditor financiar autorizat; 
+b)	există un raport al auditorului în care acesta îşi exprimă o opinie şi face referire directă la documentele prevăzute la alin.(1) şi la sumele înscrise în aceste documente, întocmite în prealabil de către furnizor, chiar dacă acestea nu sunt certificate prin semnătura şi ştampila auditorului financiar autorizat. 
+(3) Documentele prevăzute la alin.(1) nu vor fi luate în considerare pentru determinarea obligaţiilor financiare către ANRCTI în funcţie de o altă bază de calcul decât cifra de afaceri, dacă se află în una din următoarele situaţii: 
+a)	sunt certificate prin semnătura şi ştampila unei alte persoane decât un auditor 
+financiar autorizat; 
+b)	nu sunt certificate prin semnătura şi ştampila unui auditor financiar autorizat şi nu există un raport al auditorului în care acesta îşi exprimă o opinie şi face referire directă la documentele prevăzute la alin.(1) şi la sumele înscrise în aceste documente, întocmite în prealabil de către furnizor; 
+c)	nu sunt certificate prin semnătura şi ştampila unui auditor financiar autorizat şi există un raport al auditorului în care acesta îşi exprimă o opinie contrară sau nu îşi exprimă o opinie ori menţionează că este în imposibilitatea exprimării unei opinii în legătură cu documentele prevăzute la alin.(1). 
+(4)	Documentele prevăzute la alin.(1) produc efecte exclusiv în ceea ce priveşte determinarea obligaţiilor financiare către ANRCTI. 
+(5)	Netransmiterea Declaraţiei privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale şi a Centralizatorului situaţiilor lunare privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale sau transmiterea acestora în condiţiile prevăzute la alin.(3) are ca efect determinarea obligaţiilor financiare către ANRCTI în funcţie de cifra de afaceri. 
+ 
+Art. 8. – (1) ANRCTI va determina obligaţia de plată a tarifului de monitorizare datorat la încetarea activităţii în domeniul comunicaţiilor electronice sau al serviciilor poştale astfel:    
+a)	la încetarea calităţii de furnizor de reţele sau servicii de comunicaţii electronice ori de servicii poştale, indiferent de forma acesteia, furnizorul are obligaţia de a transmite ANRCTI o situaţie privind atât cifra de afaceri realizată în anul anterior sau în lunile din anul anterior în care a avut calitatea de furnizor, cuprinzând inclusiv luna în care a dobândit calitatea de furnizor, cât şi cifra de afaceri realizată în lunile în care a avut această calitate din anul în cursul căruia are loc încetarea, exclusiv luna în care calitatea de furnizor a încetat, însoţită de copii ale balanţelor de verificare sintetice întocmite pentru perioada respectivă, în cazul furnizorilor persoane juridice, sau de copii ale evidenţelor întocmite pentru perioada respectivă potrivit legislaţiei fiscale, în cazul furnizorilor autorizaţi să desfăşoare activităţi economice în mod independent, ca persoane fizice sau ca asociaţii familiale;  
+b)	furnizorii a căror calitate încetează în acelaşi an cu cel al dobândirii acestei calităţi transmit ANRCTI situaţia privind cifra de afaceri realizată în anul în curs, cuprinzând inclusiv luna în care au dobândit calitatea de furnizor şi exclusiv luna în care calitatea de furnizor a încetat, în condiţiile lit.a). 
+(2)	Transmiterea către ANRCTI a documentelor prevăzute la alin.(1) se realizează de către furnizor odată cu cererea de renunţare la dreptul de a furniza toate tipurile de reţele sau servicii de comunicaţii electronice ori de servicii poştale pentru care a fost autorizat. În cazul în care încetarea calităţii de furnizor intervine ca urmare a aplicării sancţiunii retragerii dreptului de a furniza reţele sau servicii de comunicaţii electronice ori servicii poştale pe baza regimului de autorizare generală, persoana căreia i-a fost retras acest drept are obligaţia transmiterii documentelor prevăzute la alin.(1) în termen de 30 de zile de la data comunicării deciziei de sancţionare. 
+(3)	Netransmiterea către ANRCTI a documentelor prevăzute la alin.(1) are ca efect determinarea obligaţiilor financiare către ANRCTI ca şi cum nu ar fi încetat calitatea de furnizor. 
+(4)	În vederea stabilirii obligaţiei de plată a tarifului de monitorizare datorat la încetarea calităţii de furnizor în funcţie de altă bază de calcul decât cifra de afaceri, furnizorii prevăzuţi la art.5 alin.(1) şi art.6 alin.(1) vor transmite către ANRCTI, odată cu cererea de renunţare la dreptul de a furniza toate tipurile de reţele sau servicii de comunicaţii electronice ori de servicii poştale pentru care au fost autorizaţi, Declaraţia privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale şi Centralizatorul situaţiilor lunare privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi/sau de servicii poştale, întocmite şi certificate potrivit prevederilor prezentei decizii, în mod distinct, atât pentru perioada din anul anterior în care au avut calitatea de furnizor, cât şi pentru perioada din anul în cursul căruia a avut loc încetarea calităţii de furnizor, în condiţiile prevăzute la alin.(1) lit.a) sau b), după caz. 
+ 
+Art. 9. – (1) Furnizorii de reţele sau servicii de comunicaţii electronice ori de servicii poştale care înregistrează o cifră de afaceri care nu depăşeşte echivalentul în lei a 100.000 euro într-un exerciţiu financiar, la cursul de schimb valutar mediu al perioadei în care a fost realizată cifra de afaceri, calculat pe baza cursului de schimb valutar mediu lunar comunicat de Banca Naţională a României, nu au obligaţia de plată a tarifului de monitorizare. 
+(2)	Persoanele care nu au avut calitatea de furnizor pe parcursul unui an calendaristic întreg au obligaţia de plată a tarifului de monitorizare dacă cifra de afaceri înregistrată în lunile anului anterior celui pentru care se datorează tariful, în care acestea au avut calitatea de furnizor, depăşeşte suma prevăzută la alin.(1). 
+(3)	Persoanele cărora le încetează calitatea de furnizor de reţele sau servicii de comunicaţii electronice ori de servicii poştale înainte de determinarea tarifului de monitorizare anual au obligaţia de plată a tarifului de monitorizare datorat la încetarea activităţii după cum urmează: 
+a)	în cazul în care atât cifra de afaceri realizată în anul anterior sau în lunile din anul anterior în care acestea au avut calitatea de furnizor, cât şi cifra de afaceri realizată în lunile în care au avut această calitate din anul în cursul căruia are loc încetarea depăşesc suma prevăzută la alin.(1), persoanele au obligaţia de plată a tarifului de monitorizare, iar cuantumul tarifului se determină în funcţie de cele două cifre de afaceri cumulate; 
+b)	în cazul în care numai una dintre cifrele de afaceri prevăzute la lit.a) depăşeşte suma prevăzută la alin.(1), persoanele au obligaţia de plată a tarifului de monitorizare, iar cuantumul tarifului se determină exclusiv în funcţie de cifra de afaceri prevăzută la lit.a) care depăşeşte suma prevăzută la alin.(1); 
+c)	în cazul în care niciuna dintre cifrele de afaceri prevăzute la lit.a) nu depăşeşte 
+suma prevăzută la alin.(1), persoanele nu au obligaţia de plată a tarifului de monitorizare. 
+(4)	Persoanele cărora le încetează calitatea de furnizor de reţele sau servicii de comunicaţii electronice ori de servicii poştale după determinarea tarifului de monitorizare anual au, pe lângă obligaţia de plată a acestui tarif, şi obligaţia de plată a unui tarif suplimentar, dacă cifra de afaceri realizată în lunile în care au avut această calitate din anul în cursul căruia are loc încetarea depăşeşte suma prevăzută la alin.(1). 
+(5)	Prevederile alin.(1)-(4) se aplică şi furnizorilor care au optat pentru determinarea obligaţiilor financiare către ANRCTI în funcţie de o altă bază de calcul decât cifra de afaceri, în situaţia în care din documentele transmise ANRCTI în condiţiile prezentei decizii rezultă că totalul veniturilor obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice ori servicii poştale în perioada de referinţă nu depăşeşte suma prevăzută la alin.(1). 
+ 
+Art. 10. – (1) ANRCTI poate efectua controlul ulterior al evidenţelor contabile ale furnizorilor de reţele sau servicii de comunicaţii electronice şi ale furnizorilor de servicii poştale în condiţiile Ordonanţei Guvernului nr.92/2003 privind Codul de procedură fiscală, republicată, în vederea verificării corectitudinii datelor cuprinse în documentele prevăzute de prezenta decizie, transmise ANRCTI. 
+(2) Personalul autorizat să efectueze controlul prevăzut la alin.(1) va fi stabilit prin decizie a preşedintelui ANRCTI. 
+ 
+Art.11. – Situaţiile financiare anuale întocmite de furnizorii de reţele sau servicii de comunicaţii electronice şi furnizorii de servicii poştale persoane juridice, precum şi declaraţiile financiare anuale privind veniturile brute realizate întocmite de furnizorii de reţele sau servicii de comunicaţii electronice şi furnizorii de servicii poştale autorizaţi să desfăşoare activităţi economice în mod independent, ca persoane fizice sau ca asociaţii familiale, transmise ANRCTI în condiţiile prevăzute la art.486 din Ordonanţa de urgenţă a Guvernului nr.79/2002, vor fi însoţite de dovada depunerii acestora la organele competente la care se înregistrează, potrivit legislaţiei în vigoare. 
+ 
+Art. 12. – (1) Anexele nr. 1-3 fac parte integrantă din prezenta decizie. 
+(2)	Formularele-tip prevăzute în anexele nr.1-3 pot fi obţinute de la sediul central sau de la orice structură teritorială a ANRCTI ori de pe pagina de internet a ANRCTI. 
+(3)	Transmiterea documentelor prevăzute de prezenta decizie se poate efectua către sediul central sau către structura teritorială a ANRCTI în a cărei rază teritorială îşi au sediul sau domiciliul furnizorii de reţele sau servicii de comunicaţii electronice ori furnizorii de servicii poştale numai în unul din următoarele moduri: 
+a)	prin depunere, personal sau de către un reprezentant al furnizorului, sub luare 
+de semnătură; 
+b)	printr-un serviciu poştal; 
+c)	ca înscris în formă electronică, căruia i s-a încorporat, ataşat sau i s-a asociat logic o semnătură electronică extinsă, bazată pe un certificat calificat nesuspendat ori nerevocat la momentul respectiv şi generată cu ajutorul unui dispozitiv asigurat securizat de creare a semnăturii electronice. 
+ 
+Art. 13. – (1) Prezenta decizie se publică în Monitorul Oficial al României, Partea I. 
+(2) La data intrării în vigoare a prezentei decizii se abrogă Decizia preşedintelui Autorităţii Naţionale de Reglementare în Comunicaţii nr.113/2006 privind procedura de exercitare a dreptului de opţiune în vederea determinării obligaţiilor financiare către Autoritatea Naţională de Reglementare în Comunicaţii şi conducerea evidenţei contabile distincte de către furnizorii de reţele sau servicii de comunicaţii electronice şi furnizorii de servicii poştale, publicată în Monitorul Oficial al României, Partea I, nr.305 din 5 aprilie 2006. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bucureşti, 14 august 2007 
+Nr. 2892 
+ 
+ANEXA Nr.1 
+ 
+OPŢIUNE PRIVIND MODUL DE DETERMINARE A OBLIGAŢIILOR FINANCIARE CĂTRE 
+AUTORITATEA NAŢIONALĂ PENTRU REGLEMENTARE ÎN COMUNICAŢII ŞI 
+TEHNOLOGIA INFORMAŢIEI 
+ 
+ 
+1.	Datele de identificare a furnizorului: 
+ 
+1.1.	Denumirea / numele: 
+............................................................................................................................................... 
+1.2.	Sediul / domiciliul: 
+...............................................................................................................................................         
+1.3.	Codul de identificare fiscală: 
+............................................................................................................................................... 
+ 	   
+2.	Tariful de monitorizare  
+ 	 
+ 	Optăm pentru determinarea tarifului de monitorizare anual pe baza*: 
+ 
+a)	cifrei de afaceri    
+b)	veniturilor din furnizarea de reţele sau servicii de comunicaţii electronice ori servicii poştale     
+ 
+3.	Contribuţia pentru compensarea costului net al furnizării serviciilor din sfera serviciului universal 
+  
+ 3.1. Optăm pentru determinarea contribuţiei pentru compensarea costului net al furnizării serviciilor din sfera serviciului universal pe baza*: 
+ 
+a)	cifrei de afaceri      
+b)	veniturilor din furnizarea de reţele sau servicii de comunicaţii electronice 
+ 
+ 3.2. Optăm pentru scăderea din baza de calcul prevăzută la pct.3.1. a următoarelor categorii de venituri*: 
+ 	 
+a)	veniturile din furnizarea de servicii de interconectare                                                              
+
+
+b)	veniturile din furnizarea de servicii de roaming 
+c)	veniturile din furnizarea de servicii de transmisie a programelor audiovizuale 
+ 
+L.S.
+ 	4. Numele în clar, semnătura reprezentantului legal şi ştampila  	………………………....…………………………............................................... 
+        
+* se bifeaza cu “X” varianta pentru care s-a optat  
+ 
+ 
+ 
+ 
+ 
+ANEXA Nr.2 
+DECLARAŢIE  
+PRIVIND VENITURILE OBŢINUTE DIN ACTIVITĂŢI DE FURNIZARE DE REŢELE SAU SERVICII DE COMUNICAŢII ELECTRONICE ORI DE SERVICII POŞTALE 
+ 
+ 
+ 
+ 	Datele de identificare a furnizorului: 
+ 
+ 	Denumirea / numele: 
+............................................................................................................................................... 
+ 	Sediul / domiciliul: 
+...............................................................................................................................................         
+Codul de identificare fiscală: 
+............................................................................................................................................... 
+ 
+ 
+NR. CRT. 	DENUMIRE VENIT 	SIMBOL* CONT 	SUMA 
+AN ...... 
+(RON) 
+1. 	Venituri din activităţi de furnizare de reţele sau servicii de comunicaţii electronice 		
+1.1. 	Venituri din furnizarea de reţele sau servicii de 
+comunicaţii electronice către utilizatorii finali 		
+1.1.1. 	Venituri din furnizarea de servicii de telefonie 		
+1.1.2. 	Venituri din furnizarea de servicii de transmisiuni de date şi acces la internet 		
+1.1.3. 	Venituri din furnizarea de servicii de linii închiriate 		
+1.1.4. 	Venituri din furnizarea de servicii de transmisie a programelor audiovizuale 		
+1.1.5. 	Alte venituri din furnizarea de reţele sau servicii de comunicaţii electronice 		
+1.2. 	Venituri din furnizarea de reţele sau servicii de comunicaţii electronice către alţi furnizori de reţele sau servicii de comunicaţii electronice 		
+1.2.1. 	Venituri din furnizarea de servicii de interconectare (inclusiv interconectare în vederea furnizării de servicii de transmisiuni de date şi acces la internet) 		
+1.2.2. 	Venituri din furnizarea de servicii de roaming 		
+1.2.3. 	Venituri din furnizarea de servicii de linii închiriate 		
+1.2.4. 	Venituri din furnizarea de alte servicii de acces 		
+1.2.5. 	Alte venituri din furnizarea de reţele sau servicii de comunicaţii electronice 		
+2. 	Venituri din activităţi de furnizare de servicii poştale 		
+2.1. 	Venituri din furnizarea de servicii poştale incluse în sfera serviciului universal 		
+2.1.1. 	Venituri din colectarea, sortarea, transportul şi livrarea trimiterilor poştale (corespondenţă, imprimate, publicitate prin poştă) interne şi internaţionale în greutate de până la 2 kg  		
+2.1.2. 	Venituri din colectarea, sortarea, transportul şi livrarea coletelor poştale interne şi internaţionale în greutate de până la 10 kg 		
+2.1.3. 	Venituri din distribuirea coletelor poştale în greutate de până la 20 kg expediate din afara teritoriului României către o adresă aflată pe teritoriul acesteia 		
+2.1.4. 	Venituri din serviciul de trimitere recomandată având ca obiect trimiteri poştale în greutate de până la 2 kg, colete poştale în greutate de până la 10 kg, respectiv colete poştale expediate din afara teritoriului României către o adresă aflată pe teritoriul acesteia, în greutate de până la 20 kg 		
+2.1.5. 	Venituri din serviciul de trimitere cu valoare declarată având ca obiect trimiteri poştale în greutate de până la 2 kg, colete poştale în greutate de până la 10 kg, respectiv colete poştale expediate din afara teritoriului României către o adresă aflată pe teritoriul acesteia, în greutate de până la 20 kg 		
+2.2. 	Venituri din furnizarea de servicii poştale neincluse în sfera serviciului universal 		
+2.2.1. 	Venituri din servicii având ca obiect trimiteri poştale (corespondenţă, imprimate, publicitate prin poştă) interne şi internaţionale în greutate mai mare de 2 kg  		
+2.2.2. 	Venituri din servicii având ca obiect colete poştale interne cu limite de greutate între 10 şi 50 kg 		
+2.2.3. 	Venituri din servicii având ca obiect colete poştale cu limite de greutate între 10 şi 50 kg expediate de pe teritoriul României către o adresă aflată în afara teritoriului acesteia 		
+2.2.4. 	Venituri din servicii având ca obiect colete poştale cu limite de greutate între 20 şi 50 kg expediate din afara teritoriului României către o adresă aflată pe teritoriul acesteia 		
+2.2.5. 	Venituri din serviciul Ramburs 		
+2.2.6. 	Venituri din serviciul Schimbare destinaţie 		
+2.2.7. 	Venituri din serviciul Livrare specială 		
+2.2.8. 	Venituri din serviciul Confirmare de primire 		
+2.2.9. 	Venituri din serviciul Express 		
+2.2.10. 	Venituri din serviciul de schimb de documente 		
+3. 	Total general venituri din activităţi de furnizare de reţele sau servicii de comunicaţii electronice şi servicii poştale 	 	
+4. 	Cifra de afaceri 	 	
+ 
+ 
+ 
+Administrator (director general) .......................................................................     
+ 
+Director economic (contabil şef) ......................................................................... 
+ 
+Persoană fizică autorizată/reprezentant asociaţie familială  ......................................... 
+ 
+ 
+Auditor financiar, ..................................................................................................... 
+ 
+ 
+ 
+* Persoanele fizice autorizate şi asociaţiile familiale nu vor completa coloana ce conţine simbolurile conturilor. 
+ 
+ 
+ 
+ 
+ 
+ANEXA Nr.3 
+ 
+CENTRALIZATORUL 
+ situaţiilor lunare privind veniturile obţinute din activităţi de furnizare de reţele sau servicii de comunicaţii electronice ori servicii poştale pentru anul………. 
+ 
+Datele de identificare a furnizorului: 
+ 
+Denumirea / numele: 
+............................................................................................................................................... 
+Sediul / domiciliul: 
+...............................................................................................................................................         
+Codul de identificare fiscală: 
+............................................................................................................................................... 
+ 
+NR. CRT. 	Situaţie privind veniturile din furnizarea de reţele sau servicii de comunicaţii electronice şi/sau servicii poştale 	SUMA (RON)* 
+1 	Ianuarie 	 
+2 	Februarie 	 
+3 	Martie 	 
+4 	Aprilie 	 
+5 	Mai 	 
+6 	Iunie 	 
+7 	Iulie 	 
+8 	August 	 
+9 	Septembrie 	 
+10 	Octombrie 	 
+11 	Noiembrie 	 
+12 	Decembrie 	 
+13 	Total general venituri din furnizarea de reţele sau servicii de comunicaţii electronice şi/sau servicii poştale 	 
+14 	Total cifră de afaceri 	 
+15 	Ponderea veniturilor din furnizarea de reţele sau servicii de comunicaţii electronice şi/sau servicii poştale în total cifră de afaceri 	 
+ 
+Administrator (director general) .......................................................................     
+ 
+Director economic (contabil şef) ......................................................................... 
+ 
+Persoană fizică autorizată/Reprezentant asociaţie familială  ......................................... 
+ 
+Auditor financiar ..................................................................................................... 
+ 
+*13 = total de la rândul 1 până la rândul 12. 
+14 = cifra de afaceri realizată din întreaga activitate desfăşurată. 15 = (rând 13/rând 14) × 100. 

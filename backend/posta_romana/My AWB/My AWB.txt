@@ -1,0 +1,14 @@
+My AWB
+
+Introduceti datele contului dumneavostra si veti fi redirectionat automat catre pagina noului serviciu My AWB la adresa https://www.posta-romana.ro/?page=login&redirect=/awb-online.html 
+
+
+Serviciul My AWB ofera urmatoarele functionalitati:
+
+- crearea si vizualizarea documentelor de transport AWB
+
+- incarcarea, editarea si vizualizarea borderourilor
+
+- gestionarea online a expeditiilor efectuate intr-o anumita perioada de timp
+
+- generarea de rapoarte statistice atat pentru statusul trimiterilor cat si pentru incasarea rambursurilor

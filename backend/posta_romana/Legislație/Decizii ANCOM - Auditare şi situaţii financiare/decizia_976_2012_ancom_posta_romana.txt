@@ -1,0 +1,151 @@
+În temeiul prevederilor art. 6 alin. (2) lit. d), art. 10 alin. (2) pct. 25 şi 26, art. 11 alin. (1) şi art. 12 alin. (1) şi (3) din Ordonanţa de urgenţă a Guvernului nr. 22/2009 privind înfiinţarea Autorităţii Naţionale pentru Administrare şi Reglementare în Comunicaţii, aprobată prin Legea nr. 113/2010, cu modificările şi completările ulterioare, precum şi ale art. 24 din Ordonanţa Guvernului nr.31/2002 privind serviciile poştale, aprobată, cu modificări şi completări prin Legea nr.642/2002, cu modificările şi completările ulterioare,  
+Având în vedere prevederile art. 20 şi 21 din Decizia preşedintelui Autorităţii Naţionale pentru Administrare şi Reglementare în Comunicaţii nr. 293/2009 privind desemnarea furnizorului de serviciu universal în domeniul serviciilor poştale, cu modificările şi completările ulterioare, 
+ 
+ 
+PREŞEDINTELE AUTORITĂŢII NAŢIONALE 
+PENTRU ADMINISTRARE ŞI REGLEMENTARE ÎN COMUNICAŢII 
+ 
+emite prezenta: 
+ 
+DECIZIE 
+privind condiţiile de întocmire şi auditare a situaţiilor financiare separate de către 
+Compania Naţională Poşta Română S.A. 
+ 
+ Art.1. – Prezenta decizie are ca obiect stabilirea unor cerinţe privind conţinutul metodologiei de dezvoltare a sistemului de evidenţă contabilă separată şi elaborare a evidenţelor contabile separate realizată de Compania Naţională Poşta Română S.A., denumită în continuare CNPR, detalierea obligaţiilor privind dezvoltarea sistemului de evidenţă internă a costurilor şi elaborarea situaţiilor financiare separate impuse CNPR prin Decizia preşedintelui Autorităţii Naţionale pentru Administrare şi Reglementare în Comunicaţii nr. 293/2009 privind desemnarea furnizorului de serviciu universal în domeniul serviciilor poştale, cu modificările şi completările ulterioare, precum şi stabilirea condiţiilor de auditare a situaţiilor financiare separate întocmite de CNPR. 
+ 
+ Art. 2. – (1) CNPR are obligaţia de a elabora metodologia de dezvoltare a sistemului de evidenţă contabilă separată prevăzută la art. 21 alin. (1) din Decizia preşedintelui Autorităţii Naţionale pentru Administrare şi Reglementare în Comunicaţii nr. 293/2009, denumită în continuare Metodologia, astfel încât aceasta să includă următoarele elemente, necesare pentru a respecta principiile prevăzute la art. 20 alin. (3) din Decizia preşedintelui Autorităţii Naţionale pentru Administrare şi Reglementare în Comunicaţii nr. 293/2009: 
+a)	descrierea reţelei/infrastructurii CNPR, a fluxului activităţilor în cadrul infrastructurii şi a fluxului informaţiilor contabile, precum şi alte informaţii necesare pentru înţelegerea activităţii CNPR; 
+b)	descrierea segmentelor de afaceri furnizate de CNPR (servicii rezervate, servicii 
+nerezervate, alte servicii poştale, servicii non-poştale); 
+c)	descrierea detaliată a principiilor şi politicilor contabile care vor sta la baza întocmirii situaţiilor financiare separate (de exemplu: principiile de recunoaştere a cheltuielilor şi veniturilor); 
+d)	sursele de date folosite pentru dezvoltarea sistemului de evidenţă internă a costurilor, precum şi modul de obţinere şi prelucrare a datelor, în vederea fundamentării informaţiilor cuprinse în cadrul situaţiilor financiare separate ce urmează a fi elaborate în baza 
+Metodologiei; 
+e)	descrierea detaliată a metodelor de eşantionare sau de măsurare folosite în vederea estimării suprafeţelor utilizate, a numărului trimiterilor poştale şi a timpilor alocaţi pentru activităţile necesare în vederea furnizării fiecărui serviciu şi a altor elemente care trebuie evidenţiate precum şi modul de realizare a testării acurateţei şi consistenţei metodelor de eşantionare (metodele folosite pentru determinarea mărimii eşantionului, locaţiile folosite pentru eşantionare, extrapolarea datelor rezultate din eşantionare etc.); 
+f)	explicaţii detaliate cu privire la cheile folosite pentru repartizarea costurilor pe activităţi şi, ulterior, pe servicii, metodele de ponderare folosite pentru alocarea costurilor, precum şi gradul de corelare a cheilor de repartizare cu costurile alocate pe baza acestora (de exemplu: greutatea – cheie de repartizare pentru costurile de transport şi livrare, distanţa pentru livrare etc.); 
+g)	descrierea detaliată a metodelor de alocare a costurilor pe activităţi, segmente de afaceri (servicii rezervate, servicii nerezervate, alte servicii poştale, servicii non-poştale) şi pe servicii individuale; 
+h)	descrierea detaliată a metodelor de alocare a veniturilor pe segmente de afaceri (servicii rezervate, servicii nerezervate, alte servicii poştale, servicii non-poştale) şi pe servicii individuale; 
+i)	descrierea detaliată a metodelor de alocare a costurilor şi veniturilor pe centre de 
+cost (definite la nivelul fiecărei unităţi poştale din reţeaua CNPR); 
+j)	metodologia de evaluare a costurilor evitate ce va sta la baza fundamentării reducerilor tarifare acordate utilizatorilor pentru un număr mare de trimiteri, precum şi modalitatea de prezentare şi fundamentare a acestor reduceri în cadrul situaţiilor financiare separate;  
+k)	descrierea modului în care s-a determinat capitalul mediu angajat în desfăşurarea activităţii CNPR, precum şi descrierea metodelor utilizate pentru alocarea acestuia pe segmente de afaceri; 
+l)	formatul situaţiilor financiare separate pentru fiecare segment de afaceri, respectiv formatul pentru prezentarea contului de profit şi pierdere şi a situaţiei capitalului mediu angajat la nivel de segment de afaceri, precum şi a situaţiilor de cost, venit şi profitabilitate la nivel de serviciu individual; 
+m)	formatul situaţiilor financiare separate pentru fiecare centru de cost, respectiv 
+formatul pentru prezentarea contului de profit şi pierdere la nivel de centru de cost; 
+n)	prezentarea metodelor şi procedurilor utilizate în vederea reconcilierii situaţiilor 
+financiare separate cu situaţiile financiare întocmite conform legislaţiei financiar-contabile; 
+n) diagramă detaliată care să includă elementele principale (resurse, activităţi, servicii), legăturile dintre acestea, datele utilizate, modalitatea de alocare (directă sau indirectă) pentru a explica modul în care sunt alocate veniturile şi cheltuielile pe servicii în cadrul fluxului operaţional CNPR. Anexa nr. 1 la prezenta decizie include un exemplu de format privind alocarea resurselor, respectiv a activităţilor. 
+ 	(2) Descrierea serviciilor rezervate şi a serviciilor nerezervate prevăzute la alin. (1) lit. 
+b), precum şi descrierile detaliate ale metodelor de alocare prevăzute la alin. (1) lit. g) şi h) pentru segmentele servicii rezervate, respectiv servicii nerezervate, se realizează doar pentru exerciţiul financiar care se încheie la data de 31 decembrie 2012. 
+ 
+ 
+Art. 3. – (1) CNPR are obligaţia de a realiza situaţiile financiare separate astfel încât acestea să evidenţieze separarea serviciilor din afara sferei serviciului universal de cele incluse în sfera serviciului universal, precum şi separarea serviciilor rezervate de cele nerezervate.  
+(2)	Situaţiile financiare separate vor evidenţia separat serviciile rezervate de cele nerezervate doar pentru exerciţiul financiar care se încheie la data de 31 decembrie 2012.  
+(3)	Situaţiile financiare separate trebuie să asigure furnizarea informaţiilor contabile într-o formă care să prezinte o imagine clară şi fidelă a activităţilor CNPR, în acelaşi mod în care acest lucru s-ar realiza dacă aceste activităţi ar fi desfăşurate de entităţi cu personalitate juridică distinctă. 
+(4)	Situaţiile financiare separate întocmite pe baza sistemului de evidenţă contabilă separată vor include: 
+a)	situaţia capitalului mediu angajat determinat pe baza corelaţiei bilanţiere prevăzute 
+la art. 5 lit. f) pct. i) pentru fiecare segment de afaceri, potrivit formatului din Anexa nr. 2; 
+b)	contul de profit şi pierdere pentru fiecare segment de afaceri, la care se vor adăuga situaţii detaliate privind costurile unitare, veniturile şi profitabilitatea pentru fiecare dintre serviciile poştale incluse în sfera serviciului universal, precum şi costurile, veniturile şi rentabilitatea la nivel de segment de afaceri, potrivit formatelor din Anexa nr. 3; 
+c)	contul de profit şi pierdere pentru fiecare centru de cost. În cadrul veniturilor vor fi detaliate cel puţin următoarele segmente de afaceri: corespondenţă şi colete, mandate poştale, încasare facturi, servicii financiare, plata pensiilor şi a altor beneficii, venituri din vânzarea mărfurilor, alte venituri. În cadrul costurilor vor fi detaliate cel puţin următoarele categorii: cheltuieli cu materialele, cheltuieli cu utilităţile, costul bunurilor vândute, cheltuieli cu serviciile furnizate de terţi, cheltuieli cu chiriile, cheltuieli salariale, cheltuieli cu amortizarea, alte costuri. Aceste categorii de cheltuieli vor fi evidenţiate pentru fiecare dintre categoriile de activităţi: colectare, sortare, transport şi livrare, potrivit formatelor din Anexa nr. 4. 
+d)	notele explicative şi politicile contabile utilizate, care să includă şi datele prezentate 
+în tabelele din Anexa nr. 5. 
+(5)	Situaţiile financiare separate vor fi însoţite de un ghid de utilizare detaliat, care să asigure înţelegerea modului în care trebuie citite şi interpretate informaţiile cuprinse în cadrul acestora, precum şi a modului în care aceste informaţii au fost fundamentate. 
+(6)	În lipsa unei menţiuni contrare exprese, termenii utilizaţi în situaţiile financiare separate vor avea înţelesul consacrat în legislaţia din domeniul serviciilor poştale şi în cea din domeniul financiar-contabil. 
+ 
+ Art. 4. – (1) La întocmirea situaţiilor financiare separate, CNPR va respecta următoarele cerinţe: 
+a)	situaţiile financiare separate vor avea la bază o alocare transparentă a costurilor, veniturilor, activelor şi datoriilor; 
+b)	situaţiile financiare separate vor fi întocmite pe baza costului istoric; 
+c)	situaţiile financiare separate vor fi întocmite în conformitate cu prevederile Legii contabilităţii nr. 82/1991, republicată, cu modificările şi completările ulterioare, şi ale celorlalte prevederi relevante din legislaţia financiar-contabilă; 
+d)	situaţiile financiare separate vor conţine situaţii comparative de la un an la altul pentru situaţiile prezentate în Anexa nr. 2, Anexa nr. 3 (Tabelul 1), Anexa nr. 5 (Tabelele 1 şi 2) şi Anexa 6; în cazul în care intervin modificări semnificative în principiile contabile reglementate, în metodologiile de alocare a costurilor, veniturilor, activelor şi datoriilor sau în politicile contabile, de natură să genereze un efect semnificativ asupra soldurilor curente ale situaţiilor financiare separate, soldurile anului precedent vor fi retratate în conformitate cu modificările respective, iar modalitatea de realizare şi rezultatele acestor retratări vor fi evidenţiate în cadrul notelor explicative care însoţesc situaţiile financiare separate, pentru a asigura comparabilitatea situaţiilor financiare de la un an la altul. În acest caz situaţiile financiare separate vor conţine situaţii comparative pentru toate tipurile de rapoarte prevăzute în anexele 2-7 la prezenta decizie; 
+e)	situaţiile financiare separate vor cuprinde reconcilierea situaţiilor capitalului mediu angajat şi a conturilor de profit şi pierdere aferente segmentelor de afaceri prezentate în cadrul situaţiilor financiare separate cu bilanţul, respectiv contul de profit şi pierdere incluse în situaţiile financiare anuale reglementate prin legislaţia financiar-contabilă, potrivit formatelor din Anexa nr. 6; 
+f)	situaţiile financiare separate vor cuprinde reconcilierea conturilor de profit şi pierdere aferente centrelor de cost prezentate în cadrul situaţiilor financiare separate, cu contul de profit şi pierdere inclus în situaţiile financiare anuale reglementate prin legislaţia financiarcontabilă; 
+g)	dacă resursele necesare sunt achiziţionate de la o companie din acelaşi grup cu CNPR, preţul plătit în cadrul tranzacţiilor va fi asimilat unui preţ de transfer. Dacă preţul de transfer în cadrul grupului este comparabil cu cel al unor furnizori alternativi concurenţi, atunci acest preţ va fi utilizat în cadrul evidenţei contabile separate drept bază pentru stabilirea costului resurselor. Dacă resursele sunt furnizate de o companie din cadrul grupului care este unică prin dimensiunea sau sfera de cuprindere a operaţiunilor (de ex. livrare la nivel naţional, sortarea trimiterilor de corespondenţă în număr mare etc.), atunci această companie va trebui inclusă în sfera situaţiilor financiare separate, iar regulile de alocare vor fi transmise autorităţii de reglementare, conform regulilor aplicabile CNPR. 
+h)	în cadrul contului de profit şi pierdere, veniturile vor fi evidenţiate la valoarea netă, adică prin eliminarea reducerilor tarifare acordate, iar în cadrul notelor explicative la situaţiile financiare separate aceste reduceri tarifare vor fi evidenţiate distinct şi vor fi separate pe categorii de clienţi şi pe treptele de reduceri acordate, în funcţie de numărul de trimiteri generate de fiecare categorie de utilizatori, potrivit formatelor din Anexa nr. 7; 
+(2)	CNPR va publica pe pagina sa de internet, odată cu transmiterea către Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii, denumită în continuare 
+ANCOM, în condiţiile art. 21 alin. (3) din Decizia preşedintelui Autorităţii Naţionale pentru Administrare şi Reglementare în Comunicaţii nr. 293/2009, a situaţiilor financiare separate, o declaraţie privind respectarea cerinţelor privind întocmirea şi transmiterea situaţiilor financiare separate prevăzute la alin. (1) şi a principiilor privind elaborarea sistemului de evidenţă contabilă separată prevăzute la art. 20 alin. (3) din Decizia preşedintelui Autorităţii Naţionale pentru Administrare şi Reglementare în Comunicaţii nr. 293/2009. 
+(3)	Declaraţia prevăzută la alin. (2) va cuprinde cel puţin informaţii cu privire la următoarele aspecte: 
+a)	ponderea fiecărui segment de afaceri prestate de către CNPR precum şi rezultatele 
+aferente fiecărui segment de afaceri;  
+b)	enumerarea surselor de date care au stat la baza întocmirii situaţiilor financiare 
+separate, precum şi perioada pentru care situaţiile financiare separate au fost întocmite;  
+c)	respectarea legislaţiei din domeniul serviciilor poştale şi a celei din domeniul 
+financiar-contabil; 
+d)	respectarea principiilor care au stat la baza întocmirii situaţiilor financiare separate;  
+e)	enumerarea documentelor întocmite de CNPR în cadrul procesului de elaborare a situaţiilor financiare separate (capitalul mediu angajat, contul de profit şi pierdere, notele explicative şi politicile contabile); 
+f)	prezentarea situaţiilor comparative de la un an la altul prevăzute la art. 4 alin. (1) lit. d) al prezentei decizii. 
+ 	  
+ 	Art. 5. – În ceea ce priveşte principiul cauzalităţii, CNPR va respecta următoarele cerinţe: 
+a)	alocarea costurilor se va face cât mai precis posibil, pe baza unor proceduri transparente, plecând de la definiţia fiecărui serviciu furnizat de către CNPR, respectiv de la resursele utilizate pentru furnizarea fiecărui serviciu; 
+b)	veniturile şi costurile, activele şi datoriile vor fi alocate pe servicii în funcţie de elementele de cost şi activităţile care generează respectivele venituri ori costuri, achiziţia activelor sau angajarea datoriilor; CNPR va respecta următoarele metode de alocare: 
+i) costurile care pot fi repartizate în mod direct unui anume serviciu vor fi repartizate în 
+mod direct; ii) costurile comune, respectiv costurile care nu pot fi repartizate direct unui anumit 
+serviciu, vor fi alocate după cum urmează: 
+-	de câte ori este posibil, pe baza unei analize directe a originii lor; 
+-	atunci când analiza directă a originii nu este posibilă, categoriile de costuri comune vor fi alocate pe baza unei legături indirecte cu alte categorii de costuri sau cu un grup de categorii de costuri pentru care o alocare sau o reprezentare directă este posibilă; legătura indirectă se va baza pe structuri de cost comparabile; 
+-	atunci când nu există modalităţi de alocare directă sau indirectă, categoria de cost va fi alocată pe baza unei ponderi (marje procentuale) calculate prin raportarea cheltuielilor alocate sau repartizate, direct sau indirect, la totalul cheltuielilor; 
+c)	determinarea cheltuielilor evitate care stau la baza fundamentării reducerilor tarifare acordate va include atât costurile care pot fi repartizate în mod direct serviciului respectiv, cât şi o marjă procentuală din cadrul costurilor comune care nu pot fi repartizate în mod direct, potrivit lit. b); 
+d)	utilizarea cheilor de repartizare pentru alocarea costurilor respectă principiul cauzalităţii; 
+e)	alocarea veniturilor obţinute de către CNPR asupra serviciilor prestate şi pe centre 
+de cost se va realiza în mod obiectiv şi riguros;  
+f)	în alocarea activelor şi datoriilor (capitalului mediu angajat) se respectă următoarele principii: 
+i) determinarea capitalului mediu angajat pe segmente de afaceri se realizează pe baza 
+următoarei corelaţii bilanţiere: Capital propriu + Datorii pe termen lung = Active totale – Datorii curente – Provizioane; această corelaţie bilanţieră permite determinarea capitalului mediu angajat în diferite segmente de afaceri prin alocarea activelor nete (total active minus total datorii, inclusiv provizioane), care va fi realizată pe baza principiului cauzalităţii. Costul capitalului va fi determinat înainte de impozitul pe profit pe baza costului mediu ponderat al capitalului, denumit în continuare CMPC. Valoarea CMPC va fi stabilită de către ANCOM. Orice modificare a valorii acesteia va fi comunicată CNPR cu cel puţin două luni înainte de expirarea termenelor prevăzute la art. 12 alin. (2) şi (3) pentru transmiterea situaţiilor financiare separate ii) pentru determinarea valorii capitalului angajat corespunzător fiecărui segment de afaceri se vor aloca valorile medii ale activelor nete în cursul exerciţiului financiar, iar nu soldurile de închidere ale acestora; 
+g) rezultatele obţinute prin sistemul de eşantionare sau de măsurare dezvoltat de CNPR şi folosit în elaborarea situaţiilor financiare separate pentru a obţine prin metode statistice o varietate de informaţii cu privire la trimiterile poştale, acolo unde aceste informaţii nu sunt disponibile cu acurateţe din alte surse, sunt credibile; în acest scop, metodologia de eşantionare utilizată de CNPR trebuie să se bazeze pe principii statistice privind determinarea mărimii eşantionului, locaţiile în care se realizează eşantionarea, frecvenţa şi perioada de eşantionare, care să asigure o probabilitate de garantare a rezultatelor de cel puţin 95% şi o eroare limită acceptabilă de cel mult ±3%.   
+În cadrul sistemului de eşantionare sau de măsurare vor fi urmărite următoarele elemente, fără a se limita însă la acestea: 
+i) numărul, tariful, volumul, greutatea şi dimensiunile trimiterilor poştale colectate şi 
+livrate prin reţeaua CNPR; ii) modul de utilizare a timpului de lucru în cazul casierilor, oficianţilor şi factorilor 
+poştali; iii) modul de utilizare a suprafeţelor şi spaţiilor. 
+h)	cheltuielile şi veniturile vor fi alocate în mod obiectiv asupra serviciilor prestate astfel încât să se evite subvenţionarea încrucişată între serviciile incluse în sfera serviciului universal şi serviciile din afara sferei serviciului universal; 
+i)	reducerile tarifare acordate vor fi fundamentate în funcţie de costurile evitate. 
+ 
+ Art. 6. – (1) CNPR are obligaţia de a transmite situaţiile financiare separate unui auditor financiar, în vederea auditării acestora în conformitate cu prevederile Ordonanţei de urgenţă a Guvernului nr. 75/1999 privind activitatea de audit financiar, republicată, cu modificările şi completările ulterioare, pe cheltuiala CNPR. 
+(2) Obligaţia prevăzută la alin. (1) va fi îndeplinită de către CNPR prin încheierea unui contract cu un auditor, ale cărui clauze vor respecta următoarele cerinţe: 
+a) raportul de audit va fi adresat atât conducerii CNPR, cât şi ANCOM şi va evalua dacă situaţiile financiare separate au fost întocmite corect, în concordanţă cu prevederile Deciziei preşedintelui Autorităţii Naţionale pentru Administrare şi Reglementare în Comunicaţii nr. 293/2009, ale prezentei decizii şi ale Metodologiei, sub toate aspectele materiale; în vederea exprimării acestei opinii, auditorul va verifica dacă: 
+ ii) situaţiile financiare separate au fost întocmite cu respectarea principiilor cauzalităţii, obiectivităţii, consistenţei tratamentului contabil şi transparenţei prevăzute la art. 20 alin. (3) din Decizia preşedintelui Autorităţii Naţionale pentru Administrare şi Reglementare în Comunicaţii nr. 293/2009; în acest scop, auditorul se obligă să urmărească respectarea cerinţelor prevăzute la art. 5 şi 7-10 din prezenta decizie, fără a se limita însă la acestea; iii) întocmirea situaţiilor financiare separate s-a realizat în conformitate cu prevederile 
+prezentei decizii; iv) procedurile de colectare şi prelucrare a informaţiilor contabile, precum şi metodologiile de evaluare, eşantionare şi alocare utilizate la elaborarea situaţiilor financiare separate respectă Metodologia, în acest scop realizându-se şi analize tehnice de detaliu; 
+v) Metodologia de dezvoltare a sistemului de evidenţă contabilă separată respectă 
+cerinţele prevăzute în prezenta decizie; 
+b)	auditorul va comunica atât conducerii CNPR, cât şi ANCOM problemele de audit de interes în legătură cu respectarea obligaţiilor impuse de ANCOM în sarcina CNPR, prin transmiterea, odată cu raportul de audit, a unui raport referitor la deficienţele de elaborare şi implementare ale Metodologiei, împreună cu modalităţile de soluţionare a acestora; 
+c)	raportul de audit va fi publicat pe pagina de internet a CNPR împreună cu declaraţia prevăzută la art. 4 alin. (2) şi va fi transmis ANCOM odată cu transmiterea, în condiţiile art. 21 alin. (3) din Decizia preşedintelui Autorităţii Naţionale pentru Administrare şi Reglementare în Comunicaţii nr. 293/2009, a situaţiilor financiare separate; 
+d)	auditorul îşi va asuma obligaţia de a răspunde la solicitările de informaţii formulate 
+de ANCOM în vederea înţelegerii depline a concluziilor raportului de audit; 
+e)	auditorul va întocmi şi va transmite scrisoarea către conducere atât către CNPR, cât şi către ANCOM. Scrisoarea va menţiona toate deficienţele semnificative observate de către auditor şi va include, în mod specific, prezentarea în mod detaliat a modului în care a fost verificată respectarea principiului cauzalităţii în alocarea costurilor, veniturilor, activelor şi datoriilor CNPR şi dacă, în opinia sa, există aspecte de natură să influenţeze alocarea fidelă pe servicii individuale, segmente de afaceri şi centre de cost a acestora. 
+ 
+ Art. 7. – (1) Auditorul va urmări respectarea principiului cauzalităţii prin verificarea cel puţin a îndeplinirii cerinţelor prevăzute la art. 5.  
+(2) În vederea verificării respectării cerinţelor prevăzute la art. 5 lit. g) auditorul va acorda o atenţie deosebită certificării acurateţei informaţiilor privind numărul trimiterilor poştale, urmând să verifice suplimentar, dacă este cazul, estimările numărului de trimiteri rezultate în baza sistemului de eşantionare, prin utilizarea unor informaţii operaţionale independente de acest sistem. 
+ 	 
+ Art. 8. – În ceea ce priveşte respectarea principiului obiectivităţii, auditorul va urmări dacă alocarea costurilor, veniturilor, activelor şi datoriilor pe servicii şi pe centre de cost este obiectivă şi nu urmăreşte obţinerea de beneficii pentru CNPR sau pentru un terţ, pentru un produs ori serviciu sau pentru o categorie de produse ori servicii. 
+ 
+ Art. 9. – În ceea ce priveşte respectarea principiului consistenţei tratamentului contabil, auditorul va urmări ca, în măsura în care apar modificări ale principiilor contabile, ale metodologiei de alocare a costurilor sau ale politicilor contabile, de natură să genereze un efect semnificativ asupra informaţiilor raportate în situaţiile financiare separate curente elaborate pe baza sistemului de evidenţă contabilă separată, situaţiile financiare separate ale anului precedent să fie retratate în conformitate cu modificările respective. Efectul modificărilor menţionate asupra informaţiilor raportate în situaţiile financiare separate este considerat a fi semnificativ dacă omisiunea prezentării sau prezentarea eronată a acestor modificări ar putea să influenţeze deciziile economice ale utilizatorilor, luate pe baza situaţiilor financiare separate elaborate pe baza sistemului de evidenţă contabilă separată. 
+ 	 
+ Art. 10. – În ceea ce priveşte respectarea principiului transparenţei, auditorul va urmări ca principiile, politicile contabile şi metodologia utilizate pentru alocarea costurilor, veniturilor, activelor şi datoriilor să permită o înţelegere clară atât a modului în care acestea au fost aplicate, cât şi a efectelor pe care le au asupra situaţiilor financiare separate. Auditorul va certifica măsura în care informaţiile prezentate în situaţiile financiare separate permit înţelegerea acestora de către utilizatori, prin asigurarea transparenţei cu privire la prezentarea, interpretarea şi fundamentarea informaţiilor prezentate. 
+ 	 
+ 	Art. 11. – (1) În vederea selectării auditorului, CNPR va aplica următoarele principii: 
+a)	se va utiliza o procedură de selecţie comparativă sau competitivă, cu participare 
+internă şi/sau internaţională; 
+b)	participanţii la procedura de selecţie nu trebuie să aibă nicio legătură de proprietate 
+sau control cu CNPR; 
+c)	participanţii la procedura de selecţie trebuie să facă dovada experienţei anterioare în domeniul prestării serviciilor de audit al situaţiilor financiare separate astfel încât, pe baza resurselor şi a experienţei auditorului, să se asigure un nivel calitativ ridicat al auditului situaţiilor financiare separate. 
+(2) CNPR va comunica ANCOM datele de identificare ale auditorului selectat în termen de 10 zile de la semnarea contractului.  
+ 	 
+ Art. 12. – (1) CNPR îndeplineşte cerinţele prevăzute de prezenta decizie privind alocarea cheltuielilor şi veniturilor pe centre de cost, doar în situaţia în care solicită compensarea costului net determinat de furnizarea, după 1 ianuarie 2013, a serviciilor din sfera serviciului universal pentru care a fost desemnată.    
+(2)	CNPR va realiza şi va transmite ANCOM situaţiile financiare separate pentru exerciţiul financiar care se încheie la data de 31 decembrie 2012, până la data de 30 noiembrie 2013. 
+(3)	Pentru exerciţiul financiar aferent anului 2013, CNPR va realiza şi va transmite ANCOM situaţiile financiare separate până la data de 1 iulie 2014. 
+ 
+ 	Art.13.  Anexele nr. 1–7 fac parte integrantă din prezenta decizie. 
+ 
+ Art.14. – (1) Prezenta decizie se comunică CNPR şi produce efecte de la data comunicării.  
+(2) Decizia preşedintelui Autorităţii Naţionale pentru Reglementare în Comunicaţii nr. 1.480/EI/2005 privind condiţiile de întocmire şi auditare a situaţiilor financiare separate de către Compania Naţională Poşta Română S.A., cu modificările şi completările ulterioare, îşi încetează aplicabilitatea de la data comunicării prezentei decizii. 
+ 
+ 	 
+ 
+ 
+PREŞEDINTE, MARIUS CĂTĂLIN MARINESCU 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bucureşti, 3 decembrie 2012 

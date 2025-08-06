@@ -1,0 +1,3 @@
+Caută Cod poștal
+
+Aici găsiți cea mai completă bază de date și cele mai bune motoare de căutare pentru codurile poștale din România, actualizate periodic. Puteți căuta un cod poștal în funcție de adresă, sau puteți căuta o adresă după codul poștal. In rezultate se va afișa întotdeauna și oficiul poștal care deservește codul respectiv.  Pentru o prelucrare şi sortare eficiente vă recomandăm să scrieți de fiecare dată codul poștal la adresa https://www.posta-romana.ro/cauta-cod-postal.html . 

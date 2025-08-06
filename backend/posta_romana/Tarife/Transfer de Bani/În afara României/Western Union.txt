@@ -1,0 +1,11 @@
+Western Union
+
+Comisioanele aferente trimiterilor de bani Western Union
+
+Plata sumei se poate efectua în funcţie de opţiunea clientului în EURO sau LEI la cursul de schimb folosit de firma Western Union valabil în momentul plăţii;
+
+Plata se poate efectua şi mixt, respectiv fracţiile de până la 4,99 EURO se pot achita şi în lei la cursul Banc Post din ziua achitării;
+
+Tranzacţiile care au suma în moneda (EURO sau LEI) fixată de către expeditor, se achită numai în acea moneda (EURO sau LEI);
+
+Suma maximă ce se poate achita printr-un transfer este echivalentul a 5.000 USD în EURO sau LEI.
