@@ -8,53 +8,27 @@ function App() {
   const [loading, setLoading] = useState(false);
   const chatEndRef = useRef(null);
 
-<<<<<<< HEAD
   // Initialize session and load history
-=======
-  // Setează un session_id unic dacă nu există deja
->>>>>>> 94ddae98afdebfa829d3bbe77ebe44d667258306
   useEffect(() => {
     if (!localStorage.getItem('session_id')) {
       localStorage.setItem('session_id', crypto.randomUUID());
     }
-<<<<<<< HEAD
     
-=======
-  }, []);
-
-  // Încărcare istoric din localStorage
-  useEffect(() => {
->>>>>>> 94ddae98afdebfa829d3bbe77ebe44d667258306
     const savedHistory = localStorage.getItem('posta_chat_history');
     if (savedHistory) {
       try {
         setMessages(JSON.parse(savedHistory));
       } catch (e) {
-<<<<<<< HEAD
         console.error("Error loading history:", e);
-=======
-        console.error("Eroare la încărcarea istoricului:", e);
->>>>>>> 94ddae98afdebfa829d3bbe77ebe44d667258306
       }
     }
   }, []);
 
-<<<<<<< HEAD
   // Save history and auto-scroll
-=======
-  // Salvarea istoricului
->>>>>>> 94ddae98afdebfa829d3bbe77ebe44d667258306
   useEffect(() => {
     if (messages.length > 0) {
       localStorage.setItem('posta_chat_history', JSON.stringify(messages));
     }
-<<<<<<< HEAD
-=======
-  }, [messages]);
-
-  // Scroll automat la mesaje noi
-  useEffect(() => {
->>>>>>> 94ddae98afdebfa829d3bbe77ebe44d667258306
     scrollToBottom();
   }, [messages]);
 
@@ -62,8 +36,6 @@ function App() {
     chatEndRef.current?.scrollIntoView({ behavior: 'smooth' });
   };
 
-<<<<<<< HEAD
-=======
   const cleanText = (text) => {
     if (!text) return '';
     return text
@@ -72,7 +44,6 @@ function App() {
       .replace(/(https?:\/\/[^\s]+)\)\(https?:\/\/[^\s]+\)/g, '$1');
   };
 
->>>>>>> 94ddae98afdebfa829d3bbe77ebe44d667258306
   const handleSend = async () => {
     if (!question.trim() || loading) return;
 
@@ -90,7 +61,6 @@ function App() {
     try {
       const response = await fetch('http://localhost:5000/chat', {
         method: 'POST',
-<<<<<<< HEAD
         headers: { 
           'Content-Type': 'application/json',
           'Accept': 'application/json'
@@ -106,35 +76,17 @@ function App() {
       }
 
       const data = await response.json();
+      const cleanedAnswer = cleanText(data.answer);
       
       const botMessage = {
         id: Date.now() + 1,
         role: 'bot',
-        text: data.answer,
-=======
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          question,
-          session_id: localStorage.getItem('session_id')  // trimite ID-ul sesiunii
-        })
-      });
-
-      if (!response.ok) throw new Error('Eroare server');
-
-      const data = await response.json();
-      const cleanedAnswer = cleanText(data.answer);
-
-      const botMessage = {
-        id: Date.now() + 1,
-        role: 'bot',
         text: cleanedAnswer,
->>>>>>> 94ddae98afdebfa829d3bbe77ebe44d667258306
         timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
       };
 
       setMessages(prev => [...prev, botMessage]);
     } catch (error) {
-<<<<<<< HEAD
       console.error('API Error:', error);
       setMessages(prev => [...prev, {
         id: Date.now() + 1,
@@ -142,16 +94,6 @@ function App() {
         text: '⚠️ Eroare la comunicare cu serverul. Încercați din nou.',
         timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
       }]);
-=======
-      const errorMessage = {
-        id: Date.now() + 1,
-        role: 'bot',
-        text: '⚠️ Eroare la conectare cu serverul. Vă rugăm încercați mai târziu.',
-        timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
-      };
-      setMessages(prev => [...prev, errorMessage]);
-      console.error('Eroare API:', error);
->>>>>>> 94ddae98afdebfa829d3bbe77ebe44d667258306
     } finally {
       setLoading(false);
     }
@@ -165,19 +107,7 @@ function App() {
 
   const formatText = (text) => {
     if (!text) return null;
-<<<<<<< HEAD
-    return text.split('\n').map((paragraph, i) => (
-      <p key={i}>{paragraph}</p>
-    ));
-  };
-
-  const commonQuestions = [
-    "Care sunt orele de funcționare?",
-    "Cum trimit un colet urgent?",
-    "Ce documente sunt necesare pentru un plic recomandat?",
-    "Cum pot urmări un colet?"
-=======
-
+    
     return text.split('\n').map((paragraph, i) => {
       if (paragraph.includes("Nu am găsit un răspuns clar")) {
         return (
@@ -209,7 +139,6 @@ function App() {
     { text: "Cum trimit un colet urgent?", details: "tarife și timpi de livrare" },
     { text: "Ce documente sunt necesare pentru un plic recomandat?", details: "acte de identitate necesare" },
     { text: "Cum pot urmări un colet?", details: "folosind numărul de tracking" }
->>>>>>> 94ddae98afdebfa829d3bbe77ebe44d667258306
   ];
 
   const resetConversation = () => {
@@ -242,16 +171,10 @@ function App() {
                   <button
                     key={i}
                     className="question-chip"
-<<<<<<< HEAD
-                    onClick={() => setQuestion(q)}
-                  >
-                    {q}
-=======
                     onClick={() => setQuestion(q.text)}
                   >
                     <div className="question-text">{q.text}</div>
                     <div className="question-details">{q.details}</div>
->>>>>>> 94ddae98afdebfa829d3bbe77ebe44d667258306
                   </button>
                 ))}
               </div>
@@ -259,7 +182,7 @@ function App() {
           </div>
         ) : (
           <div className="messages-list">
-<<<<<<< HEAD
+            <h4 className="continue-label">Puteți continua conversația în același fir 🧠</h4>
             {messages.map((msg) => (
               <div key={msg.id} className={`message ${msg.role}`}>
                 <div className="message-header">
@@ -271,16 +194,6 @@ function App() {
                 <div className="message-content">
                   {formatText(msg.text)}
                 </div>
-=======
-            <h4 className="continue-label">Puteți continua conversația în același fir 🧠</h4>
-            {messages.map((msg) => (
-              <div key={msg.id} className={`message ${msg.role}`}>
-                <div className="message-header">
-                  <span className="sender">{msg.role === 'bot' ? 'PoștaBot' : 'Dvs.'}</span>
-                  <span className="timestamp">{msg.timestamp}</span>
-                </div>
-                <div className="message-content">{formatText(msg.text)}</div>
->>>>>>> 94ddae98afdebfa829d3bbe77ebe44d667258306
               </div>
             ))}
             <div ref={chatEndRef} />
@@ -297,24 +210,15 @@ function App() {
           onKeyDown={handleKeyDown}
           disabled={loading}
         />
-<<<<<<< HEAD
         <button 
           onClick={handleSend} 
           disabled={loading || !question.trim()}
         >
-          {loading ? 'Se încarcă...' : 'Trimite'}
-=======
-        <button onClick={handleSend} disabled={loading || !question.trim()}>
           {loading ? <span className="loading-spinner"></span> : 'Trimite'}
->>>>>>> 94ddae98afdebfa829d3bbe77ebe44d667258306
         </button>
       </footer>
     </div>
   );
 }
 
-<<<<<<< HEAD
 export default App;
-=======
-export default App;
->>>>>>> 94ddae98afdebfa829d3bbe77ebe44d667258306
