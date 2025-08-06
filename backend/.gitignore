@@ -1,0 +1,34 @@
+# -----------------------------
+# 🔧 GENERAL / SISTEM
+.DS_Store
+*.sw?
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# -----------------------------
+# 🌍 ENVIRONMENTS
+.env
+.env.local
+venv/
+
+# -----------------------------
+# ⚙️ PYTHON
+__pycache__/
+*.pyc
+*.pkl
+*.log
+*.faiss
+
+# -----------------------------
+# 📦 NODE / FRONTEND
+node_modules/
+dist/
+dist-ssr/
+
+# -----------------------------
+# 📓 EDITOR CONFIGS
+.vscode/
+!.vscode/extensions.json
+.idea/
