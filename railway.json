@@ -1,4 +1,8 @@
 {
-  "build": "cd backend && pip install -r requirements.txt",
+  "build": {
+    "commands": [
+      "cd backend && pip install -r requirements.txt"
+    ]
+  },
   "start": "python backend/app.py"
 }
