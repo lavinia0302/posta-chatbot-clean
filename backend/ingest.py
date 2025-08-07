@@ -7,11 +7,16 @@ from datetime import datetime
 from multiprocessing import Pool, cpu_count
 from tqdm import tqdm
 import shutil
+
+# LangChain
 from langchain_community.vectorstores import FAISS
-from langchain_huggingface import HuggingFaceEmbeddings  # Actualizat la noua importare
 from langchain_community.document_loaders import TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from functools import partial
+from langchain.embeddings import HuggingFaceEmbeddings  # ✅ DOAR această linie pentru embeddings
+
+
+ # ✅ CORECT
+
 
 # Configurare logging
 logging.basicConfig(

@@ -4,75 +4,44 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-<<<<<<< HEAD
-
-# Runtime data
-*.pid
-*.seed
-
-# Dependințe
-node_modules/
-
-# Mediu
-.env
-.env*.local
-.env.backup
-
-# Build
-dist/
-dist-ssr/
-
-# Editor
-.vscode/
-.idea/
-=======
 pnpm-debug.log*
 lerna-debug.log*
 
+# node / vite / build
 node_modules
 dist
 dist-ssr
 *.local
 
-# Editor directories and files
+# VS Code / editori
 .vscode/*
 !.vscode/extensions.json
 .idea
 .DS_Store
->>>>>>> 94ddae98afdebfa829d3bbe77ebe44d667258306
+Thumbs.db
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
-<<<<<<< HEAD
-
-# Sistem
-.DS_Store
-Thumbs.db
 
 # Backend Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 *.sqlite3
-api_costs.xlsx
 
-# Testare
+# Mediu virtual Python
+venv/
+site-packages/
+
+# Fișiere de test
 coverage/
 .nyc_output/
 
-# Mediu virtual Python
-# Mediu virtual Python
-# Mediu virtual Python
-venv/
-
-# Fișiere Python temporare
+# Fișiere de lucru local
+api_costs.xlsx
+/venv/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# Dependințe
-site-packages/
-=======
->>>>>>> 94ddae98afdebfa829d3bbe77ebe44d667258306
