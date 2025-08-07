@@ -211,7 +211,7 @@ def save_costs():
     save_to_excel()
     return jsonify({"status": "success"})
 
-app.route('/healthz')
+@app.route('/healthz')
 def healthz():
     return "OK", 200
 
