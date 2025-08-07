@@ -18,7 +18,10 @@ from langchain.chains.llm import LLMChain
 from langchain_community.callbacks import get_openai_callback
 
 # Configurație
-load_dotenv()
+from pathlib import Path
+dotenv_path = Path("/etc/secrets/.env")
+load_dotenv(dotenv_path)
+
 app = Flask(__name__)
 CORS(app, resources={r"/chat": {"origins": os.getenv('ALLOWED_ORIGINS', '*')}})
 app.secret_key = os.getenv('FLASK_SECRET_KEY', 'fallback-secret-key')
