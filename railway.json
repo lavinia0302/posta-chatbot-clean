@@ -1,5 +1,10 @@
 {
   "build": {
-    "root": "backend"
+    "env": {
+      "PYTHON_VERSION": "3.10"
+    },
+    "builder": "NIXPACKS",
+    "buildCommand": "cd backend && pip install -r requirements.txt",
+    "startCommand": "cd backend && python app.py"
   }
 }
