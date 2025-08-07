@@ -211,5 +211,9 @@ def save_costs():
     save_to_excel()
     return jsonify({"status": "success"})
 
+app.route('/healthz')
+def healthz():
+    return "OK", 200
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000, debug=os.getenv('FLASK_DEBUG', 'false').lower() == 'true')
